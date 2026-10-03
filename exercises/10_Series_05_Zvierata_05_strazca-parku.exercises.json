@@ -246,6 +246,28 @@
         "Prečo?",
         "Dovidenia, deti!"
       ]
+    },
+    {
+      "id": "listen-ty-si-mil-l-ka",
+      "type": "listen",
+      "l1": "Tu es un gentil renard !",
+      "l2": "Ty si milá líška!",
+      "choices_l1": [
+        "Tu es une gentille hase !",
+        "Je suis un gentil renard !",
+        "Tu es un gentil ours !"
+      ]
+    },
+    {
+      "id": "listen-akujem-ty-si-mil-zaja-ica",
+      "type": "listen",
+      "l1": "Merci ! Tu es une gentille hase !",
+      "l2": "Ďakujem! Ty si milá zajačica!",
+      "choices_l1": [
+        "Merci ! Tu es un gentil renard !",
+        "Salut ! Tu es une gentille hase !",
+        "Merci ! Je suis une gentille hase !"
+      ]
     }
   ]
 }

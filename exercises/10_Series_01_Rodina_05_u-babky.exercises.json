@@ -150,14 +150,14 @@
       ]
     },
     {
-      "id": "listen-nie-l-ka-je-ve-mi-mil",
+      "id": "listen-b-la-som-sa-ale-l-ka-je-ve-mi-mil",
       "type": "listen",
-      "l1": "Mais non ! Le renard est très gentil !",
-      "l2": "Nie! Líška je veľmi milá!",
+      "l1": "J'avais peur ! Mais le renard est très gentil !",
+      "l2": "Bála som sa! Ale líška je veľmi milá!",
       "choices_l1": [
-        "Mais oui ! Le renard est très gentil !",
-        "Mais non ! Le renard est très petit !",
-        "Mais non ! Ma sœur est très gentille !"
+        "J'ai peur ! Mais le renard est très gentil !",
+        "J'avais peur ! Mais le renard est très petit !",
+        "J'avais peur ! Mais ma sœur est très gentille !"
       ]
     },
     {
@@ -292,13 +292,13 @@
       "l1": [
         "Oh ! C'est un renard !",
         "J'ai peur !",
-        "Mais non ! Le renard est très gentil !",
+        "J'avais peur ! Mais le renard est très gentil !",
         "Merci, Andrea !"
       ],
       "l2": [
         "Ach! To je líška!",
         "Bojím sa!",
-        "Nie! Líška je veľmi milá!",
+        "Bála som sa! Ale líška je veľmi milá!",
         "Ďakujem, Andrea!"
       ]
     }

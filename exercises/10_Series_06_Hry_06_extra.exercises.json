@@ -3,256 +3,170 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "listen-hr-me-sa-na-skr-va-ku-kto-je-na-rade",
-      "type": "listen",
-      "l1": "On joue à cache-cache. C'est à qui ?",
-      "l2": "Hráme sa na skrývačku. Kto je na rade?",
+      "id": "qcm-hrame-sa-na-skryvacku-kto-je-na-rade",
+      "type": "qcm",
+      "l1": "On joue à cache-cache ! C'est à qui ?",
+      "l2": "Hráme sa na skrývačku! Kto je na rade?",
       "choices_l1": [
-        "On joue au chat. C'est à qui ?",
-        "On joue à cache-cache. C'est mon tour.",
-        "Je joue à cache-cache. C'est à qui ?"
+        "On joue au ballon ! C'est à qui ?",
+        "On joue à cache-cache ! Où es-tu ?",
+        "On joue à cache-cache ! Je gagne !"
+      ],
+      "choices_l2": [
+        "Hráme sa s loptou! Kto je na rade?",
+        "Hráme sa na skrývačku! Kde si?",
+        "Hráme sa na skrývačku! Vyhrávam!"
       ]
     },
     {
-      "id": "listen-ja-som-na-rade-po-tam-jeden-dva-tri",
+      "id": "qcm-mozem-sa-hrat",
+      "type": "qcm",
+      "l1": "Je peux jouer ?",
+      "l2": "Môžem sa hrať?",
+      "choices_l1": [
+        "Je peux aller ?",
+        "Je ne peux pas jouer.",
+        "On peut jouer ?"
+      ],
+      "choices_l2": [
+        "Môžem ísť?",
+        "Nemôžem sa hrať.",
+        "Môžeme sa hrať?"
+      ]
+    },
+    {
+      "id": "listen-ja-som-na-rade-pocitam-jeden-dva-tri",
       "type": "listen",
       "l1": "C'est mon tour. Je compte : un, deux, trois !",
       "l2": "Ja som na rade. Počítam: jeden, dva, tri!",
       "choices_l1": [
         "C'est ton tour. Je compte : un, deux, trois !",
-        "C'est mon tour. Je compte : deux, trois, quatre !",
+        "C'est mon tour. Je compte : trois, deux, un !",
         "C'est mon tour. Je cherche : un, deux, trois !"
       ]
     },
     {
-      "id": "listen-idem-h-ada-kde-si-katka",
+      "id": "listen-idem-hladat-kde-si-katka",
       "type": "listen",
       "l1": "Je vais chercher ! Où es-tu, Katka ?",
       "l2": "Idem hľadať! Kde si, Katka?",
       "choices_l1": [
-        "Je vais compter ! Où es-tu, Katka ?",
+        "Je vais jouer ! Où es-tu, Katka ?",
         "Je vais chercher ! Où es-tu, Maťo ?",
-        "Je vais chercher ! Où habites-tu, Katka ?"
+        "Je vais compter ! Où es-tu, Katka ?"
       ]
     },
     {
-      "id": "listen-tu-som-m-m-a",
+      "id": "listen-hrame-sa-na-luke-nie-tu",
       "type": "listen",
-      "l1": "Me voici ! – Je t'ai trouvé(e) !",
-      "l2": "Tu som! – Mám ťa!",
+      "l1": "On joue dans la prairie, pas ici !",
+      "l2": "Hráme sa na lúke, nie tu!",
       "choices_l1": [
-        "Où es-tu ? – Je t'ai trouvé(e) !",
-        "Me voici ! – Je ne te vois pas !",
-        "Me voici ! – Encore une fois !"
+        "On joue ici, pas dans la prairie !",
+        "On joue dans la prairie, pas là-bas !",
+        "On ne peut pas jouer dans la prairie !"
       ]
     },
     {
-      "id": "listen-m-em-sa-hra-s-loptou-no-m-e",
+      "id": "listen-vyhravam-ty-prehravas",
       "type": "listen",
-      "l1": "Je peux jouer avec le ballon ? Oui, tu peux.",
-      "l2": "Môžem sa hrať s loptou? Áno, môžeš.",
+      "l1": "Je gagne ! Tu perds !",
+      "l2": "Vyhrávam! Ty prehrávaš!",
       "choices_l1": [
-        "Je peux jouer au chat ? Oui, tu peux.",
-        "Je peux jouer avec le ballon ? Non, tu ne peux pas.",
-        "Tu peux jouer avec le ballon ? Oui, tu peux."
+        "Je perds ! Tu gagnes !",
+        "Je gagne ! Tu comptes !",
+        "On gagne ! Tu perds !"
       ]
     },
     {
-      "id": "listen-tu-sa-nem-eme-hra-ale-tam-sa-m-eme-hra",
-      "type": "listen",
-      "l1": "Ici, on ne peut pas jouer, mais là-bas, on peut jouer.",
-      "l2": "Tu sa nemôžeme hrať, ale tam sa môžeme hrať.",
-      "choices_l1": [
-        "Ici, on peut jouer, mais là-bas, on ne peut pas jouer.",
-        "Ici, on ne peut pas jouer, mais là-bas, on peut aller.",
-        "Ici, on ne peut pas aller, mais là-bas, on peut jouer."
-      ]
-    },
-    {
-      "id": "listen-m-em-s-do-dediny-nie-nem-e",
-      "type": "listen",
-      "l1": "Je peux aller au village ? Non, tu ne peux pas.",
-      "l2": "Môžem ísť do dediny? Nie, nemôžeš.",
-      "choices_l1": [
-        "Je peux aller au village ? Oui, tu peux.",
-        "Je peux aller au magasin ? Non, tu ne peux pas.",
-        "Tu peux aller au village ? Non, tu ne peux pas."
-      ]
-    },
-    {
-      "id": "listen-vyhr-vam-ty-prehr-va-to-je-z-bava",
-      "type": "listen",
-      "l1": "Je gagne ! Tu perds ! C'est amusant !",
-      "l2": "Vyhrávam! Ty prehrávaš! To je zábava!",
-      "choices_l1": [
-        "Je perds ! Tu gagnes ! C'est amusant !",
-        "Je gagne ! Tu perds ! C'est cher !",
-        "Tu gagnes ! Tu perds ! C'est amusant !"
-      ]
-    },
-    {
-      "id": "listen-prehr-vam-ale-nevad-e-te-raz",
+      "id": "listen-prehravam-ale-nevadi-este-raz",
       "type": "listen",
       "l1": "Je perds, mais pas de souci. Encore une fois !",
       "l2": "Prehrávam, ale nevadí. Ešte raz!",
       "choices_l1": [
         "Je gagne, mais pas de souci. Encore une fois !",
-        "Je perds, mais pas de souci. Bien joué !",
-        "Tu perds, mais pas de souci. Encore une fois !"
+        "Je perds, mais pas de souci. Hourra !",
+        "Je perds, mais pas de souci. Bien joué !"
       ]
     },
     {
-      "id": "listen-hr-me-sa-na-l-ke-nie-tu",
+      "id": "listen-tu-som-na-strome",
       "type": "listen",
-      "l1": "On joue dans la prairie, pas ici.",
-      "l2": "Hráme sa na lúke, nie tu.",
+      "l1": "Me voici, dans l'arbre !",
+      "l2": "Tu som, na strome!",
       "choices_l1": [
-        "On joue ici, pas dans la prairie.",
-        "On joue dans la prairie, pas au village.",
-        "Je joue dans la prairie, pas ici."
+        "Me voici, dans la prairie !",
+        "Où es-tu, dans l'arbre ?",
+        "Me voici, avec le ballon !"
       ]
     },
     {
-      "id": "listen-m-m-hlad-ale-hr-me-sa-spolu",
-      "type": "listen",
-      "l1": "J'ai faim, mais on joue ensemble !",
-      "l2": "Mám hlad, ale hráme sa spolu!",
-      "choices_l1": [
-        "J'ai soif, mais on joue ensemble !",
-        "J'ai faim, mais je joue ensemble !",
-        "J'ai faim, et on joue ensemble !"
-      ]
-    },
-    {
-      "id": "listen-nevid-m-a-kde-si-tu-som",
-      "type": "listen",
-      "l1": "Je ne te vois pas. Où es-tu ? Me voici !",
-      "l2": "Nevidím ťa. Kde si? Tu som!",
-      "choices_l1": [
-        "Je t'ai trouvé(e). Où es-tu ? Me voici !",
-        "Je ne te vois pas. Où vas-tu ? Me voici !",
-        "Je ne te vois pas. Où es-tu ? Encore une fois !"
-      ]
-    },
-    {
-      "id": "blank-m-em-s-do-dediny-nie-nem-e",
+      "id": "blank-mozem-sa-hrat",
       "type": "fill-blank",
-      "l1": "Je peux aller au village ? Non, tu ne peux pas.",
-      "l2": "Môžem ísť do dediny? Nie, nemôžeš.",
-      "missing_l1": "village",
-      "missing_l2": "dediny",
-      "blank_index_l1": 4,
-      "blank_index_l2": 3,
+      "l1": "Je peux jouer ?",
+      "l2": "Môžem sa hrať?",
+      "missing_l1": "peux",
+      "missing_l2": "Môžem",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
       "choices_l1": [
-        "magasin",
-        "boulangerie",
-        "ville"
+        "gagne",
+        "perds",
+        "compte"
       ],
       "choices_l2": [
-        "obchodu",
-        "pekárne",
-        "mesta"
+        "Vyhrávam",
+        "Prehrávam",
+        "Počítam"
       ],
       "show_translation": true
     },
     {
-      "id": "order-prehr-vam-ale-nevad-e-te-raz",
+      "id": "order-hrame-sa-na-luke-nie-tu",
       "type": "order",
-      "l1": "Je perds, mais pas de souci. Encore une fois !",
-      "l2": "Prehrávam, ale nevadí. Ešte raz!",
-      "tokens_l1": [
-        "Je perds,",
-        "mais pas de souci.",
-        "Encore",
-        "une fois !"
-      ],
-      "tokens_l2": [
-        "Prehrávam,",
-        "ale nevadí.",
-        "Ešte",
-        "raz!"
-      ]
-    },
-    {
-      "id": "order-hr-me-sa-na-l-ke-nie-tu",
-      "type": "order",
-      "l1": "On joue dans la prairie, pas ici.",
-      "l2": "Hráme sa na lúke, nie tu.",
+      "l1": "On joue dans la prairie, pas ici !",
+      "l2": "Hráme sa na lúke, nie tu!",
       "tokens_l1": [
         "On joue",
         "dans la prairie,",
-        "pas",
-        "ici."
+        "pas ici !"
       ],
       "tokens_l2": [
         "Hráme sa",
         "na lúke,",
-        "nie",
-        "tu."
+        "nie tu!"
       ]
     },
     {
-      "id": "order-nevid-m-a-kde-si-tu-som",
-      "type": "order",
-      "l1": "Je ne te vois pas. Où es-tu ? Me voici !",
-      "l2": "Nevidím ťa. Kde si? Tu som!",
-      "tokens_l1": [
-        "Je ne te vois pas.",
-        "Où es-tu ?",
-        "Me voici !"
-      ],
-      "tokens_l2": [
-        "Nevidím ťa.",
-        "Kde si?",
-        "Tu som!"
-      ]
-    },
-    {
-      "id": "match-hra",
+      "id": "match-lopta",
       "type": "match",
       "l1": [
-        "le jeu",
         "le ballon",
+        "le jeu",
         "la prairie",
         "l'arbre"
       ],
       "l2": [
-        "hra",
         "lopta",
+        "hra",
         "lúka",
         "strom"
       ]
     },
     {
-      "id": "match-m-em",
+      "id": "match-vyhravam",
       "type": "match",
       "l1": [
-        "je peux",
-        "je ne peux pas",
         "je gagne",
-        "je perds"
+        "je perds",
+        "je peux",
+        "je compte"
       ],
       "l2": [
-        "môžem",
-        "nemôžem",
         "vyhrávam",
-        "prehrávam"
-      ]
-    },
-    {
-      "id": "match-hr-me-sa-na-skr-va-ku-kto-je-na-rade",
-      "type": "match",
-      "l1": [
-        "On joue à cache-cache. C'est à qui ?",
-        "Je gagne ! Tu perds ! C'est amusant !",
-        "Je ne te vois pas. Où es-tu ? Me voici !",
-        "J'ai faim, mais on joue ensemble !"
-      ],
-      "l2": [
-        "Hráme sa na skrývačku. Kto je na rade?",
-        "Vyhrávam! Ty prehrávaš! To je zábava!",
-        "Nevidím ťa. Kde si? Tu som!",
-        "Mám hlad, ale hráme sa spolu!"
+        "prehrávam",
+        "môžem",
+        "počítam"
       ]
     }
   ]

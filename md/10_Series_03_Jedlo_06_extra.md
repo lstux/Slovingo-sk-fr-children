@@ -2,7 +2,7 @@
 
 @ TODO_img/table-repas-montagne.jpg | TODO : choisir une image (grande table de repas à la chata) sur Wikimedia Commons
 
-{{fr:Pas de mot nouveau ici. On réunit toute la série Jedlo, et on mélange les mots dans de nouvelles phrases !}}
+{{fr:Pas de mot nouveau ici. On réunit toute la série Jedlo, et on mélange les mots dans de petites scènes !}}
 
 ---
 
@@ -49,99 +49,121 @@
 
 ---
 
-## Des phrases pour tout mélanger
+## Des mini-dialogues pour tout mélanger
 
-! Mám hlad. Chcem polievku a chlieb.
-> J'ai faim. Je veux de la soupe et du pain.
+### Scène 1 — Au petit-déjeuner
+
+{{fr:Babka Zuzana prépare le petit-déjeuner pour tout le monde.}}
+
+! 🐑 Na raňajky je chlieb, syr a mlieko.
+> Pour le petit-déjeuner, il y a du pain, du fromage et du lait.
+> Na raňajky = pour le petit-déjeuner
+> je = il y a
+> chlieb, syr a mlieko = du pain, du fromage et du lait
+
+! 🐹 Mám hlad! Chcem chlieb a med.
+> J'ai faim ! Je veux du pain et du miel.
 > Mám hlad = j'ai faim
 > Chcem = je veux
-> polievku a chlieb = de la soupe et du pain
+> chlieb a med = du pain et du miel
 
-! Maťo chce med a Andrea chce mrkvu.
-> Maťo veut du miel et Andrea veut une carotte.
-> Maťo chce = Maťo veut
-> med = du miel
-> a = et
-> Andrea chce = Andrea veut
-> mrkvu = une carotte
-
-! Na raňajky jem chlieb a pijem mlieko.
-> Pour le petit-déjeuner, je mange du pain et je bois du lait.
-> Na raňajky = pour le petit-déjeuner
-> jem chlieb = je mange du pain
-> a = et
-> pijem mlieko = je bois du lait
-
-! Na obed jem polievku, na večeru jem syr.
-> Pour le déjeuner, je mange de la soupe, pour le dîner, je mange du fromage.
-> Na obed = pour le déjeuner
-> jem polievku = je mange de la soupe
-> na večeru = pour le dîner
-> jem syr = je mange du fromage
-
-! Chutí ti jablko? Je sladké.
-> Tu aimes la pomme ? Elle est sucrée.
-> Chutí ti = tu aimes
-> jablko = la pomme
-> Je sladké = elle est sucrée
-
-! Citrón je kyslý, ale chutí mi.
-> Le citron est acide, mais j'aime ça.
-> Citrón je kyslý = le citron est acide
-> ale = mais
-> chutí mi = j'aime
-
-! Nechutí mi mrkva, ale chcem bobule.
-> Je n'aime pas la carotte, mais je veux des baies.
-> Nechutí mi mrkva = je n'aime pas la carotte
-> ale = mais
-> chcem bobule = je veux des baies
-
-! Mám smäd. Pijem vodu aj čaj.
-> J'ai soif. Je bois de l'eau et du thé.
-> Mám smäd = j'ai soif
-> Pijem = je bois
-> vodu aj čaj = de l'eau et du thé
-
-! Chceš hrušku? Chceš jablko?
-> Tu veux une poire ? Tu veux une pomme ?
-> Chceš = tu veux
-> hrušku = une poire
-> jablko = une pomme
-
-! Chcete orechy? Áno, prosím!
-> Vous voulez des noix ? Oui, s'il te plaît !
-> Chcete = vous voulez
-> orechy = des noix
-> Áno, prosím = oui, s'il te plaît
-+ Babka parle à plusieurs enfants ({{chcete}}), mais chaque enfant lui répond en la tutoyant.
-
-! Bryndzové halušky? Áno, prosím!
-> Des halušky à la bryndza ? Oui, s'il te plaît !
-> Bryndzové halušky = des halušky à la bryndza
-> Áno, prosím = oui, s'il te plaît
-
-! Chcem ešte med, prosím.
-> Je veux encore du miel, s'il te plaît.
+! 🐻 Chcem ešte syr, prosím.
+> Je veux encore du fromage, s'il te plaît.
 > Chcem = je veux
 > ešte = encore
-> med = du miel
+> syr = du fromage
 > prosím = s'il te plaît
 
-! Hruška je sladká a polievka je dobrá.
-> La poire est sucrée et la soupe est bonne.
+! 🐑 Chceš mlieko? Chceš čaj?
+> Tu veux du lait ? Tu veux du thé ?
+> Chceš mlieko = tu veux du lait
+> Chceš čaj = tu veux du thé
+
+! 🐻 Pijem čaj a jem jablko.
+> Je bois du thé et je mange une pomme.
+> Pijem čaj = je bois du thé
+> a = et
+> jem jablko = je mange une pomme
+
+---
+
+### Scène 2 — Sucré ou acide ?
+
+{{fr:Les enfants goûtent des fruits. Certains sont sucrés, d'autres acides !}}
+
+! 🐹 Chutí ti citrón?
+> Tu aimes le citron ?
+> Chutí ti = tu aimes
+> citrón = le citron
+
+! 🐻 Nie! Citrón je kyslý. Nechutí mi.
+> Non ! Le citron est acide. Je n'aime pas ça.
+> Nie = non
+> Citrón je kyslý = le citron est acide
+> Nechutí mi = je n'aime pas
+
+! 🐹 Hruška je sladká a dobrá.
+> La poire est sucrée et bonne.
 > Hruška je sladká = la poire est sucrée
 > a = et
-> polievka je dobrá = la soupe est bonne
+> dobrá = bonne
 
-! Mám smäd, ale nechcem mlieko.
-> J'ai soif, mais je ne veux pas de lait.
-> Mám smäd = j'ai soif
+! 🦊 Chutí mi hruška, ale nechutí mi mrkva.
+> J'aime la poire, mais je n'aime pas la carotte.
+> Chutí mi hruška = j'aime la poire
 > ale = mais
-> nechcem mlieko = je ne veux pas de lait
+> nechutí mi mrkva = je n'aime pas la carotte
 
-! Dobrú chuť! Ďakujem, aj tebe!
-> Bon appétit ! Merci, à toi aussi !
+---
+
+### Scène 3 — À table !
+
+{{fr:C'est l'heure du déjeuner. Au menu, un plat typique des montagnes slovaques !}}
+
+! 🐑 Chcete bryndzové halušky?
+> Vous voulez des halušky à la bryndza ?
+> Chcete = vous voulez
+> bryndzové halušky = des halušky à la bryndza
+
+! 🐻 Áno, prosím!
+> Oui, s'il vous plaît !
+> Áno = oui
+> prosím = s'il vous plaît
+
+! 🐑 Ja nechcem. Ja jem jablko.
+> Moi, je n'en veux pas. Moi, je mange une pomme.
+> Ja nechcem = moi, je n'en veux pas
+> Ja jem jablko = moi, je mange une pomme
++ La bryndza, c'est du fromage de brebis… et Babka Zuzana est une brebis ! 😄
+
+! 🐹 Dobrú chuť!
+> Bon appétit !
 > Dobrú chuť = bon appétit
+
+! 🦊 Ďakujem, aj tebe!
+> Merci, à toi aussi !
 > Ďakujem = merci
 > aj tebe = à toi aussi
+
+---
+
+### Scène 4 — Le soir
+
+{{fr:La journée se termine par un bon repas.}}
+
+! 🐻 Mám smäd. Chcem vodu.
+> J'ai soif. Je veux de l'eau.
+> Mám smäd = j'ai soif
+> Chcem = je veux
+> vodu = de l'eau
+
+! 🐑 Na večeru je polievka.
+> Pour le dîner, il y a de la soupe.
+> Na večeru = pour le dîner
+> je polievka = il y a de la soupe
+
+! 🐹 Výborné! Chcem ešte, prosím!
+> Délicieux ! J'en veux encore, s'il te plaît !
+> Výborné = délicieux
+> Chcem ešte = j'en veux encore
+> prosím = s'il te plaît

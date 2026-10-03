@@ -2,7 +2,7 @@
 
 @ TODO_img/panorama-village.jpg | TODO : choisir une image (panorama d'un village au pied des Tatras) sur Wikimedia Commons
 
-{{fr:Pas de mot nouveau ici. On réunit toute la série Dedina, et on mélange les mots dans de nouvelles phrases !}}
+{{fr:Pas de mot nouveau ici. On réunit toute la série Dedina, et on mélange les mots dans de petites scènes !}}
 
 ---
 
@@ -43,98 +43,121 @@
 
 ---
 
-## Des phrases pour tout mélanger
+## Des mini-dialogues pour tout mélanger
 
-! Kam ideš? Idem do obchodu.
-> Où vas-tu ? Je vais au magasin.
+### Scène 1 — Direction la boulangerie
+
+{{fr:Katka et Maťo se retrouvent dans le village.}}
+
+! 🐹 Kam ideš, Maťo?
+> Où vas-tu, Maťo ?
 > Kam ideš = où vas-tu
+> Maťo = Maťo
+
+! 🐻 Idem do pekárne. Mám hlad.
+> Je vais à la boulangerie. J'ai faim.
 > Idem = je vais
-> do obchodu = au magasin
-
-! Katka ide do pekárne a Maťo ide do mesta.
-> Katka va à la boulangerie et Maťo va en ville.
-> Katka ide = Katka va
 > do pekárne = à la boulangerie
-> a = et
-> Maťo ide = Maťo va
-> do mesta = en ville
+> Mám hlad = j'ai faim
 
-! Bývam v nore a idem do dediny.
-> J'habite dans un terrier et je vais au village.
-> Bývam v nore = j'habite dans un terrier
-> a = et
-> idem do dediny = je vais au village
-
-! Koľko stojí chlieb? Chlieb stojí dve eurá.
-> Combien coûte le pain ? Le pain coûte deux euros.
-> Koľko stojí = combien coûte
-> chlieb = le pain
-> Chlieb stojí = le pain coûte
-> dve eurá = deux euros
-
-! Med stojí päť eur. To je drahé!
-> Le miel coûte cinq euros. C'est cher !
-> Med stojí = le miel coûte
-> päť eur = cinq euros
-> To je drahé = c'est cher
-
-! Mlieko je lacné. Prosím si mlieko.
-> Le lait n'est pas cher. Je voudrais du lait.
-> Mlieko je lacné = le lait n'est pas cher
-> Prosím si = je voudrais
-> mlieko = du lait
-
-! Počkaj, Andrea! Aj ja idem!
-> Attends, Andrea ! Moi aussi, j'y vais !
+! 🐹 Počkaj! Aj ja idem!
+> Attends ! Moi aussi, j'y vais !
 > Počkaj = attends
 > Aj ja = moi aussi
 > idem = je vais
 
-! Pozri, to je pekáreň! Poď rýchlo!
-> Regarde, c'est une boulangerie ! Viens vite !
+! 🐻 Poď sem! Pozri, to je pekáreň!
+> Viens ici ! Regarde, c'est la boulangerie !
+> Poď sem = viens ici
 > Pozri = regarde
-> to je pekáreň = c'est une boulangerie
-> Poď rýchlo = viens vite
+> to je pekáreň = c'est la boulangerie
 
-! Dobrý deň, pán Orol! Máte jablko?
-> Bonjour, Monsieur Orol ! Vous avez une pomme ?
-> Dobrý deň = bonjour
-> pán Orol = Monsieur Orol
-> Máte jablko = vous avez une pomme
+---
 
-! Ahoj, Katka! Máš chlieb?
-> Salut, Katka ! Tu as du pain ?
-> Ahoj = salut
-> Máš chlieb = tu as du pain
+### Scène 2 — À la boulangerie
 
-! Dobrý deň, pani Ježková! Máte chlieb a mlieko?
-> Bonjour, Madame Ježková ! Vous avez du pain et du lait ?
+{{fr:Katka achète du pain. Elle vouvoie Madame Ježková, mais Madame Ježková la tutoie.}}
+
+! 🐹 Dobrý deň, pani Ježková!
+> Bonjour, Madame Ježková !
 > Dobrý deň = bonjour
 > pani Ježková = Madame Ježková
-> Máte = vous avez
+
+! 🦔 Dobrý deň! Prosím?
+> Bonjour ! Je vous écoute ?
+> Dobrý deň = bonjour
+> Prosím = je vous écoute
+
+! 🐹 Prosím si chlieb. Koľko to stojí?
+> Je voudrais du pain. Combien ça coûte ?
+> Prosím si = je voudrais
+> chlieb = du pain
+> Koľko to stojí = combien ça coûte
+
+! 🦔 Chlieb stojí dve eurá.
+> Le pain coûte deux euros.
+> Chlieb stojí = le pain coûte
+> dve eurá = deux euros
+
+! 🐹 Dve eurá? To je lacné!
+> Deux euros ? Ce n'est pas cher !
+> Dve eurá = deux euros
+> To je lacné = ce n'est pas cher
+
+---
+
+### Scène 3 — Au magasin
+
+{{fr:C'est ton tour ! Tu vouvoies Madame Ježková.}}
+
+! 🦊 Dobrý deň, pani Ježková! Máte med?
+> Bonjour, Madame Ježková ! Vous avez du miel ?
+> Dobrý deň = bonjour
+> pani Ježková = Madame Ježková
+> Máte med = vous avez du miel
+
+! 🦔 Áno! Med stojí päť eur.
+> Oui ! Le miel coûte cinq euros.
+> Áno = oui
+> Med stojí = le miel coûte
+> päť eur = cinq euros
+
+! 🦊 To je drahé! Prosím si chlieb a mlieko.
+> C'est cher ! Je voudrais du pain et du lait.
+> To je drahé = c'est cher
+> Prosím si = je voudrais
 > chlieb a mlieko = du pain et du lait
 
-! Ďakujem, dovidenia! Idem domov.
+! 🦔 Mlieko je lacné. Jedno euro.
+> Le lait n'est pas cher. Un euro.
+> Mlieko je lacné = le lait n'est pas cher
+> Jedno euro = un euro
+
+! 🦊 Koľko to stojí spolu?
+> Combien ça coûte en tout ?
+> Koľko to stojí = combien ça coûte
+> spolu = en tout
+
+! 🦔 Chlieb a mlieko: tri eurá.
+> Du pain et du lait : trois euros.
+> Chlieb a mlieko = du pain et du lait
+> tri eurá = trois euros
+
+---
+
+### Scène 4 — On rentre
+
+{{fr:Les courses sont faites. Direction la maison !}}
+
+! 🦊 Ďakujem, dovidenia! Idem domov.
 > Merci, au revoir ! Je rentre à la maison.
 > Ďakujem = merci
 > dovidenia = au revoir
 > Idem domov = je rentre à la maison
 
-! Počkaj! Ideš do dediny? Poď sem!
-> Attends ! Tu vas au village ? Viens ici !
+! 🐻 Počkaj! Ideš domov? Aj ja idem domov!
+> Attends ! Tu rentres ? Moi aussi, je rentre !
 > Počkaj = attends
-> Ideš do dediny = tu vas au village
-> Poď sem = viens ici
-
-! Koľko to stojí spolu? Tri eurá.
-> Combien ça coûte en tout ? Trois euros.
-> Koľko to stojí = combien ça coûte
-> spolu = en tout
-> Tri eurá = trois euros
-
-! Mám hlad. Idem do pekárne a prosím si chlieb.
-> J'ai faim. Je vais à la boulangerie et je voudrais du pain.
-> Mám hlad = j'ai faim
-> Idem do pekárne = je vais à la boulangerie
-> a = et
-> prosím si chlieb = je voudrais du pain
+> Ideš domov = tu rentres
+> Aj ja = moi aussi
+> idem domov = je rentre

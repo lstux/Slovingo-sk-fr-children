@@ -2,7 +2,7 @@
 
 @ https://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A9_%C5%A0trbsk%C3%A9_pleso_25_Slovakia_1.jpg | Le Nové Štrbské Pleso, un lac de montagne dans les Tatras
 
-{{fr:Pas de mot nouveau ici. On réunit tout le Kit de Survie, et on mélange les mots dans de nouvelles phrases !}}
+{{fr:Pas de mot nouveau ici. On réunit tout le Kit de Survie, et on mélange les mots dans de petites scènes !}}
 
 ---
 
@@ -31,105 +31,117 @@
 
 ---
 
-## Les phrases
+## Des mini-dialogues pour tout mélanger
 
-! Ahoj, Andrea! Ako sa máš?
-> Salut, Andrea ! Ça va ?
+### Scène 1 — Salut, l'ours !
+
+{{fr:Tu croises Maťo sur le sentier. Vous vous présentez !}}
+
+! 🐻 Ahoj! Ako sa voláš?
+> Salut ! Comment tu t'appelles ?
 > Ahoj = salut
+> Ako sa voláš = comment tu t'appelles
+
+! 🦊 Ahoj! Volám sa [USER_NAME]. Ako sa voláš?
+> Salut ! Je m'appelle [USER_NAME]. Comment tu t'appelles ?
+> Ahoj = salut
+> Volám sa = je m'appelle
+> Ako sa voláš = comment tu t'appelles
+
+! 🐻 Volám sa Maťo. Ako sa máš?
+> Je m'appelle Maťo. Ça va ?
+> Volám sa = je m'appelle
+> Maťo = Maťo
 > Ako sa máš = ça va
 
-! Ako sa máš, [USER_NAME]? Dobre!
-> Ça va, [USER_NAME] ? Bien !
-> Ako sa máš = ça va
+! 🦊 Dobre, ďakujem! Ako sa máš?
+> Bien, merci ! Ça va ?
 > Dobre = bien
-
-! Dobrý deň! Volám sa [USER_NAME].
-> Bonjour ! Je m'appelle [USER_NAME].
-> Dobrý deň = bonjour
-> Volám sa = je m'appelle
-+ {{Dobrý deň}} : pour se présenter à un adulte.
-
-! Ďakujem! Dovidenia!
-> Merci ! Au revoir !
-> Ďakujem = merci
-> Dovidenia = au revoir
-
-! Ahoj! Volám sa Andrea. Ako sa voláš?
-> Salut ! Je m'appelle Andrea. Comment tu t'appelles ?
-> Ahoj = salut
-> Volám sa = je m'appelle
-> Ako sa voláš = comment tu t'appelles
-
-! Ako sa voláš? Volám sa Maťo.
-> Comment tu t'appelles ? Je m'appelle Maťo.
-> Ako sa voláš = comment tu t'appelles
-> Volám sa = je m'appelle
-
-! Čaj? Áno, prosím!
-> Du thé ? Oui, s'il te plaît !
-> Čaj = du thé
-> Áno = oui
-> prosím = s'il te plaît
-
-! Čokoláda? Nie, ďakujem.
-> Du chocolat ? Non, merci.
-> Čokoláda = du chocolat
-> Nie = non
 > ďakujem = merci
+> Ako sa máš = ça va
 
-! Chlieb? Áno, prosím! Aj ja!
-> Du pain ? Oui, s'il te plaît ! Moi aussi !
-> Chlieb = du pain
-> Áno = oui
-> prosím = s'il te plaît
-> Aj = aussi
-> ja = moi
+---
 
-! Jeden banán, prosím!
-> Une banane, s'il te plaît !
-> Jeden = un
-> banán = banane
-> prosím = s'il te plaît
+### Scène 2 — Un bonjour très poli
 
-! Koľko? Tri! Ďakujem!
-> Combien ? Trois ! Merci !
-> Koľko = combien
-> Tri = trois
-> Ďakujem = merci
+{{fr:Maťo veut faire le malin avec Andrea.}}
 
-! Prepáč! Nevadí!
-> Pardon ! Pas de souci !
+! 🐻 Dobrý deň, Andrea!
+> Bonjour, Andrea !
+> Dobrý deň = bonjour
+> Andrea = Andrea
++ {{Dobrý deň}} se dit surtout aux adultes. Entre copains, on dit {{ahoj}}. Maťo exagère un peu… 😄
+
+! 🐰 Dobrý deň, Maťo! Ako sa máš?
+> Bonjour, Maťo ! Ça va ?
+> Dobrý deň = bonjour
+> Maťo = Maťo
+> Ako sa máš = ça va
+
+! 🐻 Dobre! Prepáč, Andrea!
+> Bien ! Pardon, Andrea !
+> Dobre = bien
 > Prepáč = pardon
+> Andrea = Andrea
+
+! 🐰 Nevadí! Ahoj, Maťo!
+> Pas de souci ! Salut, Maťo !
 > Nevadí = pas de souci
+> Ahoj = salut
+> Maťo = Maťo
 
-! Hovoríš po francúzsky? Áno!
-> Tu parles français ? Oui !
+---
+
+### Scène 3 — Je ne comprends pas
+
+{{fr:Tu essaies de parler français. Pas facile pour tout le monde !}}
+
+! 🦊 Hovoríš po francúzsky?
+> Tu parles français ?
 > Hovoríš = tu parles
 > po francúzsky = (en) français
-> Áno = oui
 
-! Hovoríš po francúzsky? Nie, prepáč.
-> Tu parles français ? Non, pardon.
-> Hovoríš = tu parles
-> po francúzsky = (en) français
+! 🐻 Nie, prepáč. Nerozumiem.
+> Non, pardon. Je ne comprends pas.
 > Nie = non
 > prepáč = pardon
-
-! Prepáč, nerozumiem. Hovoríš po francúzsky?
-> Pardon, je ne comprends pas. Tu parles français ?
-> Prepáč = pardon
-> nerozumiem = je ne comprends pas
-> Hovoríš = tu parles
-> po francúzsky = (en) français
-
-! Nerozumiem. Prepáč!
-> Je ne comprends pas. Pardon !
 > Nerozumiem = je ne comprends pas
-> Prepáč = pardon
 
-! Ďakujem, Andrea! Ahoj!
-> Merci, Andrea ! Salut !
+! 🐰 Aj ja nerozumiem!
+> Moi aussi, je ne comprends pas !
+> Aj ja = moi aussi
+> nerozumiem = je ne comprends pas
+
+! 🦊 Nevadí! Ďakujem!
+> Pas de souci ! Merci !
+> Nevadí = pas de souci
 > Ďakujem = merci
+
+---
+
+### Scène 4 — Merci et au revoir
+
+{{fr:Il est temps de se dire au revoir.}}
+
+! 🦊 Ďakujem, Maťo!
+> Merci, Maťo !
+> Ďakujem = merci
+> Maťo = Maťo
+
+! 🐻 Prosím! Dovidenia!
+> De rien ! Au revoir !
+> Prosím = de rien
+> Dovidenia = au revoir
++ {{Prosím}} veut dire « s'il te plaît », mais aussi « de rien » quand on répond à un merci.
+
+! 🦊 Dovidenia! Ahoj, Andrea!
+> Au revoir ! Salut, Andrea !
+> Dovidenia = au revoir
+> Ahoj = salut
+> Andrea = Andrea
+
+! 🐰 Ahoj, [USER_NAME]!
+> Salut, [USER_NAME] !
 > Ahoj = salut
 
 ---

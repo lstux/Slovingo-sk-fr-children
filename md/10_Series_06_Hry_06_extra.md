@@ -2,7 +2,7 @@
 
 @ TODO_img/panorama-jeux.jpg | TODO : choisir une image (grande prairie des Tatras, enfants qui jouent au loin) sur Wikimedia Commons
 
-{{fr:Pas de mot nouveau ici. On réunit toute la série Hry, et on mélange les mots dans de nouvelles phrases !}}
+{{fr:Pas de mot nouveau ici. On réunit toute la série Hry, et on mélange les mots dans de petites scènes !}}
 
 ---
 
@@ -46,39 +46,50 @@
 
 ---
 
-## Des phrases pour tout mélanger
+## Des mini-dialogues pour tout mélanger
 
-! Hráme sa na skrývačku. Kto je na rade?
-> On joue à cache-cache. C'est à qui ?
+### Scène 1 — On joue à cache-cache
+
+{{fr:Tout le monde veut jouer à cache-cache dans la prairie. Qui compte ?}}
+
+! 🐰 Hráme sa na skrývačku! Kto je na rade?
+> On joue à cache-cache ! C'est à qui ?
 > Hráme sa = on joue
 > na skrývačku = à cache-cache
 > Kto je na rade = c'est à qui
 
-! Ja som na rade. Počítam: jeden, dva, tri!
+! 🦊 Ja som na rade. Počítam: jeden, dva, tri!
 > C'est mon tour. Je compte : un, deux, trois !
 > Ja som na rade = c'est mon tour
 > Počítam = je compte
 > jeden, dva, tri = un, deux, trois
 
-! Idem hľadať! Kde si, Katka?
+! 🦊 Idem hľadať! Kde si, Katka?
 > Je vais chercher ! Où es-tu, Katka ?
 > Idem hľadať = je vais chercher
 > Kde si = où es-tu
 > Katka = Katka
 
-! Tu som! – Mám ťa!
-> Me voici ! – Je t'ai trouvé(e) !
+! 🐹 Tu som!
+> Me voici !
 > Tu som = me voici
-> Mám ťa = je t'ai trouvé(e)
 
-! Môžem sa hrať s loptou? Áno, môžeš.
-> Je peux jouer avec le ballon ? Oui, tu peux.
+! 🦊 Mám ťa!
+> Je t'ai trouvée !
+> Mám ťa = je t'ai trouvée
+
+---
+
+### Scène 2 — Où a-t-on le droit de jouer ?
+
+{{fr:Maťo veut jouer au ballon. Mais pas n'importe où !}}
+
+! 🐻 Môžem sa hrať s loptou?
+> Je peux jouer avec le ballon ?
 > Môžem sa hrať = je peux jouer
 > s loptou = avec le ballon
-> Áno = oui
-> môžeš = tu peux
 
-! Tu sa nemôžeme hrať, ale tam sa môžeme hrať.
+! 🐰 Tu sa nemôžeme hrať, ale tam sa môžeme hrať.
 > Ici, on ne peut pas jouer, mais là-bas, on peut jouer.
 > Tu = ici
 > sa nemôžeme hrať = on ne peut pas jouer
@@ -86,53 +97,68 @@
 > tam = là-bas
 > sa môžeme hrať = on peut jouer
 
-! Môžem ísť do dediny? Nie, nemôžeš.
-> Je peux aller au village ? Non, tu ne peux pas.
-> Môžem ísť = je peux aller
-> do dediny = au village
-> Nie = non
-> nemôžeš = tu ne peux pas
+! 🐹 Hráme sa na lúke, nie tu!
+> On joue dans la prairie, pas ici !
+> Hráme sa = on joue
+> na lúke = dans la prairie
+> nie tu = pas ici
 
-! Vyhrávam! Ty prehrávaš! To je zábava!
-> Je gagne ! Tu perds ! C'est amusant !
+! 🐻 Hurá! Môžeme sa hrať spolu!
+> Hourra ! On peut jouer ensemble !
+> Hurá = hourra
+> Môžeme sa hrať = on peut jouer
+> spolu = ensemble
+
+---
+
+### Scène 3 — Qui gagne ?
+
+{{fr:Une partie de ballon, et pas question de se fâcher.}}
+
+! 🐹 Vyhrávam! Ty prehrávaš!
+> Je gagne ! Tu perds !
 > Vyhrávam = je gagne
-> ty prehrávaš = tu perds
-> To je zábava = c'est amusant
+> Ty prehrávaš = tu perds
 
-! Prehrávam, ale nevadí. Ešte raz!
+! 🐻 Prehrávam, ale nevadí. Ešte raz!
 > Je perds, mais pas de souci. Encore une fois !
 > Prehrávam = je perds
 > ale = mais
 > nevadí = pas de souci
 > Ešte raz = encore une fois
 
-! Hráme sa na lúke, nie tu.
-> On joue dans la prairie, pas ici.
-> Hráme sa = on joue
-> na lúke = dans la prairie
-> nie = pas
-> tu = ici
+! 🦊 Dobrá hra!
+> Bien joué !
+> Dobrá hra = bien joué
 
-! Teraz je na rade Maťo. Už idem hľadať!
-> Maintenant, c'est le tour de Maťo. Ça y est, je viens chercher !
+! 🐰 Teraz je na rade Katka. To je zábava!
+> Maintenant, c'est le tour de Katka. C'est amusant !
 > Teraz = maintenant
-> je na rade Maťo = c'est le tour de Maťo
-> Už idem hľadať = ça y est, je viens chercher
+> je na rade Katka = c'est le tour de Katka
+> To je zábava = c'est amusant
 
-! Mám hlad, ale hráme sa spolu!
-> J'ai faim, mais on joue ensemble !
-> Mám hlad = j'ai faim
-> ale = mais
-> hráme sa spolu = on joue ensemble
+---
 
-! Môžem sa hrať? – Áno, môžeš! – Hurá!
-> Je peux jouer ? – Oui, tu peux ! – Hourra !
-> Môžem sa hrať = je peux jouer
-> Áno, môžeš = oui, tu peux
-> Hurá = hourra
+### Scène 4 — Où es-tu ?
 
-! Nevidím ťa. Kde si? Tu som!
-> Je ne te vois pas. Où es-tu ? Me voici !
+{{fr:Un dernier tour de cache-cache.}}
+
+! 🐰 Nevidím ťa. Kde si?
+> Je ne te vois pas. Où es-tu ?
 > Nevidím ťa = je ne te vois pas
 > Kde si = où es-tu
+
+! 🐻 Tu som, na strome!
+> Me voici, dans l'arbre !
 > Tu som = me voici
+> na strome = dans l'arbre
+
+! 🐹 Môžem sa hrať?
+> Je peux jouer ?
+> Môžem sa hrať = je peux jouer
+
+! 🐰 Áno, môžeš! Hurá!
+> Oui, tu peux ! Hourra !
+> Áno = oui
+> môžeš = tu peux
+> Hurá = hourra

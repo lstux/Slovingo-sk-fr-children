@@ -3,305 +3,202 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "listen-m-m-hlad-chcem-polievku-a-chlieb",
-      "type": "listen",
-      "l1": "J'ai faim. Je veux de la soupe et du pain.",
-      "l2": "Mám hlad. Chcem polievku a chlieb.",
+      "id": "qcm-chces-mlieko-chces-caj",
+      "type": "qcm",
+      "l1": "Tu veux du lait ? Tu veux du thé ?",
+      "l2": "Chceš mlieko? Chceš čaj?",
       "choices_l1": [
-        "J'ai soif. Je veux de la soupe et du pain.",
-        "J'ai faim. Je veux du fromage et du pain.",
-        "J'ai faim. Je mange de la soupe et du pain."
-      ]
-    },
-    {
-      "id": "listen-ma-o-chce-med-a-andrea-chce-mrkvu",
-      "type": "listen",
-      "l1": "Maťo veut du miel et Andrea veut une carotte.",
-      "l2": "Maťo chce med a Andrea chce mrkvu.",
-      "choices_l1": [
-        "Katka veut du miel et Andrea veut une carotte.",
-        "Maťo veut des noix et Andrea veut une carotte.",
-        "Maťo veut du miel et Andrea veut une poire."
-      ]
-    },
-    {
-      "id": "listen-na-ra-ajky-jem-chlieb-a-pijem-mlieko",
-      "type": "listen",
-      "l1": "Pour le petit-déjeuner, je mange du pain et je bois du lait.",
-      "l2": "Na raňajky jem chlieb a pijem mlieko.",
-      "choices_l1": [
-        "Pour le dîner, je mange du pain et je bois du lait.",
-        "Pour le petit-déjeuner, je mange du pain et je bois de l'eau.",
-        "Pour le petit-déjeuner, je mange du fromage et je bois du lait."
-      ]
-    },
-    {
-      "id": "listen-chut-ti-jablko-je-sladk",
-      "type": "listen",
-      "l1": "Tu aimes la pomme ? Elle est sucrée.",
-      "l2": "Chutí ti jablko? Je sladké.",
-      "choices_l1": [
-        "Tu veux la pomme ? Elle est sucrée.",
-        "Tu aimes la pomme ? Elle est acide.",
-        "Tu aimes la poire ? Elle est sucrée."
-      ]
-    },
-    {
-      "id": "listen-citr-n-je-kysl-ale-chut-mi",
-      "type": "listen",
-      "l1": "Le citron est acide, mais j'aime ça.",
-      "l2": "Citrón je kyslý, ale chutí mi.",
-      "choices_l1": [
-        "Le citron est sucré, mais j'aime ça.",
-        "Le citron est acide, mais je n'aime pas ça.",
-        "Le miel est acide, mais j'aime ça."
-      ]
-    },
-    {
-      "id": "listen-nechut-mi-mrkva-ale-chcem-bobule",
-      "type": "listen",
-      "l1": "Je n'aime pas la carotte, mais je veux des baies.",
-      "l2": "Nechutí mi mrkva, ale chcem bobule.",
-      "choices_l1": [
-        "J'aime la carotte, mais je veux des baies.",
-        "Je n'aime pas la carotte, mais je veux des noix.",
-        "Je n'aime pas la poire, mais je veux des baies."
-      ]
-    },
-    {
-      "id": "listen-m-m-sm-d-pijem-vodu-aj-aj",
-      "type": "listen",
-      "l1": "J'ai soif. Je bois de l'eau et du thé.",
-      "l2": "Mám smäd. Pijem vodu aj čaj.",
-      "choices_l1": [
-        "J'ai faim. Je bois de l'eau et du thé.",
-        "J'ai soif. Je bois du lait et du thé.",
-        "J'ai soif. Je mange de l'eau et du thé."
-      ]
-    },
-    {
-      "id": "listen-chcete-orechy-no-pros-m",
-      "type": "listen",
-      "l1": "Vous voulez des noix ? Oui, s'il te plaît !",
-      "l2": "Chcete orechy? Áno, prosím!",
-      "choices_l1": [
-        "Tu veux des noix ? Oui, s'il te plaît !",
-        "Vous voulez des baies ? Oui, s'il te plaît !",
-        "Vous voulez des noix ? Non, merci !"
-      ]
-    },
-    {
-      "id": "listen-chcem-e-te-med-pros-m",
-      "type": "listen",
-      "l1": "Je veux encore du miel, s'il te plaît.",
-      "l2": "Chcem ešte med, prosím.",
-      "choices_l1": [
-        "Je veux du miel, s'il te plaît.",
-        "Je veux encore des noix, s'il te plaît.",
-        "Je ne veux pas de miel, s'il te plaît."
-      ]
-    },
-    {
-      "id": "listen-hru-ka-je-sladk-a-polievka-je-dobr",
-      "type": "listen",
-      "l1": "La poire est sucrée et la soupe est bonne.",
-      "l2": "Hruška je sladká a polievka je dobrá.",
-      "choices_l1": [
-        "La poire est acide et la soupe est bonne.",
-        "La poire est sucrée et la soupe est sucrée.",
-        "La pomme est sucrée et la soupe est bonne."
-      ]
-    },
-    {
-      "id": "listen-m-m-sm-d-ale-nechcem-mlieko",
-      "type": "listen",
-      "l1": "J'ai soif, mais je ne veux pas de lait.",
-      "l2": "Mám smäd, ale nechcem mlieko.",
-      "choices_l1": [
-        "J'ai faim, mais je ne veux pas de lait.",
-        "J'ai soif, mais je veux du lait.",
-        "J'ai soif, mais je ne veux pas d'eau."
-      ]
-    },
-    {
-      "id": "listen-dobr-chu-akujem-aj-tebe",
-      "type": "listen",
-      "l1": "Bon appétit ! Merci, à toi aussi !",
-      "l2": "Dobrú chuť! Ďakujem, aj tebe!",
-      "choices_l1": [
-        "Bon appétit ! Merci, pardon !",
-        "Au revoir ! Merci, à toi aussi !",
-        "Bon appétit ! Pardon, à toi aussi !"
-      ]
-    },
-    {
-      "id": "blank-m-m-hlad-chcem-polievku-a-chlieb",
-      "type": "fill-blank",
-      "l1": "J'ai faim. Je veux de la soupe et du pain.",
-      "l2": "Mám hlad. Chcem polievku a chlieb.",
-      "missing_l1": "pain",
-      "missing_l2": "chlieb",
-      "blank_index_l1": 9,
-      "blank_index_l2": 5,
-      "choices_l1": [
-        "lait",
-        "miel",
-        "fromage"
+        "Tu veux du pain ? Tu veux du thé ?",
+        "Tu aimes le lait ? Tu aimes le thé ?",
+        "Tu veux de l'eau ? Tu veux du miel ?"
       ],
       "choices_l2": [
-        "mlieko",
-        "med",
-        "syr"
-      ],
-      "show_translation": true
+        "Chceš chlieb? Chceš čaj?",
+        "Chutí ti mlieko? Chutí ti čaj?",
+        "Chceš vodu? Chceš med?"
+      ]
     },
     {
-      "id": "blank-citr-n-je-kysl-ale-chut-mi",
+      "id": "qcm-chuti-ti-citron",
+      "type": "qcm",
+      "l1": "Tu aimes le citron ?",
+      "l2": "Chutí ti citrón?",
+      "choices_l1": [
+        "Tu veux un citron ?",
+        "Tu aimes le miel ?",
+        "Tu aimes la poire ?"
+      ],
+      "choices_l2": [
+        "Chceš citrón?",
+        "Chutí ti med?",
+        "Chutí ti hruška?"
+      ]
+    },
+    {
+      "id": "listen-mam-hlad-chcem-chlieb-a-med",
+      "type": "listen",
+      "l1": "J'ai faim ! Je veux du pain et du miel.",
+      "l2": "Mám hlad! Chcem chlieb a med.",
+      "choices_l1": [
+        "J'ai soif ! Je veux du pain et du miel.",
+        "J'ai faim ! Je veux du pain et du lait.",
+        "J'ai faim ! Je ne veux pas de pain et de miel."
+      ]
+    },
+    {
+      "id": "listen-pijem-caj-a-jem-jablko",
+      "type": "listen",
+      "l1": "Je bois du thé et je mange une pomme.",
+      "l2": "Pijem čaj a jem jablko.",
+      "choices_l1": [
+        "Je bois du lait et je mange une pomme.",
+        "Je bois du thé et je mange une poire.",
+        "Je mange du thé et je bois une pomme."
+      ]
+    },
+    {
+      "id": "listen-nie-citron-je-kysly-nechuti-mi",
+      "type": "listen",
+      "l1": "Non ! Le citron est acide. Je n'aime pas ça.",
+      "l2": "Nie! Citrón je kyslý. Nechutí mi.",
+      "choices_l1": [
+        "Non ! Le citron est sucré. Je n'aime pas ça.",
+        "Non ! Le citron est acide. J'aime ça.",
+        "Non ! Le miel est acide. Je n'aime pas ça."
+      ]
+    },
+    {
+      "id": "listen-ja-nechcem-ja-jem-jablko",
+      "type": "listen",
+      "l1": "Moi, je n'en veux pas. Moi, je mange une pomme.",
+      "l2": "Ja nechcem. Ja jem jablko.",
+      "choices_l1": [
+        "Moi, j'en veux. Moi, je mange une pomme.",
+        "Moi, je n'en veux pas. Moi, je mange une poire.",
+        "Moi, je n'en veux pas. Moi, je bois du thé."
+      ]
+    },
+    {
+      "id": "listen-na-veceru-je-polievka",
+      "type": "listen",
+      "l1": "Pour le dîner, il y a de la soupe.",
+      "l2": "Na večeru je polievka.",
+      "choices_l1": [
+        "Pour le déjeuner, il y a de la soupe.",
+        "Pour le dîner, il y a du fromage.",
+        "Pour le petit-déjeuner, il y a de la soupe."
+      ]
+    },
+    {
+      "id": "blank-mam-smad-chcem-vodu",
       "type": "fill-blank",
-      "l1": "Le citron est acide, mais j'aime ça.",
-      "l2": "Citrón je kyslý, ale chutí mi.",
-      "missing_l1": "acide",
-      "missing_l2": "kyslý",
+      "l1": "J'ai soif. Je veux de l'eau.",
+      "l2": "Mám smäd. Chcem vodu.",
+      "missing_l1": "veux",
+      "missing_l2": "Chcem",
       "blank_index_l1": 3,
       "blank_index_l2": 2,
       "choices_l1": [
-        "sucré",
-        "fort",
-        "petit"
+        "mange",
+        "ne mange pas",
+        "ne veux pas"
       ],
       "choices_l2": [
-        "sladký",
-        "silný",
-        "malý"
+        "Jem",
+        "Nejem",
+        "Nechcem"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-m-m-sm-d-pijem-vodu-aj-aj",
+      "id": "blank-hruska-je-sladka-a-dobra",
       "type": "fill-blank",
-      "l1": "J'ai soif. Je bois de l'eau et du thé.",
-      "l2": "Mám smäd. Pijem vodu aj čaj.",
-      "missing_l1": "thé",
-      "missing_l2": "čaj",
-      "blank_index_l1": 8,
-      "blank_index_l2": 5,
+      "l1": "La poire est sucrée et bonne.",
+      "l2": "Hruška je sladká a dobrá.",
+      "missing_l1": "poire",
+      "missing_l2": "Hruška",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
       "choices_l1": [
-        "lait",
-        "miel",
-        "pain"
-      ],
-      "choices_l2": [
-        "mlieko",
-        "med",
-        "chlieb"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-hru-ka-je-sladk-a-polievka-je-dobr",
-      "type": "fill-blank",
-      "l1": "La poire est sucrée et la soupe est bonne.",
-      "l2": "Hruška je sladká a polievka je dobrá.",
-      "missing_l1": "soupe",
-      "missing_l2": "polievka",
-      "blank_index_l1": 6,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "pomme",
+        "soupe",
         "carotte",
-        "poire"
+        "pomme"
       ],
       "choices_l2": [
-        "jablko",
-        "mrkva",
-        "hruška"
+        "Polievka",
+        "Mrkva",
+        "Jablko"
       ],
       "show_translation": true
     },
     {
-      "id": "order-ma-o-chce-med-a-andrea-chce-mrkvu",
+      "id": "order-pijem-caj-a-jem-jablko",
       "type": "order",
-      "l1": "Maťo veut du miel et Andrea veut une carotte.",
-      "l2": "Maťo chce med a Andrea chce mrkvu.",
+      "l1": "Je bois du thé et je mange une pomme.",
+      "l2": "Pijem čaj a jem jablko.",
       "tokens_l1": [
-        "Maťo veut",
-        "du miel",
+        "Je bois",
+        "du thé",
         "et",
-        "Andrea veut",
-        "une carotte."
+        "je mange",
+        "une pomme."
       ],
       "tokens_l2": [
-        "Maťo chce",
-        "med",
+        "Pijem",
+        "čaj",
         "a",
-        "Andrea chce",
-        "mrkvu."
+        "jem",
+        "jablko."
       ]
     },
     {
-      "id": "order-m-m-sm-d-ale-nechcem-mlieko",
+      "id": "order-chuti-mi-hruska-ale-nechuti-mi-mrkva",
       "type": "order",
-      "l1": "J'ai soif, mais je ne veux pas de lait.",
-      "l2": "Mám smäd, ale nechcem mlieko.",
+      "l1": "J'aime la poire, mais je n'aime pas la carotte.",
+      "l2": "Chutí mi hruška, ale nechutí mi mrkva.",
       "tokens_l1": [
-        "J'ai soif,",
+        "J'aime la poire,",
         "mais",
-        "je ne veux pas",
-        "de lait."
+        "je n'aime pas",
+        "la carotte."
       ],
       "tokens_l2": [
-        "Mám smäd,",
+        "Chutí mi hruška,",
         "ale",
-        "nechcem",
-        "mlieko."
+        "nechutí mi",
+        "mrkva."
       ]
     },
     {
-      "id": "order-dobr-chu-akujem-aj-tebe",
-      "type": "order",
-      "l1": "Bon appétit ! Merci, à toi aussi !",
-      "l2": "Dobrú chuť! Ďakujem, aj tebe!",
-      "tokens_l1": [
-        "Bon appétit !",
-        "Merci,",
-        "à toi aussi !"
-      ],
-      "tokens_l2": [
-        "Dobrú chuť!",
-        "Ďakujem,",
-        "aj tebe!"
-      ]
-    },
-    {
-      "id": "match-jablko",
+      "id": "match-chlieb",
       "type": "match",
       "l1": [
-        "la pomme",
-        "le miel",
-        "le petit-déjeuner",
+        "le pain",
+        "le lait",
+        "le fromage",
         "la soupe"
       ],
       "l2": [
-        "jablko",
-        "med",
-        "raňajky",
+        "chlieb",
+        "mlieko",
+        "syr",
         "polievka"
       ]
     },
     {
-      "id": "match-pijem",
+      "id": "match-hlad",
       "type": "match",
       "l1": [
-        "je bois",
-        "tu veux",
-        "il ou elle veut",
-        "vous voulez"
+        "la faim",
+        "la soif",
+        "le miel",
+        "les baies"
       ],
       "l2": [
-        "pijem",
-        "chceš",
-        "chce",
-        "chcete"
+        "hlad",
+        "smäd",
+        "med",
+        "bobule"
       ]
     }
   ]

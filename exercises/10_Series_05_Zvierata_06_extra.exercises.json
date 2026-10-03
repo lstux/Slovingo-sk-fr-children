@@ -3,203 +3,148 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "listen-ja-som-l-ka-ty-si-zaja-ica",
-      "type": "listen",
-      "l1": "Moi, je suis un renard. Toi, tu es une hase.",
-      "l2": "Ja som líška. Ty si zajačica.",
+      "id": "qcm-ty-si-mila-liska",
+      "type": "qcm",
+      "l1": "Tu es un gentil renard !",
+      "l2": "Ty si milá líška!",
       "choices_l1": [
-        "Moi, je suis une hase. Toi, tu es un renard.",
-        "Moi, je suis un renard. Toi, tu es une marmotte.",
-        "Moi, j'ai un renard. Toi, tu as une hase."
+        "Tu es une gentille hase !",
+        "Je suis un gentil renard !",
+        "Tu es un gentil ours !"
+      ],
+      "choices_l2": [
+        "Ty si milá zajačica!",
+        "Ja som milá líška!",
+        "Ty si milý medveď!"
       ]
     },
     {
-      "id": "listen-katka-je-svi-a-ma-o-je-medve",
-      "type": "listen",
-      "l1": "Katka est une marmotte et Maťo est un ours.",
-      "l2": "Katka je svišť a Maťo je medveď.",
-      "choices_l1": [
-        "Maťo est une marmotte et Katka est un ours.",
-        "Katka est une hase et Maťo est un ours.",
-        "Katka est une marmotte et Maťo est un loup."
-      ]
-    },
-    {
-      "id": "listen-v-tatr-ch-je-rys-vlk-a-jele",
-      "type": "listen",
-      "l1": "Dans les Tatras, il y a un lynx, un loup et un cerf.",
-      "l2": "V Tatrách je rys, vlk a jeleň.",
-      "choices_l1": [
-        "Dans les Tatras, il y a un lynx, un loup et un ours.",
-        "Dans les Tatras, il y a un aigle, un loup et un cerf.",
-        "Dans le village, il y a un lynx, un loup et un cerf."
-      ]
-    },
-    {
-      "id": "listen-s-tu-dve-veveri-ky-a-tri-sovy",
-      "type": "listen",
-      "l1": "Il y a deux écureuils et trois chouettes ici.",
-      "l2": "Sú tu dve veveričky a tri sovy.",
-      "choices_l1": [
-        "Il y a trois écureuils et deux chouettes ici.",
-        "Il y a deux écureuils et trois renards ici.",
-        "Il y a deux chouettes et trois écureuils ici."
-      ]
-    },
-    {
-      "id": "listen-kde-s-ml-at-s-v-nore",
-      "type": "listen",
+      "id": "qcm-kde-su-mladata-su-v-nore",
+      "type": "qcm",
       "l1": "Où sont les bébés animaux ? Ils sont dans le terrier.",
       "l2": "Kde sú mláďatá? Sú v nore.",
       "choices_l1": [
-        "Où sont les bébés animaux ? Ils sont dans la tanière.",
         "Où sont les écureuils ? Ils sont dans le terrier.",
-        "Où est le bébé animal ? Il est dans le terrier."
+        "Où sont les bébés animaux ? Ils sont ici.",
+        "Où est le nid ? Il est là-bas."
+      ],
+      "choices_l2": [
+        "Kde sú veveričky? Sú v nore.",
+        "Kde sú mláďatá? Sú tu.",
+        "Kde je hniezdo? Je tam."
       ]
     },
     {
-      "id": "listen-zajac-m-dlh-u-i-a-l-ka-m-dlh-chvost",
+      "id": "listen-ja-som-svist-a-mato-je-medved",
       "type": "listen",
-      "l1": "Le lièvre a de longues oreilles et le renard a une longue queue.",
-      "l2": "Zajac má dlhé uši a líška má dlhý chvost.",
+      "l1": "Moi, je suis une marmotte et Maťo est un ours.",
+      "l2": "Ja som svišť a Maťo je medveď.",
       "choices_l1": [
-        "Le renard a de longues oreilles et le lièvre a une longue queue.",
-        "Le lièvre a de petites oreilles et le renard a une longue queue.",
-        "Le lièvre a de longues oreilles et le renard a de grandes ailes."
+        "Moi, je suis un ours et Maťo est une marmotte.",
+        "Moi, je suis une marmotte et Maťo est un loup.",
+        "Moi, je suis une hase et Maťo est un ours."
       ]
     },
     {
-      "id": "listen-orol-m-ve-k-kr-dla-a-svi-m-mal-labky",
+      "id": "listen-ale-svist-je-rychlejsi-ako-medved",
       "type": "listen",
-      "l1": "L'aigle a de grandes ailes et la marmotte a de petites pattes.",
-      "l2": "Orol má veľké krídla a svišť má malé labky.",
+      "l1": "Mais la marmotte est plus rapide que l'ours !",
+      "l2": "Ale svišť je rýchlejší ako medveď!",
       "choices_l1": [
-        "La marmotte a de grandes ailes et l'aigle a de petites pattes.",
-        "L'aigle a de petites ailes et la marmotte a de petites pattes.",
-        "L'aigle a de grandes ailes et la marmotte a une longue queue."
+        "Mais l'ours est plus rapide que la marmotte !",
+        "Mais la marmotte est plus grande que l'ours !",
+        "Mais la marmotte est plus lente que l'ours !"
       ]
     },
     {
-      "id": "listen-sova-je-tich-ale-medve-je-ve-k",
+      "id": "listen-orol-ma-velke-kridla-a-liska-ma-dlhy-chv",
       "type": "listen",
-      "l1": "La chouette est silencieuse, mais l'ours est grand.",
-      "l2": "Sova je tichá, ale medveď je veľký.",
+      "l1": "L'aigle a de grandes ailes et le renard a une longue queue.",
+      "l2": "Orol má veľké krídla a líška má dlhý chvost.",
       "choices_l1": [
-        "La chouette est silencieuse, mais l'ours est petit.",
-        "La chouette est rapide, mais l'ours est grand.",
-        "L'aigle est silencieux, mais l'ours est grand."
+        "L'aigle a de grandes ailes et le renard a de longues oreilles.",
+        "Le chamois a de grandes ailes et le renard a une longue queue.",
+        "L'aigle a de petites ailes et le renard a une longue queue."
       ]
     },
     {
-      "id": "listen-zajac-je-r-chlej-ako-vlk-kto-je-silnej",
+      "id": "listen-su-tu-dve-vevericky-a-tri-sovy",
       "type": "listen",
-      "l1": "Le lièvre est plus rapide que le loup. Qui est le plus fort ?",
-      "l2": "Zajac je rýchlejší ako vlk. Kto je silnejší?",
+      "l1": "Il y a deux écureuils et trois chouettes ici !",
+      "l2": "Sú tu dve veveričky a tri sovy!",
       "choices_l1": [
-        "Le loup est plus rapide que le lièvre. Qui est le plus fort ?",
-        "Le lièvre est plus fort que le loup. Qui est le plus rapide ?",
-        "Le lièvre est plus rapide que le lynx. Qui est le plus fort ?"
+        "Il y a trois écureuils et deux chouettes ici !",
+        "Il y a deux écureuils et trois ours ici !",
+        "Il y a deux chouettes et trois écureuils ici !"
       ]
     },
     {
-      "id": "listen-pozri-to-je-kamz-k-je-r-chly",
+      "id": "listen-sova-je-ticha-ale-svist-je-chlpaty",
       "type": "listen",
-      "l1": "Regarde, c'est un chamois ! Il est rapide !",
-      "l2": "Pozri, to je kamzík! Je rýchly!",
+      "l1": "La chouette est silencieuse, mais la marmotte est poilue.",
+      "l2": "Sova je tichá, ale svišť je chlpatý.",
       "choices_l1": [
-        "Regarde, c'est un loup ! Il est rapide !",
-        "Attends, c'est un chamois ! Il est rapide !",
-        "Regarde, c'est un chamois ! Il est fort !"
+        "La chouette est silencieuse, mais le loup est poilu.",
+        "La chouette est poilue, mais la marmotte est silencieuse.",
+        "Le lynx est silencieux, mais la marmotte est poilue."
       ]
     },
     {
-      "id": "listen-nekrmte-zvierat-pros-m-idem-po-chodn-ku",
-      "type": "listen",
-      "l1": "Ne nourrissez pas les animaux, s'il vous plaît ! Je reste sur le sentier.",
-      "l2": "Nekrmte zvieratá, prosím! Idem po chodníku.",
-      "choices_l1": [
-        "Nourrissez les animaux, s'il vous plaît ! Je reste sur le sentier.",
-        "Ne nourrissez pas les animaux, merci ! Je reste sur le sentier.",
-        "Ne nourrissez pas les animaux, s'il vous plaît ! Je vais au village."
-      ]
-    },
-    {
-      "id": "blank-katka-je-svi-a-ma-o-je-medve",
+      "id": "blank-zajac-ma-dlhe-usi-ale-medved-ma-male-usi",
       "type": "fill-blank",
-      "l1": "Katka est une marmotte et Maťo est un ours.",
-      "l2": "Katka je svišť a Maťo je medveď.",
-      "missing_l1": "marmotte",
-      "missing_l2": "svišť",
-      "blank_index_l1": 3,
-      "blank_index_l2": 2,
+      "l1": "Le lièvre a de longues oreilles, mais l'ours a de petites oreilles.",
+      "l2": "Zajac má dlhé uši, ale medveď má malé uši.",
+      "missing_l1": "lièvre",
+      "missing_l2": "Zajac",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
       "choices_l1": [
-        "hase",
         "loup",
-        "lynx"
+        "lynx",
+        "cerf"
       ],
       "choices_l2": [
-        "zajačica",
-        "vlk",
-        "rys"
+        "Vlk",
+        "Rys",
+        "Jeleň"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-zajac-m-dlh-u-i-a-l-ka-m-dlh-chvost",
+      "id": "blank-su-tu-dve-vevericky-a-tri-sovy",
       "type": "fill-blank",
-      "l1": "Le lièvre a de longues oreilles et le renard a une longue queue.",
-      "l2": "Zajac má dlhé uši a líška má dlhý chvost.",
-      "missing_l1": "oreilles",
-      "missing_l2": "uši",
-      "blank_index_l1": 5,
-      "blank_index_l2": 3,
-      "choices_l1": [
-        "pattes",
-        "ailes",
-        "queue"
-      ],
-      "choices_l2": [
-        "labky",
-        "krídla",
-        "chvost"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-sova-je-tich-ale-medve-je-ve-k",
-      "type": "fill-blank",
-      "l1": "La chouette est silencieuse, mais l'ours est grand.",
-      "l2": "Sova je tichá, ale medveď je veľký.",
-      "missing_l1": "mais",
-      "missing_l2": "ale",
+      "l1": "Il y a deux écureuils et trois chouettes ici !",
+      "l2": "Sú tu dve veveričky a tri sovy!",
+      "missing_l1": "écureuils",
+      "missing_l2": "veveričky",
       "blank_index_l1": 4,
       "blank_index_l2": 3,
       "choices_l1": [
-        "et",
-        "ou",
-        "que"
+        "pattes",
+        "oreilles",
+        "ailes"
       ],
       "choices_l2": [
-        "a",
-        "alebo",
-        "ako"
+        "labky",
+        "uši",
+        "krídla"
       ],
       "show_translation": true
     },
     {
-      "id": "order-katka-je-svi-a-ma-o-je-medve",
+      "id": "order-ja-som-svist-a-mato-je-medved",
       "type": "order",
-      "l1": "Katka est une marmotte et Maťo est un ours.",
-      "l2": "Katka je svišť a Maťo je medveď.",
+      "l1": "Moi, je suis une marmotte et Maťo est un ours.",
+      "l2": "Ja som svišť a Maťo je medveď.",
       "tokens_l1": [
-        "Katka est",
+        "Moi, je suis",
         "une marmotte",
         "et",
         "Maťo est",
         "un ours."
       ],
       "tokens_l2": [
-        "Katka je",
+        "Ja som",
         "svišť",
         "a",
         "Maťo je",
@@ -207,91 +152,55 @@
       ]
     },
     {
-      "id": "order-v-tatr-ch-je-rys-vlk-a-jele",
+      "id": "order-zajac-ma-dlhe-usi-ale-medved-ma-male-usi",
       "type": "order",
-      "l1": "Dans les Tatras, il y a un lynx, un loup et un cerf.",
-      "l2": "V Tatrách je rys, vlk a jeleň.",
+      "l1": "Le lièvre a de longues oreilles, mais l'ours a de petites oreilles.",
+      "l2": "Zajac má dlhé uši, ale medveď má malé uši.",
       "tokens_l1": [
-        "Dans les Tatras,",
-        "il y a",
-        "un lynx,",
-        "un loup",
-        "et un cerf."
+        "Le lièvre",
+        "a de longues oreilles,",
+        "mais",
+        "l'ours",
+        "a de petites oreilles."
       ],
       "tokens_l2": [
-        "V Tatrách",
-        "je",
-        "rys,",
-        "vlk",
-        "a jeleň."
+        "Zajac",
+        "má dlhé uši,",
+        "ale",
+        "medveď",
+        "má malé uši."
       ]
     },
     {
-      "id": "order-nekrmte-zvierat-pros-m-idem-po-chodn-ku",
-      "type": "order",
-      "l1": "Ne nourrissez pas les animaux, s'il vous plaît ! Je reste sur le sentier.",
-      "l2": "Nekrmte zvieratá, prosím! Idem po chodníku.",
-      "tokens_l1": [
-        "Ne nourrissez pas",
-        "les animaux,",
-        "s'il vous plaît !",
-        "Je reste",
-        "sur le sentier."
-      ],
-      "tokens_l2": [
-        "Nekrmte",
-        "zvieratá,",
-        "prosím!",
-        "Idem",
-        "po chodníku."
-      ]
-    },
-    {
-      "id": "match-svi",
+      "id": "match-svist",
       "type": "match",
       "l1": [
         "la marmotte",
-        "le chamois",
+        "l'ours",
         "l'aigle",
-        "le lynx"
+        "le chamois"
       ],
       "l2": [
         "svišť",
-        "kamzík",
+        "medveď",
         "orol",
-        "rys"
+        "kamzík"
       ]
     },
     {
-      "id": "match-u-i",
+      "id": "match-usi",
       "type": "match",
       "l1": [
         "les oreilles",
+        "les pattes",
         "les ailes",
-        "plus grand",
-        "plus fort"
+        "la queue"
       ],
       "l2": [
         "uši",
+        "labky",
         "krídla",
-        "väčší",
-        "silnejší"
-      ]
-    },
-    {
-      "id": "match-ja-som-l-ka-ty-si-zaja-ica",
-      "type": "match",
-      "l1": [
-        "Moi, je suis un renard. Toi, tu es une hase.",
-        "Regarde, c'est un chamois ! Il est rapide !",
-        "Il y a deux écureuils et trois chouettes ici.",
-        "Ne nourrissez pas les animaux, s'il vous plaît ! Je reste sur le sentier."
-      ],
-      "l2": [
-        "Ja som líška. Ty si zajačica.",
-        "Pozri, to je kamzík! Je rýchly!",
-        "Sú tu dve veveričky a tri sovy.",
-        "Nekrmte zvieratá, prosím! Idem po chodníku."
+        "chvost"
       ]
     }
   ]

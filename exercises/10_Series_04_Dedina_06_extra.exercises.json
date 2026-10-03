@@ -3,233 +3,175 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "listen-kam-ide-idem-do-obchodu",
-      "type": "listen",
-      "l1": "Où vas-tu ? Je vais au magasin.",
-      "l2": "Kam ideš? Idem do obchodu.",
+      "id": "qcm-kam-ides-mato",
+      "type": "qcm",
+      "l1": "Où vas-tu, Maťo ?",
+      "l2": "Kam ideš, Maťo?",
       "choices_l1": [
-        "Où habites-tu ? Je vais au magasin.",
-        "Où vas-tu ? Je vais au village.",
-        "Où vas-tu ? J'habite au magasin."
-      ]
-    },
-    {
-      "id": "listen-katka-ide-do-pek-rne-a-ma-o-ide-do-mesta",
-      "type": "listen",
-      "l1": "Katka va à la boulangerie et Maťo va en ville.",
-      "l2": "Katka ide do pekárne a Maťo ide do mesta.",
-      "choices_l1": [
-        "Maťo va à la boulangerie et Katka va en ville.",
-        "Katka va au magasin et Maťo va en ville.",
-        "Katka va à la boulangerie et Maťo va au village."
-      ]
-    },
-    {
-      "id": "listen-b-vam-v-nore-a-idem-do-dediny",
-      "type": "listen",
-      "l1": "J'habite dans un terrier et je vais au village.",
-      "l2": "Bývam v nore a idem do dediny.",
-      "choices_l1": [
-        "J'habite dans un nid et je vais au village.",
-        "J'habite dans un terrier et je vais en ville.",
-        "J'habite au village et je vais dans un terrier."
-      ]
-    },
-    {
-      "id": "listen-ko-ko-stoj-chlieb-chlieb-stoj-dve-eur",
-      "type": "listen",
-      "l1": "Combien coûte le pain ? Le pain coûte deux euros.",
-      "l2": "Koľko stojí chlieb? Chlieb stojí dve eurá.",
-      "choices_l1": [
-        "Combien coûte le lait ? Le lait coûte deux euros.",
-        "Combien coûte le pain ? Le pain coûte trois euros.",
-        "Combien coûte le pain ? Le pain coûte un euro."
-      ]
-    },
-    {
-      "id": "listen-mlieko-je-lacn-pros-m-si-mlieko",
-      "type": "listen",
-      "l1": "Le lait n'est pas cher. Je voudrais du lait.",
-      "l2": "Mlieko je lacné. Prosím si mlieko.",
-      "choices_l1": [
-        "Le lait est cher. Je voudrais du lait.",
-        "Le pain n'est pas cher. Je voudrais du lait.",
-        "Le lait n'est pas cher. Je voudrais du pain."
-      ]
-    },
-    {
-      "id": "listen-po-kaj-andrea-aj-ja-idem",
-      "type": "listen",
-      "l1": "Attends, Andrea ! Moi aussi, j'y vais !",
-      "l2": "Počkaj, Andrea! Aj ja idem!",
-      "choices_l1": [
-        "Viens, Andrea ! Moi aussi, j'y vais !",
-        "Attends, Katka ! Moi aussi, j'y vais !",
-        "Attends, Andrea ! Moi, je n'y vais pas !"
-      ]
-    },
-    {
-      "id": "listen-pozri-to-je-pek-re-po-r-chlo",
-      "type": "listen",
-      "l1": "Regarde, c'est une boulangerie ! Viens vite !",
-      "l2": "Pozri, to je pekáreň! Poď rýchlo!",
-      "choices_l1": [
-        "Regarde, c'est un magasin ! Viens vite !",
-        "Attends, c'est une boulangerie ! Viens vite !",
-        "Regarde, c'est une boulangerie ! Viens doucement !"
-      ]
-    },
-    {
-      "id": "listen-dobr-de-p-n-orol-m-te-jablko",
-      "type": "listen",
-      "l1": "Bonjour, Monsieur Orol ! Vous avez une pomme ?",
-      "l2": "Dobrý deň, pán Orol! Máte jablko?",
-      "choices_l1": [
-        "Salut, Monsieur Orol ! Vous avez une pomme ?",
-        "Bonjour, Madame Orol ! Vous avez une pomme ?",
-        "Bonjour, Monsieur Orol ! Vous avez une poire ?"
-      ]
-    },
-    {
-      "id": "listen-ahoj-katka-m-chlieb",
-      "type": "listen",
-      "l1": "Salut, Katka ! Tu as du pain ?",
-      "l2": "Ahoj, Katka! Máš chlieb?",
-      "choices_l1": [
-        "Bonjour, Katka ! Tu as du pain ?",
-        "Salut, Katka ! Vous avez du pain ?",
-        "Salut, Andrea ! Tu as du pain ?"
-      ]
-    },
-    {
-      "id": "listen-akujem-dovidenia-idem-domov",
-      "type": "listen",
-      "l1": "Merci, au revoir ! Je rentre à la maison.",
-      "l2": "Ďakujem, dovidenia! Idem domov.",
-      "choices_l1": [
-        "Merci, bonjour ! Je rentre à la maison.",
-        "Merci, au revoir ! Je vais au village.",
-        "Pardon, au revoir ! Je rentre à la maison."
-      ]
-    },
-    {
-      "id": "listen-ko-ko-to-stoj-spolu-tri-eur",
-      "type": "listen",
-      "l1": "Combien ça coûte en tout ? Trois euros.",
-      "l2": "Koľko to stojí spolu? Tri eurá.",
-      "choices_l1": [
-        "Combien ça coûte en tout ? Deux euros.",
-        "Combien ça coûte ? Trois euros.",
-        "Combien ça coûte en tout ? Quatre euros."
-      ]
-    },
-    {
-      "id": "listen-m-m-hlad-idem-do-pek-rne-a-pros-m-si-chlieb",
-      "type": "listen",
-      "l1": "J'ai faim. Je vais à la boulangerie et je voudrais du pain.",
-      "l2": "Mám hlad. Idem do pekárne a prosím si chlieb.",
-      "choices_l1": [
-        "J'ai soif. Je vais à la boulangerie et je voudrais du pain.",
-        "J'ai faim. Je vais au magasin et je voudrais du pain.",
-        "J'ai faim. Je vais à la boulangerie et je voudrais du lait."
-      ]
-    },
-    {
-      "id": "blank-kam-ide-idem-do-obchodu",
-      "type": "fill-blank",
-      "l1": "Où vas-tu ? Je vais au magasin.",
-      "l2": "Kam ideš? Idem do obchodu.",
-      "missing_l1": "magasin",
-      "missing_l2": "obchodu",
-      "blank_index_l1": 6,
-      "blank_index_l2": 4,
-      "choices_l1": [
-        "village",
-        "ville",
-        "boulangerie"
+        "Combien ça coûte, Maťo ?",
+        "Attends, Maťo !",
+        "Regarde, Maťo !"
       ],
       "choices_l2": [
-        "dediny",
-        "mesta",
-        "pekárne"
-      ],
-      "show_translation": true
+        "Koľko to stojí, Maťo?",
+        "Počkaj, Maťo!",
+        "Pozri, Maťo!"
+      ]
     },
     {
-      "id": "blank-dobr-de-pani-je-kov-m-te-chlieb-a-mlieko",
+      "id": "qcm-kolko-to-stoji-spolu",
+      "type": "qcm",
+      "l1": "Combien ça coûte en tout ?",
+      "l2": "Koľko to stojí spolu?",
+      "choices_l1": [
+        "Combien ça coûte ?",
+        "Où vas-tu ?",
+        "Viens ici !"
+      ],
+      "choices_l2": [
+        "Koľko to stojí?",
+        "Kam ideš?",
+        "Poď sem!"
+      ]
+    },
+    {
+      "id": "listen-idem-do-pekarne-mam-hlad",
+      "type": "listen",
+      "l1": "Je vais à la boulangerie. J'ai faim.",
+      "l2": "Idem do pekárne. Mám hlad.",
+      "choices_l1": [
+        "Je vais au magasin. J'ai faim.",
+        "Je rentre à la maison. J'ai faim.",
+        "Je vais à la boulangerie. Je veux du pain."
+      ]
+    },
+    {
+      "id": "listen-chlieb-stoji-dve-eura",
+      "type": "listen",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "choices_l1": [
+        "Le pain coûte cinq euros.",
+        "Le lait coûte deux euros.",
+        "Le pain coûte un euro."
+      ]
+    },
+    {
+      "id": "listen-to-je-drahe-prosim-si-chlieb-a-mlieko",
+      "type": "listen",
+      "l1": "C'est cher ! Je voudrais du pain et du lait.",
+      "l2": "To je drahé! Prosím si chlieb a mlieko.",
+      "choices_l1": [
+        "Ce n'est pas cher ! Je voudrais du pain et du lait.",
+        "C'est cher ! Je voudrais du pain et du miel.",
+        "C'est cher ! Je voudrais du lait."
+      ]
+    },
+    {
+      "id": "listen-mlieko-je-lacne-jedno-euro",
+      "type": "listen",
+      "l1": "Le lait n'est pas cher. Un euro.",
+      "l2": "Mlieko je lacné. Jedno euro.",
+      "choices_l1": [
+        "Le lait est cher. Un euro.",
+        "Le lait n'est pas cher. Deux euros.",
+        "Le pain n'est pas cher. Un euro."
+      ]
+    },
+    {
+      "id": "listen-chlieb-a-mlieko-tri-eura",
+      "type": "listen",
+      "l1": "Du pain et du lait : trois euros.",
+      "l2": "Chlieb a mlieko: tri eurá.",
+      "choices_l1": [
+        "Du pain et du lait : deux euros.",
+        "Du pain et du miel : trois euros.",
+        "Du pain et du lait : cinq euros."
+      ]
+    },
+    {
+      "id": "listen-pockaj-ides-domov-aj-ja-idem-domov",
+      "type": "listen",
+      "l1": "Attends ! Tu rentres ? Moi aussi, je rentre !",
+      "l2": "Počkaj! Ideš domov? Aj ja idem domov!",
+      "choices_l1": [
+        "Attends ! Tu vas au village ? Moi aussi, je rentre !",
+        "Regarde ! Tu rentres ? Moi aussi, je rentre !",
+        "Attends ! Tu rentres ? Moi aussi, je vais au magasin !"
+      ]
+    },
+    {
+      "id": "blank-mlieko-je-lacne-jedno-euro",
       "type": "fill-blank",
-      "l1": "Bonjour, Madame Ježková ! Vous avez du pain et du lait ?",
-      "l2": "Dobrý deň, pani Ježková! Máte chlieb a mlieko?",
-      "missing_l1": "Madame",
-      "missing_l2": "pani",
+      "l1": "Le lait n'est pas cher. Un euro.",
+      "l2": "Mlieko je lacné. Jedno euro.",
+      "missing_l1": "lait",
+      "missing_l2": "Mlieko",
       "blank_index_l1": 1,
-      "blank_index_l2": 2,
+      "blank_index_l2": 0,
       "choices_l1": [
-        "Monsieur",
-        "Salut",
-        "Merci"
+        "pain",
+        "miel",
+        "magasin"
       ],
       "choices_l2": [
-        "pán",
-        "Ahoj",
-        "Ďakujem"
+        "Chlieb",
+        "Med",
+        "Pekáreň"
       ],
       "show_translation": true
     },
     {
-      "id": "order-katka-ide-do-pek-rne-a-ma-o-ide-do-mesta",
-      "type": "order",
-      "l1": "Katka va à la boulangerie et Maťo va en ville.",
-      "l2": "Katka ide do pekárne a Maťo ide do mesta.",
-      "tokens_l1": [
-        "Katka va",
-        "à la boulangerie",
-        "et",
-        "Maťo va",
-        "en ville."
+      "id": "blank-chlieb-stoji-dve-eura",
+      "type": "fill-blank",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "missing_l1": "coûte",
+      "missing_l2": "stojí",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "va",
+        "voudrais",
+        "a"
       ],
-      "tokens_l2": [
-        "Katka ide",
-        "do pekárne",
-        "a",
-        "Maťo ide",
-        "do mesta."
-      ]
+      "choices_l2": [
+        "ide",
+        "máte",
+        "pozri"
+      ],
+      "show_translation": true
     },
     {
-      "id": "order-ko-ko-stoj-chlieb-chlieb-stoj-dve-eur",
+      "id": "order-chlieb-stoji-dve-eura",
       "type": "order",
-      "l1": "Combien coûte le pain ? Le pain coûte deux euros.",
-      "l2": "Koľko stojí chlieb? Chlieb stojí dve eurá.",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
       "tokens_l1": [
-        "Combien coûte",
-        "le pain ?",
-        "Le pain coûte",
+        "Le pain",
+        "coûte",
         "deux euros."
       ],
       "tokens_l2": [
-        "Koľko stojí",
-        "chlieb?",
-        "Chlieb stojí",
+        "Chlieb",
+        "stojí",
         "dve eurá."
       ]
     },
     {
-      "id": "order-akujem-dovidenia-idem-domov",
+      "id": "order-mlieko-je-lacne-jedno-euro",
       "type": "order",
-      "l1": "Merci, au revoir ! Je rentre à la maison.",
-      "l2": "Ďakujem, dovidenia! Idem domov.",
+      "l1": "Le lait n'est pas cher. Un euro.",
+      "l2": "Mlieko je lacné. Jedno euro.",
       "tokens_l1": [
-        "Merci,",
-        "au revoir !",
-        "Je rentre",
-        "à la maison."
+        "Le lait",
+        "n'est pas cher.",
+        "Un euro."
       ],
       "tokens_l2": [
-        "Ďakujem,",
-        "dovidenia!",
-        "Idem",
-        "domov."
+        "Mlieko",
+        "je lacné.",
+        "Jedno euro."
       ]
     },
     {
@@ -237,47 +179,31 @@
       "type": "match",
       "l1": [
         "le village",
-        "la boulangerie",
-        "cher",
-        "pas cher"
+        "la ville",
+        "le magasin",
+        "la boulangerie"
       ],
       "l2": [
         "dedina",
-        "pekáreň",
+        "mesto",
+        "obchod",
+        "pekáreň"
+      ]
+    },
+    {
+      "id": "match-drahe",
+      "type": "match",
+      "l1": [
+        "cher",
+        "pas cher",
+        "attends",
+        "regarde"
+      ],
+      "l2": [
         "drahé",
-        "lacné"
-      ]
-    },
-    {
-      "id": "match-po",
-      "type": "match",
-      "l1": [
-        "viens",
-        "va",
-        "vous",
-        "vous avez"
-      ],
-      "l2": [
-        "poď",
-        "choď",
-        "vy",
-        "máte"
-      ]
-    },
-    {
-      "id": "match-kam-ide-idem-do-obchodu",
-      "type": "match",
-      "l1": [
-        "Où vas-tu ? Je vais au magasin.",
-        "Le lait n'est pas cher. Je voudrais du lait.",
-        "Salut, Katka ! Tu as du pain ?",
-        "Merci, au revoir ! Je rentre à la maison."
-      ],
-      "l2": [
-        "Kam ideš? Idem do obchodu.",
-        "Mlieko je lacné. Prosím si mlieko.",
-        "Ahoj, Katka! Máš chlieb?",
-        "Ďakujem, dovidenia! Idem domov."
+        "lacné",
+        "počkaj",
+        "pozri"
       ]
     }
   ]

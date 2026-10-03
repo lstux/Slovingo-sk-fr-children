@@ -139,9 +139,12 @@ Explication en quelques phrases, tableau d'exemples.
 ## 9. Fiche 06 : extra
 
 - Tableau de **tout** le vocabulaire de la série, mots signalés du dialogue compris
-- 15-18 cartes audio qui recombinent ce vocabulaire dans des phrases inédites
-- Aucun mot nouveau, aucune forme nouvelle « à écouter »
-- Sert de matière première aux exercices
+- Puis `## Des mini-dialogues pour tout mélanger` : **3 ou 4 petites scènes** (3 à 6 répliques chacune), pas une liste de phrases. 15-18 cartes audio au total
+- Chaque scène : `### Scène N — Titre`, puis une ligne de contexte en français `{{fr:…}}`, puis les cartes avec l'avatar du locuteur après le `!` (`! 🐹 Kto je to?`)
+- Les scènes recombinent le vocabulaire dans des situations nouvelles (pas de reprise du dialogue de la fiche 05). Elles peuvent faire un clin d'œil au gag de la série (Andrea qui avait peur du renard, la brebis et la bryndza)
+- Aucun mot nouveau, aucune forme nouvelle « à écouter » (une forme « à écouter » du dialogue 05 peut être reprise telle quelle, et figure alors dans le tableau)
+- Le Coin slovaque de fin de fiche (Kit de Survie) reste après les scènes
+- Sert de matière première aux exercices : chaque exercice reprend une carte entière, mot pour mot
 
 ## 10. Cartes audio
 
