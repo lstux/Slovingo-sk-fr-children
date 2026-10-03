@@ -5,12 +5,12 @@
     {
       "id": "qcm-chcete",
       "type": "qcm",
-      "l1": "vous voulez",
+      "l1": "vous voulez (à plusieurs)",
       "l2": "chcete",
       "choices_l1": [
         "tu veux",
         "je veux",
-        "il veut"
+        "il ou elle veut"
       ],
       "choices_l2": [
         "chceš",
@@ -19,46 +19,46 @@
       ]
     },
     {
-      "id": "qcm-s",
+      "id": "qcm-nejem",
       "type": "qcm",
-      "l1": "avec",
-      "l2": "s",
+      "l1": "je ne mange pas",
+      "l2": "nejem",
       "choices_l1": [
-        "sur",
-        "dans",
-        "et"
+        "je ne veux pas",
+        "je mange",
+        "je n'aime pas"
       ],
       "choices_l2": [
-        "na",
-        "v",
-        "a"
+        "nechcem",
+        "jem",
+        "nechutí mi"
       ]
     },
     {
-      "id": "qcm-nikdy",
+      "id": "qcm-bryndzov-halu-ky",
       "type": "qcm",
-      "l1": "jamais",
-      "l2": "nikdy",
+      "l1": "les halušky à la bryndza (le plat)",
+      "l2": "bryndzové halušky",
       "choices_l1": [
-        "encore",
-        "très",
-        "aussi"
+        "la soupe",
+        "le fromage",
+        "le petit-déjeuner"
       ],
       "choices_l2": [
-        "ešte",
-        "veľmi",
-        "aj"
+        "polievka",
+        "syr",
+        "raňajky"
       ]
     },
     {
-      "id": "listen-ahoj-deti-je-obed-chcete-halu-ky",
+      "id": "listen-ahoj-deti-obed-chcete-halu-ky",
       "type": "listen",
-      "l1": "Salut, les enfants ! C'est l'heure du déjeuner ! Vous voulez des halušky ?",
-      "l2": "Ahoj, deti! Je obed! Chcete halušky?",
+      "l1": "Salut, les enfants ! À table ! Vous voulez des halušky ?",
+      "l2": "Ahoj, deti! Obed! Chcete halušky?",
       "choices_l1": [
-        "Salut, les enfants ! C'est l'heure du dîner ! Vous voulez des halušky ?",
-        "Salut, les enfants ! C'est l'heure du déjeuner ! Tu veux des halušky ?",
-        "Salut, les enfants ! C'est l'heure du déjeuner ! Vous voulez de la soupe ?"
+        "Salut, les enfants ! À table ! Tu veux des halušky ?",
+        "Salut, les enfants ! À table ! Vous voulez de la soupe ?",
+        "Bon appétit, les enfants ! Vous voulez des halušky ?"
       ]
     },
     {
@@ -73,10 +73,10 @@
       ]
     },
     {
-      "id": "listen-ja-nie-bryndzu-nejem-to-je-moja-rodina",
+      "id": "listen-ja-nie-ja-nejem-bryndzu-to-je-moja-rodina",
       "type": "listen",
       "l1": "Moi ? Non ! Je ne mange pas de bryndza. C'est ma famille !",
-      "l2": "Ja? Nie! Bryndzu nejem. To je moja rodina!",
+      "l2": "Ja? Nie! Ja nejem bryndzu. To je moja rodina!",
       "choices_l1": [
         "Moi ? Oui ! Je mange de la bryndza. C'est ma famille !",
         "Moi ? Non ! Je ne mange pas de bryndza. C'est ma maison !",
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "id": "listen-nie-l-ka-chce-bobule-nie-m-a",
+      "id": "listen-no-uf-l-ka-chce-bobule",
       "type": "listen",
-      "l1": "Non ! Le renard veut des baies, pas moi !",
-      "l2": "Nie! Líška chce bobule, nie mňa!",
+      "l1": "Oui ! Ouf ! Le renard veut des baies !",
+      "l2": "Áno! Uf! Líška chce bobule!",
       "choices_l1": [
-        "Oui ! Le renard veut des baies, pas moi !",
-        "Non ! Le renard veut du miel, pas moi !",
-        "Non ! Le renard a peur, pas moi !"
+        "Non ! Ouf ! Le renard veut des baies !",
+        "Oui ! Ouf ! Le renard veut du miel !",
+        "Oui ! Ouf ! Le renard a peur !"
       ]
     },
     {

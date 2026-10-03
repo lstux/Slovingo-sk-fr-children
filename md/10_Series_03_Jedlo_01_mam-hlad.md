@@ -97,6 +97,12 @@
 > Mám smäd = j'ai soif
 > Pijem vodu = je bois de l'eau
 
+! Mám hlad. Kde je jedlo?
+> J'ai faim. Où est la nourriture ?
+> Mám hlad = j'ai faim
+> Kde je = où est
+> jedlo = la nourriture
+
 ---
 
 ## 🇸🇰 Coin slovaque

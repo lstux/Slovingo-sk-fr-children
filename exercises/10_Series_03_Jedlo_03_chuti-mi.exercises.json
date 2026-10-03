@@ -67,25 +67,9 @@
       ]
     },
     {
-      "id": "qcm-citr-n-je-kysl",
-      "type": "qcm",
-      "l1": "le citron est acide",
-      "l2": "citrón je kyslý",
-      "choices_l1": [
-        "le miel est sucré",
-        "la poire est sucrée",
-        "la pomme est sucrée"
-      ],
-      "choices_l2": [
-        "med je sladký",
-        "hruška je sladká",
-        "jablko je sladké"
-      ]
-    },
-    {
       "id": "listen-chut-mi-jablko",
       "type": "listen",
-      "l1": "J'aime la pomme.",
+      "l1": "J'aime cette pomme.",
       "l2": "Chutí mi jablko.",
       "choices_l1": [
         "Je veux la pomme.",
@@ -195,7 +179,7 @@
     {
       "id": "blank-chut-mi-jablko",
       "type": "fill-blank",
-      "l1": "J'aime la pomme.",
+      "l1": "J'aime cette pomme.",
       "l2": "Chutí mi jablko.",
       "missing_l1": "pomme",
       "missing_l2": "jablko",
@@ -343,19 +327,19 @@
       ]
     },
     {
-      "id": "match-med-je-sladk",
+      "id": "match-chut-mi-jablko",
       "type": "match",
       "l1": [
-        "le miel est sucré",
-        "la poire est sucrée",
-        "la pomme est sucrée",
-        "le citron est acide"
+        "j'aime cette pomme",
+        "je n'aime pas la carotte",
+        "tu aimes le miel ?",
+        "le miel est sucré"
       ],
       "l2": [
-        "med je sladký",
-        "hruška je sladká",
-        "jablko je sladké",
-        "citrón je kyslý"
+        "chutí mi jablko",
+        "nechutí mi mrkva",
+        "chutí ti med?",
+        "med je sladký"
       ]
     }
   ]

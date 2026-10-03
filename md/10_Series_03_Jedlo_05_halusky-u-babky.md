@@ -2,7 +2,7 @@
 
 @ TODO_img/halusky-bryndza.jpg | TODO : choisir une image (halušky avec de la bryndza, plat traditionnel slovaque) sur Wikimedia Commons
 
-{{fr:C'est l'heure du déjeuner chez Babka Zuzana ! Au menu : le plat le plus célèbre de Slovaquie. Mais attention, la bryndza, c'est une histoire de famille…}}
+{{fr:C'est l'heure du déjeuner chez Babka Zuzana ! Au menu : le plat le plus célèbre de Slovaquie. Mais attention, ce fromage-là, c'est une histoire de famille…}}
 
 ---
 
@@ -10,55 +10,54 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| halušky | les halušky (petites pâtes de pomme de terre) |
-| bryndza | la bryndza (fromage de brebis) |
-| chcete | vous voulez |
-| s | avec |
-| nikdy | jamais |
+| chcete | vous voulez (à plusieurs) |
+| bryndzové halušky | les halušky à la bryndza (le plat) |
+| nejem | je ne mange pas |
 
-Les personnages :
+---
+
+## Les personnages
 
 - 🦊 Toi
 - 🐑 Babka Zuzana, une brebis
 - 🐹 Katka, une marmotte
 - 🐻 Maťo, un ours
-- 🐰 Andrea, ton amie, un lièvre
+- 🐰 Andrea, ton amie, une hase
 
 ---
 
 ## Le dialogue
 
-! 🐑 Ahoj, deti! Je obed! Chcete halušky?
-> Salut, les enfants ! C'est l'heure du déjeuner ! Vous voulez des halušky ?
+! 🐑 Ahoj, deti! Obed! Chcete halušky?
+> Salut, les enfants ! À table ! Vous voulez des halušky ?
 > deti = les enfants
-> Je obed = c'est l'heure du déjeuner
+> Obed = le déjeuner (à table !)
 > Chcete = vous voulez
 > halušky = des halušky
-+ Mot nouveau signalé : {{chcete}} = vous voulez (à plusieurs). Mot à écouter : {{halušky}}.
++ Mot nouveau signalé : {{chcete}} = vous voulez, quand on parle à plusieurs.
 
 ! 🐹 Áno, mám hlad!
 > Oui, j'ai faim !
 > Áno = oui
-> Mám hlad = j'ai faim
+> mám hlad = j'ai faim
 
-! 🐻 Ja chcem halušky s bryndzou!
-> Moi, je veux des halušky avec de la bryndza !
+! 🐻 Áno! Ja chcem bryndzové halušky!
+> Oui ! Moi, je veux des halušky à la bryndza !
 > Ja chcem = moi, je veux
-> halušky = des halušky
-> s bryndzou = avec de la bryndza
-+ Mot nouveau signalé : {{s}} = avec. Après {{s}}, {{bryndza}} devient {{bryndzou}}. À écouter !
+> bryndzové halušky = des halušky à la bryndza
++ Mot nouveau signalé : {{bryndzové halušky}}, le plat le plus célèbre de Slovaquie. La {{bryndza}}, c'est un fromage de brebis.
 
-! 🐰 Aj ja! Babka, ty chceš halušky s bryndzou?
-> Moi aussi ! Babka, tu veux des halušky avec de la bryndza ?
+! 🐰 Aj ja! Babka, ty chceš halušky?
+> Moi aussi ! Babka, tu veux des halušky ?
 > Aj ja = moi aussi
 > ty chceš = tu veux
-> halušky s bryndzou = des halušky avec de la bryndza
+> halušky = des halušky
 
-! 🐑 Ja? Nie! Bryndzu nejem. To je moja rodina!
+! 🐑 Ja? Nie! Ja nejem bryndzu. To je moja rodina!
 > Moi ? Non ! Je ne mange pas de bryndza. C'est ma famille !
 > Nie = non
 > nejem = je ne mange pas
-> bryndzu = de la bryndza
+> bryndzu = de bryndza
 > To je = c'est
 > moja rodina = ma famille
 + Mot nouveau signalé : {{nejem}} = je ne mange pas. La bryndza est un fromage de brebis… et Babka Zuzana est une brebis ! 😄
@@ -79,20 +78,17 @@ Les personnages :
 > aj = aussi
 > bobule = des baies
 
-! 🐹 Líška chce bobule? Chce Andreu?
-> Le renard veut des baies ? Il veut Andrea ?
-> Líška chce = le renard veut
+! 🐹 Líška chce bobule?
+> Le renard veut des baies ?
+> Líška = le renard
+> chce = veut
 > bobule = des baies
-> Chce = il veut
-> Andreu = Andrea
-+ Après {{chce}}, {{Andrea}} devient {{Andreu}}, comme {{mama}} devient {{mamu}}.
 
-! 🐰 Nie! Líška chce bobule, nie mňa!
-> Non ! Le renard veut des baies, pas moi !
-> Nie = non
+! 🐰 Áno! Uf! Líška chce bobule!
+> Oui ! Ouf ! Le renard veut des baies !
+> Áno = oui
 > Líška chce bobule = le renard veut des baies
-> nie mňa = pas moi
-+ Mot nouveau signalé : {{mňa}} = moi (quand on est « voulu »). À écouter, pas à retenir !
++ Pourquoi Andrea dit « ouf » ? Un renard qui préfère les baies aux lièvres, c'est une très bonne nouvelle pour une hase ! 😅
 
 ! 🦊 Áno! Bobule sú sladké!
 > Oui ! Les baies sont sucrées !
@@ -110,21 +106,18 @@ Les personnages :
 > Je to = c'est
 > výborné = délicieux
 
-! 🐹 Chutí mi polievka aj chlieb. Nikdy nejem syr!
-> J'aime la soupe et le pain. Je ne mange jamais de fromage !
-> Chutí mi = j'aime
-> polievka aj chlieb = la soupe et le pain
-> Nikdy nejem = je ne mange jamais
-> syr = de fromage
-+ Mot nouveau signalé : {{nikdy}} = jamais.
+! 🦊 Ďakujem, Babka! Je to výborné!
+> Merci, Babka ! C'est délicieux !
+> Ďakujem = merci
+> Je to výborné = c'est délicieux
 
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Les}} {{bryndzové halušky}} {{fr:sont le plat national de la Slovaquie : des petites pâtes de pomme de terre avec du fromage de brebis et, parfois, des petits morceaux de lard grillé.}} 🇸🇰
+{{fr:Les}} {{bryndzové halušky}} {{fr:sont le plat national de la Slovaquie : des petites pâtes de pomme de terre avec un fromage fait surtout de lait de brebis, et souvent des petits morceaux de lard grillé.}} 🇸🇰
 
-{{fr:Les bergers des Tatras fabriquent ce fromage dans les}} {{salaše}}{{fr:, les fermes de montagne. Et toi, tu goûterais ?}}
+{{fr:Dans les bergeries de montagne, les}} {{salaše}}{{fr:, les bergers font le fromage de brebis. Ensuite, avec ce fromage, on fabrique la bryndza. Et toi, tu goûterais ?}}
 
 ---
 
@@ -137,14 +130,15 @@ Les personnages :
 > ale = mais
 > chcem halušky = je veux des halušky
 
-! Bobule sú sladké a chutí mi.
-> Les baies sont sucrées et j'aime ça.
-> Bobule sú sladké = les baies sont sucrées
+! Jablko je sladké a chutí mi.
+> La pomme est sucrée et j'aime ça.
+> Jablko je sladké = la pomme est sucrée
 > a = et
 > chutí mi = j'aime
 
-! Nikdy nejem med!
-> Je ne mange jamais de miel !
-> Nikdy = jamais
-> nejem = je ne mange pas
+! Nejem med, ale chcem bobule.
+> Je ne mange pas de miel, mais je veux des baies.
+> Nejem = je ne mange pas
 > med = de miel
+> ale = mais
+> chcem bobule = je veux des baies

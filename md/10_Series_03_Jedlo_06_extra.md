@@ -18,7 +18,7 @@
 | mlieko | le lait |
 | syr | le fromage |
 | polievka | la soupe |
-| čaj | le thé |
+| čaj | le thé, la tisane |
 | jablko | la pomme |
 | hruška | la poire |
 | mrkva | la carotte |
@@ -26,24 +26,25 @@
 | orechy | les noix |
 | bobule | les baies |
 | citrón | le citron |
+| bryndzové halušky | les halušky à la bryndza |
 | raňajky | le petit-déjeuner |
 | obed | le déjeuner |
 | večera | le dîner |
-| jem | je mange |
+| ráno / večer | le matin / le soir |
+| jem / nejem | je mange / je ne mange pas |
 | pijem | je bois |
-| chcem | je veux |
+| chcem / nechcem | je veux / je ne veux pas |
 | chceš | tu veux |
 | chce | il ou elle veut |
 | chcete | vous voulez |
-| nechcem | je ne veux pas |
-| chutí mi | j'aime |
-| nechutí mi | je n'aime pas |
-| dobré | bon |
+| chutí mi / nechutí mi | j'aime / je n'aime pas |
+| chutí ti | tu aimes |
+| dobré / dobrá | bon / bonne |
 | výborné | délicieux |
-| sladký | sucré |
-| kyslý | acide |
-| s | avec |
-| nikdy | jamais |
+| sladký / sladká / sladké | sucré |
+| kyslý / kyslá / kyslé | acide |
+| rýchlo / pomaly | vite / lentement |
+| na | pour (un repas) |
 | ešte | encore |
 
 ---
@@ -96,33 +97,29 @@
 > ale = mais
 > chcem bobule = je veux des baies
 
-! Máš smäd? Pijem vodu aj čaj.
-> Tu as soif ? Je bois de l'eau et du thé.
-> Máš smäd = tu as soif
+! Mám smäd. Pijem vodu aj čaj.
+> J'ai soif. Je bois de l'eau et du thé.
+> Mám smäd = j'ai soif
 > Pijem = je bois
 > vodu aj čaj = de l'eau et du thé
 
-! Chceš hrušku alebo jablko?
-> Tu veux une poire ou une pomme ?
+! Chceš hrušku? Chceš jablko?
+> Tu veux une poire ? Tu veux une pomme ?
 > Chceš = tu veux
 > hrušku = une poire
-> alebo = ou
 > jablko = une pomme
-+ Mot à écouter : {{alebo}} = ou.
 
 ! Chcete orechy? Áno, prosím!
-> Vous voulez des noix ? Oui, s'il vous plaît !
+> Vous voulez des noix ? Oui, s'il te plaît !
 > Chcete = vous voulez
 > orechy = des noix
-> Áno, prosím = oui, s'il vous plaît
+> Áno, prosím = oui, s'il te plaît
++ Babka parle à plusieurs enfants ({{chcete}}), mais chaque enfant lui répond en la tutoyant.
 
-! Nikdy nejem bryndzu, ale halušky mi chutia.
-> Je ne mange jamais de bryndza, mais j'aime les halušky.
-> Nikdy nejem = je ne mange jamais
-> bryndzu = de bryndza
-> ale = mais
-> halušky mi chutia = j'aime les halušky
-+ Au pluriel : {{chutia}} ! « Halušky » est pluriel, donc {{chutia}}. À écouter.
+! Bryndzové halušky? Áno, prosím!
+> Des halušky à la bryndza ? Oui, s'il te plaît !
+> Bryndzové halušky = des halušky à la bryndza
+> Áno, prosím = oui, s'il te plaît
 
 ! Chcem ešte med, prosím.
 > Je veux encore du miel, s'il te plaît.

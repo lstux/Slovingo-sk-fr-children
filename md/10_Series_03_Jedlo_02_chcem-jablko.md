@@ -35,7 +35,7 @@
 
 ### Ce que je veux : certains mots changent
 
-{{fr:Comme après}} {{mám}}{{fr:, les mots en -a finissent en -u. Les autres ne changent pas.}}
+{{fr:Comme après}} {{pijem}} {{fr:(}}{{vodu}}{{fr:), les mots en -a finissent en -u. Les autres ne changent pas.}}
 
 | Slovenčina | Français |
 |------------|----------|

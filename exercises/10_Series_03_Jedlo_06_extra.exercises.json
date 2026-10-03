@@ -69,24 +69,24 @@
       ]
     },
     {
-      "id": "listen-m-sm-d-pijem-vodu-aj-aj",
+      "id": "listen-m-m-sm-d-pijem-vodu-aj-aj",
       "type": "listen",
-      "l1": "Tu as soif ? Je bois de l'eau et du thé.",
-      "l2": "Máš smäd? Pijem vodu aj čaj.",
+      "l1": "J'ai soif. Je bois de l'eau et du thé.",
+      "l2": "Mám smäd. Pijem vodu aj čaj.",
       "choices_l1": [
-        "Tu as faim ? Je bois de l'eau et du thé.",
-        "Tu as soif ? Je bois du lait et du thé.",
-        "Tu as soif ? Je mange de l'eau et du thé."
+        "J'ai faim. Je bois de l'eau et du thé.",
+        "J'ai soif. Je bois du lait et du thé.",
+        "J'ai soif. Je mange de l'eau et du thé."
       ]
     },
     {
       "id": "listen-chcete-orechy-no-pros-m",
       "type": "listen",
-      "l1": "Vous voulez des noix ? Oui, s'il vous plaît !",
+      "l1": "Vous voulez des noix ? Oui, s'il te plaît !",
       "l2": "Chcete orechy? Áno, prosím!",
       "choices_l1": [
         "Tu veux des noix ? Oui, s'il te plaît !",
-        "Vous voulez des baies ? Oui, s'il vous plaît !",
+        "Vous voulez des baies ? Oui, s'il te plaît !",
         "Vous voulez des noix ? Non, merci !"
       ]
     },
@@ -177,13 +177,13 @@
       "show_translation": true
     },
     {
-      "id": "blank-m-sm-d-pijem-vodu-aj-aj",
+      "id": "blank-m-m-sm-d-pijem-vodu-aj-aj",
       "type": "fill-blank",
-      "l1": "Tu as soif ? Je bois de l'eau et du thé.",
-      "l2": "Máš smäd? Pijem vodu aj čaj.",
+      "l1": "J'ai soif. Je bois de l'eau et du thé.",
+      "l2": "Mám smäd. Pijem vodu aj čaj.",
       "missing_l1": "thé",
       "missing_l2": "čaj",
-      "blank_index_l1": 10,
+      "blank_index_l1": 8,
       "blank_index_l2": 5,
       "choices_l1": [
         "lait",
@@ -289,19 +289,19 @@
       ]
     },
     {
-      "id": "match-jem",
+      "id": "match-pijem",
       "type": "match",
       "l1": [
-        "je mange",
         "je bois",
-        "je veux",
-        "tu veux"
+        "tu veux",
+        "il ou elle veut",
+        "vous voulez"
       ],
       "l2": [
-        "jem",
         "pijem",
-        "chcem",
-        "chceš"
+        "chceš",
+        "chce",
+        "chcete"
       ]
     }
   ]

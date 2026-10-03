@@ -17,6 +17,7 @@
 | syr | le fromage |
 | čaj | le thé, la tisane |
 | na | pour (un repas) |
+| dobrá | bonne |
 
 ---
 
@@ -95,7 +96,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:En Slovaquie, le déjeuner commence presque toujours par une soupe. Et le repas se termine par un}} {{Ďakujem, bolo to výborné}}{{fr:, « merci, c'était délicieux ! »}} 🍲
+{{fr:En Slovaquie, le déjeuner commence très souvent par une soupe. Et le repas se termine par un}} {{Ďakujem, bolo to výborné}}{{fr:, « merci, c'était délicieux ! »}} 🍲
 
 ---
 
@@ -103,11 +104,24 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| dobrá | bonne |
+| ráno | le matin |
+| večer | le soir |
 
 ---
 
 ## Encore quelques phrases
+
+! Ráno pijem čaj.
+> Le matin, je bois du thé.
+> Ráno = le matin
+> pijem = je bois
+> čaj = du thé
+
+! Večer jem syr.
+> Le soir, je mange du fromage.
+> Večer = le soir
+> jem = je mange
+> syr = du fromage
 
 ! Na raňajky chcem med a chlieb.
 > Pour le petit-déjeuner, je veux du miel et du pain.

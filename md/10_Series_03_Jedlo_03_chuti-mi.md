@@ -18,8 +18,6 @@
 | sladký | sucré (masculin) |
 | sladká | sucrée (féminin) |
 | sladké | sucré (neutre) |
-| kyslý | acide (masculin) |
-| citrón | le citron |
 
 ---
 
@@ -31,30 +29,29 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| chutí mi jablko | j'aime la pomme |
+| chutí mi jablko | j'aime cette pomme |
 | nechutí mi mrkva | je n'aime pas la carotte |
 | chutí ti med? | tu aimes le miel ? |
 
-### Sucré ou acide ?
+### Sucré !
 
-{{fr:Le mot qui décrit suit le genre, comme pour les gens.}}
+{{fr:Le mot qui décrit suit le genre, comme}} {{milý}} {{fr:et}} {{milá}}{{fr:. Et le neutre a sa fin à lui !}}
 
 | Slovenčina | Français |
 |------------|----------|
 | med je sladký | le miel est sucré |
 | hruška je sladká | la poire est sucrée |
 | jablko je sladké | la pomme est sucrée |
-| citrón je kyslý | le citron est acide |
 
 ---
 
 ## Des phrases
 
 ! Chutí mi jablko.
-> J'aime la pomme.
-> Chutí mi = j'aime
+> J'aime cette pomme.
+> Chutí mi = j'aime (le goût)
 > jablko = la pomme
-+ Mot à mot : « la pomme a bon goût pour moi ». Ça marche pour tout ce qui se mange !
++ Mot à mot : « cette pomme a bon goût pour moi ». On le dit de ce qu'on est en train de manger. À écouter : avec plusieurs choses, on dit {{chutia mi}}.
 
 ! Nechutí mi mrkva.
 > Je n'aime pas la carotte.
@@ -83,12 +80,6 @@
 > Jablko = pomme
 > je = est
 > sladké = sucrée
-
-! Citrón je kyslý.
-> Le citron est acide.
-> Citrón = citron
-> je = est
-> kyslý = acide
 
 ! Je to dobré! Je to výborné!
 > C'est bon ! C'est délicieux !
@@ -120,12 +111,20 @@
 
 | Slovenčina | Français |
 |------------|----------|
+| citrón | le citron |
+| kyslý | acide (masculin) |
 | kyslá | acide (féminin) |
 | kyslé | acide (neutre) |
 
 ---
 
 ## Encore quelques phrases
+
+! Citrón je kyslý.
+> Le citron est acide.
+> Citrón = citron
+> je = est
+> kyslý = acide
 
 ! Hruška nie je kyslá.
 > La poire n'est pas acide.

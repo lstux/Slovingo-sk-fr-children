@@ -158,6 +158,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 03 Jedlo
 
+> ✅ **Traité le 2026-10-03.** J01 : *jedlo* utilisé (« Kde je jedlo? »), 2e carte « On révise ». J02 : renvoi « comme après *pijem (vodu)* ». J03 : 6 entrées (citron et acide passés en complémentaire), « J'aime cette pomme » + *chutia mi* à écouter, « comme *milý / milá* ». J04 : *dobrá* dans les nouveaux mots, « très souvent » une soupe, complémentaires *ráno / večer*. J05 réécrit : 3 nouveautés (*chcete, bryndzové halušky, nejem*), une seule forme à écouter (*bryndzu*) ; plus de *s / nikdy / mňa / Andreu / Je obed* ; Katka ne « déteste » plus le fromage ; nouveau clin d'œil « Uf! Líška chce bobule! » ; *Bobule… chutí mi* supprimé ; Coin : bryndza « surtout » de brebis, lardons « souvent », fromage fait au salaš puis bryndza. J06 : tableau complet, plus de *alebo / chutia / nikdy*, « s'il te plaît » à Babka.
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | 🟢 | 01 l.15 | *jedlo* jamais utilisé dans une carte | L'utiliser ou le passer en complémentaire |
@@ -271,7 +273,7 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | 00 Kit de Survie | ✅ passe détaillée faite (2026-10-03) |
 | 01 Rodina | ✅ passe détaillée faite (2026-10-03) |
 | 02 Doma | ✅ passe détaillée faite (2026-10-03) |
-| 03 Jedlo | à faire |
+| 03 Jedlo | ✅ passe détaillée faite (2026-10-03) |
 | 04 Dedina | à faire |
 | 05 Zvieratá | à faire |
 | 06 Hry | à faire |
