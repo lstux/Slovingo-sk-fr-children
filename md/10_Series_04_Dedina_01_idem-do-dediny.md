@@ -14,7 +14,7 @@
 | idem | je vais |
 | ideš | tu vas |
 | ide | il ou elle va |
-| do | vers, dans |
+| do | à, au, en (pour aller) |
 | dedina | le village |
 | obchod | le magasin |
 | pekáreň | la boulangerie |
@@ -95,11 +95,16 @@
 > Kam ideš = où vas-tu
 > Idem do dediny = je vais au village
 
+! Mám hlad. Idem do pekárne.
+> J'ai faim. Je vais à la boulangerie.
+> Mám hlad = j'ai faim
+> Idem do pekárne = je vais à la boulangerie
+
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Au pied des Tatras, il y a de vrais villages célèbres, comme}} {{Ždiar}}{{fr:, avec ses maisons en bois décorées de motifs blancs. Et un petit train électrique, la}} {{električka}}{{fr:, relie plusieurs villages de montagne !}} 🚃
+{{fr:Au pied des Tatras, il y a de vrais villages célèbres, comme}} {{Ždiar}}{{fr:, avec ses maisons en bois décorées de motifs peints. Et un petit train électrique, la}} {{električka}}{{fr:, relie les stations au pied des hautes montagnes !}} 🚃
 
 ---
 

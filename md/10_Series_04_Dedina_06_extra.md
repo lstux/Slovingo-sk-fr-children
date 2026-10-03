@@ -18,9 +18,11 @@
 | idem | je vais |
 | ideš | tu vas |
 | ide | il ou elle va |
-| do | vers, dans |
+| do | à, au, en (pour aller) |
 | domov | à la maison |
+| koľko to stojí | combien ça coûte |
 | stojí | coûte |
+| jedno euro, dve eurá, päť eur | un euro, deux euros, cinq euros |
 | euro | l'euro |
 | prosím si | je voudrais |
 | drahé | cher |
@@ -35,6 +37,8 @@
 | máte | vous avez |
 | pani | madame |
 | pán | monsieur |
+| prosím? | oui, je vous écoute ? |
+| ako sa máte | comment allez-vous |
 | tu je | voici |
 
 ---
@@ -55,10 +59,10 @@
 > Maťo ide = Maťo va
 > do mesta = en ville
 
-! Bývam v nore, ale idem do dediny.
-> J'habite dans un terrier, mais je vais au village.
+! Bývam v nore a idem do dediny.
+> J'habite dans un terrier et je vais au village.
 > Bývam v nore = j'habite dans un terrier
-> ale = mais
+> a = et
 > idem do dediny = je vais au village
 
 ! Koľko stojí chlieb? Chlieb stojí dve eurá.
@@ -80,11 +84,11 @@
 > Prosím si = je voudrais
 > mlieko = du lait
 
-! Poď, Andrea! Počkaj, idem tiež!
-> Viens, Andrea ! Attends, j'y vais aussi !
-> Poď = viens
+! Počkaj, Andrea! Aj ja idem!
+> Attends, Andrea ! Moi aussi, j'y vais !
 > Počkaj = attends
-> idem tiež = j'y vais aussi
+> Aj ja = moi aussi
+> idem = je vais
 
 ! Pozri, to je pekáreň! Poď rýchlo!
 > Regarde, c'est une boulangerie ! Viens vite !
@@ -92,10 +96,10 @@
 > to je pekáreň = c'est une boulangerie
 > Poď rýchlo = viens vite
 
-! Dobrý deň, pán Medveď! Máte jablko?
-> Bonjour, Monsieur Medveď ! Vous avez une pomme ?
+! Dobrý deň, pán Orol! Máte jablko?
+> Bonjour, Monsieur Orol ! Vous avez une pomme ?
 > Dobrý deň = bonjour
-> pán Medveď = Monsieur Medveď
+> pán Orol = Monsieur Orol
 > Máte jablko = vous avez une pomme
 
 ! Ahoj, Katka! Máš chlieb?
@@ -103,12 +107,12 @@
 > Ahoj = salut
 > Máš chlieb = tu as du pain
 
-! Dobrý deň, pani Ježková! Tu je chlieb a mlieko.
-> Bonjour, Madame Ježková ! Voici le pain et le lait.
+! Dobrý deň, pani Ježková! Máte chlieb a mlieko?
+> Bonjour, Madame Ježková ! Vous avez du pain et du lait ?
 > Dobrý deň = bonjour
 > pani Ježková = Madame Ježková
-> Tu je = voici
-> chlieb a mlieko = le pain et le lait
+> Máte = vous avez
+> chlieb a mlieko = du pain et du lait
 
 ! Ďakujem, dovidenia! Idem domov.
 > Merci, au revoir ! Je rentre à la maison.
@@ -116,11 +120,11 @@
 > dovidenia = au revoir
 > Idem domov = je rentre à la maison
 
-! Ideš do dediny? Poď sem, počkaj!
-> Tu vas au village ? Viens ici, attends !
+! Počkaj! Ideš do dediny? Poď sem!
+> Attends ! Tu vas au village ? Viens ici !
+> Počkaj = attends
 > Ideš do dediny = tu vas au village
 > Poď sem = viens ici
-> počkaj = attends
 
 ! Koľko to stojí spolu? Tri eurá.
 > Combien ça coûte en tout ? Trois euros.

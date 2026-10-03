@@ -144,14 +144,14 @@
       ]
     },
     {
-      "id": "listen-dobr-de-p-n-medve",
+      "id": "listen-dobr-de-p-n-orol",
       "type": "listen",
-      "l1": "Bonjour, Monsieur Medveď !",
-      "l2": "Dobrý deň, pán Medveď!",
+      "l1": "Bonjour, Monsieur Orol !",
+      "l2": "Dobrý deň, pán Orol!",
       "choices_l1": [
-        "Bonjour, Madame Medveď !",
-        "Salut, Monsieur Medveď !",
-        "Au revoir, Monsieur Medveď !"
+        "Bonjour, Madame Orol !",
+        "Salut, Monsieur Orol !",
+        "Au revoir, Monsieur Orol !"
       ]
     },
     {

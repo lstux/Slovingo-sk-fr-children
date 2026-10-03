@@ -204,14 +204,14 @@
       ]
     },
     {
-      "id": "listen-po-kaj-nie-r-chlo",
+      "id": "listen-po-kaj-pomaly",
       "type": "listen",
-      "l1": "Attends, pas si vite !",
-      "l2": "Počkaj, nie rýchlo!",
+      "l1": "Attends ! Doucement !",
+      "l2": "Počkaj! Pomaly!",
       "choices_l1": [
-        "Viens, pas si vite !",
-        "Attends, très vite !",
-        "Regarde, pas si vite !"
+        "Attends ! Vite !",
+        "Viens ! Doucement !",
+        "Regarde ! Doucement !"
       ]
     },
     {

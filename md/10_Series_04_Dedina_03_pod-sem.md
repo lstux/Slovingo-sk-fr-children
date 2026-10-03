@@ -22,7 +22,7 @@
 
 ### Parler à un ami : l'ordre
 
-{{fr:Pour dire à un ami de faire quelque chose, on utilise un mot court. C'est la forme la plus simple du verbe !}}
+{{fr:Pour dire à un ami de faire quelque chose, on utilise un mot court.}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -31,7 +31,7 @@
 | Počkaj! | Attends ! |
 | Pozri! | Regarde ! |
 
-{{fr:Attention : ces mots sont pour des amis ou des enfants. Pour un adulte qu'on ne connaît pas, on fait autrement : tu le vois dans la prochaine fiche !}}
+{{fr:Attention : ces mots sont pour des amis ou des enfants. Pour un adulte qu'on ne connaît pas, on parle autrement.}}
 
 ---
 
@@ -113,10 +113,10 @@
 > Poď sem = viens ici
 > Katka = Katka
 
-! Počkaj, nie rýchlo!
-> Attends, pas si vite !
+! Počkaj! Pomaly!
+> Attends ! Doucement !
 > Počkaj = attends
-> nie rýchlo = pas vite
+> Pomaly = doucement
 
 ! Pozri, Maťo ide do pekárne!
 > Regarde, Maťo va à la boulangerie !

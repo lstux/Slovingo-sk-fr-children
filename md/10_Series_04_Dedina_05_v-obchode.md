@@ -8,9 +8,11 @@
 
 ## Vocabulaire du dialogue
 
-Presque pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
+Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 
-Les personnages :
+---
+
+## Les personnages
 
 - 🦊 Toi
 - 🐰 Andrea, ton amie
@@ -26,12 +28,11 @@ Les personnages :
 > Poď = viens
 > Idem do obchodu = je vais au magasin
 
-! 🐹 Počkaj, Andrea! Idem tiež!
+! 🐹 Počkaj, Andrea! Aj ja idem!
 > Attends, Andrea ! Moi aussi, j'y vais !
 > Počkaj = attends
-> Idem = je vais
-> tiež = aussi
-+ Mot à écouter : {{tiež}} = aussi.
+> Aj ja = moi aussi
+> idem = je vais
 
 ! 🐰 Dobrý deň, pani Ježková!
 > Bonjour, Madame Ježková !
@@ -96,22 +97,27 @@ Les personnages :
 > Jablko = pomme
 > je lacné = n'est pas chère
 
-! 🦔 Ach! To je líška! Bojím sa!
-> Oh ! C'est un renard ! J'ai peur !
-> To je = c'est
-> líška = renard
-> Bojím sa = j'ai peur
+! 🦔 Ach! Líška! Chceš bobule?
+> Oh ! Un renard ! Tu veux des baies ?
+> Líška = un renard
+> Chceš = tu veux
+> bobule = des baies
++ Pani Ježková est une adulte : elle peut te tutoyer. Toi, tu la vouvoies !
 
-! 🐰 Nevadí! Je veľmi milá.
-> Pas de souci ! Il est très gentil.
-> Nevadí = pas de souci
-> Je veľmi milá = elle est très gentille
+! 🦊 Áno, prosím! Koľko to stojí?
+> Oui, s'il vous plaît ! Combien ça coûte ?
+> Áno, prosím = oui, s'il vous plaît
+> Koľko to stojí = combien ça coûte
 
-! 🦔 Dobre, dobre. Tu je chlieb a mlieko.
-> D'accord, d'accord. Voici le pain et le lait.
-> Dobre = d'accord
+! 🦔 Bobule sú lacné. Jedno euro.
+> Les baies ne sont pas chères. Un euro.
+> Bobule sú lacné = les baies ne sont pas chères
+> Jedno euro = un euro
+
+! 🦔 Tu je chlieb, mlieko a bobule.
+> Voici le pain, le lait et les baies.
 > Tu je = voici
-> chlieb a mlieko = le pain et le lait
+> chlieb, mlieko a bobule = le pain, le lait et les baies
 
 ! 🦊 Ďakujem, dovidenia, pani Ježková!
 > Merci, au revoir, Madame Ježková !

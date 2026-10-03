@@ -25,14 +25,14 @@
       ]
     },
     {
-      "id": "listen-b-vam-v-nore-ale-idem-do-dediny",
+      "id": "listen-b-vam-v-nore-a-idem-do-dediny",
       "type": "listen",
-      "l1": "J'habite dans un terrier, mais je vais au village.",
-      "l2": "Bývam v nore, ale idem do dediny.",
+      "l1": "J'habite dans un terrier et je vais au village.",
+      "l2": "Bývam v nore a idem do dediny.",
       "choices_l1": [
-        "J'habite dans un nid, mais je vais au village.",
-        "J'habite dans un terrier, mais je vais en ville.",
-        "J'habite au village, mais je vais dans un terrier."
+        "J'habite dans un nid et je vais au village.",
+        "J'habite dans un terrier et je vais en ville.",
+        "J'habite au village et je vais dans un terrier."
       ]
     },
     {
@@ -58,14 +58,14 @@
       ]
     },
     {
-      "id": "listen-po-andrea-po-kaj-idem-tie",
+      "id": "listen-po-kaj-andrea-aj-ja-idem",
       "type": "listen",
-      "l1": "Viens, Andrea ! Attends, j'y vais aussi !",
-      "l2": "Poď, Andrea! Počkaj, idem tiež!",
+      "l1": "Attends, Andrea ! Moi aussi, j'y vais !",
+      "l2": "Počkaj, Andrea! Aj ja idem!",
       "choices_l1": [
-        "Attends, Andrea ! Viens, j'y vais aussi !",
-        "Viens, Katka ! Attends, j'y vais aussi !",
-        "Viens, Andrea ! Attends, je n'y vais pas !"
+        "Viens, Andrea ! Moi aussi, j'y vais !",
+        "Attends, Katka ! Moi aussi, j'y vais !",
+        "Attends, Andrea ! Moi, je n'y vais pas !"
       ]
     },
     {
@@ -80,14 +80,14 @@
       ]
     },
     {
-      "id": "listen-dobr-de-p-n-medve-m-te-jablko",
+      "id": "listen-dobr-de-p-n-orol-m-te-jablko",
       "type": "listen",
-      "l1": "Bonjour, Monsieur Medveď ! Vous avez une pomme ?",
-      "l2": "Dobrý deň, pán Medveď! Máte jablko?",
+      "l1": "Bonjour, Monsieur Orol ! Vous avez une pomme ?",
+      "l2": "Dobrý deň, pán Orol! Máte jablko?",
       "choices_l1": [
-        "Salut, Monsieur Medveď ! Vous avez une pomme ?",
-        "Bonjour, Madame Medveď ! Vous avez une pomme ?",
-        "Bonjour, Monsieur Medveď ! Vous avez une poire ?"
+        "Salut, Monsieur Orol ! Vous avez une pomme ?",
+        "Bonjour, Madame Orol ! Vous avez une pomme ?",
+        "Bonjour, Monsieur Orol ! Vous avez une poire ?"
       ]
     },
     {
@@ -156,10 +156,10 @@
       "show_translation": true
     },
     {
-      "id": "blank-dobr-de-pani-je-kov-tu-je-chlieb-a-mlieko",
+      "id": "blank-dobr-de-pani-je-kov-m-te-chlieb-a-mlieko",
       "type": "fill-blank",
-      "l1": "Bonjour, Madame Ježková ! Voici le pain et le lait.",
-      "l2": "Dobrý deň, pani Ježková! Tu je chlieb a mlieko.",
+      "l1": "Bonjour, Madame Ježková ! Vous avez du pain et du lait ?",
+      "l2": "Dobrý deň, pani Ježková! Máte chlieb a mlieko?",
       "missing_l1": "Madame",
       "missing_l2": "pani",
       "blank_index_l1": 1,

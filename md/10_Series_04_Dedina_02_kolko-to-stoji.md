@@ -94,11 +94,16 @@
 > jablko = une pomme
 > Koľko to stojí = combien ça coûte
 
+! Chutí mi syr. Koľko stojí?
+> J'aime ce fromage. Combien coûte-t-il ?
+> Chutí mi syr = j'aime ce fromage
+> Koľko stojí = combien il coûte
+
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:En Slovaquie, on paie en euros, comme en France ! Les petits magasins de village vendent souvent du pain frais, du lait et du fromage.}} 🇪🇺
+{{fr:En Slovaquie, on paie en euros, comme en France ou en Belgique ! Les petits magasins de village vendent souvent du pain frais, du lait et du fromage.}} 🇪🇺
 
 ---
 

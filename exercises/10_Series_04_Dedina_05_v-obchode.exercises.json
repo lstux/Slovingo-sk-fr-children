@@ -14,10 +14,10 @@
       ]
     },
     {
-      "id": "listen-po-kaj-andrea-idem-tie",
+      "id": "listen-po-kaj-andrea-aj-ja-idem",
       "type": "listen",
       "l1": "Attends, Andrea ! Moi aussi, j'y vais !",
-      "l2": "Počkaj, Andrea! Idem tiež!",
+      "l2": "Počkaj, Andrea! Aj ja idem!",
       "choices_l1": [
         "Viens, Andrea ! Moi aussi, j'y vais !",
         "Attends, Katka ! Moi aussi, j'y vais !",
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "listen-dobre-dobre-tu-je-chlieb-a-mlieko",
+      "id": "listen-ach-l-ka-chce-bobule",
       "type": "listen",
-      "l1": "D'accord, d'accord. Voici le pain et le lait.",
-      "l2": "Dobre, dobre. Tu je chlieb a mlieko.",
+      "l1": "Oh ! Un renard ! Tu veux des baies ?",
+      "l2": "Ach! Líška! Chceš bobule?",
       "choices_l1": [
-        "D'accord, d'accord. Voici le pain et le miel.",
-        "Bien, bien. Où est le pain et le lait ?",
-        "D'accord, d'accord. Je voudrais le pain et le lait."
+        "Oh ! Un renard ! Tu veux du miel ?",
+        "Oh ! Un renard ! J'ai peur !",
+        "Oh ! Un ours ! Tu veux des baies ?"
       ]
     },
     {

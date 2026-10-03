@@ -38,8 +38,10 @@ Exception : le Kit de Survie (série 00) a 3 fiches d'apprentissage + l'extra.
 | 🐹 | Katka | 8 ans, une marmotte ; phrases courtes et simples |
 | 🐻 | Maťo | 9 ans, un ours ; grand frère de Katka |
 | 🐑 | Babka Zuzana | leur grand-mère, une brebis ; côté pâturages et traditions |
+| 🦔 | Pani Ježková | la commerçante du village, une dame hérisson ; on la vouvoie (série Dedina) |
+| 🦅 | Pán Orol | le gardien du parc national, un aigle ; on le vouvoie (série Zvieratá) |
 
-- Entre enfants et avec Babka Zuzana : **tutoiement**. Le vouvoiement (*vy*) n'arrive qu'avec des adultes inconnus, en série Dedina (le marchand du village).
+- Entre enfants et avec Babka Zuzana : **tutoiement**. Le vouvoiement (*vy*) n'arrive qu'avec des adultes inconnus, en série Dedina (Pani Ježková, la commerçante).
 - `[ASK_USER_NAME]` apparaît dès la première fiche d'introduction, en français, avant tout contenu slovaque. Dans les dialogues, on utilise ensuite `[USER_NAME]`. Le nom de secours est dans `lang.json` → `site.user_name_default`.
 - Le marqueur de locuteur va **après** le `!` : `! 🐰 Ahoj!` (jamais `🐰 ! Ahoj`).
 

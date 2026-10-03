@@ -183,6 +183,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 04 Dedina
 
+> ✅ **Traité le 2026-10-03.** D01 : *do* = « à, au, en (pour aller) » ; Ždiar « motifs peints », *električka* « relie les stations au pied des hautes montagnes » ; 2e carte « On révise ». D02 : « en France ou en Belgique » ; 2e carte « On révise ». D03 : plus de « forme la plus simple du verbe » ni de renvoi ; *Počkaj! Pomaly!*. D04 : « C'est la première fois » ; *Prosím?* + intonation ; *pán Orol* au lieu de *pán Medveď* ; carte *Ako sa máte?* (utilise enfin *vy / máte*) ; 2e carte « On révise » ty/vy. D05 : *Aj ja idem!* au lieu de *tiež* ; nouveau gag sans peur : Pani Ježková propose des baies au renard (« Ach! Líška! Chceš bobule? ») ; « Les personnages » en titre. D06 : tableau complété, *a* au lieu de *ale*, *Počkaj… Aj ja idem!*, client qui demande « Máte chlieb a mlieko? », ordre *Počkaj! Ideš do dediny? Poď sem!*, *pán Orol*. Doc : 🦔 et 🦅 ajoutés au tableau des personnages.
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | 🟠 | 01 l.102 | L'*električka* relie Poprad, Starý Smokovec, Štrbské Pleso, Tatranská Lomnica (stations, pas Ždiar) ; Ždiar : motifs peints de plusieurs couleurs | Reformuler les deux faits |
@@ -274,7 +276,7 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | 01 Rodina | ✅ passe détaillée faite (2026-10-03) |
 | 02 Doma | ✅ passe détaillée faite (2026-10-03) |
 | 03 Jedlo | ✅ passe détaillée faite (2026-10-03) |
-| 04 Dedina | à faire |
+| 04 Dedina | ✅ passe détaillée faite (2026-10-03) |
 | 05 Zvieratá | à faire |
 | 06 Hry | à faire |
 | Docs (Format, Progression, README) | à faire |

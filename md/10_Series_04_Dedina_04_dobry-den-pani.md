@@ -2,7 +2,7 @@
 
 @ TODO_img/commercante-herisson.jpg | TODO : choisir une image (petit magasin de village, comptoir en bois, ambiance chaleureuse) sur Wikimedia Commons
 
-{{fr:Voici la première fois que tu parles à un adulte que tu ne connais pas : la commerçante du village. En slovaque, on change quelques mots pour être poli.}}
+{{fr:C'est la première fois que tu parles à un adulte que tu ne connais pas : la commerçante du village. En slovaque, on change quelques mots pour être poli.}}
 
 ---
 
@@ -47,7 +47,7 @@
 ! Prosím?
 > Oui, je vous écoute ?
 > Prosím = oui ?
-+ La commerçante dit {{Prosím?}} pour demander « qu'est-ce que vous voulez ? ».
++ La commerçante dit {{Prosím?}} en montant la voix pour demander « qu'est-ce que vous voulez ? ». Encore un visage du mot {{prosím}} !
 
 ! Máte chlieb?
 > Vous avez du pain ?
@@ -76,11 +76,18 @@
 > dovidenia = au revoir
 > pani Ježková = Madame Ježková
 
-! Dobrý deň, pán Medveď!
-> Bonjour, Monsieur Medveď !
+! Dobrý deň, pán Orol!
+> Bonjour, Monsieur Orol !
 > Dobrý deň = bonjour
 > pán = monsieur
-> Medveď = Medveď
+> Orol = Orol
+
+! Dobrý deň, pani Ježková! Ako sa máte?
+> Bonjour, Madame Ježková ! Comment allez-vous ?
+> Dobrý deň = bonjour
+> pani Ježková = Madame Ježková
+> Ako sa máte = comment allez-vous
++ Avec un ami : {{Ako sa máš?}} Avec un adulte : {{Ako sa máte?}}. C'est le même {{máte}} que dans {{Máte chlieb?}}
 
 ---
 
@@ -91,6 +98,11 @@
 > Dobrý deň = bonjour
 > Máte jablko = vous avez une pomme
 > Koľko to stojí = combien ça coûte
+
+! Ahoj, Katka! Máš chlieb? Dobrý deň, pani Ježková! Máte chlieb?
+> Salut, Katka ! Tu as du pain ? Bonjour, Madame Ježková ! Vous avez du pain ?
+> Máš chlieb = tu as du pain (à une amie)
+> Máte chlieb = vous avez du pain (à un adulte)
 
 ---
 
