@@ -8,8 +8,8 @@
 
 ## De 0 à 10
 
-| Chiffre | Slovenčina |
-|---------|------------|
+| Nombre | Slovenčina |
+|--------|------------|
 | 0 | nula |
 | 1 | jeden |
 | 2 | dva |
@@ -40,4 +40,4 @@
 > Dix doigts
 > Desať = dix
 > prstov = doigts
-+ À partir de 5, le mot qui suit change un peu de fin : un doigt = prst, dix doigts = desať prstov.
++ Après un nombre, le mot change de fin : {{jeden prst}} (un doigt), {{dva prsty}} (deux doigts), {{desať prstov}} (dix doigts). Pas besoin de le retenir maintenant !

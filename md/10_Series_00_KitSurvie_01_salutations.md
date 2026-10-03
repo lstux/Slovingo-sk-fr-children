@@ -34,12 +34,12 @@
 
 ! Dovidenia!
 > Au revoir !
-+ Plus poli que {{ahoj}}.
++ Pour un adulte. Entre copains, on dit {{ahoj}}.
 
 ! Ako sa máš?
 > Ça va ?
 > Ako = comment
-> sa máš = tu te portes
+> sa máš = tu vas
 + Pour demander à un copain.
 
 ! Dobre, ďakujem!

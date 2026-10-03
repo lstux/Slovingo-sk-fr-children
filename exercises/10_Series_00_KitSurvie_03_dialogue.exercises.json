@@ -26,12 +26,12 @@
       "choices_l1": [
         "comment tu t'appelles",
         "tu parles",
-        "en slovaque"
+        "ça va ?"
       ],
       "choices_l2": [
         "ako sa voláš",
         "hovoríš",
-        "po slovensky"
+        "ako sa máš"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "l2": "hovoríš",
       "choices_l1": [
         "je m'appelle",
-        "en français",
+        "(en) français",
         "comment tu t'appelles"
       ],
       "choices_l2": [
@@ -69,49 +69,17 @@
     {
       "id": "qcm-po-franc-zsky",
       "type": "qcm",
-      "l1": "en français",
+      "l1": "(en) français",
       "l2": "po francúzsky",
       "choices_l1": [
-        "en slovaque",
         "la Slovaquie",
+        "le slovaque",
         "bonjour"
       ],
       "choices_l2": [
-        "po slovensky",
         "Slovensko",
+        "slovenčina",
         "dobrý deň"
-      ]
-    },
-    {
-      "id": "qcm-po-slovensky",
-      "type": "qcm",
-      "l1": "en slovaque",
-      "l2": "po slovensky",
-      "choices_l1": [
-        "en français",
-        "la Slovaquie",
-        "oui"
-      ],
-      "choices_l2": [
-        "po francúzsky",
-        "Slovensko",
-        "áno"
-      ]
-    },
-    {
-      "id": "qcm-nehovor-m",
-      "type": "qcm",
-      "l1": "je ne parle pas",
-      "l2": "nehovorím",
-      "choices_l1": [
-        "tu parles",
-        "je m'appelle",
-        "je ne comprends pas"
-      ],
-      "choices_l2": [
-        "hovoríš",
-        "volám sa",
-        "nerozumiem"
       ]
     },
     {
@@ -121,7 +89,7 @@
       "l2": "Ako sa voláš?",
       "choices_l1": [
         "Tu parles français ?",
-        "Tu parles slovaque ?",
+        "Ça va ?",
         "Salut ! Ça va ?"
       ]
     },
@@ -144,7 +112,7 @@
       "choices_l1": [
         "Au revoir, [USER_NAME] ! Je m'appelle Andrea.",
         "Salut, [USER_NAME] ! Tu parles français ?",
-        "Merci, [USER_NAME] ! Je parle slovaque."
+        "Merci, [USER_NAME] ! Je m'appelle Andrea."
       ]
     },
     {
@@ -153,20 +121,9 @@
       "l1": "Tu parles français ?",
       "l2": "Hovoríš po francúzsky?",
       "choices_l1": [
-        "Tu parles slovaque ?",
         "Comment tu t'appelles ?",
-        "Tu comprends ?"
-      ]
-    },
-    {
-      "id": "listen-nie-nehovor-m-po-franc-zsky-hovor-m-po-slovensky",
-      "type": "listen",
-      "l1": "Non, je ne parle pas français. Je parle slovaque !",
-      "l2": "Nie, nehovorím po francúzsky. Hovorím po slovensky!",
-      "choices_l1": [
-        "Oui, je parle français. Je ne parle pas slovaque !",
-        "Non, je ne parle pas slovaque. Je parle français !",
-        "Oui, je parle slovaque. Je parle aussi français !"
+        "Tu comprends ?",
+        "Ça va ?"
       ]
     },
     {
@@ -176,19 +133,30 @@
       "l2": "Prepáč, nerozumiem.",
       "choices_l1": [
         "Merci, je ne comprends pas.",
-        "Pardon, je ne parle pas.",
-        "Pardon, je m'appelle Andrea."
+        "Pardon, je m'appelle Andrea.",
+        "Non, je ne comprends pas."
       ]
     },
     {
-      "id": "listen-nevad-dovidenia-user-name",
+      "id": "listen-nevad-ahoj-user-name",
       "type": "listen",
-      "l1": "Pas de souci ! Au revoir, [USER_NAME] !",
-      "l2": "Nevadí! Dovidenia, [USER_NAME]!",
+      "l1": "Pas de souci ! Salut, [USER_NAME] !",
+      "l2": "Nevadí! Ahoj, [USER_NAME]!",
       "choices_l1": [
-        "Merci ! Au revoir, [USER_NAME] !",
+        "Merci ! Salut, [USER_NAME] !",
         "Pas de souci ! Bonjour, [USER_NAME] !",
-        "Pardon ! Au revoir, [USER_NAME] !"
+        "Pardon ! Salut, [USER_NAME] !"
+      ]
+    },
+    {
+      "id": "listen-ahoj-andrea",
+      "type": "listen",
+      "l1": "Salut, Andrea !",
+      "l2": "Ahoj, Andrea!",
+      "choices_l1": [
+        "Merci, Andrea !",
+        "Pardon, Andrea !",
+        "Bonjour, Andrea !"
       ]
     },
     {
@@ -213,27 +181,6 @@
       "show_translation": true
     },
     {
-      "id": "blank-hovor-po-franc-zsky",
-      "type": "fill-blank",
-      "l1": "Tu parles français ?",
-      "l2": "Hovoríš po francúzsky?",
-      "missing_l1": "français",
-      "missing_l2": "francúzsky",
-      "blank_index_l1": 2,
-      "blank_index_l2": 2,
-      "choices_l1": [
-        "slovaque",
-        "oui",
-        "pardon"
-      ],
-      "choices_l2": [
-        "slovensky",
-        "áno",
-        "prepáč"
-      ],
-      "show_translation": true
-    },
-    {
       "id": "blank-prep-nerozumiem",
       "type": "fill-blank",
       "l1": "Pardon, je ne comprends pas.",
@@ -251,6 +198,27 @@
         "Ďakujem",
         "Áno",
         "Ahoj"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ahoj-user-name-vol-m-sa-andrea",
+      "type": "fill-blank",
+      "l1": "Salut, [USER_NAME] ! Je m'appelle Andrea.",
+      "l2": "Ahoj, [USER_NAME]! Volám sa Andrea.",
+      "missing_l1": "Salut",
+      "missing_l2": "Ahoj",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Merci",
+        "Pardon",
+        "Oui"
+      ],
+      "choices_l2": [
+        "Ďakujem",
+        "Prepáč",
+        "Áno"
       ],
       "show_translation": true
     },
@@ -287,6 +255,22 @@
       ]
     },
     {
+      "id": "order-nevad-ahoj-user-name",
+      "type": "order",
+      "l1": "Pas de souci ! Salut, [USER_NAME] !",
+      "l2": "Nevadí! Ahoj, [USER_NAME]!",
+      "tokens_l1": [
+        "Pas de souci !",
+        "Salut,",
+        "[USER_NAME] !"
+      ],
+      "tokens_l2": [
+        "Nevadí!",
+        "Ahoj,",
+        "[USER_NAME]!"
+      ]
+    },
+    {
       "id": "match-ako-sa-vol",
       "type": "match",
       "l1": [
@@ -303,17 +287,19 @@
       ]
     },
     {
-      "id": "match-po-franc-zsky",
+      "id": "match-ako-sa-vol-2",
       "type": "match",
       "l1": [
-        "en français",
-        "en slovaque",
-        "je ne parle pas"
+        "Comment tu t'appelles ?",
+        "Tu parles français ?",
+        "Pardon, je ne comprends pas.",
+        "Salut, Andrea !"
       ],
       "l2": [
-        "po francúzsky",
-        "po slovensky",
-        "nehovorím"
+        "Ako sa voláš?",
+        "Hovoríš po francúzsky?",
+        "Prepáč, nerozumiem.",
+        "Ahoj, Andrea!"
       ]
     }
   ]

@@ -21,86 +21,116 @@
 | áno | oui |
 | nie | non |
 | aj | aussi |
+| ja | moi |
 | ako sa voláš | comment tu t'appelles |
 | volám sa | je m'appelle |
-| nerozumiem | je ne comprends pas |
 | hovoríš | tu parles |
-| po francúzsky | en français |
-| po slovensky | en slovaque |
-| nehovorím | je ne parle pas |
-| hovorím | je parle |
+| po francúzsky | (en) français |
+| nerozumiem | je ne comprends pas |
 | nevadí | pas de souci |
 
 ---
 
 ## Les phrases
 
-! Ahoj! Ako sa máš?
-> Salut ! Ça va ?
+! Ahoj, Andrea! Ako sa máš?
+> Salut, Andrea ! Ça va ?
 > Ahoj = salut
 > Ako sa máš = ça va
 
-! Dobre, ďakujem!
-> Bien, merci !
+! Ako sa máš, [USER_NAME]? Dobre!
+> Ça va, [USER_NAME] ? Bien !
+> Ako sa máš = ça va
 > Dobre = bien
-> ďakujem = merci
 
-! Dobrý deň! Dovidenia!
-> Bonjour ! Au revoir !
+! Dobrý deň! Volám sa [USER_NAME].
+> Bonjour ! Je m'appelle [USER_NAME].
 > Dobrý deň = bonjour
+> Volám sa = je m'appelle
++ {{Dobrý deň}} : pour se présenter à un adulte.
+
+! Ďakujem! Dovidenia!
+> Merci ! Au revoir !
+> Ďakujem = merci
 > Dovidenia = au revoir
 
-! Nie, ďakujem. Áno, prosím.
-> Non, merci. Oui, s'il te plaît.
-> Nie, ďakujem = non, merci
-> Áno, prosím = oui, s'il te plaît
+! Ahoj! Volám sa Andrea. Ako sa voláš?
+> Salut ! Je m'appelle Andrea. Comment tu t'appelles ?
+> Ahoj = salut
+> Volám sa = je m'appelle
+> Ako sa voláš = comment tu t'appelles
 
-! Prepáč, nerozumiem.
-> Pardon, je ne comprends pas.
-> Prepáč = pardon
-> nerozumiem = je ne comprends pas
-
-! Aj ja!
-> Moi aussi !
-> Aj = aussi
-> ja = moi
-
-! Hovoríš po francúzsky?
-> Tu parles français ?
-> Hovoríš = tu parles
-> po francúzsky = en français
-
-! Hovorím po francúzsky.
-> Je parle français.
-> Hovorím = je parle
-> po francúzsky = en français
-
-! Nehovorím po slovensky.
-> Je ne parle pas slovaque.
-> Nehovorím = je ne parle pas
-> po slovensky = slovaque
-
-! Ako sa voláš? Volám sa [USER_NAME].
-> Comment tu t'appelles ? Je m'appelle [USER_NAME].
+! Ako sa voláš? Volám sa Maťo.
+> Comment tu t'appelles ? Je m'appelle Maťo.
 > Ako sa voláš = comment tu t'appelles
 > Volám sa = je m'appelle
 
-! Ďakujem, Andrea! Prosím!
-> Merci, Andrea ! De rien !
-> Ďakujem = merci
-> Prosím = de rien
+! Čaj? Áno, prosím!
+> Du thé ? Oui, s'il te plaît !
+> Čaj = du thé
+> Áno = oui
+> prosím = s'il te plaît
 
-! Dobre? Áno, dobre!
-> Ça va ? Oui, bien !
-> Dobre = bien
+! Čokoláda? Nie, ďakujem.
+> Du chocolat ? Non, merci.
+> Čokoláda = du chocolat
+> Nie = non
+> ďakujem = merci
+
+! Chlieb? Áno, prosím! Aj ja!
+> Du pain ? Oui, s'il te plaît ! Moi aussi !
+> Chlieb = du pain
+> Áno = oui
+> prosím = s'il te plaît
+> Aj = aussi
+> ja = moi
+
+! Jeden banán, prosím!
+> Une banane, s'il te plaît !
+> Jeden = un
+> banán = banane
+> prosím = s'il te plaît
+
+! Koľko? Tri! Ďakujem!
+> Combien ? Trois ! Merci !
+> Koľko = combien
+> Tri = trois
+> Ďakujem = merci
+
+! Prepáč! Nevadí!
+> Pardon ! Pas de souci !
+> Prepáč = pardon
+> Nevadí = pas de souci
+
+! Hovoríš po francúzsky? Áno!
+> Tu parles français ? Oui !
+> Hovoríš = tu parles
+> po francúzsky = (en) français
 > Áno = oui
 
-! Nevadí!
-> Pas de souci !
+! Hovoríš po francúzsky? Nie, prepáč.
+> Tu parles français ? Non, pardon.
+> Hovoríš = tu parles
+> po francúzsky = (en) français
+> Nie = non
+> prepáč = pardon
 
-! Dovidenia, [USER_NAME]!
-> Au revoir, [USER_NAME] !
-> Dovidenia = au revoir
+! Prepáč, nerozumiem. Hovoríš po francúzsky?
+> Pardon, je ne comprends pas. Tu parles français ?
+> Prepáč = pardon
+> nerozumiem = je ne comprends pas
+> Hovoríš = tu parles
+> po francúzsky = (en) français
+
+! Nerozumiem. Prepáč!
+> Je ne comprends pas. Pardon !
+> Nerozumiem = je ne comprends pas
+> Prepáč = pardon
+
+! Ďakujem, Andrea! Ahoj!
+> Merci, Andrea ! Salut !
+> Ďakujem = merci
+> Ahoj = salut
 
 ---
 
@@ -108,4 +138,4 @@
 
 {{fr:Bravo ! Tu sais dire bonjour, merci, pardon, te présenter, et dire que tu ne comprends pas. Tu peux te débrouiller dans beaucoup de situations simples !}}
 
-{{fr:La suite, c'est la série sur la famille : on apprend aussi les verbes « être » et « avoir ».}} → {{Rodina}}
+{{fr:La suite, c'est la série sur la famille : tu vas présenter ta maman, ton papa, ton frère ou ta sœur.}} → {{Rodina}}

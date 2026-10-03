@@ -2,7 +2,7 @@
 
 @ TODO_img/premiere-rencontre.jpg | TODO : choisir une image (deux animaux ou deux enfants qui se rencontrent sur un sentier de montagne) sur Wikimedia Commons
 
-{{fr:Tu viens d'arriver dans les Tatras. Sur un sentier, tu croises Andrea, ton amie des montagnes. Tu vas te présenter, et dire quand tu ne comprends pas !}}
+{{fr:Tu viens d'arriver dans les Tatras. Sur un sentier, tu croises Andrea, une hase très sympa. Tu vas te présenter, et dire quand tu ne comprends pas !}}
 
 ---
 
@@ -12,18 +12,16 @@
 |------------|----------|
 | ako sa voláš | comment tu t'appelles |
 | volám sa | je m'appelle |
-| nerozumiem | je ne comprends pas |
 | hovoríš | tu parles |
-| po francúzsky | en français |
-| po slovensky | en slovaque |
-| nehovorím | je ne parle pas |
+| po francúzsky | (en) français |
+| nerozumiem | je ne comprends pas |
 
 ---
 
 ## Les personnages
 
 - 🦊 Toi
-- 🐰 Andrea, ton amie des Tatras
+- 🐰 Andrea, une hase des Tatras
 
 ---
 
@@ -31,9 +29,13 @@
 
 ! 🐰 Ahoj! Ako sa máš?
 > Salut ! Ça va ?
+> Ahoj = salut
+> Ako sa máš = ça va
 
 ! 🦊 Dobre, ďakujem!
 > Bien, merci !
+> Dobre = bien
+> ďakujem = merci
 
 ! 🐰 Ako sa voláš?
 > Comment tu t'appelles ?
@@ -47,33 +49,35 @@
 
 ! 🐰 Ahoj, [USER_NAME]! Volám sa Andrea.
 > Salut, [USER_NAME] ! Je m'appelle Andrea.
+> Ahoj = salut
+> Volám sa = je m'appelle
 
 ! 🦊 Hovoríš po francúzsky?
 > Tu parles français ?
 > Hovoríš = tu parles
-> po francúzsky = en français
+> po francúzsky = (en) français
 + La question la plus utile : si la réponse est oui, tout devient plus facile !
 
-! 🐰 Nie, nehovorím po francúzsky. Hovorím po slovensky!
-> Non, je ne parle pas français. Je parle slovaque !
+! 🐰 Nie, prepáč! Ale môžem ti pomôcť!
+> Non, pardon ! Mais je peux t'aider !
 > Nie = non
-> nehovorím po francúzsky = je ne parle pas français
-> Hovorím po slovensky = je parle slovaque
-+ Mot nouveau signalé : {{hovorím}} = je parle. Avec « ne- » devant, c'est « je ne parle pas » : {{nehovorím}}.
+> prepáč = pardon
++ Andrea dit une phrase que tu ne connais pas encore. C'est normal, et c'est le moment d'utiliser la phrase de secours !
 
 ! 🦊 Prepáč, nerozumiem.
 > Pardon, je ne comprends pas.
 > Prepáč = pardon
 > nerozumiem = je ne comprends pas
 
-! 🐰 Nevadí! Dovidenia, [USER_NAME]!
-> Pas de souci ! Au revoir, [USER_NAME] !
+! 🐰 Nevadí! Ahoj, [USER_NAME]!
+> Pas de souci ! Salut, [USER_NAME] !
 > Nevadí = pas de souci
-> Dovidenia = au revoir
+> Ahoj = salut
 + Mot nouveau signalé : {{nevadí}} = ce n'est pas grave, pas de souci.
 
-! 🦊 Dovidenia, Andrea!
-> Au revoir, Andrea !
+! 🦊 Ahoj, Andrea!
+> Salut, Andrea !
+> Ahoj = salut
 
 ---
 
@@ -81,4 +85,4 @@
 
 {{fr:Quand tu ne comprends pas, tu as une phrase de secours. Personne ne t'en voudra : c'est normal quand on apprend !}} → {{Nerozumiem}}
 
-{{fr:Et si tu veux que quelqu'un répète, dis}} {{prepáč}} {{fr:avec un grand sourire.}} 😊
+{{fr:Et si tu veux que quelqu'un répète, dis}} {{Prosím?}} {{fr:en montant la voix, avec un grand sourire. Encore un visage de ce mot magique !}} 😊

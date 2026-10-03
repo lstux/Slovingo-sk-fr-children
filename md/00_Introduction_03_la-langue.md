@@ -26,10 +26,12 @@
 
 **Le sais-tu ?** {{fr:Le mot « salut » se dit}} {{ahoj}} {{fr:en slovaque. Et ce mot veut dire à la fois « salut » et « au revoir » !}} 👋
 
-{{fr:Une glace, c'est une}} {{zmrzlina}}{{fr:. Ça vient du verbe}} {{zmrznúť}}{{fr:, qui veut dire « geler ». Une glace, c'est un dessert gelé !}} 🍦
+{{fr:Une glace, c'est une}} {{zmrzlina}}{{fr:. Ce mot vient d'un mot qui veut dire « geler » : une glace, c'est un dessert gelé !}} 🍦
 
 ---
 
 ## Des lettres à découvrir
 
-{{fr:Tu vas voir des lettres avec des accents et des petits chapeaux : á, č, š, ž, ď, ť, ň, ľ. On apprend à les dire juste après !}}
+{{fr:Tu vas voir des lettres avec des accents, des petits chapeaux, et même deux points ou un petit toit. On apprend à les dire juste après !}}
+
+**á  č  š  ž  ď  ť  ň  ľ  ä  ô**

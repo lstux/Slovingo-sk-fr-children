@@ -15,6 +15,7 @@
 | áno | oui |
 | nie | non |
 | aj | aussi |
+| ja | moi |
 
 ---
 

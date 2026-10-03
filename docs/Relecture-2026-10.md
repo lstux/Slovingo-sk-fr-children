@@ -60,6 +60,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 00 Introduction
 
+> ✅ **Traité le 2026-10-03.** Intro 01 : « des animaux, comme toi » ; Andrea « une hase des Tatras ». Intro 02 : *Tatry* appris, marmottes « tout en haut ». Intro 03 : *zmrznúť* retiré, lettres sorties du `{{fr:}}` (avec ä, ô). Intro 04 réécrite : 6 astuces, tableaux « Lettre / Ça se dit » hors `{{fr:}}`, règle des de/te/ne/le/di/ti/ni/li mouillés, *ľad* « lyat », *chlieb* « khliep » + mot sur les finales, le chat qui souffle « khhh », ä et ô, carte *Dobrý deň*. Intro 05 : « Nombre », *jeden prst / dva prsty / desať prstov*.
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | 🟢 | 01 l.7 | « tes nouveaux voisins, des animaux qui parlent » : comme si 🦊 n'en était pas un | « …des animaux comme toi ! » |
@@ -77,6 +79,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 | 🟢 | 05 l.11 | « Chiffre » (10 n'en est pas un) | « Nombre » |
 
 ## 00 Kit de Survie
+
+> ✅ **Traité le 2026-10-03.** Kit 01 : *Dovidenia* « pour un adulte », *sa máš* = « tu vas ». Kit 02 : *ja* ajouté. Kit 03 allégé (5 mots + *nevadí* ; *hovorím / nehovorím / po slovensky* retirés), Andrea dit une phrase inconnue → 🦊 utilise *Prepáč, nerozumiem* ; *Ahoj* au lieu de *Dovidenia* entre enfants ; *Prosím?* pour faire répéter. Kit 04 : 17 cartes inédites (plus de *Dobre?*, plus de cartes contradictoires), tableau aligné, Coin sans « être et avoir ». Exercices Kit 03-04 réécrits.
 
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
@@ -257,8 +261,8 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | Partie | État |
 |---|---|
 | Points transversaux | tranchés (2026-10-03), application série par série |
-| 00 Introduction | à faire |
-| 00 Kit de Survie | à faire |
+| 00 Introduction | ✅ passe détaillée faite (2026-10-03) |
+| 00 Kit de Survie | ✅ passe détaillée faite (2026-10-03) |
 | 01 Rodina | à faire |
 | 02 Doma | à faire |
 | 03 Jedlo | à faire |
