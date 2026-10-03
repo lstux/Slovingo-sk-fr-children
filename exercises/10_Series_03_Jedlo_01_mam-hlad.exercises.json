@@ -1,0 +1,354 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-hlad",
+      "type": "qcm",
+      "l1": "la faim",
+      "l2": "hlad",
+      "choices_l1": [
+        "la soif",
+        "l'eau",
+        "le pain"
+      ],
+      "choices_l2": [
+        "smäd",
+        "voda",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-sm-d",
+      "type": "qcm",
+      "l1": "la soif",
+      "l2": "smäd",
+      "choices_l1": [
+        "la faim",
+        "l'eau",
+        "le pain"
+      ],
+      "choices_l2": [
+        "hlad",
+        "voda",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-voda",
+      "type": "qcm",
+      "l1": "l'eau",
+      "l2": "voda",
+      "choices_l1": [
+        "la faim",
+        "la soif",
+        "le pain"
+      ],
+      "choices_l2": [
+        "hlad",
+        "smäd",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-chlieb",
+      "type": "qcm",
+      "l1": "le pain",
+      "l2": "chlieb",
+      "choices_l1": [
+        "la faim",
+        "la soif",
+        "l'eau"
+      ],
+      "choices_l2": [
+        "hlad",
+        "smäd",
+        "voda"
+      ]
+    },
+    {
+      "id": "qcm-mlieko",
+      "type": "qcm",
+      "l1": "le lait",
+      "l2": "mlieko",
+      "choices_l1": [
+        "la faim",
+        "la soif",
+        "l'eau"
+      ],
+      "choices_l2": [
+        "hlad",
+        "smäd",
+        "voda"
+      ]
+    },
+    {
+      "id": "qcm-jem",
+      "type": "qcm",
+      "l1": "je mange",
+      "l2": "jem",
+      "choices_l1": [
+        "je bois",
+        "j'ai",
+        "je n'ai pas"
+      ],
+      "choices_l2": [
+        "pijem",
+        "mám",
+        "nemám"
+      ]
+    },
+    {
+      "id": "qcm-pijem",
+      "type": "qcm",
+      "l1": "je bois",
+      "l2": "pijem",
+      "choices_l1": [
+        "je mange",
+        "j'habite",
+        "j'ai"
+      ],
+      "choices_l2": [
+        "jem",
+        "bývam",
+        "mám"
+      ]
+    },
+    {
+      "id": "listen-m-m-hlad",
+      "type": "listen",
+      "l1": "J'ai faim !",
+      "l2": "Mám hlad!",
+      "choices_l1": [
+        "J'ai soif.",
+        "Je n'ai pas faim.",
+        "J'ai huit ans !"
+      ]
+    },
+    {
+      "id": "listen-m-m-sm-d",
+      "type": "listen",
+      "l1": "J'ai soif.",
+      "l2": "Mám smäd.",
+      "choices_l1": [
+        "J'ai faim.",
+        "Je n'ai pas soif.",
+        "J'ai peur."
+      ]
+    },
+    {
+      "id": "listen-nem-m-hlad",
+      "type": "listen",
+      "l1": "Je n'ai pas faim.",
+      "l2": "Nemám hlad.",
+      "choices_l1": [
+        "J'ai faim.",
+        "Je n'ai pas soif.",
+        "Je n'ai pas de frère."
+      ]
+    },
+    {
+      "id": "listen-jem-chlieb",
+      "type": "listen",
+      "l1": "Je mange du pain.",
+      "l2": "Jem chlieb.",
+      "choices_l1": [
+        "Je bois du lait.",
+        "J'ai du pain.",
+        "Je bois de l'eau."
+      ]
+    },
+    {
+      "id": "listen-pijem-vodu",
+      "type": "listen",
+      "l1": "Je bois de l'eau.",
+      "l2": "Pijem vodu.",
+      "choices_l1": [
+        "Je mange de l'eau.",
+        "Je bois du lait.",
+        "J'ai de l'eau."
+      ]
+    },
+    {
+      "id": "listen-pijem-mlieko",
+      "type": "listen",
+      "l1": "Je bois du lait.",
+      "l2": "Pijem mlieko.",
+      "choices_l1": [
+        "Je bois de l'eau.",
+        "Je mange du pain.",
+        "J'ai du lait."
+      ]
+    },
+    {
+      "id": "listen-m-m-hlad-a-sm-d",
+      "type": "listen",
+      "l1": "J'ai faim et soif.",
+      "l2": "Mám hlad a smäd.",
+      "choices_l1": [
+        "J'ai faim, mais pas soif.",
+        "J'ai soif et peur.",
+        "Je n'ai pas faim ni soif."
+      ]
+    },
+    {
+      "id": "listen-m-m-sm-d-pijem-vodu",
+      "type": "listen",
+      "l1": "J'ai soif. Je bois de l'eau.",
+      "l2": "Mám smäd. Pijem vodu.",
+      "choices_l1": [
+        "J'ai faim. Je bois de l'eau.",
+        "J'ai soif. Je mange du pain.",
+        "J'ai soif. Je bois du lait."
+      ]
+    },
+    {
+      "id": "listen-jem-r-chlo",
+      "type": "listen",
+      "l1": "Je mange vite.",
+      "l2": "Jem rýchlo.",
+      "choices_l1": [
+        "Je mange lentement.",
+        "Je bois vite.",
+        "J'ai faim."
+      ]
+    },
+    {
+      "id": "listen-pijem-pomaly",
+      "type": "listen",
+      "l1": "Je bois lentement.",
+      "l2": "Pijem pomaly.",
+      "choices_l1": [
+        "Je bois vite.",
+        "Je mange lentement.",
+        "Je bois de l'eau."
+      ]
+    },
+    {
+      "id": "blank-jem-chlieb",
+      "type": "fill-blank",
+      "l1": "Je mange du pain.",
+      "l2": "Jem chlieb.",
+      "missing_l1": "pain",
+      "missing_l2": "chlieb",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "lait",
+        "eau",
+        "faim"
+      ],
+      "choices_l2": [
+        "mlieko",
+        "voda",
+        "hlad"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-pijem-mlieko",
+      "type": "fill-blank",
+      "l1": "Je bois du lait.",
+      "l2": "Pijem mlieko.",
+      "missing_l1": "lait",
+      "missing_l2": "mlieko",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "pain",
+        "eau",
+        "soif"
+      ],
+      "choices_l2": [
+        "chlieb",
+        "voda",
+        "smäd"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-m-m-hlad-a-sm-d",
+      "type": "order",
+      "l1": "J'ai faim et soif.",
+      "l2": "Mám hlad a smäd.",
+      "tokens_l1": [
+        "J'ai",
+        "faim",
+        "et",
+        "soif."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "hlad",
+        "a",
+        "smäd."
+      ]
+    },
+    {
+      "id": "order-m-m-hlad-ale-jem-pomaly",
+      "type": "order",
+      "l1": "J'ai faim, mais je mange lentement.",
+      "l2": "Mám hlad, ale jem pomaly.",
+      "tokens_l1": [
+        "J'ai faim,",
+        "mais",
+        "je mange",
+        "lentement."
+      ],
+      "tokens_l2": [
+        "Mám hlad,",
+        "ale",
+        "jem",
+        "pomaly."
+      ]
+    },
+    {
+      "id": "order-m-m-sm-d-pijem-vodu",
+      "type": "order",
+      "l1": "J'ai soif. Je bois de l'eau.",
+      "l2": "Mám smäd. Pijem vodu.",
+      "tokens_l1": [
+        "J'ai soif.",
+        "Je bois",
+        "de l'eau."
+      ],
+      "tokens_l2": [
+        "Mám smäd.",
+        "Pijem",
+        "vodu."
+      ]
+    },
+    {
+      "id": "match-hlad",
+      "type": "match",
+      "l1": [
+        "la faim",
+        "la soif",
+        "l'eau",
+        "le pain"
+      ],
+      "l2": [
+        "hlad",
+        "smäd",
+        "voda",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "match-jem",
+      "type": "match",
+      "l1": [
+        "je mange",
+        "je bois",
+        "vite",
+        "lentement"
+      ],
+      "l2": [
+        "jem",
+        "pijem",
+        "rýchlo",
+        "pomaly"
+      ]
+    }
+  ]
+}

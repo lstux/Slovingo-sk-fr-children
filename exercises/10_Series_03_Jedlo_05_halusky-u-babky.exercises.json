@@ -1,0 +1,240 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-chcete",
+      "type": "qcm",
+      "l1": "vous voulez",
+      "l2": "chcete",
+      "choices_l1": [
+        "tu veux",
+        "je veux",
+        "il veut"
+      ],
+      "choices_l2": [
+        "chceš",
+        "chcem",
+        "chce"
+      ]
+    },
+    {
+      "id": "qcm-s",
+      "type": "qcm",
+      "l1": "avec",
+      "l2": "s",
+      "choices_l1": [
+        "sur",
+        "dans",
+        "et"
+      ],
+      "choices_l2": [
+        "na",
+        "v",
+        "a"
+      ]
+    },
+    {
+      "id": "qcm-nikdy",
+      "type": "qcm",
+      "l1": "jamais",
+      "l2": "nikdy",
+      "choices_l1": [
+        "encore",
+        "très",
+        "aussi"
+      ],
+      "choices_l2": [
+        "ešte",
+        "veľmi",
+        "aj"
+      ]
+    },
+    {
+      "id": "listen-ahoj-deti-je-obed-chcete-halu-ky",
+      "type": "listen",
+      "l1": "Salut, les enfants ! C'est l'heure du déjeuner ! Vous voulez des halušky ?",
+      "l2": "Ahoj, deti! Je obed! Chcete halušky?",
+      "choices_l1": [
+        "Salut, les enfants ! C'est l'heure du dîner ! Vous voulez des halušky ?",
+        "Salut, les enfants ! C'est l'heure du déjeuner ! Tu veux des halušky ?",
+        "Salut, les enfants ! C'est l'heure du déjeuner ! Vous voulez de la soupe ?"
+      ]
+    },
+    {
+      "id": "listen-no-m-m-hlad",
+      "type": "listen",
+      "l1": "Oui, j'ai faim !",
+      "l2": "Áno, mám hlad!",
+      "choices_l1": [
+        "Non, j'ai faim !",
+        "Oui, j'ai soif !",
+        "Oui, je n'ai pas faim !"
+      ]
+    },
+    {
+      "id": "listen-ja-nie-bryndzu-nejem-to-je-moja-rodina",
+      "type": "listen",
+      "l1": "Moi ? Non ! Je ne mange pas de bryndza. C'est ma famille !",
+      "l2": "Ja? Nie! Bryndzu nejem. To je moja rodina!",
+      "choices_l1": [
+        "Moi ? Oui ! Je mange de la bryndza. C'est ma famille !",
+        "Moi ? Non ! Je ne mange pas de bryndza. C'est ma maison !",
+        "Moi ? Non ! Je ne veux pas de bryndza. C'est ma famille !"
+      ]
+    },
+    {
+      "id": "listen-chce-halu-ky-user-name",
+      "type": "listen",
+      "l1": "Tu veux des halušky, [USER_NAME] ?",
+      "l2": "Chceš halušky, [USER_NAME]?",
+      "choices_l1": [
+        "Vous voulez des halušky, [USER_NAME] ?",
+        "Tu veux de la soupe, [USER_NAME] ?",
+        "Tu as faim, [USER_NAME] ?"
+      ]
+    },
+    {
+      "id": "listen-no-pros-m-m-m-hlad-chcem-aj-bobule",
+      "type": "listen",
+      "l1": "Oui, s'il te plaît ! J'ai faim. Je veux aussi des baies !",
+      "l2": "Áno, prosím! Mám hlad. Chcem aj bobule!",
+      "choices_l1": [
+        "Non, merci ! J'ai faim. Je veux aussi des baies !",
+        "Oui, s'il te plaît ! J'ai soif. Je veux aussi des baies !",
+        "Oui, s'il te plaît ! J'ai faim. Je veux aussi du miel !"
+      ]
+    },
+    {
+      "id": "listen-nie-l-ka-chce-bobule-nie-m-a",
+      "type": "listen",
+      "l1": "Non ! Le renard veut des baies, pas moi !",
+      "l2": "Nie! Líška chce bobule, nie mňa!",
+      "choices_l1": [
+        "Oui ! Le renard veut des baies, pas moi !",
+        "Non ! Le renard veut du miel, pas moi !",
+        "Non ! Le renard a peur, pas moi !"
+      ]
+    },
+    {
+      "id": "listen-no-bobule-s-sladk",
+      "type": "listen",
+      "l1": "Oui ! Les baies sont sucrées !",
+      "l2": "Áno! Bobule sú sladké!",
+      "choices_l1": [
+        "Non ! Les baies sont sucrées !",
+        "Oui ! Les baies sont acides !",
+        "Oui ! Le miel est sucré !"
+      ]
+    },
+    {
+      "id": "listen-dobr-chu-deti",
+      "type": "listen",
+      "l1": "Bon appétit, les enfants !",
+      "l2": "Dobrú chuť, deti!",
+      "choices_l1": [
+        "Au revoir, les enfants !",
+        "Salut, les enfants !",
+        "Merci, les enfants !"
+      ]
+    },
+    {
+      "id": "listen-mmm-je-to-v-born",
+      "type": "listen",
+      "l1": "Mmm ! C'est délicieux !",
+      "l2": "Mmm! Je to výborné!",
+      "choices_l1": [
+        "Mmm ! C'est sucré !",
+        "Mmm ! C'est acide !",
+        "Mmm ! J'ai faim !"
+      ]
+    },
+    {
+      "id": "blank-no-bobule-s-sladk",
+      "type": "fill-blank",
+      "l1": "Oui ! Les baies sont sucrées !",
+      "l2": "Áno! Bobule sú sladké!",
+      "missing_l1": "sucrées",
+      "missing_l2": "sladké",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "acides",
+        "bonnes",
+        "grandes"
+      ],
+      "choices_l2": [
+        "kyslé",
+        "dobré",
+        "veľké"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-no-bobule-s-sladk",
+      "type": "order",
+      "l1": "Oui ! Les baies sont sucrées !",
+      "l2": "Áno! Bobule sú sladké!",
+      "tokens_l1": [
+        "Oui !",
+        "Les baies",
+        "sont",
+        "sucrées !"
+      ],
+      "tokens_l2": [
+        "Áno!",
+        "Bobule",
+        "sú",
+        "sladké!"
+      ]
+    },
+    {
+      "id": "order-mmm-je-to-v-born",
+      "type": "order",
+      "l1": "Mmm ! C'est délicieux !",
+      "l2": "Mmm! Je to výborné!",
+      "tokens_l1": [
+        "Mmm !",
+        "C'est",
+        "délicieux !"
+      ],
+      "tokens_l2": [
+        "Mmm!",
+        "Je to",
+        "výborné!"
+      ]
+    },
+    {
+      "id": "order-no-m-m-hlad",
+      "type": "order",
+      "l1": "Oui, j'ai faim !",
+      "l2": "Áno, mám hlad!",
+      "tokens_l1": [
+        "Oui,",
+        "j'ai",
+        "faim !"
+      ],
+      "tokens_l2": [
+        "Áno,",
+        "mám",
+        "hlad!"
+      ]
+    },
+    {
+      "id": "match-no-m-m-hlad",
+      "type": "match",
+      "l1": [
+        "Oui, j'ai faim !",
+        "Bon appétit, les enfants !",
+        "Mmm ! C'est délicieux !",
+        "Oui ! Les baies sont sucrées !"
+      ],
+      "l2": [
+        "Áno, mám hlad!",
+        "Dobrú chuť, deti!",
+        "Mmm! Je to výborné!",
+        "Áno! Bobule sú sladké!"
+      ]
+    }
+  ]
+}

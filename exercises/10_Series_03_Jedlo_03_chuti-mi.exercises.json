@@ -1,0 +1,362 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-chut-mi",
+      "type": "qcm",
+      "l1": "j'aime (ça a bon goût pour moi)",
+      "l2": "chutí mi",
+      "choices_l1": [
+        "je n'aime pas (ça n'a pas bon goût pour moi)",
+        "je veux",
+        "j'ai faim"
+      ],
+      "choices_l2": [
+        "nechutí mi",
+        "chcem",
+        "mám hlad"
+      ]
+    },
+    {
+      "id": "qcm-v-born",
+      "type": "qcm",
+      "l1": "délicieux",
+      "l2": "výborné",
+      "choices_l1": [
+        "bon",
+        "sucré (neutre)",
+        "le citron"
+      ],
+      "choices_l2": [
+        "dobré",
+        "sladké",
+        "citrón"
+      ]
+    },
+    {
+      "id": "qcm-citr-n",
+      "type": "qcm",
+      "l1": "le citron",
+      "l2": "citrón",
+      "choices_l1": [
+        "le miel",
+        "la pomme",
+        "la carotte"
+      ],
+      "choices_l2": [
+        "med",
+        "jablko",
+        "mrkva"
+      ]
+    },
+    {
+      "id": "qcm-med-je-sladk",
+      "type": "qcm",
+      "l1": "le miel est sucré",
+      "l2": "med je sladký",
+      "choices_l1": [
+        "la poire est sucrée",
+        "le citron est acide",
+        "la pomme est sucrée"
+      ],
+      "choices_l2": [
+        "hruška je sladká",
+        "citrón je kyslý",
+        "jablko je sladké"
+      ]
+    },
+    {
+      "id": "qcm-citr-n-je-kysl",
+      "type": "qcm",
+      "l1": "le citron est acide",
+      "l2": "citrón je kyslý",
+      "choices_l1": [
+        "le miel est sucré",
+        "la poire est sucrée",
+        "la pomme est sucrée"
+      ],
+      "choices_l2": [
+        "med je sladký",
+        "hruška je sladká",
+        "jablko je sladké"
+      ]
+    },
+    {
+      "id": "listen-chut-mi-jablko",
+      "type": "listen",
+      "l1": "J'aime la pomme.",
+      "l2": "Chutí mi jablko.",
+      "choices_l1": [
+        "Je veux la pomme.",
+        "Je n'aime pas la pomme.",
+        "Tu aimes la pomme."
+      ]
+    },
+    {
+      "id": "listen-nechut-mi-mrkva",
+      "type": "listen",
+      "l1": "Je n'aime pas la carotte.",
+      "l2": "Nechutí mi mrkva.",
+      "choices_l1": [
+        "J'aime la carotte.",
+        "Je ne veux pas de carotte.",
+        "Je n'aime pas la poire."
+      ]
+    },
+    {
+      "id": "listen-chut-ti-med",
+      "type": "listen",
+      "l1": "Tu aimes le miel ?",
+      "l2": "Chutí ti med?",
+      "choices_l1": [
+        "J'aime le miel.",
+        "Tu veux du miel ?",
+        "Tu aimes les noix ?"
+      ]
+    },
+    {
+      "id": "listen-med-je-sladk",
+      "type": "listen",
+      "l1": "Le miel est sucré.",
+      "l2": "Med je sladký.",
+      "choices_l1": [
+        "Le citron est sucré.",
+        "Le miel est acide.",
+        "La poire est sucrée."
+      ]
+    },
+    {
+      "id": "listen-hru-ka-je-sladk",
+      "type": "listen",
+      "l1": "La poire est sucrée.",
+      "l2": "Hruška je sladká.",
+      "choices_l1": [
+        "La pomme est sucrée.",
+        "La poire est acide.",
+        "La poire est bonne."
+      ]
+    },
+    {
+      "id": "listen-jablko-je-sladk",
+      "type": "listen",
+      "l1": "La pomme est sucrée.",
+      "l2": "Jablko je sladké.",
+      "choices_l1": [
+        "La poire est sucrée.",
+        "La pomme est acide.",
+        "La pomme est bonne."
+      ]
+    },
+    {
+      "id": "listen-citr-n-je-kysl",
+      "type": "listen",
+      "l1": "Le citron est acide.",
+      "l2": "Citrón je kyslý.",
+      "choices_l1": [
+        "Le miel est acide.",
+        "Le citron est sucré.",
+        "Le citron est bon."
+      ]
+    },
+    {
+      "id": "listen-je-to-dobr-je-to-v-born",
+      "type": "listen",
+      "l1": "C'est bon ! C'est délicieux !",
+      "l2": "Je to dobré! Je to výborné!",
+      "choices_l1": [
+        "C'est bon ! C'est acide !",
+        "C'est sucré ! C'est délicieux !",
+        "Ce n'est pas bon ! C'est délicieux !"
+      ]
+    },
+    {
+      "id": "listen-chcem-hru-ku-chut-mi-je-sladk",
+      "type": "listen",
+      "l1": "Je veux une poire. J'aime ça, elle est sucrée !",
+      "l2": "Chcem hrušku. Chutí mi, je sladká!",
+      "choices_l1": [
+        "Je veux une pomme. J'aime ça, elle est sucrée !",
+        "Je veux une poire. Je n'aime pas ça, elle est sucrée !",
+        "Je veux une poire. J'aime ça, elle est acide !"
+      ]
+    },
+    {
+      "id": "listen-jablko-je-kysl-ale-chut-mi",
+      "type": "listen",
+      "l1": "La pomme est acide, mais j'aime ça.",
+      "l2": "Jablko je kyslé, ale chutí mi.",
+      "choices_l1": [
+        "La pomme est sucrée, mais j'aime ça.",
+        "La pomme est acide, mais je n'aime pas ça.",
+        "Le citron est acide, mais j'aime ça."
+      ]
+    },
+    {
+      "id": "blank-chut-mi-jablko",
+      "type": "fill-blank",
+      "l1": "J'aime la pomme.",
+      "l2": "Chutí mi jablko.",
+      "missing_l1": "pomme",
+      "missing_l2": "jablko",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "carotte",
+        "poire",
+        "miel"
+      ],
+      "choices_l2": [
+        "mrkva",
+        "hruška",
+        "med"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-med-je-sladk",
+      "type": "fill-blank",
+      "l1": "Le miel est sucré.",
+      "l2": "Med je sladký.",
+      "missing_l1": "sucré",
+      "missing_l2": "sladký",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "acide",
+        "bon",
+        "grand"
+      ],
+      "choices_l2": [
+        "kyslý",
+        "dobré",
+        "veľký"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-hru-ka-je-sladk",
+      "type": "fill-blank",
+      "l1": "La poire est sucrée.",
+      "l2": "Hruška je sladká.",
+      "missing_l1": "poire",
+      "missing_l2": "Hruška",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "pomme",
+        "carotte",
+        "citron"
+      ],
+      "choices_l2": [
+        "Jablko",
+        "Mrkva",
+        "Citrón"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-citr-n-je-kysl",
+      "type": "fill-blank",
+      "l1": "Le citron est acide.",
+      "l2": "Citrón je kyslý.",
+      "missing_l1": "acide",
+      "missing_l2": "kyslý",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sucré",
+        "fort",
+        "petit"
+      ],
+      "choices_l2": [
+        "sladký",
+        "silný",
+        "malý"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-med-je-sladk",
+      "type": "order",
+      "l1": "Le miel est sucré.",
+      "l2": "Med je sladký.",
+      "tokens_l1": [
+        "Le miel",
+        "est",
+        "sucré."
+      ],
+      "tokens_l2": [
+        "Med",
+        "je",
+        "sladký."
+      ]
+    },
+    {
+      "id": "order-citr-n-je-kysl",
+      "type": "order",
+      "l1": "Le citron est acide.",
+      "l2": "Citrón je kyslý.",
+      "tokens_l1": [
+        "Le citron",
+        "est",
+        "acide."
+      ],
+      "tokens_l2": [
+        "Citrón",
+        "je",
+        "kyslý."
+      ]
+    },
+    {
+      "id": "order-jablko-je-kysl-ale-chut-mi",
+      "type": "order",
+      "l1": "La pomme est acide, mais j'aime ça.",
+      "l2": "Jablko je kyslé, ale chutí mi.",
+      "tokens_l1": [
+        "La pomme",
+        "est acide,",
+        "mais",
+        "j'aime ça."
+      ],
+      "tokens_l2": [
+        "Jablko",
+        "je kyslé,",
+        "ale",
+        "chutí mi."
+      ]
+    },
+    {
+      "id": "match-chut-ti",
+      "type": "match",
+      "l1": [
+        "tu aimes",
+        "délicieux",
+        "le citron",
+        "bon"
+      ],
+      "l2": [
+        "chutí ti",
+        "výborné",
+        "citrón",
+        "dobré"
+      ]
+    },
+    {
+      "id": "match-med-je-sladk",
+      "type": "match",
+      "l1": [
+        "le miel est sucré",
+        "la poire est sucrée",
+        "la pomme est sucrée",
+        "le citron est acide"
+      ],
+      "l2": [
+        "med je sladký",
+        "hruška je sladká",
+        "jablko je sladké",
+        "citrón je kyslý"
+      ]
+    }
+  ]
+}

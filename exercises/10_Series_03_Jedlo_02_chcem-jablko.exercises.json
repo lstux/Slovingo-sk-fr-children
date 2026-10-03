@@ -1,0 +1,416 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-jablko",
+      "type": "qcm",
+      "l1": "la pomme",
+      "l2": "jablko",
+      "choices_l1": [
+        "la poire",
+        "la carotte",
+        "le miel"
+      ],
+      "choices_l2": [
+        "hruška",
+        "mrkva",
+        "med"
+      ]
+    },
+    {
+      "id": "qcm-hru-ka",
+      "type": "qcm",
+      "l1": "la poire",
+      "l2": "hruška",
+      "choices_l1": [
+        "la pomme",
+        "la carotte",
+        "le miel"
+      ],
+      "choices_l2": [
+        "jablko",
+        "mrkva",
+        "med"
+      ]
+    },
+    {
+      "id": "qcm-mrkva",
+      "type": "qcm",
+      "l1": "la carotte",
+      "l2": "mrkva",
+      "choices_l1": [
+        "la pomme",
+        "la poire",
+        "le miel"
+      ],
+      "choices_l2": [
+        "jablko",
+        "hruška",
+        "med"
+      ]
+    },
+    {
+      "id": "qcm-med",
+      "type": "qcm",
+      "l1": "le miel",
+      "l2": "med",
+      "choices_l1": [
+        "la pomme",
+        "la poire",
+        "la carotte"
+      ],
+      "choices_l2": [
+        "jablko",
+        "hruška",
+        "mrkva"
+      ]
+    },
+    {
+      "id": "qcm-orechy",
+      "type": "qcm",
+      "l1": "les noix",
+      "l2": "orechy",
+      "choices_l1": [
+        "la pomme",
+        "la poire",
+        "la carotte"
+      ],
+      "choices_l2": [
+        "jablko",
+        "hruška",
+        "mrkva"
+      ]
+    },
+    {
+      "id": "qcm-bobule",
+      "type": "qcm",
+      "l1": "les baies",
+      "l2": "bobule",
+      "choices_l1": [
+        "la pomme",
+        "la poire",
+        "la carotte"
+      ],
+      "choices_l2": [
+        "jablko",
+        "hruška",
+        "mrkva"
+      ]
+    },
+    {
+      "id": "qcm-chcem",
+      "type": "qcm",
+      "l1": "je veux",
+      "l2": "chcem",
+      "choices_l1": [
+        "je mange",
+        "j'ai",
+        "tu veux"
+      ],
+      "choices_l2": [
+        "jem",
+        "mám",
+        "chceš"
+      ]
+    },
+    {
+      "id": "qcm-chce",
+      "type": "qcm",
+      "l1": "tu veux",
+      "l2": "chceš",
+      "choices_l1": [
+        "je veux",
+        "tu as",
+        "il veut"
+      ],
+      "choices_l2": [
+        "chcem",
+        "máš",
+        "chce"
+      ]
+    },
+    {
+      "id": "qcm-chce-2",
+      "type": "qcm",
+      "l1": "il ou elle veut",
+      "l2": "chce",
+      "choices_l1": [
+        "je veux",
+        "tu veux",
+        "il a"
+      ],
+      "choices_l2": [
+        "chcem",
+        "chceš",
+        "má"
+      ]
+    },
+    {
+      "id": "listen-chcem-jablko",
+      "type": "listen",
+      "l1": "Je veux une pomme.",
+      "l2": "Chcem jablko.",
+      "choices_l1": [
+        "Je veux une poire.",
+        "Je mange une pomme.",
+        "Tu veux une pomme."
+      ]
+    },
+    {
+      "id": "listen-chce-hru-ku",
+      "type": "listen",
+      "l1": "Tu veux une poire ?",
+      "l2": "Chceš hrušku?",
+      "choices_l1": [
+        "Tu veux une pomme ?",
+        "Je veux une poire.",
+        "Il veut une poire ?"
+      ]
+    },
+    {
+      "id": "listen-chcem-mrkvu",
+      "type": "listen",
+      "l1": "Je veux une carotte.",
+      "l2": "Chcem mrkvu.",
+      "choices_l1": [
+        "Je veux une poire.",
+        "Je veux du miel.",
+        "Tu veux une carotte."
+      ]
+    },
+    {
+      "id": "listen-andrea-chce-mrkvu",
+      "type": "listen",
+      "l1": "Andrea veut une carotte.",
+      "l2": "Andrea chce mrkvu.",
+      "choices_l1": [
+        "Maťo veut une carotte.",
+        "Andrea veut du miel.",
+        "Andrea veut une poire."
+      ]
+    },
+    {
+      "id": "listen-ma-o-chce-med",
+      "type": "listen",
+      "l1": "Maťo veut du miel.",
+      "l2": "Maťo chce med.",
+      "choices_l1": [
+        "Katka veut du miel.",
+        "Maťo veut des noix.",
+        "Maťo veut une carotte."
+      ]
+    },
+    {
+      "id": "listen-katka-chce-orechy",
+      "type": "listen",
+      "l1": "Katka veut des noix.",
+      "l2": "Katka chce orechy.",
+      "choices_l1": [
+        "Maťo veut des noix.",
+        "Katka veut du miel.",
+        "Katka veut des baies."
+      ]
+    },
+    {
+      "id": "listen-chcem-bobule",
+      "type": "listen",
+      "l1": "Je veux des baies.",
+      "l2": "Chcem bobule.",
+      "choices_l1": [
+        "Je veux des noix.",
+        "Je veux du miel.",
+        "Tu veux des baies."
+      ]
+    },
+    {
+      "id": "listen-m-m-hlad-chcem-chlieb-a-jablko",
+      "type": "listen",
+      "l1": "J'ai faim. Je veux du pain et une pomme.",
+      "l2": "Mám hlad. Chcem chlieb a jablko.",
+      "choices_l1": [
+        "J'ai soif. Je veux du pain et une pomme.",
+        "J'ai faim. Je veux du lait et une pomme.",
+        "J'ai faim. Je veux du pain et une poire."
+      ]
+    },
+    {
+      "id": "listen-m-sm-d-chce-vodu",
+      "type": "listen",
+      "l1": "Tu as soif ? Tu veux de l'eau ?",
+      "l2": "Máš smäd? Chceš vodu?",
+      "choices_l1": [
+        "Tu as faim ? Tu veux de l'eau ?",
+        "Tu as soif ? Tu veux du lait ?",
+        "J'ai soif. Je veux de l'eau."
+      ]
+    },
+    {
+      "id": "listen-nechcem-mrkvu",
+      "type": "listen",
+      "l1": "Je ne veux pas de carotte.",
+      "l2": "Nechcem mrkvu.",
+      "choices_l1": [
+        "Je veux une carotte.",
+        "Je ne veux pas de poire.",
+        "Je n'ai pas de carotte."
+      ]
+    },
+    {
+      "id": "listen-chcem-e-te-jablko",
+      "type": "listen",
+      "l1": "Je veux encore une pomme.",
+      "l2": "Chcem ešte jablko.",
+      "choices_l1": [
+        "Je veux une pomme.",
+        "Je veux encore une poire.",
+        "Je mange encore une pomme."
+      ]
+    },
+    {
+      "id": "blank-ma-o-chce-med",
+      "type": "fill-blank",
+      "l1": "Maťo veut du miel.",
+      "l2": "Maťo chce med.",
+      "missing_l1": "miel",
+      "missing_l2": "med",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "pomme",
+        "noix",
+        "baies"
+      ],
+      "choices_l2": [
+        "jablko",
+        "orechy",
+        "bobule"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-katka-chce-orechy",
+      "type": "fill-blank",
+      "l1": "Katka veut des noix.",
+      "l2": "Katka chce orechy.",
+      "missing_l1": "noix",
+      "missing_l2": "orechy",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "miel",
+        "pomme",
+        "baies"
+      ],
+      "choices_l2": [
+        "med",
+        "jablko",
+        "bobule"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-chcem-bobule",
+      "type": "fill-blank",
+      "l1": "Je veux des baies.",
+      "l2": "Chcem bobule.",
+      "missing_l1": "baies",
+      "missing_l2": "bobule",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "noix",
+        "miel",
+        "pomme"
+      ],
+      "choices_l2": [
+        "orechy",
+        "med",
+        "jablko"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-andrea-chce-mrkvu",
+      "type": "order",
+      "l1": "Andrea veut une carotte.",
+      "l2": "Andrea chce mrkvu.",
+      "tokens_l1": [
+        "Andrea",
+        "veut",
+        "une carotte."
+      ],
+      "tokens_l2": [
+        "Andrea",
+        "chce",
+        "mrkvu."
+      ]
+    },
+    {
+      "id": "order-ma-o-chce-med",
+      "type": "order",
+      "l1": "Maťo veut du miel.",
+      "l2": "Maťo chce med.",
+      "tokens_l1": [
+        "Maťo",
+        "veut",
+        "du miel."
+      ],
+      "tokens_l2": [
+        "Maťo",
+        "chce",
+        "med."
+      ]
+    },
+    {
+      "id": "order-nechcem-med-ale-chcem-orechy",
+      "type": "order",
+      "l1": "Je ne veux pas de miel, mais je veux des noix.",
+      "l2": "Nechcem med, ale chcem orechy.",
+      "tokens_l1": [
+        "Je ne veux pas",
+        "de miel,",
+        "mais",
+        "je veux des noix."
+      ],
+      "tokens_l2": [
+        "Nechcem",
+        "med,",
+        "ale",
+        "chcem orechy."
+      ]
+    },
+    {
+      "id": "match-jablko",
+      "type": "match",
+      "l1": [
+        "la pomme",
+        "la poire",
+        "la carotte",
+        "le miel"
+      ],
+      "l2": [
+        "jablko",
+        "hruška",
+        "mrkva",
+        "med"
+      ]
+    },
+    {
+      "id": "match-chcem",
+      "type": "match",
+      "l1": [
+        "je veux",
+        "tu veux",
+        "il ou elle veut",
+        "les noix"
+      ],
+      "l2": [
+        "chcem",
+        "chceš",
+        "chce",
+        "orechy"
+      ]
+    }
+  ]
+}

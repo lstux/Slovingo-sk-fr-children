@@ -1,0 +1,397 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ra-ajky",
+      "type": "qcm",
+      "l1": "le petit-déjeuner",
+      "l2": "raňajky",
+      "choices_l1": [
+        "le déjeuner",
+        "le dîner",
+        "la soupe"
+      ],
+      "choices_l2": [
+        "obed",
+        "večera",
+        "polievka"
+      ]
+    },
+    {
+      "id": "qcm-obed",
+      "type": "qcm",
+      "l1": "le déjeuner",
+      "l2": "obed",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "le dîner",
+        "la soupe"
+      ],
+      "choices_l2": [
+        "raňajky",
+        "večera",
+        "polievka"
+      ]
+    },
+    {
+      "id": "qcm-ve-era",
+      "type": "qcm",
+      "l1": "le dîner",
+      "l2": "večera",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "le déjeuner",
+        "la soupe"
+      ],
+      "choices_l2": [
+        "raňajky",
+        "obed",
+        "polievka"
+      ]
+    },
+    {
+      "id": "qcm-polievka",
+      "type": "qcm",
+      "l1": "la soupe",
+      "l2": "polievka",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "le déjeuner",
+        "le dîner"
+      ],
+      "choices_l2": [
+        "raňajky",
+        "obed",
+        "večera"
+      ]
+    },
+    {
+      "id": "qcm-syr",
+      "type": "qcm",
+      "l1": "le fromage",
+      "l2": "syr",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "le déjeuner",
+        "le dîner"
+      ],
+      "choices_l2": [
+        "raňajky",
+        "obed",
+        "večera"
+      ]
+    },
+    {
+      "id": "qcm-aj",
+      "type": "qcm",
+      "l1": "le thé, la tisane",
+      "l2": "čaj",
+      "choices_l1": [
+        "le petit-déjeuner",
+        "le déjeuner",
+        "le dîner"
+      ],
+      "choices_l2": [
+        "raňajky",
+        "obed",
+        "večera"
+      ]
+    },
+    {
+      "id": "qcm-na-obed",
+      "type": "qcm",
+      "l1": "pour le déjeuner",
+      "l2": "na obed",
+      "choices_l1": [
+        "pour le petit-déjeuner",
+        "pour le dîner",
+        "sur la table"
+      ],
+      "choices_l2": [
+        "na raňajky",
+        "na večeru",
+        "na stole"
+      ]
+    },
+    {
+      "id": "listen-o-je-na-obed",
+      "type": "listen",
+      "l1": "Qu'est-ce qu'il y a pour le déjeuner ?",
+      "l2": "Čo je na obed?",
+      "choices_l1": [
+        "Qu'est-ce qu'il y a pour le dîner ?",
+        "Qu'est-ce qu'il y a sur la table ?",
+        "Qu'est-ce que tu as pour le déjeuner ?"
+      ]
+    },
+    {
+      "id": "listen-na-ra-ajky-m-m-chlieb-a-mlieko",
+      "type": "listen",
+      "l1": "Pour le petit-déjeuner, j'ai du pain et du lait.",
+      "l2": "Na raňajky mám chlieb a mlieko.",
+      "choices_l1": [
+        "Pour le déjeuner, j'ai du pain et du lait.",
+        "Pour le petit-déjeuner, j'ai du pain et du miel.",
+        "Pour le petit-déjeuner, je veux du pain et du lait."
+      ]
+    },
+    {
+      "id": "listen-na-obed-jem-polievku",
+      "type": "listen",
+      "l1": "Pour le déjeuner, je mange de la soupe.",
+      "l2": "Na obed jem polievku.",
+      "choices_l1": [
+        "Pour le dîner, je mange de la soupe.",
+        "Pour le déjeuner, je mange du fromage.",
+        "Pour le déjeuner, je bois de la soupe."
+      ]
+    },
+    {
+      "id": "listen-na-ve-eru-jem-syr-a-chlieb",
+      "type": "listen",
+      "l1": "Pour le dîner, je mange du fromage et du pain.",
+      "l2": "Na večeru jem syr a chlieb.",
+      "choices_l1": [
+        "Pour le déjeuner, je mange du fromage et du pain.",
+        "Pour le dîner, je mange de la soupe et du pain.",
+        "Pour le dîner, je mange du fromage et du miel."
+      ]
+    },
+    {
+      "id": "listen-o-m-na-ra-ajky",
+      "type": "listen",
+      "l1": "Qu'est-ce que tu as pour le petit-déjeuner ?",
+      "l2": "Čo máš na raňajky?",
+      "choices_l1": [
+        "Qu'est-ce que tu as pour le dîner ?",
+        "Qu'est-ce qu'il y a pour le petit-déjeuner ?",
+        "Qu'est-ce que tu veux pour le petit-déjeuner ?"
+      ]
+    },
+    {
+      "id": "listen-na-ra-ajky-pijem-aj",
+      "type": "listen",
+      "l1": "Pour le petit-déjeuner, je bois du thé.",
+      "l2": "Na raňajky pijem čaj.",
+      "choices_l1": [
+        "Pour le dîner, je bois du thé.",
+        "Pour le petit-déjeuner, je mange du thé.",
+        "Pour le petit-déjeuner, je bois du lait."
+      ]
+    },
+    {
+      "id": "listen-polievka-je-dobr",
+      "type": "listen",
+      "l1": "La soupe est bonne.",
+      "l2": "Polievka je dobrá.",
+      "choices_l1": [
+        "Le pain est bon.",
+        "La soupe est sucrée.",
+        "La soupe est grande."
+      ]
+    },
+    {
+      "id": "listen-m-m-hlad-o-je-na-ve-eru",
+      "type": "listen",
+      "l1": "J'ai faim. Qu'est-ce qu'il y a pour le dîner ?",
+      "l2": "Mám hlad. Čo je na večeru?",
+      "choices_l1": [
+        "J'ai soif. Qu'est-ce qu'il y a pour le dîner ?",
+        "J'ai faim. Qu'est-ce qu'il y a pour le déjeuner ?",
+        "J'ai faim. Où est le dîner ?"
+      ]
+    },
+    {
+      "id": "listen-na-ra-ajky-chcem-med-a-chlieb",
+      "type": "listen",
+      "l1": "Pour le petit-déjeuner, je veux du miel et du pain.",
+      "l2": "Na raňajky chcem med a chlieb.",
+      "choices_l1": [
+        "Pour le dîner, je veux du miel et du pain.",
+        "Pour le petit-déjeuner, je veux du lait et du pain.",
+        "Pour le petit-déjeuner, j'ai du miel et du pain."
+      ]
+    },
+    {
+      "id": "blank-na-ve-eru-jem-syr-a-chlieb",
+      "type": "fill-blank",
+      "l1": "Pour le dîner, je mange du fromage et du pain.",
+      "l2": "Na večeru jem syr a chlieb.",
+      "missing_l1": "fromage",
+      "missing_l2": "syr",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "lait",
+        "miel",
+        "thé"
+      ],
+      "choices_l2": [
+        "mlieko",
+        "med",
+        "čaj"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-na-ra-ajky-pijem-aj",
+      "type": "fill-blank",
+      "l1": "Pour le petit-déjeuner, je bois du thé.",
+      "l2": "Na raňajky pijem čaj.",
+      "missing_l1": "thé",
+      "missing_l2": "čaj",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "lait",
+        "eau",
+        "miel"
+      ],
+      "choices_l2": [
+        "mlieko",
+        "vodu",
+        "med"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-polievka-je-dobr",
+      "type": "fill-blank",
+      "l1": "La soupe est bonne.",
+      "l2": "Polievka je dobrá.",
+      "missing_l1": "soupe",
+      "missing_l2": "Polievka",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "poire",
+        "carotte",
+        "pomme"
+      ],
+      "choices_l2": [
+        "Hruška",
+        "Mrkva",
+        "Jablko"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-o-m-na-ra-ajky",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce que tu as pour le petit-déjeuner ?",
+      "l2": "Čo máš na raňajky?",
+      "missing_l1": "petit-déjeuner",
+      "missing_l2": "raňajky",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "déjeuner",
+        "dîner",
+        "lait"
+      ],
+      "choices_l2": [
+        "obed",
+        "večeru",
+        "mlieko"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-o-je-na-obed",
+      "type": "order",
+      "l1": "Qu'est-ce qu'il y a pour le déjeuner ?",
+      "l2": "Čo je na obed?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "qu'il y a",
+        "pour le déjeuner ?"
+      ],
+      "tokens_l2": [
+        "Čo",
+        "je",
+        "na obed?"
+      ]
+    },
+    {
+      "id": "order-na-obed-jem-polievku",
+      "type": "order",
+      "l1": "Pour le déjeuner, je mange de la soupe.",
+      "l2": "Na obed jem polievku.",
+      "tokens_l1": [
+        "Pour le déjeuner,",
+        "je mange",
+        "de la soupe."
+      ],
+      "tokens_l2": [
+        "Na obed",
+        "jem",
+        "polievku."
+      ]
+    },
+    {
+      "id": "order-polievka-je-dobr",
+      "type": "order",
+      "l1": "La soupe est bonne.",
+      "l2": "Polievka je dobrá.",
+      "tokens_l1": [
+        "La soupe",
+        "est",
+        "bonne."
+      ],
+      "tokens_l2": [
+        "Polievka",
+        "je",
+        "dobrá."
+      ]
+    },
+    {
+      "id": "order-na-ra-ajky-pijem-aj",
+      "type": "order",
+      "l1": "Pour le petit-déjeuner, je bois du thé.",
+      "l2": "Na raňajky pijem čaj.",
+      "tokens_l1": [
+        "Pour le petit-déjeuner,",
+        "je bois",
+        "du thé."
+      ],
+      "tokens_l2": [
+        "Na raňajky",
+        "pijem",
+        "čaj."
+      ]
+    },
+    {
+      "id": "match-ra-ajky",
+      "type": "match",
+      "l1": [
+        "le petit-déjeuner",
+        "le déjeuner",
+        "le dîner",
+        "la soupe"
+      ],
+      "l2": [
+        "raňajky",
+        "obed",
+        "večera",
+        "polievka"
+      ]
+    },
+    {
+      "id": "match-na-ra-ajky",
+      "type": "match",
+      "l1": [
+        "pour le petit-déjeuner",
+        "pour le déjeuner",
+        "pour le dîner",
+        "le fromage"
+      ],
+      "l2": [
+        "na raňajky",
+        "na obed",
+        "na večeru",
+        "syr"
+      ]
+    }
+  ]
+}
