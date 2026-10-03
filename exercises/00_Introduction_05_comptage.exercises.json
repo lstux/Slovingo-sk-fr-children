@@ -1,0 +1,252 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-jeden",
+      "type": "qcm",
+      "l1": "1",
+      "l2": "jeden",
+      "choices_l1": [
+        "2",
+        "4",
+        "7"
+      ],
+      "choices_l2": [
+        "dva",
+        "štyri",
+        "sedem"
+      ]
+    },
+    {
+      "id": "qcm-tri",
+      "type": "qcm",
+      "l1": "3",
+      "l2": "tri",
+      "choices_l1": [
+        "2",
+        "4",
+        "5"
+      ],
+      "choices_l2": [
+        "dva",
+        "štyri",
+        "päť"
+      ]
+    },
+    {
+      "id": "qcm-tyri",
+      "type": "qcm",
+      "l1": "4",
+      "l2": "štyri",
+      "choices_l1": [
+        "3",
+        "6",
+        "9"
+      ],
+      "choices_l2": [
+        "tri",
+        "šesť",
+        "deväť"
+      ]
+    },
+    {
+      "id": "qcm-p",
+      "type": "qcm",
+      "l1": "5",
+      "l2": "päť",
+      "choices_l1": [
+        "6",
+        "9",
+        "10"
+      ],
+      "choices_l2": [
+        "šesť",
+        "deväť",
+        "desať"
+      ]
+    },
+    {
+      "id": "qcm-es",
+      "type": "qcm",
+      "l1": "6",
+      "l2": "šesť",
+      "choices_l1": [
+        "5",
+        "7",
+        "9"
+      ],
+      "choices_l2": [
+        "päť",
+        "sedem",
+        "deväť"
+      ]
+    },
+    {
+      "id": "qcm-sedem",
+      "type": "qcm",
+      "l1": "7",
+      "l2": "sedem",
+      "choices_l1": [
+        "6",
+        "8",
+        "10"
+      ],
+      "choices_l2": [
+        "šesť",
+        "osem",
+        "desať"
+      ]
+    },
+    {
+      "id": "qcm-osem",
+      "type": "qcm",
+      "l1": "8",
+      "l2": "osem",
+      "choices_l1": [
+        "7",
+        "9",
+        "10"
+      ],
+      "choices_l2": [
+        "sedem",
+        "deväť",
+        "desať"
+      ]
+    },
+    {
+      "id": "qcm-dev",
+      "type": "qcm",
+      "l1": "9",
+      "l2": "deväť",
+      "choices_l1": [
+        "5",
+        "8",
+        "10"
+      ],
+      "choices_l2": [
+        "päť",
+        "osem",
+        "desať"
+      ]
+    },
+    {
+      "id": "qcm-desa",
+      "type": "qcm",
+      "l1": "10",
+      "l2": "desať",
+      "choices_l1": [
+        "1",
+        "5",
+        "9"
+      ],
+      "choices_l2": [
+        "jeden",
+        "päť",
+        "deväť"
+      ]
+    },
+    {
+      "id": "listen-jeden-dva-tri",
+      "type": "listen",
+      "l1": "Un, deux, trois !",
+      "l2": "Jeden, dva, tri!",
+      "choices_l1": [
+        "Un, deux, quatre !",
+        "Trois, deux, un !",
+        "Deux, trois, quatre !"
+      ]
+    },
+    {
+      "id": "listen-ko-ko-p",
+      "type": "listen",
+      "l1": "Combien ? Cinq !",
+      "l2": "Koľko? Päť!",
+      "choices_l1": [
+        "Combien ? Six !",
+        "Combien ? Neuf !",
+        "Combien ? Quatre !"
+      ]
+    },
+    {
+      "id": "listen-desa-prstov",
+      "type": "listen",
+      "l1": "Dix doigts",
+      "l2": "Desať prstov",
+      "choices_l1": [
+        "Neuf doigts",
+        "Huit doigts",
+        "Sept doigts"
+      ]
+    },
+    {
+      "id": "blank-ko-ko-p",
+      "type": "fill-blank",
+      "l1": "Combien ? Cinq !",
+      "l2": "Koľko? Päť!",
+      "missing_l1": "Cinq",
+      "missing_l2": "Päť",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Trois",
+        "Dix",
+        "Huit"
+      ],
+      "choices_l2": [
+        "Tri",
+        "Desať",
+        "Osem"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-jeden-dva-tri",
+      "type": "order",
+      "l1": "Un, deux, trois !",
+      "l2": "Jeden, dva, tri!",
+      "tokens_l1": [
+        "Un,",
+        "deux,",
+        "trois !"
+      ],
+      "tokens_l2": [
+        "Jeden,",
+        "dva,",
+        "tri!"
+      ]
+    },
+    {
+      "id": "match-jeden",
+      "type": "match",
+      "l1": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "l2": [
+        "jeden",
+        "dva",
+        "tri",
+        "štyri"
+      ]
+    },
+    {
+      "id": "match-es",
+      "type": "match",
+      "l1": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "l2": [
+        "šesť",
+        "sedem",
+        "osem",
+        "desať"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 ## Salut ! Comment tu t'appelles ?
 
-👋 {{fr:Bienvenue dans ton aventure en slovaque ! Écris ton prénom ici.}}
+👋 {{fr:Bienvenue dans les Tatry, les montagnes de Slovaquie ! Tu y arrives pour la première fois, et tu vas apprendre le slovaque avec tes nouveaux voisins, des animaux qui parlent. Écris ton prénom ici.}}
 
 [ASK_USER_NAME]
 
@@ -32,7 +32,7 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 ## Essaie !
 
-- 🐰 Andrea, ton amie slovaque
+- 🐰 Andrea, ton amie des Tatry
 - 🦊 Toi
 
 ! 🐰 Ahoj!

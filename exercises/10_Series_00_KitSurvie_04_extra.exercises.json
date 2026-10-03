@@ -1,0 +1,484 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ahoj",
+      "type": "qcm",
+      "l1": "salut (bonjour ou au revoir)",
+      "l2": "ahoj",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "pain"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "dobre",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-nevad",
+      "type": "qcm",
+      "l1": "pas de souci",
+      "l2": "nevadí",
+      "choices_l1": [
+        "merci",
+        "pardon",
+        "non"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "prepáč",
+        "nie"
+      ]
+    },
+    {
+      "id": "qcm-hovor-m",
+      "type": "qcm",
+      "l1": "je parle",
+      "l2": "hovorím",
+      "choices_l1": [
+        "tu parles",
+        "je ne parle pas",
+        "je m'appelle"
+      ],
+      "choices_l2": [
+        "hovoríš",
+        "nehovorím",
+        "volám sa"
+      ]
+    },
+    {
+      "id": "qcm-nehovor-m",
+      "type": "qcm",
+      "l1": "je ne parle pas",
+      "l2": "nehovorím",
+      "choices_l1": [
+        "tu parles",
+        "je parle",
+        "je ne comprends pas"
+      ],
+      "choices_l2": [
+        "hovoríš",
+        "hovorím",
+        "nerozumiem"
+      ]
+    },
+    {
+      "id": "qcm-aj",
+      "type": "qcm",
+      "l1": "aussi",
+      "l2": "aj",
+      "choices_l1": [
+        "oui",
+        "non",
+        "bien"
+      ],
+      "choices_l2": [
+        "áno",
+        "nie",
+        "dobre"
+      ]
+    },
+    {
+      "id": "qcm-pros-m",
+      "type": "qcm",
+      "l1": "s'il te plaît / de rien",
+      "l2": "prosím",
+      "choices_l1": [
+        "pardon",
+        "merci",
+        "oui"
+      ],
+      "choices_l2": [
+        "prepáč",
+        "ďakujem",
+        "áno"
+      ]
+    },
+    {
+      "id": "qcm-ako-sa-vol",
+      "type": "qcm",
+      "l1": "comment tu t'appelles",
+      "l2": "ako sa voláš",
+      "choices_l1": [
+        "je m'appelle",
+        "ça va ?",
+        "je ne comprends pas"
+      ],
+      "choices_l2": [
+        "volám sa",
+        "ako sa máš",
+        "nerozumiem"
+      ]
+    },
+    {
+      "id": "qcm-vol-m-sa",
+      "type": "qcm",
+      "l1": "je m'appelle",
+      "l2": "volám sa",
+      "choices_l1": [
+        "comment tu t'appelles",
+        "ça va ?",
+        "en slovaque"
+      ],
+      "choices_l2": [
+        "ako sa voláš",
+        "ako sa máš",
+        "po slovensky"
+      ]
+    },
+    {
+      "id": "qcm-po-slovensky",
+      "type": "qcm",
+      "l1": "en slovaque",
+      "l2": "po slovensky",
+      "choices_l1": [
+        "en français",
+        "la Slovaquie",
+        "oui"
+      ],
+      "choices_l2": [
+        "po francúzsky",
+        "Slovensko",
+        "áno"
+      ]
+    },
+    {
+      "id": "qcm-nerozumiem",
+      "type": "qcm",
+      "l1": "je ne comprends pas",
+      "l2": "nerozumiem",
+      "choices_l1": [
+        "je m'appelle",
+        "comment tu t'appelles",
+        "tu parles"
+      ],
+      "choices_l2": [
+        "volám sa",
+        "ako sa voláš",
+        "hovoríš"
+      ]
+    },
+    {
+      "id": "listen-ahoj-ako-sa-m",
+      "type": "listen",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Ahoj! Ako sa máš?",
+      "choices_l1": [
+        "Bonjour ! Merci !",
+        "Salut ! Pardon !",
+        "Au revoir ! Bien !"
+      ]
+    },
+    {
+      "id": "listen-dobre-akujem",
+      "type": "listen",
+      "l1": "Bien, merci !",
+      "l2": "Dobre, ďakujem!",
+      "choices_l1": [
+        "Non, merci !",
+        "Bien, pardon !",
+        "Oui, merci !"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-dovidenia",
+      "type": "listen",
+      "l1": "Bonjour ! Au revoir !",
+      "l2": "Dobrý deň! Dovidenia!",
+      "choices_l1": [
+        "Bonjour ! Merci !",
+        "Pardon ! Au revoir !",
+        "Salut ! Pardon !"
+      ]
+    },
+    {
+      "id": "listen-nie-akujem-no-pros-m",
+      "type": "listen",
+      "l1": "Non, merci. Oui, s'il te plaît.",
+      "l2": "Nie, ďakujem. Áno, prosím.",
+      "choices_l1": [
+        "Oui, merci. Non, s'il te plaît.",
+        "Non, pardon. Oui, merci.",
+        "Non, merci. Oui, pardon."
+      ]
+    },
+    {
+      "id": "listen-prep-nerozumiem",
+      "type": "listen",
+      "l1": "Pardon, je ne comprends pas.",
+      "l2": "Prepáč, nerozumiem.",
+      "choices_l1": [
+        "Merci, je ne comprends pas.",
+        "Pardon, je ne parle pas.",
+        "Pardon, je m'appelle Andrea."
+      ]
+    },
+    {
+      "id": "listen-aj-ja",
+      "type": "listen",
+      "l1": "Moi aussi !",
+      "l2": "Aj ja!",
+      "choices_l1": [
+        "Pardon !",
+        "Merci !",
+        "Bien !"
+      ]
+    },
+    {
+      "id": "listen-hovor-po-franc-zsky",
+      "type": "listen",
+      "l1": "Tu parles français ?",
+      "l2": "Hovoríš po francúzsky?",
+      "choices_l1": [
+        "Tu parles slovaque ?",
+        "Comment tu t'appelles ?",
+        "Tu comprends ?"
+      ]
+    },
+    {
+      "id": "listen-hovor-m-po-franc-zsky",
+      "type": "listen",
+      "l1": "Je parle français.",
+      "l2": "Hovorím po francúzsky.",
+      "choices_l1": [
+        "Je parle slovaque.",
+        "Je ne parle pas français.",
+        "Je m'appelle Andrea."
+      ]
+    },
+    {
+      "id": "listen-nehovor-m-po-slovensky",
+      "type": "listen",
+      "l1": "Je ne parle pas slovaque.",
+      "l2": "Nehovorím po slovensky.",
+      "choices_l1": [
+        "Je parle slovaque.",
+        "Je ne parle pas français.",
+        "Tu ne parles pas slovaque."
+      ]
+    },
+    {
+      "id": "listen-ako-sa-vol-vol-m-sa-user-name",
+      "type": "listen",
+      "l1": "Comment tu t'appelles ? Je m'appelle [USER_NAME].",
+      "l2": "Ako sa voláš? Volám sa [USER_NAME].",
+      "choices_l1": [
+        "Tu parles français ? Je m'appelle [USER_NAME].",
+        "Comment tu t'appelles ? Je parle français.",
+        "Ça va ? Je m'appelle [USER_NAME]."
+      ]
+    },
+    {
+      "id": "listen-akujem-andrea-pros-m",
+      "type": "listen",
+      "l1": "Merci, Andrea ! De rien !",
+      "l2": "Ďakujem, Andrea! Prosím!",
+      "choices_l1": [
+        "Merci, Andrea ! Pardon !",
+        "Pardon, Andrea ! De rien !",
+        "Salut, Andrea ! De rien !"
+      ]
+    },
+    {
+      "id": "listen-dobre-no-dobre",
+      "type": "listen",
+      "l1": "Ça va ? Oui, bien !",
+      "l2": "Dobre? Áno, dobre!",
+      "choices_l1": [
+        "Ça va ? Non, merci !",
+        "Merci ? Oui, bien !",
+        "Pardon ? Oui, bien !"
+      ]
+    },
+    {
+      "id": "listen-nevad",
+      "type": "listen",
+      "l1": "Pas de souci !",
+      "l2": "Nevadí!",
+      "choices_l1": [
+        "Pardon !",
+        "Merci !",
+        "Au revoir !"
+      ]
+    },
+    {
+      "id": "listen-dovidenia-user-name",
+      "type": "listen",
+      "l1": "Au revoir, [USER_NAME] !",
+      "l2": "Dovidenia, [USER_NAME]!",
+      "choices_l1": [
+        "Merci, [USER_NAME] !",
+        "Pardon, [USER_NAME] !",
+        "Bien, [USER_NAME] !"
+      ]
+    },
+    {
+      "id": "blank-nehovor-m-po-slovensky",
+      "type": "fill-blank",
+      "l1": "Je ne parle pas slovaque.",
+      "l2": "Nehovorím po slovensky.",
+      "missing_l1": "slovaque",
+      "missing_l2": "slovensky",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "français",
+        "oui",
+        "bien"
+      ],
+      "choices_l2": [
+        "francúzsky",
+        "áno",
+        "dobre"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-akujem-andrea-pros-m",
+      "type": "fill-blank",
+      "l1": "Merci, Andrea ! De rien !",
+      "l2": "Ďakujem, Andrea! Prosím!",
+      "missing_l1": "rien",
+      "missing_l2": "Prosím",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "merci",
+        "pardon",
+        "bien"
+      ],
+      "choices_l2": [
+        "Ďakujem",
+        "Prepáč",
+        "Dobre"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-dobre-no-dobre",
+      "type": "fill-blank",
+      "l1": "Ça va ? Oui, bien !",
+      "l2": "Dobre? Áno, dobre!",
+      "missing_l1": "Oui",
+      "missing_l2": "Áno",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Non",
+        "Merci",
+        "Pardon"
+      ],
+      "choices_l2": [
+        "Nie",
+        "Ďakujem",
+        "Prepáč"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-prep-nerozumiem",
+      "type": "fill-blank",
+      "l1": "Pardon, je ne comprends pas.",
+      "l2": "Prepáč, nerozumiem.",
+      "missing_l1": "Pardon",
+      "missing_l2": "Prepáč",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Merci",
+        "Oui",
+        "Non"
+      ],
+      "choices_l2": [
+        "Ďakujem",
+        "Áno",
+        "Nie"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-hovor-po-franc-zsky",
+      "type": "order",
+      "l1": "Tu parles français ?",
+      "l2": "Hovoríš po francúzsky?",
+      "tokens_l1": [
+        "Tu",
+        "parles",
+        "français ?"
+      ],
+      "tokens_l2": [
+        "Hovoríš",
+        "po",
+        "francúzsky?"
+      ]
+    },
+    {
+      "id": "order-hovor-m-po-franc-zsky",
+      "type": "order",
+      "l1": "Je parle français.",
+      "l2": "Hovorím po francúzsky.",
+      "tokens_l1": [
+        "Je",
+        "parle",
+        "français."
+      ],
+      "tokens_l2": [
+        "Hovorím",
+        "po",
+        "francúzsky."
+      ]
+    },
+    {
+      "id": "order-nehovor-m-po-slovensky",
+      "type": "order",
+      "l1": "Je ne parle pas slovaque.",
+      "l2": "Nehovorím po slovensky.",
+      "tokens_l1": [
+        "Je ne",
+        "parle pas",
+        "slovaque."
+      ],
+      "tokens_l2": [
+        "Nehovorím",
+        "po",
+        "slovensky."
+      ]
+    },
+    {
+      "id": "match-hovor",
+      "type": "match",
+      "l1": [
+        "tu parles",
+        "je parle",
+        "je ne parle pas",
+        "pas de souci"
+      ],
+      "l2": [
+        "hovoríš",
+        "hovorím",
+        "nehovorím",
+        "nevadí"
+      ]
+    },
+    {
+      "id": "match-aj-ja",
+      "type": "match",
+      "l1": [
+        "Moi aussi !",
+        "Pas de souci !",
+        "Bien, merci !",
+        "Je parle français."
+      ],
+      "l2": [
+        "Aj ja!",
+        "Nevadí!",
+        "Dobre, ďakujem!",
+        "Hovorím po francúzsky."
+      ]
+    }
+  ]
+}

@@ -39,7 +39,7 @@
     "rodina": "Rodina",
     "doma": "Doma",
     "jedlo": "Jedlo",
-    "mesto": "Mesto",
+    "dedina": "Dedina",
     "zvierata": "Zvieratá",
     "hry": "Hry"
   },
@@ -189,7 +189,7 @@
     "rodina": "family",
     "doma": "house",
     "jedlo": "food",
-    "mesto": "city",
+    "dedina": "city",
     "zvierata": "animals",
     "hry": "games"
   }

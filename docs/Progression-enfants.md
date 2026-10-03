@@ -17,7 +17,7 @@ Le slovaque a une réputation difficile (les cas, l'aspect des verbes). On l'abo
 - **Phase 0 : Introduction** : 5 fiches (comment ça marche, le pays, la langue, prononciation, nombres de 0 à 10)
 - **Phase 1 : Kit de Survie** (série 00) : 3 fiches + 1 extra
 - **Phase 2 : Chez soi** (séries 01-03) : Rodina, Doma, Jedlo
-- **Phase 3 : Dehors** (séries 04-06) : Mesto, Zvieratá, Hry
+- **Phase 3 : Dehors** (séries 04-06) : Dedina, Zvieratá, Hry
 - **Phase 4 : Extension** (séries 07+) : Farby (couleurs), Škola (l'école), Telo (le corps), Sviatky (les fêtes : Mikuláš, Veľká noc)
 
 Chaque série = 1 semaine de travail décontracté (6 fiches, une par jour + jours de pause).
@@ -30,13 +30,15 @@ Chaque série = 1 semaine de travail décontracté (6 fiches, une par jour + jou
 |---|---|---|---|
 | 00 | Kit de Survie | Bonjour, merci, se présenter | Saluer, remercier, dire son prénom, dire qu'on ne comprend pas |
 | 01 | Rodina | La famille | Présenter sa famille, dire son âge |
-| 02 | Doma | La maison | Dire où sont les choses, parler de sa chambre |
+| 02 | Doma | Chez soi : terriers, tanières, nids | Dire où sont les choses, parler de sa maison |
 | 03 | Jedlo | Les repas | Dire ce qu'on mange et ce qu'on aime |
-| 04 | Mesto | La ville | Aller quelque part, demander le prix |
-| 05 | Zvieratá | Les animaux | Décrire un animal, comparer |
-| 06 | Hry | Les jeux | Proposer un jeu, dire à qui c'est le tour |
+| 04 | Dedina | Le village au pied des montagnes | Aller quelque part, demander le prix, parler à un adulte inconnu |
+| 05 | Zvieratá | Les animaux des Tatry | Décrire un animal, comparer, protéger la nature |
+| 06 | Hry | Les jeux dans la nature | Proposer un jeu, dire à qui c'est le tour |
 
-Les noms de séries reprennent ceux du cours adulte, sauf *Čas* (l'heure), trop abstrait pour commencer.
+Les noms de séries reprennent ceux du cours adulte, sauf *Čas* (l'heure), trop abstrait pour commencer, et *Mesto*, remplacé par *Dedina* (le mot *mesto*, la ville, reste au vocabulaire, par exemple en mot complémentaire).
+
+Le décor est partout le même : les Tatry, avec des animaux qui parlent (voir `Format-enfants.md`). Le message « protéger la nature » culmine dans Zvieratá.
 
 ---
 
@@ -65,9 +67,9 @@ Soit **environ 40 mots par série**, dont ~28 essentiels. C'est un plafond. Les 
 |-------|---------------------|
 | Kit de Survie | Schémas figés : *Ahoj*, *Dobrý deň*, *Ďakujem*, *Prosím*, *Prepáč*, *Dovidenia*, *Ako sa voláš? / Volám sa…*, *Nerozumiem*, *Hovoríš po francúzsky?* |
 | Rodina | *môj / moja / moje*, *som / si / je*, *mám*, l'âge (*mám osem rokov*, appris en bloc) |
-| Doma | Les trois genres (m, f, n), *je / sú*, *kde je…?*, *v* + lieu en morceaux (*v kuchyni*, *v izbe*), pluriel simple |
+| Doma | Les trois genres (m, f, n), *je / sú*, *kde je…?*, *v* + lieu en morceaux (*v brlohu*, *v kuchyni*), pluriel simple |
 | Jedlo | *chcem*, *jem / pijem*, *páči sa mi / chutí mi*, l'accusatif en morceaux (*chcem chlieb*, *jem polievku*), *Dobrú chuť!* |
-| Mesto | *idem / ideme*, *do* + lieu en morceaux (*do školy*), *Koľko to stojí?*, impératif *choď / poď*, premier *vy* de politesse avec un adulte inconnu |
+| Dedina | *idem / ideme*, *do* + lieu en morceaux (*do obchodu*), *Koľko to stojí?*, impératif *choď / poď*, premier *vy* de politesse avec un adulte inconnu (le marchand) |
 | Zvieratá | Pluriels, adjectifs devant le nom, comparatif simple (*väčší ako*), *má* (« il a ») |
 | Hry | *môžem / môžeš*, *Hráme sa?*, *Poď sa hrať!*, *Kto je na rade?* |
 
@@ -107,11 +109,13 @@ Les autres règles sont introduites dans les séries au moment où un mot les re
 | 🐻 | Maťo, 9 ans, grand frère de Katka |
 | 🐑 | Babka Zuzana, leur grand-mère |
 
-Tutoiement entre tous. Le texte narratif les décrit comme des enfants et une grand-mère : seul l'avatar des dialogues est un animal.
+Tutoiement entre tous. Ce sont de vrais animaux des Tatry qui parlent : Andrea (lièvre), Katka (marmotte), Maťo (ours) et Babka Zuzana (brebis). L'enfant est le nouveau venu de la montagne.
 
 L'enfant rencontre Andrea dès le Kit de Survie (fiche 03) : c'est elle qui lui apprend à se présenter, et qui justifie *nerozumiem* et *hovoríš po francúzsky?*.
 
-**Traits à établir au fil des séries** (à noter ici dès qu'ils sont posés, pour rester cohérent) : _(aucun pour l'instant)_
+**Traits à établir au fil des séries** (à noter ici dès qu'ils sont posés, pour rester cohérent) :
+- Jedlo : Babka Zuzana est une brebis ; la bryndza et les halušky sont un sujet qu'elle évite avec le sourire (petite blague)
+- Dedina : le marchand est un adulte, donc *vy* ; il tutoie les enfants, qui le vouvoient
 
 ---
 

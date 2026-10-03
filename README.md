@@ -12,17 +12,21 @@ Un cours de slovaque pour enfants francophones, construit sur le framework [Slov
 - **Exercices** : écrits à la main, jamais plus difficiles que ce qui a été vu
 - **Vocabulaire** : peu de mots à la fois, réemployés souvent
 
+## Le monde
+
+Tout le cours se passe dans les **Tatry**, les hautes montagnes de Slovaquie. Les personnages sont des animaux qui parlent et vivent dans des terriers, des tanières et des nids. Toi, tu viens d'arriver dans la montagne et tu apprends le slovaque avec tes nouveaux voisins. Au fil des fiches, un petit message revient : **protéger la nature** (rester sur le sentier, ne pas nourrir les animaux, remporter ses déchets).
+
 ## Les personnages
 
 Tous ont une tête d'animal comme avatar, dans les dialogues :
 
 | Avatar | Personnage |
 |---|---|
-| 🦊 | Toi — l'enfant lui-même, sous son propre prénom |
-| 🐰 | Andrea, 11 ans, la grande cousine |
-| 🐹 | Katka, 8 ans |
-| 🐻 | Maťo, 9 ans, le grand frère de Katka |
-| 🐑 | Babka Zuzana, leur grand-mère |
+| 🦊 | Toi — l'enfant lui-même, sous son propre prénom : tu viens d'arriver dans les Tatry |
+| 🐰 | Andrea, 11 ans, la grande de la bande |
+| 🐹 | Katka, 8 ans, une marmotte |
+| 🐻 | Maťo, 9 ans, un ours, le grand frère de Katka |
+| 🐑 | Babka Zuzana, leur grand-mère, une brebis des pâturages |
 
 ## Les séries
 
@@ -30,11 +34,11 @@ Tous ont une tête d'animal comme avatar, dans les dialogues :
 |---|---|---|
 | 00 | Kit de Survie | Dire bonjour, merci, se présenter |
 | 01 | Rodina | La famille |
-| 02 | Doma | La maison |
+| 02 | Doma | Chez soi : terriers, tanières et nids |
 | 03 | Jedlo | Les repas et la nourriture |
-| 04 | Mesto | La ville |
-| 05 | Zvieratá | Les animaux |
-| 06 | Hry | Les jeux |
+| 04 | Dedina | Le village au pied des montagnes |
+| 05 | Zvieratá | Les animaux des Tatry et leur protection |
+| 06 | Hry | Les jeux dans la nature |
 
 ## Pour commencer
 

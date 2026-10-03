@@ -1,0 +1,258 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ahoj",
+      "type": "qcm",
+      "l1": "salut (bonjour ou au revoir)",
+      "l2": "ahoj",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "pain"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "dobre",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-dobr-de",
+      "type": "qcm",
+      "l1": "bonjour",
+      "l2": "dobrý deň",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "ça va ?"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "dobre",
+        "ako sa máš"
+      ]
+    },
+    {
+      "id": "qcm-dovidenia",
+      "type": "qcm",
+      "l1": "au revoir",
+      "l2": "dovidenia",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "thé"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "dobre",
+        "čaj"
+      ]
+    },
+    {
+      "id": "qcm-ako-sa-m",
+      "type": "qcm",
+      "l1": "ça va ?",
+      "l2": "ako sa máš",
+      "choices_l1": [
+        "merci",
+        "bien",
+        "pain"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "dobre",
+        "chlieb"
+      ]
+    },
+    {
+      "id": "qcm-dobre",
+      "type": "qcm",
+      "l1": "bien",
+      "l2": "dobre",
+      "choices_l1": [
+        "merci",
+        "ça va ?",
+        "thé"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "ako sa máš",
+        "čaj"
+      ]
+    },
+    {
+      "id": "qcm-akujem",
+      "type": "qcm",
+      "l1": "merci",
+      "l2": "ďakujem",
+      "choices_l1": [
+        "bien",
+        "ça va ?",
+        "oui"
+      ],
+      "choices_l2": [
+        "dobre",
+        "ako sa máš",
+        "áno"
+      ]
+    },
+    {
+      "id": "listen-ahoj",
+      "type": "listen",
+      "l1": "Salut !",
+      "l2": "Ahoj!",
+      "choices_l1": [
+        "Merci !",
+        "Bien !",
+        "Ça va ?"
+      ]
+    },
+    {
+      "id": "listen-dobr-de",
+      "type": "listen",
+      "l1": "Bonjour !",
+      "l2": "Dobrý deň!",
+      "choices_l1": [
+        "Merci !",
+        "Bien !",
+        "Ça va ?"
+      ]
+    },
+    {
+      "id": "listen-dovidenia",
+      "type": "listen",
+      "l1": "Au revoir !",
+      "l2": "Dovidenia!",
+      "choices_l1": [
+        "Merci !",
+        "Ça va ?",
+        "Oui !"
+      ]
+    },
+    {
+      "id": "listen-ako-sa-m",
+      "type": "listen",
+      "l1": "Ça va ?",
+      "l2": "Ako sa máš?",
+      "choices_l1": [
+        "Merci !",
+        "Bien !",
+        "Bonjour !"
+      ]
+    },
+    {
+      "id": "listen-dobre-akujem",
+      "type": "listen",
+      "l1": "Bien, merci !",
+      "l2": "Dobre, ďakujem!",
+      "choices_l1": [
+        "Oui, merci !",
+        "Bien, pardon !",
+        "Non, merci !"
+      ]
+    },
+    {
+      "id": "listen-ahoj-ako-sa-m",
+      "type": "listen",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Ahoj! Ako sa máš?",
+      "choices_l1": [
+        "Salut ! Merci !",
+        "Bonjour ! Bien !",
+        "Au revoir ! Ça va ?"
+      ]
+    },
+    {
+      "id": "blank-dobre-akujem",
+      "type": "fill-blank",
+      "l1": "Bien, merci !",
+      "l2": "Dobre, ďakujem!",
+      "missing_l1": "merci",
+      "missing_l2": "ďakujem",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "bonjour",
+        "salut",
+        "oui"
+      ],
+      "choices_l2": [
+        "dobrý",
+        "ahoj",
+        "áno"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ahoj-ako-sa-m",
+      "type": "fill-blank",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Ahoj! Ako sa máš?",
+      "missing_l1": "Salut",
+      "missing_l2": "Ahoj",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Bien",
+        "Merci",
+        "Oui"
+      ],
+      "choices_l2": [
+        "Dobre",
+        "Ďakujem",
+        "Áno"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ahoj-ako-sa-m",
+      "type": "order",
+      "l1": "Salut ! Ça va ?",
+      "l2": "Ahoj! Ako sa máš?",
+      "tokens_l1": [
+        "Salut !",
+        "Ça",
+        "va ?"
+      ],
+      "tokens_l2": [
+        "Ahoj!",
+        "Ako sa",
+        "máš?"
+      ]
+    },
+    {
+      "id": "match-ahoj",
+      "type": "match",
+      "l1": [
+        "salut (bonjour ou au revoir)",
+        "bonjour",
+        "au revoir",
+        "merci"
+      ],
+      "l2": [
+        "ahoj",
+        "dobrý deň",
+        "dovidenia",
+        "ďakujem"
+      ]
+    },
+    {
+      "id": "match-ako-sa-m",
+      "type": "match",
+      "l1": [
+        "Ça va ?",
+        "Bien, merci !",
+        "Au revoir !",
+        "Bonjour !"
+      ],
+      "l2": [
+        "Ako sa máš?",
+        "Dobre, ďakujem!",
+        "Dovidenia!",
+        "Dobrý deň!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-slovensko",
+      "type": "qcm",
+      "l1": "la Slovaquie",
+      "l2": "Slovensko",
+      "choices_l1": [
+        "le slovaque",
+        "la France",
+        "la capitale"
+      ],
+      "choices_l2": [
+        "slovenčina",
+        "Bratislava",
+        "Ahoj"
+      ]
+    },
+    {
+      "id": "qcm-sloven-ina",
+      "type": "qcm",
+      "l1": "le slovaque",
+      "l2": "slovenčina",
+      "choices_l1": [
+        "la Slovaquie",
+        "la France",
+        "la capitale"
+      ],
+      "choices_l2": [
+        "Slovensko",
+        "Bratislava",
+        "Ahoj"
+      ]
+    },
+    {
+      "id": "listen-slovensko",
+      "type": "listen",
+      "l1": "la Slovaquie",
+      "l2": "Slovensko",
+      "choices_l1": [
+        "la France",
+        "Vienne",
+        "le slovaque"
+      ]
+    },
+    {
+      "id": "listen-sloven-ina",
+      "type": "listen",
+      "l1": "le slovaque",
+      "l2": "slovenčina",
+      "choices_l1": [
+        "la Slovaquie",
+        "la France",
+        "Vienne"
+      ]
+    },
+    {
+      "id": "match-slovensko",
+      "type": "match",
+      "l1": [
+        "la Slovaquie",
+        "Bratislava",
+        "le slovaque"
+      ],
+      "l2": [
+        "Slovensko",
+        "Bratislava",
+        "slovenčina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "mode": "replace",
+  "sync": "off",
+  "exercises": [
+    {
+      "id": "qcm-aj",
+      "type": "qcm",
+      "l1": "thé",
+      "l2": "čaj",
+      "choices_l1": [
+        "école",
+        "grenouille",
+        "salut"
+      ],
+      "choices_l2": [
+        "škola",
+        "žaba",
+        "Ahoj"
+      ]
+    },
+    {
+      "id": "qcm-kola",
+      "type": "qcm",
+      "l1": "école",
+      "l2": "škola",
+      "choices_l1": [
+        "thé",
+        "grenouille",
+        "famille"
+      ],
+      "choices_l2": [
+        "čaj",
+        "žaba",
+        "rodina"
+      ]
+    },
+    {
+      "id": "qcm-aba",
+      "type": "qcm",
+      "l1": "grenouille",
+      "l2": "žaba",
+      "choices_l1": [
+        "thé",
+        "école",
+        "famille"
+      ],
+      "choices_l2": [
+        "čaj",
+        "škola",
+        "rodina"
+      ]
+    },
+    {
+      "id": "qcm-rodina",
+      "type": "qcm",
+      "l1": "famille",
+      "l2": "rodina",
+      "choices_l1": [
+        "thé",
+        "école",
+        "grenouille"
+      ],
+      "choices_l2": [
+        "čaj",
+        "škola",
+        "žaba"
+      ]
+    },
+    {
+      "id": "qcm-chlieb",
+      "type": "qcm",
+      "l1": "pain",
+      "l2": "chlieb",
+      "choices_l1": [
+        "thé",
+        "chalet",
+        "chameau"
+      ],
+      "choices_l2": [
+        "čaj",
+        "chata",
+        "ťava"
+      ]
+    },
+    {
+      "id": "qcm-no",
+      "type": "qcm",
+      "l1": "oui",
+      "l2": "áno",
+      "choices_l1": [
+        "bon",
+        "pain",
+        "merci"
+      ],
+      "choices_l2": [
+        "dobrý",
+        "chlieb",
+        "ďakujem"
+      ]
+    },
+    {
+      "id": "listen-akujem",
+      "type": "listen",
+      "l1": "Merci !",
+      "l2": "Ďakujem!",
+      "choices_l1": [
+        "Oui !",
+        "Salut !",
+        "Pardon !"
+      ]
+    },
+    {
+      "id": "listen-no",
+      "type": "listen",
+      "l1": "Oui !",
+      "l2": "Áno!",
+      "choices_l1": [
+        "Merci !",
+        "Salut !",
+        "Non !"
+      ]
+    },
+    {
+      "id": "listen-chlieb-a-aj",
+      "type": "listen",
+      "l1": "Du pain et du thé",
+      "l2": "Chlieb a čaj",
+      "choices_l1": [
+        "Du pain et de l'eau",
+        "Du thé et de l'eau",
+        "De l'eau et du pain"
+      ]
+    },
+    {
+      "id": "blank-chlieb-a-aj",
+      "type": "fill-blank",
+      "l1": "Du pain et du thé",
+      "l2": "Chlieb a čaj",
+      "missing_l1": "thé",
+      "missing_l2": "čaj",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "pain",
+        "oui",
+        "merci"
+      ],
+      "choices_l2": [
+        "chlieb",
+        "áno",
+        "ďakujem"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-chlieb-a-aj",
+      "type": "order",
+      "l1": "Du pain et du thé",
+      "l2": "Chlieb a čaj",
+      "tokens_l1": [
+        "Du pain",
+        "et",
+        "du thé"
+      ],
+      "tokens_l2": [
+        "Chlieb",
+        "a",
+        "čaj"
+      ]
+    },
+    {
+      "id": "match-aj",
+      "type": "match",
+      "l1": [
+        "thé",
+        "école",
+        "grenouille",
+        "famille"
+      ],
+      "l2": [
+        "čaj",
+        "škola",
+        "žaba",
+        "rodina"
+      ]
+    }
+  ]
+}

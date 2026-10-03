@@ -1,0 +1,118 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ban-n",
+      "type": "qcm",
+      "l1": "banane",
+      "l2": "banán",
+      "choices_l1": [
+        "chocolat",
+        "téléphone",
+        "football"
+      ],
+      "choices_l2": [
+        "čokoláda",
+        "telefón",
+        "futbal"
+      ]
+    },
+    {
+      "id": "qcm-okol-da",
+      "type": "qcm",
+      "l1": "chocolat",
+      "l2": "čokoláda",
+      "choices_l1": [
+        "banane",
+        "téléphone",
+        "football"
+      ],
+      "choices_l2": [
+        "banán",
+        "telefón",
+        "futbal"
+      ]
+    },
+    {
+      "id": "qcm-telef-n",
+      "type": "qcm",
+      "l1": "téléphone",
+      "l2": "telefón",
+      "choices_l1": [
+        "banane",
+        "chocolat",
+        "football"
+      ],
+      "choices_l2": [
+        "banán",
+        "čokoláda",
+        "futbal"
+      ]
+    },
+    {
+      "id": "qcm-futbal",
+      "type": "qcm",
+      "l1": "football",
+      "l2": "futbal",
+      "choices_l1": [
+        "banane",
+        "chocolat",
+        "téléphone"
+      ],
+      "choices_l2": [
+        "banán",
+        "čokoláda",
+        "telefón"
+      ]
+    },
+    {
+      "id": "qcm-auto",
+      "type": "qcm",
+      "l1": "voiture",
+      "l2": "auto",
+      "choices_l1": [
+        "banane",
+        "chocolat",
+        "téléphone"
+      ],
+      "choices_l2": [
+        "banán",
+        "čokoláda",
+        "telefón"
+      ]
+    },
+    {
+      "id": "match-ban-n",
+      "type": "match",
+      "l1": [
+        "banane",
+        "chocolat",
+        "téléphone",
+        "voiture"
+      ],
+      "l2": [
+        "banán",
+        "čokoláda",
+        "telefón",
+        "auto"
+      ]
+    },
+    {
+      "id": "match-futbal",
+      "type": "match",
+      "l1": [
+        "football",
+        "voiture",
+        "banane",
+        "chocolat"
+      ],
+      "l2": [
+        "futbal",
+        "auto",
+        "banán",
+        "čokoláda"
+      ]
+    }
+  ]
+}

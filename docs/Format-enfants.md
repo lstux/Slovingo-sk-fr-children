@@ -4,6 +4,15 @@ Ce document décrit comment le contenu est écrit pour des enfants de **8 à 12 
 
 La base reste le **SMD (Slovingo Markdown)** : voir `Format-SMD.txt` dans le repo [Slovingo](https://github.com/lstux/Slovingo/tree/main/docs).
 
+## Le monde : les animaux des Tatry
+
+Tous les personnages sont des animaux qui vivent dans les Tatry, façon Bisounours : ils parlent, ils ont une maison avec un lit et une table, et le monde est gentil. Pas besoin d'expliquer les liens de parenté (Katka et Maťo sont frère et sœur, point).
+
+- **Toi (🦊)** arrives dans la montagne. Le texte ne dit jamais « petit renard / petite renarde » : on ne sait pas si c'est un garçon ou une fille. Quand il faut un nom, on parle de l'avatar (« 🦊 Toi »).
+- **Le message nature** revient doucement, surtout dans les coins slovaques : rester sur le sentier (*chodník*), ne pas nourrir les animaux, remporter ses déchets (*odpadky*), le parc national des Tatry (TANAP, créé en 1949). Jamais de morale lourde : une phrase, un fait, un sourire.
+- **Faits** : on ne dit que ce qui est vérifiable sur les Tatry (marmotte *svišť*, chamois *kamzík*, ours *medveď*, lynx *rys*, aigle *orol*, cerf *jeleň*, loup *vlk*).
+- **Humour** : Jedlo contient une petite blague sur la bryndza et les halušky, que Babka Zuzana (une brebis) évite soigneusement.
+
 ## 1. Ton et rédaction
 
 - Phrases courtes, explications rattachées à des situations d'enfant (école, goûter, cour de récré, grands-parents…)
@@ -23,13 +32,13 @@ Exception : le Kit de Survie (série 00) a 3 fiches d'apprentissage + l'extra.
 
 | Avatar | Personnage | Notes |
 |---|---|---|
-| 🦊 | Toi (l'enfant) | prénom saisi via `[ASK_USER_NAME]`, repris via `[USER_NAME]` |
-| 🐰 | Andrea | 11 ans, cousine de Katka et Maťo, la « grande » qui explique |
-| 🐹 | Katka | 8 ans, phrases courtes et simples |
-| 🐻 | Maťo | 9 ans, grand frère de Katka |
-| 🐑 | Babka Zuzana | leur grand-mère, côté village et traditions |
+| 🦊 | Toi (l'enfant) | prénom saisi via `[ASK_USER_NAME]`, repris via `[USER_NAME]` ; tu viens d'arriver dans les Tatry |
+| 🐰 | Andrea | 11 ans, la « grande » qui explique |
+| 🐹 | Katka | 8 ans, une marmotte ; phrases courtes et simples |
+| 🐻 | Maťo | 9 ans, un ours ; grand frère de Katka |
+| 🐑 | Babka Zuzana | leur grand-mère, une brebis ; côté pâturages et traditions |
 
-- Entre enfants et avec Babka Zuzana : **tutoiement**. Le vouvoiement (*vy*) n'arrive qu'avec les adultes inconnus, en série Mesto.
+- Entre enfants et avec Babka Zuzana : **tutoiement**. Le vouvoiement (*vy*) n'arrive qu'avec des adultes inconnus, en série Dedina (le marchand du village).
 - `[ASK_USER_NAME]` apparaît dès la première fiche d'introduction, en français, avant tout contenu slovaque. Dans les dialogues, on utilise ensuite `[USER_NAME]`. Le nom de secours est dans `lang.json` → `site.user_name_default`.
 - Le marqueur de locuteur va **après** le `!` : `! 🐰 Ahoj!` (jamais `🐰 ! Ahoj`).
 
@@ -158,7 +167,7 @@ Explication en quelques phrases, tableau d'exemples.
 Court, amusant, **vérifiable** (pas de chiffre approximatif) :
 
 - « Le sais-tu ? En slovaque, on dit… »
-- Des choses qu'un enfant peut voir ou vivre : la bryndza, les *kraslice*, Mikuláš, le Kofola, les chaussons à l'entrée
+- Des choses qu'un enfant peut voir ou vivre : la bryndza, les *kraslice*, Mikuláš, le Kofola, les chaussons à l'entrée, les animaux des Tatry et comment les protéger
 - Pas de clichés ni de ton scolaire
 
 ## 13. Qualité de langue
