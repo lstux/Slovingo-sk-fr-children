@@ -329,20 +329,20 @@
       ]
     },
     {
-      "id": "order-to-je-moja-mama-a-m-j-tato",
+      "id": "order-to-je-moja-mama-a-to-je-m-j-tato",
       "type": "order",
-      "l1": "Voici ma maman et mon papa.",
-      "l2": "To je moja mama a môj tato.",
+      "l1": "Voici ma maman. Et voici mon papa.",
+      "l2": "To je moja mama. A to je môj tato.",
       "tokens_l1": [
-        "Voici",
-        "ma maman",
-        "et",
+        "Voici ma maman.",
+        "Et",
+        "voici",
         "mon papa."
       ],
       "tokens_l2": [
-        "To je",
-        "moja mama",
-        "a",
+        "To je moja mama.",
+        "A",
+        "to je",
         "môj tato."
       ]
     },

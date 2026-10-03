@@ -11,11 +11,8 @@
 | Slovenčina | Français |
 |------------|----------|
 | nemám | je n'ai pas |
-| rodičia | les parents |
 | teta | la tante |
 | strýko | l'oncle |
-| vnúča | le petit-enfant |
-| dieťa | l'enfant |
 | kto | qui |
 
 ---
@@ -35,7 +32,7 @@
 | mám tetu | j'ai une tante |
 | mám strýka | j'ai un oncle |
 
-Les mots en -a finissent en -u (sestra, sestru). Pour un garçon, on ajoute souvent -a (brat, brata).
+Les mots en -a finissent en -u (sestra, sestru). Pour un garçon, on met souvent -a à la fin (brat, brata ; dedko, dedka).
 
 ### Je n'ai pas
 
@@ -45,15 +42,6 @@ Pour dire « je n'ai pas », on colle **ne** devant {{mám}} : {{nemám}}.
 |------------|----------|
 | nemám brata | je n'ai pas de frère |
 | nemám dedka | je n'ai pas de grand-père |
-
-### Les mots neutres : moje
-
-{{fr:Il y a aussi des mots neutres, ni masculins ni féminins. Pour eux, « mon » se dit autrement.}}
-
-| Slovenčina | Français |
-|------------|----------|
-| moje dieťa | mon enfant |
-| moje vnúča | mon petit-enfant |
 
 ---
 
@@ -80,12 +68,6 @@ Pour dire « je n'ai pas », on colle **ne** devant {{mám}} : {{nemám}}.
 > Máš = tu as
 > sestru = une sœur
 
-! Mám rodičov.
-> J'ai des parents.
-> Mám = j'ai
-> rodičov = des parents
-+ {{rodičia}} devient {{rodičov}} après {{mám}}.
-
 ! Máš tetu?
 > Tu as une tante ?
 > Máš = tu as
@@ -103,11 +85,11 @@ Pour dire « je n'ai pas », on colle **ne** devant {{mám}} : {{nemám}}.
 > To je = c'est
 > moja teta = ma tante
 
-! To je môj strýko a moja teta.
-> C'est mon oncle et ma tante.
+! To je môj strýko. A to je moja teta.
+> C'est mon oncle. Et c'est ma tante.
 > To je = c'est
 > môj strýko = mon oncle
-> a = et
+> A = et
 > moja teta = ma tante
 
 ! To je môj strýko.
@@ -116,12 +98,12 @@ Pour dire « je n'ai pas », on colle **ne** devant {{mám}} : {{nemám}}.
 > môj = mon
 > strýko = oncle
 
-! To je moje vnúča.
-> C'est mon petit-enfant.
-> To je = c'est
-> moje = mon
-> vnúča = petit-enfant
-+ {{vnúča}} est un mot neutre : {{moje}}.
+! Nemám dedka, ale mám babku.
+> Je n'ai pas de grand-père, mais j'ai une grand-mère.
+> Nemám = je n'ai pas
+> dedka = de grand-père
+> ale = mais
+> mám babku = j'ai une grand-mère
 
 ---
 

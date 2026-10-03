@@ -24,30 +24,14 @@
       "l1": "j'ai peur",
       "l2": "bojím sa",
       "choices_l1": [
-        "je n'ai pas peur",
         "je n'ai pas",
-        "j'ai huit ans"
+        "j'ai huit ans",
+        "je m'appelle"
       ],
       "choices_l2": [
-        "nebojím sa",
         "nemám",
-        "mám osem rokov"
-      ]
-    },
-    {
-      "id": "qcm-neboj-m-sa",
-      "type": "qcm",
-      "l1": "je n'ai pas peur",
-      "l2": "nebojím sa",
-      "choices_l1": [
-        "j'ai peur",
-        "je n'ai pas",
-        "pas de souci"
-      ],
-      "choices_l2": [
-        "bojím sa",
-        "nemám",
-        "nevadí"
+        "mám osem rokov",
+        "volám sa"
       ]
     },
     {
@@ -56,74 +40,58 @@
       "l1": "les enfants",
       "l2": "deti",
       "choices_l1": [
-        "les parents",
-        "l'enfant",
+        "la famille",
+        "le copain",
         "le voisin"
       ],
       "choices_l2": [
-        "rodičia",
-        "dieťa",
+        "rodina",
+        "kamarát",
         "sused"
       ]
     },
     {
-      "id": "qcm-teraz",
-      "type": "qcm",
-      "l1": "maintenant",
-      "l2": "teraz",
+      "id": "listen-to-je-moja-kamar-tka-katka-a-to-je-m-j-kamar-t-ma-o",
+      "type": "listen",
+      "l1": "Voici ma copine Katka. Et voici mon copain Maťo.",
+      "l2": "To je moja kamarátka Katka. A to je môj kamarát Maťo.",
       "choices_l1": [
-        "très",
-        "mais",
-        "oui"
-      ],
-      "choices_l2": [
-        "veľmi",
-        "ale",
-        "áno"
+        "Voici ma sœur Katka. Et voici mon frère Maťo.",
+        "Voici ma copine Andrea. Et voici mon copain Maťo.",
+        "Voici ma copine Katka. Et voici ma grand-mère."
       ]
     },
     {
-      "id": "listen-boj-m-sa",
+      "id": "listen-ahoj-m-m-osem-rokov",
       "type": "listen",
-      "l1": "J'ai peur !",
-      "l2": "Bojím sa!",
+      "l1": "Salut ! J'ai huit ans.",
+      "l2": "Ahoj! Mám osem rokov.",
       "choices_l1": [
-        "Je n'ai pas peur.",
-        "J'ai huit ans !",
-        "Pardon !"
+        "Salut ! J'ai neuf ans.",
+        "Salut ! Tu as huit ans.",
+        "Merci ! J'ai huit ans."
       ]
     },
     {
-      "id": "listen-ja-sa-neboj-m",
+      "id": "listen-m-m-desa-rokov",
       "type": "listen",
-      "l1": "Moi, je n'ai pas peur.",
-      "l2": "Ja sa nebojím.",
+      "l1": "J'ai dix ans.",
+      "l2": "Mám desať rokov.",
       "choices_l1": [
-        "Moi, j'ai peur.",
-        "Moi, j'ai huit ans.",
-        "Toi, tu n'as pas peur."
+        "J'ai neuf ans.",
+        "Tu as dix ans.",
+        "J'ai douze ans."
       ]
     },
     {
-      "id": "listen-ach-to-je-l-ka",
+      "id": "listen-a-to-je-moja-babka-zuzana",
       "type": "listen",
-      "l1": "Ah ! C'est un renard !",
-      "l2": "Ach! To je líška!",
+      "l1": "Et voici ma grand-mère Zuzana !",
+      "l2": "A to je moja babka Zuzana!",
       "choices_l1": [
-        "Ah ! C'est ma sœur !",
-        "Ah ! C'est mon frère !",
-        "Oh ! C'est ma tante !"
-      ]
-    },
-    {
-      "id": "listen-no-ale-je-ve-mi-mil",
-      "type": "listen",
-      "l1": "Oui, mais il est très gentil !",
-      "l2": "Áno, ale je veľmi milá!",
-      "choices_l1": [
-        "Non, mais il est très gentil !",
-        "Oui, mais il est très petit !",
-        "Oui, et il est très gentil !"
+        "Et voici ma maman Zuzana !",
+        "Et voici ma tante Zuzana !",
+        "Et voici ma copine Zuzana !"
       ]
     },
     {
@@ -138,62 +106,75 @@
       ]
     },
     {
-      "id": "listen-ak-je-tvoj-tato-je-ve-k",
+      "id": "listen-ak-je-tvoja-sestra",
       "type": "listen",
-      "l1": "Comment est ton papa ? Il est grand ?",
-      "l2": "Aký je tvoj tato? Je veľký?",
+      "l1": "Comment est ta sœur ?",
+      "l2": "Aká je tvoja sestra?",
       "choices_l1": [
-        "Comment est ta maman ? Elle est grande ?",
-        "Comment est ton frère ? Il est grand ?",
-        "Comment est ton papa ? Il est petit ?"
+        "Comment est ton frère ?",
+        "Comment est ta maman ?",
+        "Qui est ta sœur ?"
       ]
     },
     {
-      "id": "blank-ja-sa-neboj-m",
-      "type": "fill-blank",
-      "l1": "Moi, je n'ai pas peur.",
-      "l2": "Ja sa nebojím.",
-      "missing_l1": "Moi",
-      "missing_l2": "Ja",
-      "blank_index_l1": 0,
-      "blank_index_l2": 0,
+      "id": "listen-moja-sestra-je-mal-a-vesel",
+      "type": "listen",
+      "l1": "Ma sœur est petite et joyeuse.",
+      "l2": "Moja sestra je malá a veselá.",
       "choices_l1": [
-        "Toi",
-        "Il",
-        "Elle"
-      ],
-      "choices_l2": [
-        "Ty",
-        "On",
-        "Ona"
-      ],
-      "show_translation": true
+        "Ma sœur est grande et joyeuse.",
+        "Ma maman est petite et joyeuse.",
+        "Ma sœur est petite et gentille."
+      ]
     },
     {
-      "id": "blank-no-ale-je-ve-mi-mil",
-      "type": "fill-blank",
-      "l1": "Oui, mais il est très gentil !",
-      "l2": "Áno, ale je veľmi milá!",
-      "missing_l1": "mais",
-      "missing_l2": "ale",
-      "blank_index_l1": 1,
-      "blank_index_l2": 1,
+      "id": "listen-ach-to-je-l-ka",
+      "type": "listen",
+      "l1": "Oh ! C'est un renard !",
+      "l2": "Ach! To je líška!",
       "choices_l1": [
-        "et",
-        "non",
-        "très"
-      ],
-      "choices_l2": [
-        "a",
-        "nie",
-        "veľmi"
-      ],
-      "show_translation": true
+        "Oh ! C'est ma sœur !",
+        "Oh ! C'est mon frère !",
+        "Oh ! C'est ma tante !"
+      ]
+    },
+    {
+      "id": "listen-boj-m-sa",
+      "type": "listen",
+      "l1": "J'ai peur !",
+      "l2": "Bojím sa!",
+      "choices_l1": [
+        "J'ai huit ans !",
+        "Pardon !",
+        "Je n'ai pas de frère !"
+      ]
+    },
+    {
+      "id": "listen-nie-l-ka-je-ve-mi-mil",
+      "type": "listen",
+      "l1": "Mais non ! Le renard est très gentil !",
+      "l2": "Nie! Líška je veľmi milá!",
+      "choices_l1": [
+        "Mais oui ! Le renard est très gentil !",
+        "Mais non ! Le renard est très petit !",
+        "Mais non ! Ma sœur est très gentille !"
+      ]
+    },
+    {
+      "id": "listen-no-m-j-tato-je-ve-k-a-siln",
+      "type": "listen",
+      "l1": "Oui ! Mon papa est grand et fort.",
+      "l2": "Áno! Môj tato je veľký a silný.",
+      "choices_l1": [
+        "Non ! Mon papa est grand et fort.",
+        "Oui ! Mon papa est petit et fort.",
+        "Oui ! Mon frère est grand et fort."
+      ]
     },
     {
       "id": "blank-ach-to-je-l-ka",
       "type": "fill-blank",
-      "l1": "Ah ! C'est un renard !",
+      "l1": "Oh ! C'est un renard !",
       "l2": "Ach! To je líška!",
       "missing_l1": "renard",
       "missing_l2": "líška",
@@ -212,12 +193,54 @@
       "show_translation": true
     },
     {
+      "id": "blank-moja-sestra-je-mal-a-vesel",
+      "type": "fill-blank",
+      "l1": "Ma sœur est petite et joyeuse.",
+      "l2": "Moja sestra je malá a veselá.",
+      "missing_l1": "petite",
+      "missing_l2": "malá",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "grande",
+        "forte",
+        "gentille"
+      ],
+      "choices_l2": [
+        "veľká",
+        "silná",
+        "milá"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nem-m-brata-ale-m-m-sestru",
+      "type": "fill-blank",
+      "l1": "Je n'ai pas de frère, mais j'ai une sœur.",
+      "l2": "Nemám brata, ale mám sestru.",
+      "missing_l1": "mais",
+      "missing_l2": "ale",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "et",
+        "aussi",
+        "très"
+      ],
+      "choices_l2": [
+        "a",
+        "aj",
+        "veľmi"
+      ],
+      "show_translation": true
+    },
+    {
       "id": "order-ach-to-je-l-ka",
       "type": "order",
-      "l1": "Ah ! C'est un renard !",
+      "l1": "Oh ! C'est un renard !",
       "l2": "Ach! To je líška!",
       "tokens_l1": [
-        "Ah !",
+        "Oh !",
         "C'est",
         "un renard !"
       ],
@@ -225,22 +248,6 @@
         "Ach!",
         "To je",
         "líška!"
-      ]
-    },
-    {
-      "id": "order-ja-sa-neboj-m",
-      "type": "order",
-      "l1": "Moi, je n'ai pas peur.",
-      "l2": "Ja sa nebojím.",
-      "tokens_l1": [
-        "Moi,",
-        "je n'ai",
-        "pas peur."
-      ],
-      "tokens_l2": [
-        "Ja",
-        "sa",
-        "nebojím."
       ]
     },
     {
@@ -262,35 +269,37 @@
       ]
     },
     {
-      "id": "match-boj-m-sa",
-      "type": "match",
-      "l1": [
-        "j'ai peur",
-        "je n'ai pas peur",
-        "les enfants",
-        "maintenant"
+      "id": "order-no-m-j-tato-je-ve-k-a-siln",
+      "type": "order",
+      "l1": "Oui ! Mon papa est grand et fort.",
+      "l2": "Áno! Môj tato je veľký a silný.",
+      "tokens_l1": [
+        "Oui !",
+        "Mon papa",
+        "est",
+        "grand et fort."
       ],
-      "l2": [
-        "bojím sa",
-        "nebojím sa",
-        "deti",
-        "teraz"
+      "tokens_l2": [
+        "Áno!",
+        "Môj tato",
+        "je",
+        "veľký a silný."
       ]
     },
     {
       "id": "match-ach-to-je-l-ka",
       "type": "match",
       "l1": [
-        "Ah ! C'est un renard !",
-        "Oui, mais il est très gentil !",
+        "Oh ! C'est un renard !",
         "J'ai peur !",
-        "Moi, je n'ai pas peur."
+        "Mais non ! Le renard est très gentil !",
+        "Merci, Andrea !"
       ],
       "l2": [
         "Ach! To je líška!",
-        "Áno, ale je veľmi milá!",
         "Bojím sa!",
-        "Ja sa nebojím."
+        "Nie! Líška je veľmi milá!",
+        "Ďakujem, Andrea!"
       ]
     }
   ]

@@ -147,8 +147,11 @@
 
 ! Môj dedko je starý. Moja babka je stará.
 > Mon grand-père est âgé. Ma grand-mère est âgée.
-> Môj dedko je starý = mon grand-père est âgé
-> Moja babka je stará = ma grand-mère est âgée
+> Môj dedko = mon grand-père
+> je = est
+> starý = âgé
+> Moja babka = ma grand-mère
+> stará = âgée
 
 ! Moja kamarátka je veľmi rýchla.
 > Ma copine est très rapide.

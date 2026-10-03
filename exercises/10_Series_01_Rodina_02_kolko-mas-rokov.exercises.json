@@ -3,22 +3,6 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "qcm-ko-ko",
-      "type": "qcm",
-      "l1": "combien",
-      "l2": "koľko",
-      "choices_l1": [
-        "j'ai",
-        "ans",
-        "tu as"
-      ],
-      "choices_l2": [
-        "mám",
-        "rokov",
-        "máš"
-      ]
-    },
-    {
       "id": "qcm-m-m",
       "type": "qcm",
       "l1": "j'ai",
@@ -294,7 +278,7 @@
       "l1": [
         "j'ai",
         "tu as",
-        "il a",
+        "il ou elle a",
         "ans"
       ],
       "l2": [
@@ -305,19 +289,19 @@
       ]
     },
     {
-      "id": "match-ja",
+      "id": "match-ty",
       "type": "match",
       "l1": [
-        "moi",
         "toi",
         "il",
-        "elle"
+        "elle",
+        "ans"
       ],
       "l2": [
-        "ja",
         "ty",
         "on",
-        "ona"
+        "ona",
+        "rokov"
       ]
     }
   ]

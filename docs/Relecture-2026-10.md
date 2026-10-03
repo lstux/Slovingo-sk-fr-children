@@ -100,6 +100,10 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 01 Rodina
 
+> ✅ **Traité le 2026-10-03.** R01 : *To je moja mama. A to je môj tato.* ; hibernation « plus de six mois ». R02 : « Quel âge as-tu ? », *koľko* et *ja* en (rappel) → 7 vrais mots nouveaux, *má* = « il ou elle a », meniny « presque chaque jour ». R03 : *Mám rodičov*, *rodičia*, *vnúča*, *dieťa* et le point « moje » retirés (4 mots nouveaux) ; *To je môj strýko. A to je moja teta.* ; carte *Nemám dedka, ale mám babku*. R04 : décomposition dégroupée (gardé : 5 adjectifs × 2 formes, comptés comme 5 mots). R05 réécrit : 3 nouveautés seulement (*deti, líška, bojím sa*), plus de *jej / teraz / nebojím sa / v Tatrách / veľkú / moje vnúča*, 🦊 répond sur sa sœur et son papa, *Nie! Líška je veľmi milá!* avec remarque sur l'accord, Coin salaš/bryndza corrigé sans renvoi. R06 : tableau aligné, plus de *medveďa* ni *moje vnúča*, 16 cartes inédites. Doma 02 : exemple *vnúča* remplacé.
+>
+> ⚠️ Conséquence : *teraz* n'est plus introduit en Rodina → à introduire en Hry 03 (tableau).
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | 🟠 | 01 l.81 | *To je moja mama a môj tato* : deux sujets → *To sú…* à l'écrit | Couper : *To je moja mama. A to je môj tato.* |
@@ -263,7 +267,7 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | Points transversaux | tranchés (2026-10-03), application série par série |
 | 00 Introduction | ✅ passe détaillée faite (2026-10-03) |
 | 00 Kit de Survie | ✅ passe détaillée faite (2026-10-03) |
-| 01 Rodina | à faire |
+| 01 Rodina | ✅ passe détaillée faite (2026-10-03) |
 | 02 Doma | à faire |
 | 03 Jedlo | à faire |
 | 04 Dedina | à faire |

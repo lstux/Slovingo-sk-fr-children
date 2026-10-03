@@ -132,17 +132,6 @@
       ]
     },
     {
-      "id": "listen-m-m-rodi-ov",
-      "type": "listen",
-      "l1": "J'ai des parents.",
-      "l2": "Mám rodičov.",
-      "choices_l1": [
-        "J'ai un frère.",
-        "J'ai une tante.",
-        "Je n'ai pas de parents."
-      ]
-    },
-    {
       "id": "listen-kto-je-to-to-je-moja-teta",
       "type": "listen",
       "l1": "Qui est-ce ? C'est ma tante.",
@@ -165,14 +154,14 @@
       ]
     },
     {
-      "id": "listen-to-je-moje-vn-a",
+      "id": "listen-nem-m-dedka-ale-m-m-babku",
       "type": "listen",
-      "l1": "C'est mon petit-enfant.",
-      "l2": "To je moje vnúča.",
+      "l1": "Je n'ai pas de grand-père, mais j'ai une grand-mère.",
+      "l2": "Nemám dedka, ale mám babku.",
       "choices_l1": [
-        "C'est mon enfant.",
-        "C'est mon frère.",
-        "C'est mon voisin."
+        "J'ai un grand-père, mais je n'ai pas de grand-mère.",
+        "Je n'ai pas de frère, mais j'ai une grand-mère.",
+        "Je n'ai pas de grand-père, mais j'ai une tante."
       ]
     },
     {
@@ -297,20 +286,20 @@
       ]
     },
     {
-      "id": "order-to-je-m-j-str-ko-a-moja-teta",
+      "id": "order-to-je-m-j-str-ko-a-to-je-moja-teta",
       "type": "order",
-      "l1": "C'est mon oncle et ma tante.",
-      "l2": "To je môj strýko a moja teta.",
+      "l1": "C'est mon oncle. Et c'est ma tante.",
+      "l2": "To je môj strýko. A to je moja teta.",
       "tokens_l1": [
-        "C'est",
-        "mon oncle",
-        "et",
+        "C'est mon oncle.",
+        "Et",
+        "c'est",
         "ma tante."
       ],
       "tokens_l2": [
-        "To je",
-        "môj strýko",
-        "a",
+        "To je môj strýko.",
+        "A",
+        "to je",
         "moja teta."
       ]
     },

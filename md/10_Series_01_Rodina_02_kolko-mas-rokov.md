@@ -2,7 +2,7 @@
 
 @ TODO_img/anniversaire-montagne.jpg | TODO : choisir une image (gâteau d'anniversaire avec des bougies, ou jeunes animaux en fête) sur Wikimedia Commons
 
-{{fr:Combien d'années as-tu ? Aujourd'hui, tu apprends à dire ton âge et celui des autres.}}
+{{fr:Quel âge as-tu ? Aujourd'hui, tu apprends à dire ton âge et celui des autres.}}
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| koľko | combien |
+| koľko | combien (rappel) |
 | mám | j'ai |
 | máš | tu as |
-| má | il a |
+| má | il ou elle a |
 | rokov | ans |
-| ja | moi |
+| ja | moi (rappel) |
 | ty | toi |
 | on | il |
 | ona | elle |
@@ -124,7 +124,7 @@
 
 {{fr:Pour un anniversaire, on dit}} {{Všetko najlepšie}}{{fr:. Ça veut dire « tout le meilleur » !}} 🎂
 
-**Le sais-tu ?** {{fr:En Slovaquie, on fête aussi les}} {{meniny}}{{fr:, la fête du prénom. Chaque jour du calendrier a ses prénoms. Si tu t'appelles comme le jour, c'est ta fête !}}
+**Le sais-tu ?** {{fr:En Slovaquie, on fête aussi les}} {{meniny}}{{fr:, la fête du prénom. Presque chaque jour du calendrier a ses prénoms. Si tu t'appelles comme le jour, c'est ta fête !}}
 
 ---
 
@@ -156,4 +156,4 @@
 > J'ai huit ans, mais tu as douze ans.
 > Mám osem rokov = j'ai huit ans
 > ale = mais
-> ty máš dvanásť = tu as douze ans
+> ty máš dvanásť = tu en as douze

@@ -17,49 +17,41 @@
 | sestra | la sœur |
 | babka | la grand-mère |
 | dedko | le grand-père |
+| teta | la tante |
+| strýko | l'oncle |
 | kamarát | le copain |
 | kamarátka | la copine |
+| sused | le voisin |
+| susedka | la voisine |
+| deti | les enfants |
 | to je | c'est, voici |
-| môj / moja / moje | mon / ma / mon (neutre) |
+| kto | qui |
+| môj / moja | mon / ma |
 | tvoj / tvoja | ton / ta |
 | mám / máš / má | j'ai / tu as / il ou elle a |
 | nemám | je n'ai pas |
+| koľko | combien |
 | rokov | ans |
+| jedenásť, dvanásť | onze, douze |
 | ja / ty | moi / toi |
 | on / ona | il / elle |
-| rodičia | les parents |
-| teta | la tante |
-| strýko | l'oncle |
-| vnúča | le petit-enfant |
-| dieťa | l'enfant |
-| deti | les enfants |
-| kto | qui |
-| sused / susedka | le voisin / la voisine |
 | je | est |
 | milý / milá | gentil / gentille |
 | veselý / veselá | joyeux / joyeuse |
 | silný / silná | fort / forte |
 | malý / malá | petit / petite |
 | veľký / veľká | grand / grande |
-| starý / stará | vieux / vieille |
+| starý / stará | âgé / âgée |
 | rýchly / rýchla | rapide |
 | veľmi | très |
 | aký / aká | comment (pour décrire) |
+| ale | mais |
 | líška | le renard (l'animal) |
 | bojím sa | j'ai peur |
-| nebojím sa | je n'ai pas peur |
-| jedenásť, dvanásť | onze, douze |
-| ale | mais |
 
 ---
 
 ## Des phrases pour tout mélanger
-
-! Môj tato je veľký a silný.
-> Mon papa est grand et fort.
-> Môj tato = mon papa
-> je = est
-> veľký a silný = grand et fort
 
 ! Moja mama je malá, ale veľmi veselá.
 > Ma maman est petite, mais très joyeuse.
@@ -76,11 +68,11 @@
 > a = et
 > sestru = une sœur
 
-! Nemám dedka, ale mám babku.
-> Je n'ai pas de grand-père, mais j'ai une grand-mère.
-> Nemám dedka = je n'ai pas de grand-père
+! Nemám strýka, ale mám tetu.
+> Je n'ai pas d'oncle, mais j'ai une tante.
+> Nemám strýka = je n'ai pas d'oncle
 > ale = mais
-> mám babku = j'ai une grand-mère
+> mám tetu = j'ai une tante
 
 ! Môj brat má deväť rokov.
 > Mon frère a neuf ans.
@@ -94,6 +86,12 @@
 > má = a
 > osem rokov = huit ans
 
+! Koľko rokov má tvoja babka?
+> Quel âge a ta grand-mère ?
+> Koľko rokov = combien d'années
+> má = a
+> tvoja babka = ta grand-mère
+
 ! Aká je tvoja mama? Je milá?
 > Comment est ta maman ? Elle est gentille ?
 > Aká je = comment est
@@ -103,9 +101,9 @@
 ! Kto je to? To je môj strýko. Je starý a veľký.
 > Qui est-ce ? C'est mon oncle. Il est âgé et grand.
 > Kto je to = qui est-ce
-> To je = c'est
-> môj strýko = mon oncle
-> Je starý a veľký = il est âgé et grand
+> To je môj strýko = c'est mon oncle
+> Je = il est
+> starý a veľký = âgé et grand
 
 ! Moja teta je veselá a rýchla.
 > Ma tante est joyeuse et rapide.
@@ -117,8 +115,8 @@
 > J'ai une tante et un oncle.
 > Mám = j'ai
 > tetu = une tante
-> strýka = un oncle
 > a = et
+> strýka = un oncle
 
 ! Môj sused je starý, ale veľmi milý.
 > Mon voisin est âgé, mais très gentil.
@@ -126,12 +124,6 @@
 > je starý = est âgé
 > ale = mais
 > veľmi milý = très gentil
-
-! Moje vnúča je malé.
-> Mon petit-enfant est petit.
-> Moje vnúča = mon petit-enfant
-> je malé = est petit
-+ Avec un mot neutre, le mot qui décrit finit par -é : {{malé}}.
 
 ! Ty máš brata, ja nemám brata.
 > Toi, tu as un frère, moi je n'ai pas de frère.
@@ -151,9 +143,22 @@
 > je = est
 > rýchly a silný = rapide et fort
 
-! Bojím sa medveďa? Nie, nebojím sa!
-> J'ai peur de l'ours ? Non, je n'ai pas peur !
+! Ahoj, deti! To je moja susedka.
+> Salut, les enfants ! Voici ma voisine.
+> Ahoj, deti = salut, les enfants
+> To je = voici
+> moja susedka = ma voisine
+
+! Kto je to? Líška! Bojím sa!
+> Qui est-ce ? Un renard ! J'ai peur !
+> Kto je to = qui est-ce
+> Líška = un renard
 > Bojím sa = j'ai peur
-> Nie = non
-> nebojím sa = je n'ai pas peur
-+ Après {{bojím sa}}, {{medveď}} change de fin : {{medveďa}}. Un mot à écouter, pas à retenir !
+
+! Líška je malá a veľmi milá.
+> Le renard est petit et très gentil.
+> Líška = le renard
+> je malá = est petit
+> a = et
+> veľmi milá = très gentil
++ L'accord se fait avec le mot {{líška}}, qui est féminin.

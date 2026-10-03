@@ -10,16 +10,16 @@
 
 | Slovenčina | Français |
 |------------|----------|
+| deti | les enfants |
 | líška | le renard (l'animal) |
 | bojím sa | j'ai peur |
-| nebojím sa | je n'ai pas peur |
-| deti | les enfants |
-| teraz | maintenant |
 
-Les personnages :
+---
+
+## Les personnages
 
 - 🦊 Toi
-- 🐰 Andrea, ton amie
+- 🐰 Andrea, une hase, ton amie
 - 🐹 Katka, 8 ans, une marmotte
 - 🐻 Maťo, 9 ans, un ours, le frère de Katka
 - 🐑 Babka Zuzana, leur grand-mère, une brebis
@@ -28,15 +28,16 @@ Les personnages :
 
 ## Le dialogue
 
-! 🐰 To je moja kamarátka Katka. A to je jej brat Maťo.
-> Voici ma copine Katka. Et voici son frère Maťo.
+! 🐰 To je moja kamarátka Katka. A to je môj kamarát Maťo.
+> Voici ma copine Katka. Et voici mon copain Maťo.
 > To je = voici
 > moja kamarátka = ma copine
-> jej brat = son frère
-+ Mot nouveau signalé : {{jej}} = son, sa (celui d'une fille).
+> A = et
+> môj kamarát = mon copain
 
 ! 🐹 Ahoj! Mám osem rokov.
 > Salut ! J'ai huit ans.
+> Ahoj = salut
 > Mám = j'ai
 > osem rokov = huit ans
 
@@ -51,20 +52,18 @@ Les personnages :
 > Mám = j'ai
 > desať rokov = dix ans
 
-! 🐑 Ahoj, deti! To je moje vnúča Katka a moje vnúča Maťo.
-> Salut, les enfants ! Voici ma petite-fille Katka et mon petit-fils Maťo.
-> To je = voici
-> moje vnúča = mon petit-enfant
-+ Mot nouveau signalé : {{deti}} = les enfants. Et {{moje vnúča}} marche pour une fille comme pour un garçon !
+! 🐹 A to je moja babka Zuzana!
+> Et voici ma grand-mère Zuzana !
+> A = et
+> to je = voici
+> moja babka = ma grand-mère
 
-! 🐰 Babka Zuzana, to je [USER_NAME].
-> Babka Zuzana, voici [USER_NAME].
-> To je = voici
-
-! 🐑 Ahoj, [USER_NAME]! Máš brata? Máš sestru?
-> Salut, [USER_NAME] ! Tu as un frère ? Tu as une sœur ?
+! 🐑 Ahoj, deti! Ahoj, [USER_NAME]! Máš brata? Máš sestru?
+> Salut, les enfants ! Salut, [USER_NAME] ! Tu as un frère ? Tu as une sœur ?
+> deti = les enfants
 > Máš brata = tu as un frère
 > Máš sestru = tu as une sœur
++ Mot nouveau signalé : {{deti}} = les enfants.
 
 ! 🦊 Nemám brata, ale mám sestru.
 > Je n'ai pas de frère, mais j'ai une sœur.
@@ -72,29 +71,34 @@ Les personnages :
 > ale = mais
 > mám sestru = j'ai une sœur
 
-! 🐹 Ach! To je líška!
-> Ah ! C'est un renard !
-> To je = c'est
-> líška = renard (l'animal)
-+ Mot nouveau signalé : {{líška}}. C'est le nom de l'animal, un mot féminin en slovaque : c'est pour ça qu'il finit par -a.
+! 🐑 Aká je tvoja sestra?
+> Comment est ta sœur ?
+> Aká je = comment est
+> tvoja sestra = ta sœur
 
-! 🐰 Áno, ale je veľmi milá!
-> Oui, mais il est très gentil !
-> Áno = oui
-> ale = mais
-> je veľmi milá = elle est très gentille
-+ On dit {{milá}} parce que {{líška}} est un mot féminin, comme {{mama}}.
+! 🦊 Moja sestra je malá a veselá.
+> Ma sœur est petite et joyeuse.
+> Moja sestra = ma sœur
+> je = est
+> malá a veselá = petite et joyeuse
+
+! 🐹 Ach! To je líška!
+> Oh ! C'est un renard !
+> To je = c'est
+> líška = renard
++ Mot nouveau signalé : {{líška}}. C'est le nom de l'animal, un mot féminin en slovaque : c'est pour ça qu'il finit par -a.
 
 ! 🐹 Bojím sa!
 > J'ai peur !
 > Bojím sa = j'ai peur
 + Mot nouveau signalé : {{bojím sa}} = j'ai peur.
 
-! 🐰 Ja sa nebojím.
-> Moi, je n'ai pas peur.
-> Ja = moi
-> sa nebojím = je n'ai pas peur
-+ {{nebojím sa}} = je n'ai pas peur.
+! 🐰 Nie! Líška je veľmi milá!
+> Mais non ! Le renard est très gentil !
+> Nie = non
+> Líška = le renard
+> je veľmi milá = est très gentil
++ On dit {{milá}} parce que {{líška}} est un mot féminin, comme {{mama}}. Ça ne dit pas si le renard est un garçon ou une fille !
 
 ! 🐻 Aký je tvoj tato? Je veľký?
 > Comment est ton papa ? Il est grand ?
@@ -102,30 +106,38 @@ Les personnages :
 > tvoj tato = ton papa
 > Je veľký = il est grand
 
-! 🐑 Nevadí! Teraz máš veľkú rodinu v Tatrách!
-> Pas de souci ! Maintenant tu as une grande famille dans les Tatras !
-> Nevadí = pas de souci
-> máš = tu as
-> veľkú rodinu = une grande famille
-+ Nouveaux mots à écouter : {{teraz}} = maintenant, {{v Tatrách}} = dans les Tatras. {{veľkú rodinu}} : la fin change après {{máš}}, comme {{sestru}}.
+! 🦊 Áno! Môj tato je veľký a silný.
+> Oui ! Mon papa est grand et fort.
+> Áno = oui
+> Môj tato = mon papa
+> je = est
+> veľký a silný = grand et fort
+
+! 🐰 Babka Zuzana je veľmi milá!
+> Babka Zuzana est très gentille !
+> je veľmi milá = est très gentille
+
+! 🐑 Ďakujem, Andrea!
+> Merci, Andrea !
+> Ďakujem = merci
 
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Sur les hauts pâturages slovaques, il y a des fermes de bergers : les}} {{salaše}}{{fr:. On y fait du fromage de brebis !}} 🧀
+{{fr:Sur les hauts pâturages slovaques, il y a des bergeries de montagne : les}} {{salaše}}{{fr:. Les bergers y font du fromage de brebis !}} 🧀
 
-{{fr:Un fromage très célèbre s'appelle la}} {{bryndza}}{{fr:. Babka Zuzana va t'en parler très bientôt… dans la série sur la nourriture !}}
+{{fr:Avec ce fromage, on fabrique un autre fromage très célèbre en Slovaquie : la}} {{bryndza}}{{fr:. Babka Zuzana a beaucoup de choses à dire à son sujet…}} 🐑
 
 ---
 
 ## Encore quelques phrases
 
-! Môj tato je veľký a silný.
-> Mon papa est grand et fort.
-> Môj tato = mon papa
+! Moja babka je veľmi milá.
+> Ma grand-mère est très gentille.
+> Moja babka = ma grand-mère
 > je = est
-> veľký a silný = grand et fort
+> veľmi milá = très gentille
 
 ! Ona nemá brata, ale má sestru.
 > Elle n'a pas de frère, mais elle a une sœur.

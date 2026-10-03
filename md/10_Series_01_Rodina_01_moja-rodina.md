@@ -78,18 +78,18 @@ Un mot qui finit par -a (mama, sestra, babka) prend {{moja}}. Pour un garçon, c
 > moja = ma
 > rodina = famille
 
-! To je moja mama a môj tato.
-> Voici ma maman et mon papa.
+! To je moja mama. A to je môj tato.
+> Voici ma maman. Et voici mon papa.
 > To je = voici
 > moja mama = ma maman
-> a = et
+> A = et
 > môj tato = mon papa
 
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Les marmottes vivent en famille dans un terrier. L'hiver, elles dorment pendant environ six mois !}} En slovaque, une marmotte : un {{svišť}}.
+{{fr:Les marmottes vivent en famille dans un terrier. L'hiver, elles dorment pendant plus de six mois !}} En slovaque, une marmotte : un {{svišť}}.
 
 {{fr:Les enfants slovaques disent souvent « maman » de façon plus câline :}} {{mamka}}{{fr:. Pour « papa », ils disent souvent}} {{ocko}}{{fr:.}} 💛
 
