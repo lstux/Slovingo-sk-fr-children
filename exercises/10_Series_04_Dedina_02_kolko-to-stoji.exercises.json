@@ -170,7 +170,7 @@
       "l1": "C'est cher.",
       "l2": "Je to drahé.",
       "choices_l1": [
-        "C'est pas cher.",
+        "Ce n'est pas cher.",
         "C'est bon.",
         "C'est sucré."
       ]
@@ -178,7 +178,7 @@
     {
       "id": "listen-je-to-lacn",
       "type": "listen",
-      "l1": "C'est pas cher.",
+      "l1": "Ce n'est pas cher.",
       "l2": "Je to lacné.",
       "choices_l1": [
         "C'est cher.",
@@ -214,7 +214,7 @@
       "l1": "Le miel coûte cinq euros. C'est cher !",
       "l2": "Med stojí päť eur. To je drahé!",
       "choices_l1": [
-        "Le miel coûte cinq euros. C'est pas cher !",
+        "Le miel coûte cinq euros. Ce n'est pas cher !",
         "Le miel coûte deux euros. C'est cher !",
         "Le pain coûte cinq euros. C'est cher !"
       ]

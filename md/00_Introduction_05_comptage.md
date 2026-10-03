@@ -22,7 +22,7 @@
 | 9 | deväť |
 | 10 | desať |
 
-{{fr:Le ä de « päť » se dit presque comme un è.}}
+{{fr:Dans}} {{päť}}{{fr:, la lettre avec deux points se dit presque comme un « è ».}}
 
 ---
 

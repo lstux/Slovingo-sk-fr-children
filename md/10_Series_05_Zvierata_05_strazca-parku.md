@@ -132,7 +132,7 @@ Les personnages :
 {{fr:Les deux règles de Pán Orol, à retenir pour toutes tes balades en montagne :}}
 
 {{fr:1. On reste sur le}} {{chodník}}{{fr:, le sentier.}}
-{{fr:2. On ne donne jamais à manger aux animaux.}} 
+{{fr:2. On ne donne jamais à manger aux animaux.}}
 
 {{fr:Et une troisième, qu'on n'oublie pas : tous les déchets repartent dans notre sac !}} 🎒
 

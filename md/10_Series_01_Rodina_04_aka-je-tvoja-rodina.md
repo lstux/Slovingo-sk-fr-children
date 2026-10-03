@@ -30,7 +30,7 @@
 
 ### Le mot décrit, et il suit le genre
 
-{{fr:Le petit mot « est » se dit je. Et le mot qui décrit change de fin : -ý pour un garçon, -á pour une fille ou un mot féminin.}}
+{{fr:Le petit mot « est » se dit}} {{je}}{{fr:. Et le mot qui décrit change de fin : une fin pour un garçon, une autre pour une fille ou un mot féminin. Regarde le tableau !}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -41,7 +41,7 @@
 
 ### Poser la question : aký ou aká ?
 
-{{fr:Pour demander « comment est… ? », le mot aussi change : aký pour un mot masculin, aká pour un mot féminin.}}
+{{fr:Pour demander « comment est… ? », le mot aussi change :}} {{aký}} {{fr:pour un mot masculin,}} {{aká}} {{fr:pour un mot féminin.}}
 
 | Slovenčina | Français |
 |------------|----------|

@@ -107,7 +107,7 @@
       "l1": "Cinq euros ? C'est cher !",
       "l2": "Päť eur? To je drahé!",
       "choices_l1": [
-        "Cinq euros ? C'est pas cher !",
+        "Cinq euros ? Ce n'est pas cher !",
         "Deux euros ? C'est cher !",
         "Cinq euros ? C'est bon !"
       ]

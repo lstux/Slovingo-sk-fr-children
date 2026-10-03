@@ -12,7 +12,7 @@
 |------------|----------|
 | hra | le jeu |
 | lopta | le ballon |
-| skrývačka | la cache-cache |
+| skrývačka | le cache-cache |
 | naháňačka | le jeu du chat |
 | hrám sa | je joue |
 | hráš sa | tu joues |

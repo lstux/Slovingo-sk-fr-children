@@ -24,7 +24,7 @@
 
 ### Masculin, féminin, neutre
 
-{{fr:En slovaque, il y a trois sortes de mots : masculin, féminin et neutre. Tu les connais déjà : mama est féminin, brat est masculin, vnúča est neutre. Les meubles aussi !}}
+{{fr:En slovaque, il y a trois sortes de mots : masculin, féminin et neutre. Tu les connais déjà :}} {{mama}} {{fr:est féminin,}} {{brat}} {{fr:est masculin,}} {{vnúča}} {{fr:est neutre. Les meubles aussi !}}
 
 | Slovenčina | Français |
 |------------|----------|

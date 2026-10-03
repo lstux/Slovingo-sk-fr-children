@@ -44,7 +44,7 @@
 | orol má veľké krídla | l'aigle a de grandes ailes |
 | líška má dlhý chvost | le renard a une longue queue |
 
-{{fr:Quand il y en a plusieurs, le mot qui décrit finit par -é : veľké, malé, dlhé.}}
+{{fr:Quand il y en a plusieurs, le mot qui décrit change aussi de fin :}} {{veľké}}{{fr:,}} {{malé}}{{fr:,}} {{dlhé}}{{fr:.}}
 
 ---
 

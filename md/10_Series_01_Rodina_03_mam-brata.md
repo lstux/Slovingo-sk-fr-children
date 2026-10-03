@@ -145,7 +145,7 @@ Pour dire « je n'ai pas », on colle **ne** devant {{mám}} : {{nemám}}.
 
 {{fr:Quand une marmotte voit un danger, elle siffle très fort pour prévenir toute sa famille !}} 🐹
 
-{{fr:Si tu entends ce sifflement en montagne, tu sais qu'une marmotte t'a vu. Reste calme, ne t'approche pas, et laisse-la tranquille.}}
+{{fr:Si tu entends ce sifflement en montagne, tu sais qu'une marmotte sait que tu es là. Reste calme, ne t'approche pas, et laisse-la tranquille.}}
 
 ---
 

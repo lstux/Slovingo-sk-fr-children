@@ -101,7 +101,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Dans le parc national, il y a parfois des panneaux}} {{Zákaz vstupu}}{{fr:, « entrée interdite ». Ce sont des zones où les animaux ont besoin de calme. On ne rentre pas : on dit « nemôžeme » et on joue ailleurs !}} 🚫
+{{fr:Dans le parc national, il y a parfois des panneaux}} {{Zákaz vstupu}}{{fr:, « entrée interdite ». Ce sont des zones où les animaux ont besoin de calme. On n'entre pas : on dit}} {{nemôžeme}} {{fr:et on joue ailleurs !}} 🚫
 
 ---
 

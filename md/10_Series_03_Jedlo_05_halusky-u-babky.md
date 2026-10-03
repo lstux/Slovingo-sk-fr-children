@@ -61,7 +61,7 @@ Les personnages :
 > bryndzu = de la bryndza
 > To je = c'est
 > moja rodina = ma famille
-+ Mot nouveau signalé : {{nejem}} = je ne mange pas. La bryndza est un fromage de brebis... et Babka Zuzana est une brebis ! 😄
++ Mot nouveau signalé : {{nejem}} = je ne mange pas. La bryndza est un fromage de brebis… et Babka Zuzana est une brebis ! 😄
 
 ! 🐹 Ha, ha, ha!
 > Ha, ha, ha !
@@ -147,4 +147,4 @@ Les personnages :
 > Je ne mange jamais de miel !
 > Nikdy = jamais
 > nejem = je ne mange pas
-> med = du miel
+> med = de miel

@@ -37,7 +37,7 @@
 
 ### Dire son âge
 
-{{fr:Pour dire son âge, on dit « j'ai » plus le nombre, plus le mot « ans ». Avec 5 et plus, ce mot s'écrit rokov.}}
+{{fr:Pour dire son âge, on dit « j'ai » plus le nombre, plus le mot « ans ». Avec 5 et plus, ce mot s'écrit}} {{rokov}}{{fr:.}}
 
 | Slovenčina | Français |
 |------------|----------|

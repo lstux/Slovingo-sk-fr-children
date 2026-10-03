@@ -14,7 +14,7 @@
 | svišť | la marmotte |
 | medveď | l'ours |
 | zajac | le lièvre |
-| zajačica | la hase (la lièvre femelle) |
+| zajačica | la hase (la femelle du lièvre) |
 | kamzík | le chamois |
 | orol | l'aigle |
 | vlk | le loup |

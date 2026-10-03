@@ -9,7 +9,7 @@
       "l2": "hra",
       "choices_l1": [
         "le ballon",
-        "la cache-cache",
+        "le cache-cache",
         "le jeu du chat"
       ],
       "choices_l2": [
@@ -25,7 +25,7 @@
       "l2": "lopta",
       "choices_l1": [
         "le jeu",
-        "la cache-cache",
+        "le cache-cache",
         "le jeu du chat"
       ],
       "choices_l2": [
@@ -37,7 +37,7 @@
     {
       "id": "qcm-skr-va-ka",
       "type": "qcm",
-      "l1": "la cache-cache",
+      "l1": "le cache-cache",
       "l2": "skrývačka",
       "choices_l1": [
         "le jeu",
@@ -58,7 +58,7 @@
       "choices_l1": [
         "le jeu",
         "le ballon",
-        "la cache-cache"
+        "le cache-cache"
       ],
       "choices_l2": [
         "hra",
@@ -294,7 +294,7 @@
       "l1": [
         "le jeu",
         "le ballon",
-        "la cache-cache",
+        "le cache-cache",
         "le jeu du chat"
       ],
       "l2": [

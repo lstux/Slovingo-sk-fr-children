@@ -80,7 +80,7 @@
 > drahé = cher
 
 ! Je to lacné.
-> C'est pas cher.
+> Ce n'est pas cher.
 > Je to = c'est
 > lacné = pas cher
 
