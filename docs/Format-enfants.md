@@ -4,14 +4,14 @@ Ce document décrit comment le contenu est écrit pour des enfants de **8 à 12 
 
 La base reste le **SMD (Slovingo Markdown)** : voir `Format-SMD.txt` dans le repo [Slovingo](https://github.com/lstux/Slovingo/tree/main/docs).
 
-## Le monde : les animaux des Tatry
+## Le monde : les animaux des Tatras
 
-Tous les personnages sont des animaux qui vivent dans les Tatry, façon Bisounours : ils parlent, ils ont une maison avec un lit et une table, et le monde est gentil. Pas besoin d'expliquer les liens de parenté (Katka et Maťo sont frère et sœur, point).
+Tous les personnages sont des animaux qui vivent dans les Tatras, façon Bisounours : ils parlent, ils ont une maison avec un lit et une table, et le monde est gentil. Pas besoin d'expliquer les liens de parenté (Katka et Maťo sont frère et sœur, point).
 
 - **Toi (🦊)** arrives dans la montagne. Le texte ne dit jamais « petit renard / petite renarde » : on ne sait pas si c'est un garçon ou une fille. Quand il faut un nom, on parle de l'avatar (« 🦊 Toi »).
 - **Gag** : 🦊 est un renard et Andrea un lièvre, donc il pourrait la manger… mais c'est un gentil renard. Léger, jamais de vraie peur.
-- **Le message nature** revient doucement, surtout dans les coins slovaques : rester sur le sentier (*chodník*), ne pas nourrir les animaux, remporter ses déchets (*odpadky*), le parc national des Tatry (TANAP, créé en 1949). Jamais de morale lourde : une phrase, un fait, un sourire.
-- **Faits** : on ne dit que ce qui est vérifiable sur les Tatry (marmotte *svišť*, chamois *kamzík*, ours *medveď*, lynx *rys*, aigle *orol*, cerf *jeleň*, loup *vlk*).
+- **Le message nature** revient doucement, surtout dans les coins slovaques : rester sur le sentier (*chodník*), ne pas nourrir les animaux, remporter ses déchets (*odpadky*), le parc national des Tatras (TANAP, créé en 1949). Jamais de morale lourde : une phrase, un fait, un sourire.
+- **Faits** : on ne dit que ce qui est vérifiable sur les Tatras (marmotte *svišť*, chamois *kamzík*, ours *medveď*, lynx *rys*, aigle *orol*, cerf *jeleň*, loup *vlk*).
 - **Humour** : Jedlo contient une petite blague sur la bryndza et les halušky, que Babka Zuzana (une brebis) évite soigneusement.
 
 ## 1. Ton et rédaction
@@ -33,7 +33,7 @@ Exception : le Kit de Survie (série 00) a 3 fiches d'apprentissage + l'extra.
 
 | Avatar | Personnage | Notes |
 |---|---|---|
-| 🦊 | Toi (l'enfant) | prénom saisi via `[ASK_USER_NAME]`, repris via `[USER_NAME]` ; tu viens d'arriver dans les Tatry |
+| 🦊 | Toi (l'enfant) | prénom saisi via `[ASK_USER_NAME]`, repris via `[USER_NAME]` ; tu viens d'arriver dans les Tatras |
 | 🐰 | Andrea | 11 ans, la « grande » qui explique |
 | 🐹 | Katka | 8 ans, une marmotte ; phrases courtes et simples |
 | 🐻 | Maťo | 9 ans, un ours ; grand frère de Katka |
@@ -50,18 +50,21 @@ En slovaque, beaucoup de formes dépendent du genre de celui qui parle (*rád / 
 - **En français** : aucun adjectif ni participe accordé pour l'enfant (« je suis perdu/perdue » → « j'ai perdu mon chemin »).
 - **En slovaque** : les répliques de 🦊 évitent les formes genrées. On prend des tournures neutres : *páči sa mi…*, *baví ma…*, *chutí mi…*, *mám hlad*, *mám sa dobre*.
 - Les formes genrées se donnent avec les autres personnages (Andrea, Maťo, Katka, Babka), dont le genre est connu, et dans une remarque quand elles sont utiles.
+- **Quand on parle de 🦊 comme animal**, on nomme toujours l'animal : *Líška je veľmi milá*, jamais *Je veľmi milá* tout seul (qui pourrait se lire « elle est gentille »). L'accord se fait avec le nom *líška* (féminin), et une remarque le dit. En français : « le renard est très gentil ».
 
 ## 5. Écouter plutôt que lire
 
 Pour un enfant de 8 ans, une fiche entière est longue à lire. Les consignes importantes se mettent en `{{fr:...}}` (speakable en langue native, voix française) :
 
 ```
-{{fr:Le č se dit « tch », comme dans « tchèque ».}}
+{{fr:La lettre}} {{č}} {{fr:se dit « tch », comme dans « tchèque ».}}
 Le mot {{čaj}} veut dire « thé ».
 ```
 
 - Une idée par `{{fr:...}}`, une à trois phrases
-- **Pas de mot slovaque dans un `{{fr:...}}`** : la voix française le prononcerait mal. Le mot slovaque va à côté, en `{{...}}`
+- **Pas de mot slovaque dans un `{{fr:...}}`** (ni lettre, ni terminaison comme « -á ») : la voix française le prononcerait mal. Le mot slovaque va à côté, en `{{...}}`
+- **Exceptions admises** : les prénoms et noms des personnages (*Andrea, Katka, Maťo, Babka Zuzana, Pani Ježková, Pán Orol*) peuvent rester dans un `{{fr:...}}`, lus à la française.
+- **Les montagnes** : en français on écrit **les Tatras** (nom français) ; le nom slovaque est *Tatry*, donné en `{{Tatry}}` quand on veut l'apprendre.
 - Pas de `**gras**` à l'intérieur
 - Dans une audio-card, la phrase après `!` est lue avec la voix slovaque ; le français va dans les `>`, les `+` et les paragraphes
 - Il faut un moteur Slovingo qui gère `{{fr:...}}` (voir `slovingo_ref` dans la CI), et une voix française + une voix slovaque sur l'appareil
@@ -127,14 +130,15 @@ Explication en quelques phrases, tableau d'exemples.
 
 - `## Les personnages` : liste avatar + nom
 - `## Le dialogue` : 10-15 répliques en continu, vocabulaire de la série et des séries précédentes
-- 2-3 mots nouveaux maximum, **toujours signalés** : `+ Mot nouveau signalé : {{…}} = …`
+- 2-3 mots nouveaux maximum (3 au grand maximum), **toujours signalés** : `+ Mot nouveau signalé : {{…}} = …`
+- Au plus **une** forme « à écouter » (forme d'un cas pas encore apprise) par fiche
 - Puis Coin slovaque et 3 cartes « Encore quelques phrases »
 
 ## 9. Fiche 06 : extra
 
 - Tableau de **tout** le vocabulaire de la série, mots signalés du dialogue compris
 - 15-18 cartes audio qui recombinent ce vocabulaire dans des phrases inédites
-- Aucun mot nouveau
+- Aucun mot nouveau, aucune forme nouvelle « à écouter »
 - Sert de matière première aux exercices
 
 ## 10. Cartes audio
@@ -168,7 +172,7 @@ Explication en quelques phrases, tableau d'exemples.
 Court, amusant, **vérifiable** (pas de chiffre approximatif) :
 
 - « Le sais-tu ? En slovaque, on dit… »
-- Des choses qu'un enfant peut voir ou vivre : la bryndza, les *kraslice*, Mikuláš, le Kofola, les chaussons à l'entrée, les animaux des Tatry et comment les protéger
+- Des choses qu'un enfant peut voir ou vivre : la bryndza, les *kraslice*, Mikuláš, le Kofola, les chaussons à l'entrée, les animaux des Tatras et comment les protéger
 - Pas de clichés ni de ton scolaire
 
 ## 13. Qualité de langue

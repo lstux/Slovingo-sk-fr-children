@@ -1,6 +1,6 @@
 # Zvieratá (extra) — Všetko o zvieratách
 
-@ TODO_img/panorama-faune.jpg | TODO : choisir une image (vallée des Tatry avec des animaux) sur Wikimedia Commons
+@ TODO_img/panorama-faune.jpg | TODO : choisir une image (vallée des Tatras avec des animaux) sur Wikimedia Commons
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Zvieratá, et on mélange les mots dans de nouvelles phrases !}}
 
@@ -60,8 +60,8 @@
 > Maťo je medveď = Maťo est un ours
 
 ! V Tatrách je rys, vlk a jeleň.
-> Dans les Tatry, il y a un lynx, un loup et un cerf.
-> V Tatrách je = dans les Tatry, il y a
+> Dans les Tatras, il y a un lynx, un loup et un cerf.
+> V Tatrách je = dans les Tatras, il y a
 > rys, vlk a jeleň = un lynx, un loup et un cerf
 
 ! Sú tu dve veveričky a tri sovy.

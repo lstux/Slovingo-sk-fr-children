@@ -2,7 +2,7 @@
 
 @ TODO_img/lac-montagne-pre.jpg | TODO : choisir une image (prairie de montagne fleurie avec un petit arbre) sur Wikimedia Commons
 
-{{fr:Une belle partie de cache-cache dans une prairie des Tatry avec Andrea, Katka et Maťo. Pour la première fois, tu vas jouer avec tout ce que tu as appris !}}
+{{fr:Une belle partie de cache-cache dans une prairie des Tatras avec Andrea, Katka et Maťo. Pour la première fois, tu vas jouer avec tout ce que tu as appris !}}
 
 ---
 
@@ -129,7 +129,7 @@ Les personnages :
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Bravo ! Tu viens de finir le premier niveau du cours : tu sais te présenter, parler de ta famille, de ta maison, de ce que tu manges, aller au village, parler des animaux, et jouer. Pas mal, pour quelqu'un qui est arrivé dans les Tatry il y a si peu de temps !}} 🎉
+{{fr:Bravo ! Tu viens de finir le premier niveau du cours : tu sais te présenter, parler de ta famille, de ta maison, de ce que tu manges, aller au village, parler des animaux, et jouer. Pas mal, pour quelqu'un qui est arrivé dans les Tatras il y a si peu de temps !}} 🎉
 
 {{fr:Et pour fêter ça, on dit}} {{Dobrá hra}} {{fr:à tout le monde, même à ceux qui ont perdu !}}
 

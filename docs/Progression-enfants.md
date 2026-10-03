@@ -33,12 +33,12 @@ Chaque série = 1 semaine de travail décontracté (6 fiches, une par jour + jou
 | 02 | Doma | Chez soi : terriers, tanières, nids | Dire où sont les choses, parler de sa maison |
 | 03 | Jedlo | Les repas | Dire ce qu'on mange et ce qu'on aime |
 | 04 | Dedina | Le village au pied des montagnes | Aller quelque part, demander le prix, parler à un adulte inconnu |
-| 05 | Zvieratá | Les animaux des Tatry | Décrire un animal, comparer, protéger la nature |
+| 05 | Zvieratá | Les animaux des Tatras | Décrire un animal, comparer, protéger la nature |
 | 06 | Hry | Les jeux dans la nature | Proposer un jeu, dire à qui c'est le tour |
 
 Les noms de séries reprennent ceux du cours adulte, sauf *Čas* (l'heure), trop abstrait pour commencer, et *Mesto*, remplacé par *Dedina* (le mot *mesto*, la ville, reste au vocabulaire, par exemple en mot complémentaire).
 
-Le décor est partout le même : les Tatry, avec des animaux qui parlent (voir `Format-enfants.md`). Le message « protéger la nature » culmine dans Zvieratá.
+Le décor est partout le même : les Tatras, avec des animaux qui parlent (voir `Format-enfants.md`). Le message « protéger la nature » culmine dans Zvieratá.
 
 ---
 
@@ -109,7 +109,7 @@ Les autres règles sont introduites dans les séries au moment où un mot les re
 | 🐻 | Maťo, 9 ans, grand frère de Katka |
 | 🐑 | Babka Zuzana, leur grand-mère |
 
-Tutoiement entre tous. Ce sont de vrais animaux des Tatry qui parlent : Andrea (lièvre), Katka (marmotte), Maťo (ours) et Babka Zuzana (brebis). L'enfant est le nouveau venu de la montagne.
+Tutoiement entre tous. Ce sont de vrais animaux des Tatras qui parlent : Andrea (lièvre), Katka (marmotte), Maťo (ours) et Babka Zuzana (brebis). L'enfant est le nouveau venu de la montagne.
 
 L'enfant rencontre Andrea dès le Kit de Survie (fiche 03) : c'est elle qui lui apprend à se présenter, et qui justifie *nerozumiem* et *hovoríš po francúzsky?*.
 
@@ -146,7 +146,7 @@ La structure doit permettre, sans changer le contenu : un suivi quotidien (« j'
 1. ~~Écrire les 5 fiches d'introduction~~ (fait)
 2. ~~Kit de Survie et ses exercices~~ (fait)
 3. ~~Séries 01 à 06 : Rodina, Doma, Jedlo, Dedina, Zvieratá, Hry~~ (fiches et exercices faits, à relire avec un locuteur natif)
-4. Relecture native : phrases slovaques, prononciation figurée, faits (Tatry, TANAP, électrique, etc.)
+4. Relecture native : phrases slovaques, prononciation figurée, faits (Tatras, TANAP, électrique, etc.)
 5. Choisir les illustrations (Wikimedia Commons, avec crédits) : tous les `TODO_img/…` sont à remplacer
 6. Workflow de CI (en attente du fichier `build-release.yml` du dépôt Slovingo)
 7. Tester avec un enfant, ajuster ton, rythme et quantité de vocabulaire

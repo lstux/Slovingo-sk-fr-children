@@ -1,6 +1,6 @@
 # Kit de Survie (extra) — Všetko dokopy
 
-@ TODO_img/tatry-panorama.jpg | TODO : choisir une image (panorama des Tatry, lac de montagne) sur Wikimedia Commons
+@ TODO_img/tatry-panorama.jpg | TODO : choisir une image (panorama des Tatras, lac de montagne) sur Wikimedia Commons
 
 {{fr:Pas de mot nouveau ici. On réunit tout le Kit de Survie, et on mélange les mots dans de nouvelles phrases !}}
 

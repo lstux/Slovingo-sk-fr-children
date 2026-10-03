@@ -242,22 +242,22 @@
     {
       "id": "listen-v-tatr-ch-je-rys",
       "type": "listen",
-      "l1": "Dans les Tatry, il y a un lynx.",
+      "l1": "Dans les Tatras, il y a un lynx.",
       "l2": "V Tatrách je rys.",
       "choices_l1": [
-        "Dans les Tatry, il y a un loup.",
-        "Dans les Tatry, il y a un ours.",
+        "Dans les Tatras, il y a un loup.",
+        "Dans les Tatras, il y a un ours.",
         "Dans le village, il y a un lynx."
       ]
     },
     {
       "id": "listen-v-tatr-ch-je-vlk",
       "type": "listen",
-      "l1": "Dans les Tatry, il y a un loup.",
+      "l1": "Dans les Tatras, il y a un loup.",
       "l2": "V Tatrách je vlk.",
       "choices_l1": [
-        "Dans les Tatry, il y a un lynx.",
-        "Dans les Tatry, il y a un aigle.",
+        "Dans les Tatras, il y a un lynx.",
+        "Dans les Tatras, il y a un aigle.",
         "Dans le terrier, il y a un loup."
       ]
     },
@@ -349,7 +349,7 @@
     {
       "id": "blank-v-tatr-ch-je-rys",
       "type": "fill-blank",
-      "l1": "Dans les Tatry, il y a un lynx.",
+      "l1": "Dans les Tatras, il y a un lynx.",
       "l2": "V Tatrách je rys.",
       "missing_l1": "lynx",
       "missing_l2": "rys",
@@ -402,10 +402,10 @@
     {
       "id": "order-v-tatr-ch-je-rys",
       "type": "order",
-      "l1": "Dans les Tatry, il y a un lynx.",
+      "l1": "Dans les Tatras, il y a un lynx.",
       "l2": "V Tatrách je rys.",
       "tokens_l1": [
-        "Dans les Tatry,",
+        "Dans les Tatras,",
         "il y a",
         "un lynx."
       ],

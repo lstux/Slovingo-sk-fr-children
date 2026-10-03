@@ -1,8 +1,8 @@
 # Série Doma (1/5) — Kde bývaš?
 
-@ TODO_img/entree-terrier.jpg | TODO : choisir une image (entrée d'un terrier de marmotte dans l'herbe, Tatry) sur Wikimedia Commons
+@ TODO_img/entree-terrier.jpg | TODO : choisir une image (entrée d'un terrier de marmotte dans l'herbe, Tatras) sur Wikimedia Commons
 
-{{fr:Dans les Tatry, chacun a sa maison : un terrier, une tanière, un nid… Aujourd'hui, tu apprends à dire où tu habites.}}
+{{fr:Dans les Tatras, chacun a sa maison : un terrier, une tanière, un nid… Aujourd'hui, tu apprends à dire où tu habites.}}
 
 ---
 
@@ -81,7 +81,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Dans les Tatry, la marmotte creuse un grand terrier avec des tunnels et plusieurs chambres. L'ours, lui, dort l'hiver dans une tanière, bien au chaud.}} 🐻
+{{fr:Dans les Tatras, la marmotte creuse un grand terrier avec des tunnels et plusieurs chambres. L'ours, lui, dort l'hiver dans une tanière, bien au chaud.}} 🐻
 
 {{fr:Si tu trouves un terrier ou une tanière en te promenant, ne t'approche pas et n'y touche pas : c'est la maison de quelqu'un !}}
 

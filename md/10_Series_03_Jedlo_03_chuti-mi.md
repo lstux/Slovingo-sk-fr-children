@@ -110,7 +110,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Dans les forêts des Tatry, il y a des myrtilles, les}} {{čučoriedky}}{{fr:, et des framboises sauvages, les}} {{maliny}}{{fr:. Délicieux !}} 🫐
+{{fr:Dans les forêts des Tatras, il y a des myrtilles, les}} {{čučoriedky}}{{fr:, et des framboises sauvages, les}} {{maliny}}{{fr:. Délicieux !}} 🫐
 
 {{fr:Deux règles d'or : on ne mange jamais une baie qu'on ne connaît pas, et on en laisse beaucoup pour les animaux. C'est leur repas !}}
 

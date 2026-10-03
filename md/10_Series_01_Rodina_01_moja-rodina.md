@@ -2,7 +2,7 @@
 
 @ TODO_img/famille-marmottes.jpg | TODO : choisir une image (une famille de marmottes devant leur terrier) sur Wikimedia Commons
 
-{{fr:Dans les Tatry, tout le monde a une famille ! Aujourd'hui, tu apprends à dire « voici ma maman », « voici mon frère »…}}
+{{fr:Dans les Tatras, tout le monde a une famille ! Aujourd'hui, tu apprends à dire « voici ma maman », « voici mon frère »…}}
 
 ---
 

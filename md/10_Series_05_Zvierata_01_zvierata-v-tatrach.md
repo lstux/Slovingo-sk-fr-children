@@ -1,8 +1,8 @@
 # Série Zvieratá (1/5) — Zvieratá v Tatrách
 
-@ TODO_img/animaux-tatry.jpg | TODO : choisir une image (collage ou panorama : marmotte, chamois, ours, aigle des Tatry) sur Wikimedia Commons
+@ TODO_img/animaux-tatry.jpg | TODO : choisir une image (collage ou panorama : marmotte, chamois, ours, aigle des Tatras) sur Wikimedia Commons
 
-{{fr:Les Tatry sont la maison de beaucoup d'animaux. Aujourd'hui, tu apprends leurs noms, et à dire qui est quoi !}}
+{{fr:Les Tatras sont la maison de beaucoup d'animaux. Aujourd'hui, tu apprends leurs noms, et à dire qui est quoi !}}
 
 ---
 
@@ -77,15 +77,15 @@
 > orol = aigle
 
 ! V Tatrách je rys.
-> Dans les Tatry, il y a un lynx.
-> V Tatrách = dans les Tatry
+> Dans les Tatras, il y a un lynx.
+> V Tatrách = dans les Tatras
 > je = il y a
 > rys = lynx
-+ À écouter : {{v Tatrách}} = dans les Tatry.
++ À écouter : {{v Tatrách}} = dans les Tatras.
 
 ! V Tatrách je vlk.
-> Dans les Tatry, il y a un loup.
-> V Tatrách = dans les Tatry
+> Dans les Tatras, il y a un loup.
+> V Tatrách = dans les Tatras
 > je = il y a
 > vlk = loup
 
@@ -103,7 +103,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Les Tatry sont un parc national, le}} {{TANAP}}{{fr:, créé en 1949. On y protège les animaux et les plantes. Ici vivent un chamois et une marmotte qui n'existent nulle part ailleurs : le chamois des Tatry et la marmotte des Tatry !}} 🏔️
+{{fr:Les Tatras sont un parc national, le}} {{TANAP}}{{fr:, créé en 1949. On y protège les animaux et les plantes. Ici vivent un chamois et une marmotte qui n'existent nulle part ailleurs : le chamois des Tatras et la marmotte des Tatras !}} 🏔️
 
 ---
 

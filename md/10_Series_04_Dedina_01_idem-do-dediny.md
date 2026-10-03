@@ -1,6 +1,6 @@
 # Série Dedina (1/5) — Idem do dediny
 
-@ TODO_img/village-tatry.jpg | TODO : choisir une image (village de montagne aux maisons en bois, au pied des Tatry) sur Wikimedia Commons
+@ TODO_img/village-tatry.jpg | TODO : choisir une image (village de montagne aux maisons en bois, au pied des Tatras) sur Wikimedia Commons
 
 {{fr:Au pied des montagnes, il y a un village avec un magasin et une boulangerie. Aujourd'hui, tu apprends à dire où tu vas.}}
 
@@ -99,7 +99,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Au pied des Tatry, il y a de vrais villages célèbres, comme}} {{Ždiar}}{{fr:, avec ses maisons en bois décorées de motifs blancs. Et un petit train électrique, la}} {{električka}}{{fr:, relie plusieurs villages de montagne !}} 🚃
+{{fr:Au pied des Tatras, il y a de vrais villages célèbres, comme}} {{Ždiar}}{{fr:, avec ses maisons en bois décorées de motifs blancs. Et un petit train électrique, la}} {{električka}}{{fr:, relie plusieurs villages de montagne !}} 🚃
 
 ---
 

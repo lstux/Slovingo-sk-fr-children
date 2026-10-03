@@ -1,6 +1,6 @@
 # Dedina (extra) — Všetko o dedine
 
-@ TODO_img/panorama-village.jpg | TODO : choisir une image (panorama d'un village au pied des Tatry) sur Wikimedia Commons
+@ TODO_img/panorama-village.jpg | TODO : choisir une image (panorama d'un village au pied des Tatras) sur Wikimedia Commons
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Dedina, et on mélange les mots dans de nouvelles phrases !}}
 

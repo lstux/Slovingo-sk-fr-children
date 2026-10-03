@@ -2,7 +2,7 @@
 
 @ TODO_img/premiere-rencontre.jpg | TODO : choisir une image (deux animaux ou deux enfants qui se rencontrent sur un sentier de montagne) sur Wikimedia Commons
 
-{{fr:Tu viens d'arriver dans les Tatry. Sur un sentier, tu croises Andrea, ton amie des montagnes. Tu vas te présenter, et dire quand tu ne comprends pas !}}
+{{fr:Tu viens d'arriver dans les Tatras. Sur un sentier, tu croises Andrea, ton amie des montagnes. Tu vas te présenter, et dire quand tu ne comprends pas !}}
 
 ---
 
@@ -23,7 +23,7 @@
 ## Les personnages
 
 - 🦊 Toi
-- 🐰 Andrea, ton amie des Tatry
+- 🐰 Andrea, ton amie des Tatras
 
 ---
 

@@ -27,11 +27,11 @@
     {
       "id": "listen-v-tatr-ch-je-rys-vlk-a-jele",
       "type": "listen",
-      "l1": "Dans les Tatry, il y a un lynx, un loup et un cerf.",
+      "l1": "Dans les Tatras, il y a un lynx, un loup et un cerf.",
       "l2": "V Tatrách je rys, vlk a jeleň.",
       "choices_l1": [
-        "Dans les Tatry, il y a un lynx, un loup et un ours.",
-        "Dans les Tatry, il y a un aigle, un loup et un cerf.",
+        "Dans les Tatras, il y a un lynx, un loup et un ours.",
+        "Dans les Tatras, il y a un aigle, un loup et un cerf.",
         "Dans le village, il y a un lynx, un loup et un cerf."
       ]
     },
@@ -209,10 +209,10 @@
     {
       "id": "order-v-tatr-ch-je-rys-vlk-a-jele",
       "type": "order",
-      "l1": "Dans les Tatry, il y a un lynx, un loup et un cerf.",
+      "l1": "Dans les Tatras, il y a un lynx, un loup et un cerf.",
       "l2": "V Tatrách je rys, vlk a jeleň.",
       "tokens_l1": [
-        "Dans les Tatry,",
+        "Dans les Tatras,",
         "il y a",
         "un lynx,",
         "un loup",

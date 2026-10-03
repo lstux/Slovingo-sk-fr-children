@@ -54,8 +54,8 @@
 > líšky = renards
 
 ! V Tatrách sú zvieratá.
-> Dans les Tatry, il y a des animaux.
-> V Tatrách = dans les Tatry
+> Dans les Tatras, il y a des animaux.
+> V Tatrách = dans les Tatras
 > sú = il y a (sont)
 > zvieratá = animaux
 
@@ -92,7 +92,7 @@
 
 {{fr:Si tu trouves un bébé animal tout seul en montagne, ne le touche pas et ne le ramène pas chez toi. Sa maman est presque toujours tout près, elle attend que tu partes !}} 🦌
 
-{{fr:La règle des Tatry : on regarde, on admire, mais on ne touche pas.}}
+{{fr:La règle des Tatras : on regarde, on admire, mais on ne touche pas.}}
 
 ---
 
@@ -119,8 +119,8 @@
 > tri veveričky = trois écureuils
 
 ! V Tatrách je veľa zvierat.
-> Dans les Tatry, il y a beaucoup d'animaux.
-> V Tatrách je = dans les Tatry, il y a
+> Dans les Tatras, il y a beaucoup d'animaux.
+> V Tatrách je = dans les Tatras, il y a
 > veľa = beaucoup
 > zvierat = d'animaux
 + À écouter : après {{veľa}}, {{zvieratá}} change de fin : {{zvierat}}.

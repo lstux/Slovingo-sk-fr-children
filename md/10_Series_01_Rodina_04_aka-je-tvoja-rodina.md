@@ -127,7 +127,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:L'ours brun est le plus grand animal sauvage qui mange de la viande dans les Tatry.}} En slovaque : un {{medveď}}. 🐻
+{{fr:L'ours brun est le plus grand animal sauvage qui mange de la viande dans les Tatras.}} En slovaque : un {{medveď}}. 🐻
 
 {{fr:On l'observe toujours de loin. On ne lui donne jamais à manger, et on garde ses déchets dans son sac : les animaux ne doivent pas apprendre à chercher de la nourriture chez les humains !}}
 

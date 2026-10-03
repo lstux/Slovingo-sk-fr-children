@@ -1,6 +1,6 @@
 # Série Zvieratá (3/5) — Aké je zviera?
 
-@ TODO_img/chamois-tatry.jpg | TODO : choisir une image (chamois des Tatry sur un rocher) sur Wikimedia Commons
+@ TODO_img/chamois-tatry.jpg | TODO : choisir une image (chamois des Tatras sur un rocher) sur Wikimedia Commons
 
 {{fr:Comment est un ours ? Et un lièvre ? Aujourd'hui, tu apprends à décrire les animaux et leurs petites particularités.}}
 
@@ -116,7 +116,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Le chamois des Tatry grimpe sur les rochers comme un acrobate ! Mais il est timide : si tu t'approches trop, il s'enfuit, et il dépense beaucoup d'énergie. Alors on le regarde de loin, avec des jumelles si on en a.}} 🔭
+{{fr:Le chamois des Tatras grimpe sur les rochers comme un acrobate ! Mais il est timide : si tu t'approches trop, il s'enfuit, et il dépense beaucoup d'énergie. Alors on le regarde de loin, avec des jumelles si on en a.}} 🔭
 
 ---
 

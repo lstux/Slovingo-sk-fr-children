@@ -102,12 +102,12 @@
     {
       "id": "listen-v-tatr-ch-s-zvierat",
       "type": "listen",
-      "l1": "Dans les Tatry, il y a des animaux.",
+      "l1": "Dans les Tatras, il y a des animaux.",
       "l2": "V Tatrách sú zvieratá.",
       "choices_l1": [
-        "Dans les Tatry, il y a un animal.",
+        "Dans les Tatras, il y a un animal.",
         "Dans le village, il y a des animaux.",
-        "Dans les Tatry, il y a des chouettes."
+        "Dans les Tatras, il y a des chouettes."
       ]
     },
     {
@@ -221,7 +221,7 @@
     {
       "id": "blank-v-tatr-ch-s-zvierat",
       "type": "fill-blank",
-      "l1": "Dans les Tatry, il y a des animaux.",
+      "l1": "Dans les Tatras, il y a des animaux.",
       "l2": "V Tatrách sú zvieratá.",
       "missing_l1": "animaux",
       "missing_l2": "zvieratá",

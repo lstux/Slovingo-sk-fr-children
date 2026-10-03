@@ -124,7 +124,7 @@ Les personnages :
 
 {{fr:Les}} {{bryndzové halušky}} {{fr:sont le plat national de la Slovaquie : des petites pâtes de pomme de terre avec du fromage de brebis et, parfois, des petits morceaux de lard grillé.}} 🇸🇰
 
-{{fr:Les bergers des Tatry fabriquent ce fromage dans les}} {{salaše}}{{fr:, les fermes de montagne. Et toi, tu goûterais ?}}
+{{fr:Les bergers des Tatras fabriquent ce fromage dans les}} {{salaše}}{{fr:, les fermes de montagne. Et toi, tu goûterais ?}}
 
 ---
 

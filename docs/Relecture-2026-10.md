@@ -31,7 +31,14 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ---
 
-## Points transversaux (à trancher d'abord)
+## Décisions (2026-10-03)
+
+1. **Tatras / Tatry** : en slovaque on dit *Tatry* (les Slovaques ne disent jamais « Tatras ») ; « les Tatras » est le nom français. → Texte français : « les Tatras » ; mot slovaque appris en `{{Tatry}}` (Intro 02). ✅ appliqué partout (fiches, exercices, docs).
+2. **Prénoms des personnages** dans les `{{fr:}}` : acceptés, lus à la française. ✅ noté dans `Format-enfants.md`.
+3. **Accord autour de 🦊** : toujours *Líška je veľmi milá*, traduit « le renard est très gentil », avec remarque sur l'accord avec *líška*. ✅ noté dans `Format-enfants.md` ; à appliquer dans Rodina 05, Doma 05, Dedina 05.
+4. **Limites fermes** : 6-7 mots + 2-3 complémentaires par fiche ; 3 nouveautés max par dialogue ; une forme « à écouter » max par fiche ; zéro nouveauté dans les extras. ✅ noté dans `Format-enfants.md` ; à appliquer fiche par fiche.
+
+## Points transversaux (relevés par la passe rapide)
 
 | | Point | Proposition |
 |---|---|---|
@@ -249,7 +256,7 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 
 | Partie | État |
 |---|---|
-| Points transversaux | à trancher |
+| Points transversaux | tranchés (2026-10-03), application série par série |
 | 00 Introduction | à faire |
 | 00 Kit de Survie | à faire |
 | 01 Rodina | à faire |

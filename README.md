@@ -14,7 +14,7 @@ Un cours de slovaque pour enfants francophones, construit sur le framework [Slov
 
 ## Le monde
 
-Tout le cours se passe dans les **Tatry**, les hautes montagnes de Slovaquie. Les personnages sont des animaux qui parlent et vivent dans des terriers, des tanières et des nids. Toi, tu viens d'arriver dans la montagne et tu apprends le slovaque avec tes nouveaux voisins. Au fil des fiches, un petit message revient : **protéger la nature** (rester sur le sentier, ne pas nourrir les animaux, remporter ses déchets).
+Tout le cours se passe dans les **Tatras**, les hautes montagnes de Slovaquie. Les personnages sont des animaux qui parlent et vivent dans des terriers, des tanières et des nids. Toi, tu viens d'arriver dans la montagne et tu apprends le slovaque avec tes nouveaux voisins. Au fil des fiches, un petit message revient : **protéger la nature** (rester sur le sentier, ne pas nourrir les animaux, remporter ses déchets).
 
 ## Les personnages
 
@@ -22,7 +22,7 @@ Tous ont une tête d'animal comme avatar, dans les dialogues :
 
 | Avatar | Personnage |
 |---|---|
-| 🦊 | Toi — l'enfant lui-même, sous son propre prénom : tu viens d'arriver dans les Tatry |
+| 🦊 | Toi — l'enfant lui-même, sous son propre prénom : tu viens d'arriver dans les Tatras |
 | 🐰 | Andrea, 11 ans, la grande de la bande |
 | 🐹 | Katka, 8 ans, une marmotte |
 | 🐻 | Maťo, 9 ans, un ours, le grand frère de Katka |
@@ -37,7 +37,7 @@ Tous ont une tête d'animal comme avatar, dans les dialogues :
 | 02 | Doma | Chez soi : terriers, tanières et nids |
 | 03 | Jedlo | Les repas et la nourriture |
 | 04 | Dedina | Le village au pied des montagnes |
-| 05 | Zvieratá | Les animaux des Tatry et leur protection |
+| 05 | Zvieratá | Les animaux des Tatras et leur protection |
 | 06 | Hry | Les jeux dans la nature |
 
 ## Pour commencer

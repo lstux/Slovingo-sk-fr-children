@@ -97,7 +97,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:On compare pour s'amuser, mais dans la nature, chacun est parfait comme il est : la marmotte n'a pas besoin d'être grande, et l'ours n'a pas besoin d'être rapide. Chacun a sa place dans les Tatry !}} 🌲
+{{fr:On compare pour s'amuser, mais dans la nature, chacun est parfait comme il est : la marmotte n'a pas besoin d'être grande, et l'ours n'a pas besoin d'être rapide. Chacun a sa place dans les Tatras !}} 🌲
 
 ---
 

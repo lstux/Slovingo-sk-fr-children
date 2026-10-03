@@ -1,6 +1,6 @@
 # Kit de Survie (1/3) — Ahoj!
 
-@ TODO_img/sentier-tatry.jpg | TODO : choisir une image (sentier de montagne dans les Tatry, ou randonneurs qui se croisent) sur Wikimedia Commons
+@ TODO_img/sentier-tatry.jpg | TODO : choisir une image (sentier de montagne dans les Tatras, ou randonneurs qui se croisent) sur Wikimedia Commons
 
 {{fr:Pour commencer : dire bonjour, demander comment ça va, et répondre. Touche les mots pour les écouter !}}
 
@@ -55,6 +55,6 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Sur les sentiers des Tatry, les randonneurs se disent souvent bonjour en se croisant.}} Avec un copain : {{ahoj}}. Avec un adulte : {{dobrý deň}}.
+{{fr:Sur les sentiers des Tatras, les randonneurs se disent souvent bonjour en se croisant.}} Avec un copain : {{ahoj}}. Avec un adulte : {{dobrý deň}}.
 
 {{fr:Et si tu croises un animal, ne le nourris pas : il sait très bien se débrouiller tout seul !}} 🐿️

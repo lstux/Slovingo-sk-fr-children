@@ -93,7 +93,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Quand on joue dans une prairie des Tatry, on fait attention aux fleurs : beaucoup de plantes de montagne sont protégées. On ne les cueille pas, et on ne court pas dessus. Les fleurs sont là pour tout le monde !}} 🌼
+{{fr:Quand on joue dans une prairie des Tatras, on fait attention aux fleurs : beaucoup de plantes de montagne sont protégées. On ne les cueille pas, et on ne court pas dessus. Les fleurs sont là pour tout le monde !}} 🌼
 
 ---
 

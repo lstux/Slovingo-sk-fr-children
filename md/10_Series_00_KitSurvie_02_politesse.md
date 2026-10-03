@@ -60,4 +60,4 @@
 
 {{fr:Pour dire merci encore plus fort, on dit}} {{ďakujem pekne}}{{fr:. Ça veut dire « merci joliment », c'est une jolie façon de remercier !}}
 
-{{fr:Dans les Tatry, tout le monde est poli, même les marmottes !}}
+{{fr:Dans les Tatras, tout le monde est poli, même les marmottes !}}

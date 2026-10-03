@@ -1,6 +1,6 @@
 # Rodina (extra) — Všetko o rodine
 
-@ TODO_img/famille-tatry.jpg | TODO : choisir une image (famille d'animaux dans les Tatry) sur Wikimedia Commons
+@ TODO_img/famille-tatry.jpg | TODO : choisir une image (famille d'animaux dans les Tatras) sur Wikimedia Commons
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Rodina, et on mélange les mots dans de nouvelles phrases !}}
 

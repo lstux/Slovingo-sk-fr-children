@@ -1,6 +1,6 @@
 # Série Rodina (5/5) — U babky
 
-@ TODO_img/paturage-tatry.jpg | TODO : choisir une image (pâturage de montagne avec des moutons, Tatry) sur Wikimedia Commons
+@ TODO_img/paturage-tatry.jpg | TODO : choisir une image (pâturage de montagne avec des moutons, Tatras) sur Wikimedia Commons
 
 {{fr:Andrea t'emmène sur les hauts pâturages, chez Babka Zuzana, la grand-mère de Katka et Maťo. Tu vas rencontrer toute la famille !}}
 
@@ -103,11 +103,11 @@ Les personnages :
 > Je veľký = il est grand
 
 ! 🐑 Nevadí! Teraz máš veľkú rodinu v Tatrách!
-> Pas de souci ! Maintenant tu as une grande famille dans les Tatry !
+> Pas de souci ! Maintenant tu as une grande famille dans les Tatras !
 > Nevadí = pas de souci
 > máš = tu as
 > veľkú rodinu = une grande famille
-+ Nouveaux mots à écouter : {{teraz}} = maintenant, {{v Tatrách}} = dans les Tatry. {{veľkú rodinu}} : la fin change après {{máš}}, comme {{sestru}}.
++ Nouveaux mots à écouter : {{teraz}} = maintenant, {{v Tatrách}} = dans les Tatras. {{veľkú rodinu}} : la fin change après {{máš}}, comme {{sestru}}.
 
 ---
 
