@@ -4,6 +4,8 @@
 
 Un cours de slovaque pour enfants francophones, construit sur le framework [Slovingo](https://github.com/lstux/Slovingo). C'est la version « enfants » du cours adulte [Slovingo-sk-fr](https://github.com/lstux/Slovingo-sk-fr), et la cousine du cours d'allemand [Slovingo-de-fr](https://github.com/lstux/Slovingo-de-fr), dont il reprend l'approche.
 
+L'app s'appelle **Zajka**, le petit nom slovaque de la hase Andrea, ton amie dans les Tatras. 🐰
+
 ## Ce qu'il y a dedans
 
 - **Fiches** : cartes interactives avec prononciation et audio

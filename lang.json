@@ -16,8 +16,8 @@
     "css_class": "col-native"
   },
   "site": {
-    "title": "Slovingo - Slovaque pour enfants",
-    "short_name": "Slovingo sk-fr enfants",
+    "title": "Zajka - Slovaque pour enfants",
+    "short_name": "Zajka",
     "description": "Apprends le slovaque en t'amusant — fiches, dialogues et exercices pour enfants",
     "theme_color": "#0b4ea2",
     "storage_prefix": "sk-fr-kids",
