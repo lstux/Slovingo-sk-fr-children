@@ -20,12 +20,12 @@
     "short_name": "Slovingo sk-fr enfants",
     "description": "Apprends le slovaque en t'amusant — fiches, dialogues et exercices pour enfants",
     "theme_color": "#0b4ea2",
-    "storage_prefix": "sk-fr-children",
-    "url_path": "/slovingo/sk-fr-children/",
+    "storage_prefix": "sk-fr-kids",
+    "url_path": "/slovingo/sk-fr-kids/",
     "user_name_default": "Samo",
     "user_name_placeholder": "Ton prénom",
     "deploy_host": "www.lslinux.org",
-    "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/sk-fr-children/"
+    "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/sk-fr-kids/"
   },
   "categories": {
     "introduction": "Avant de commencer",
