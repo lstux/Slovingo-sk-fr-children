@@ -93,11 +93,13 @@
 > Bojím sa = j'ai peur
 + Mot nouveau signalé : {{bojím sa}} = j'ai peur.
 
-! 🐰 Nie! Líška je veľmi milá!
-> Mais non ! Le renard est très gentil !
-> Nie = non
+! 🐰 Bála som sa! Ale líška je veľmi milá!
+> J'avais peur ! Mais le renard est très gentil !
+> Bála som sa = j'avais peur
+> Ale = mais
 > Líška = le renard
 > je veľmi milá = est très gentil
++ À écouter : {{bála som sa}} = j'avais peur (c'est le passé, et Andrea est une fille, alors {{bála}}). Elle a eu un peu peur elle aussi, au début : les autres renards qu'elle avait croisés étaient beaucoup moins sympas. Normal, quand on est une hase… 😄
 + On dit {{milá}} parce que {{líška}} est un mot féminin, comme {{mama}}. Ça ne dit pas si le renard est un garçon ou une fille !
 
 ! 🐻 Aký je tvoj tato? Je veľký?

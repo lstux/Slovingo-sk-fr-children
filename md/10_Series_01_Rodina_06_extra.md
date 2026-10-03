@@ -2,7 +2,7 @@
 
 @ TODO_img/famille-tatry.jpg | TODO : choisir une image (famille d'animaux dans les Tatras) sur Wikimedia Commons
 
-{{fr:Pas de mot nouveau ici. On réunit toute la série Rodina, et on mélange les mots dans de nouvelles phrases !}}
+{{fr:Pas de mot nouveau ici. On réunit toute la série Rodina, et on mélange les mots dans de petites scènes !}}
 
 ---
 
@@ -48,117 +48,132 @@
 | ale | mais |
 | líška | le renard (l'animal) |
 | bojím sa | j'ai peur |
+| bála som sa | j'avais peur (dit par une fille) |
 
 ---
 
-## Des phrases pour tout mélanger
+## Des mini-dialogues pour tout mélanger
 
-! Moja mama je malá, ale veľmi veselá.
-> Ma maman est petite, mais très joyeuse.
-> Moja mama = ma maman
-> je malá = est petite
-> ale = mais
-> veľmi veselá = très joyeuse
+### Scène 1 — Une photo de famille
 
-! Mám mamu, brata a sestru.
-> J'ai une maman, un frère et une sœur.
-> Mám = j'ai
-> mamu = une maman
-> brata = un frère
-> a = et
-> sestru = une sœur
+{{fr:Maťo regarde une photo avec toi. Il veut tout savoir sur ta famille !}}
 
-! Nemám strýka, ale mám tetu.
-> Je n'ai pas d'oncle, mais j'ai une tante.
-> Nemám strýka = je n'ai pas d'oncle
-> ale = mais
-> mám tetu = j'ai une tante
+! 🐻 Kto je to?
+> Qui est-ce ?
+> Kto = qui
+> je to = est-ce
 
-! Môj brat má deväť rokov.
-> Mon frère a neuf ans.
-> Môj brat = mon frère
-> má = a
-> deväť rokov = neuf ans
-
-! Moja kamarátka má osem rokov.
-> Ma copine a huit ans.
-> Moja kamarátka = ma copine
-> má = a
-> osem rokov = huit ans
-
-! Koľko rokov má tvoja babka?
-> Quel âge a ta grand-mère ?
-> Koľko rokov = combien d'années
-> má = a
-> tvoja babka = ta grand-mère
-
-! Aká je tvoja mama? Je milá?
-> Comment est ta maman ? Elle est gentille ?
-> Aká je = comment est
-> tvoja mama = ta maman
-> Je milá = elle est gentille
-
-! Kto je to? To je môj strýko. Je starý a veľký.
-> Qui est-ce ? C'est mon oncle. Il est âgé et grand.
-> Kto je to = qui est-ce
+! 🦊 To je môj strýko. Je starý, ale veľmi milý.
+> C'est mon oncle. Il est âgé, mais très gentil.
 > To je môj strýko = c'est mon oncle
-> Je = il est
-> starý a veľký = âgé et grand
-
-! Moja teta je veselá a rýchla.
-> Ma tante est joyeuse et rapide.
-> Moja teta = ma tante
-> je = est
-> veselá a rýchla = joyeuse et rapide
-
-! Mám tetu a strýka.
-> J'ai une tante et un oncle.
-> Mám = j'ai
-> tetu = une tante
-> a = et
-> strýka = un oncle
-
-! Môj sused je starý, ale veľmi milý.
-> Mon voisin est âgé, mais très gentil.
-> Môj sused = mon voisin
-> je starý = est âgé
+> Je starý = il est âgé
 > ale = mais
 > veľmi milý = très gentil
 
-! Ty máš brata, ja nemám brata.
-> Toi, tu as un frère, moi je n'ai pas de frère.
-> Ty máš brata = toi, tu as un frère
-> ja nemám brata = moi, je n'ai pas de frère
+! 🐻 A kto je to?
+> Et qui est-ce ?
+> A = et
+> kto je to = qui est-ce
 
-! Moja rodina je veľká a veselá.
-> Ma famille est grande et joyeuse.
-> Moja rodina = ma famille
-> je veľká = est grande
-> a = et
-> veselá = joyeuse
+! 🦊 To je moja teta. Je veselá a rýchla.
+> C'est ma tante. Elle est joyeuse et rapide.
+> To je moja teta = c'est ma tante
+> Je = elle est
+> veselá a rýchla = joyeuse et rapide
 
-! Môj kamarát je rýchly a silný.
-> Mon copain est rapide et fort.
-> Môj kamarát = mon copain
-> je = est
-> rýchly a silný = rapide et fort
+! 🐻 Máš sestru?
+> Tu as une sœur ?
+> Máš = tu as
+> sestru = une sœur
 
-! Ahoj, deti! To je moja susedka.
-> Salut, les enfants ! Voici ma voisine.
+! 🦊 Áno! Moja sestra má osem rokov.
+> Oui ! Ma sœur a huit ans.
+> Áno = oui
+> Moja sestra = ma sœur
+> má = a
+> osem rokov = huit ans
+
+---
+
+### Scène 2 — Chez Babka Zuzana
+
+{{fr:Babka Zuzana pose des questions à sa petite-fille Katka. Elle adore connaître l'âge de tout le monde !}}
+
+! 🐑 Ahoj, deti! Koľko máš rokov, Katka?
+> Salut, les enfants ! Quel âge as-tu, Katka ?
 > Ahoj, deti = salut, les enfants
-> To je = voici
-> moja susedka = ma voisine
+> Koľko máš rokov = quel âge as-tu
 
-! Kto je to? Líška! Bojím sa!
+! 🐹 Mám osem rokov, babka!
+> J'ai huit ans, mamie !
+> Mám = j'ai
+> osem rokov = huit ans
+> babka = mamie
+
+! 🐑 A tvoj brat? Koľko rokov má Maťo?
+> Et ton frère ? Quel âge a Maťo ?
+> A tvoj brat = et ton frère
+> Koľko rokov má = quel âge a
+> Maťo = Maťo
+
+! 🐹 Má deväť rokov. Je veľký a silný!
+> Il a neuf ans. Il est grand et fort !
+> Má deväť rokov = il a neuf ans
+> Je = il est
+> veľký a silný = grand et fort
+
+---
+
+### Scène 3 — Les voisins
+
+{{fr:Andrea et Maťo parlent des voisins. Il y en a un qui est âgé, mais très joyeux !}}
+
+! 🐰 Maťo, to je tvoj sused?
+> Maťo, c'est ton voisin ?
+> to je = c'est
+> tvoj sused = ton voisin
+
+! 🐻 Áno! Môj sused je starý, ale veľmi veselý.
+> Oui ! Mon voisin est âgé, mais très joyeux.
+> Môj sused = mon voisin
+> je starý = est âgé
+> ale = mais
+> veľmi veselý = très joyeux
+
+! 🐰 A moja susedka je malá a veľmi milá.
+> Et ma voisine est petite et très gentille.
+> A = et
+> moja susedka = ma voisine
+> je malá = est petite
+> veľmi milá = très gentille
+
+---
+
+### Scène 4 — Un renard !
+
+{{fr:Katka voit le renard. Andrea, elle, le connaît déjà. Et toi, tu parles de ta famille !}}
+
+! 🐹 Kto je to? Líška! Bojím sa!
 > Qui est-ce ? Un renard ! J'ai peur !
 > Kto je to = qui est-ce
 > Líška = un renard
 > Bojím sa = j'ai peur
 
-! Líška je malá a veľmi milá.
-> Le renard est petit et très gentil.
-> Líška = le renard
-> je malá = est petit
-> a = et
-> veľmi milá = très gentil
+! 🐰 Bála som sa! Ale líška je veľmi milá.
+> J'avais peur ! Mais le renard est très gentil.
+> Bála som sa = j'avais peur
+> ale = mais
+> líška je veľmi milá = le renard est très gentil
 + L'accord se fait avec le mot {{líška}}, qui est féminin.
+
+! 🐹 Aká je tvoja rodina?
+> Comment est ta famille ?
+> Aká je = comment est
+> tvoja rodina = ta famille
+
+! 🦊 Moja rodina je veľká a veselá!
+> Ma famille est grande et joyeuse !
+> Moja rodina = ma famille
+> je veľká = est grande
+> a = et
+> veselá = joyeuse

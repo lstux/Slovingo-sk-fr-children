@@ -3,321 +3,252 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "qcm-m-j-brat-m-dev-rokov",
+      "id": "qcm-a-tvoj-brat-kolko-rokov-ma-mato",
       "type": "qcm",
-      "l1": "Mon frère a neuf ans.",
-      "l2": "Môj brat má deväť rokov.",
+      "l1": "Et ton frère ? Quel âge a Maťo ?",
+      "l2": "A tvoj brat? Koľko rokov má Maťo?",
       "choices_l1": [
-        "Ma sœur a neuf ans.",
-        "Mon frère a huit ans.",
-        "Mon frère est fort."
+        "Et ta sœur ? Quel âge a Katka ?",
+        "Et ton frère ? Comment est Maťo ?",
+        "Et ton frère ? Qui est Maťo ?"
       ],
       "choices_l2": [
-        "Moja sestra má deväť rokov.",
-        "Môj brat má osem rokov.",
-        "Môj brat je silný."
+        "A tvoja sestra? Koľko rokov má Katka?",
+        "A tvoj brat? Aký je Maťo?",
+        "A tvoj brat? Kto je Maťo?"
       ]
     },
     {
-      "id": "qcm-ko-ko-rokov-m-tvoja-babka",
+      "id": "qcm-mas-sestru",
       "type": "qcm",
-      "l1": "Quel âge a ta grand-mère ?",
-      "l2": "Koľko rokov má tvoja babka?",
+      "l1": "Tu as une sœur ?",
+      "l2": "Máš sestru?",
       "choices_l1": [
-        "Comment est ta grand-mère ?",
-        "Quel âge a ta maman ?",
-        "Qui est ta grand-mère ?"
+        "Tu as un frère ?",
+        "Tu as un oncle ?",
+        "Tu as une tante ?"
       ],
       "choices_l2": [
-        "Aká je tvoja babka?",
-        "Koľko rokov má tvoja mama?",
-        "Kto je tvoja babka?"
+        "Máš brata?",
+        "Máš strýka?",
+        "Máš tetu?"
       ]
     },
     {
-      "id": "listen-moja-mama-je-mal-ale-ve-mi-vesel",
+      "id": "listen-to-je-moj-stryko-je-stary-ale-velmi-mily",
       "type": "listen",
-      "l1": "Ma maman est petite, mais très joyeuse.",
-      "l2": "Moja mama je malá, ale veľmi veselá.",
+      "l1": "C'est mon oncle. Il est âgé, mais très gentil.",
+      "l2": "To je môj strýko. Je starý, ale veľmi milý.",
       "choices_l1": [
-        "Ma maman est grande, mais très joyeuse.",
-        "Ma sœur est petite, mais très joyeuse.",
-        "Ma maman est petite, mais très gentille."
+        "C'est mon oncle. Il est grand, mais très gentil.",
+        "C'est mon voisin. Il est âgé, mais très gentil.",
+        "C'est mon oncle. Il est âgé, mais très joyeux."
       ]
     },
     {
-      "id": "listen-m-m-mamu-brata-a-sestru",
+      "id": "listen-to-je-moja-teta-je-vesela-a-rychla",
       "type": "listen",
-      "l1": "J'ai une maman, un frère et une sœur.",
-      "l2": "Mám mamu, brata a sestru.",
+      "l1": "C'est ma tante. Elle est joyeuse et rapide.",
+      "l2": "To je moja teta. Je veselá a rýchla.",
       "choices_l1": [
-        "J'ai un papa, un frère et une sœur.",
-        "J'ai une maman, une tante et une sœur.",
-        "J'ai une maman, un frère et une grand-mère."
+        "C'est ma tante. Elle est joyeuse et forte.",
+        "C'est ma sœur. Elle est joyeuse et rapide.",
+        "C'est ma tante. Elle est petite et rapide."
       ]
     },
     {
-      "id": "listen-nem-m-str-ka-ale-m-m-tetu",
+      "id": "listen-mam-osem-rokov-babka",
       "type": "listen",
-      "l1": "Je n'ai pas d'oncle, mais j'ai une tante.",
-      "l2": "Nemám strýka, ale mám tetu.",
+      "l1": "J'ai huit ans, mamie !",
+      "l2": "Mám osem rokov, babka!",
       "choices_l1": [
-        "J'ai un oncle, mais je n'ai pas de tante.",
-        "Je n'ai pas de frère, mais j'ai une tante.",
-        "Je n'ai pas d'oncle, mais j'ai une sœur."
+        "J'ai neuf ans, mamie !",
+        "J'ai huit ans, maman !",
+        "J'ai douze ans, mamie !"
       ]
     },
     {
-      "id": "listen-moja-kamar-tka-m-osem-rokov",
+      "id": "listen-ma-devat-rokov-je-velky-a-silny",
       "type": "listen",
-      "l1": "Ma copine a huit ans.",
-      "l2": "Moja kamarátka má osem rokov.",
+      "l1": "Il a neuf ans. Il est grand et fort !",
+      "l2": "Má deväť rokov. Je veľký a silný!",
       "choices_l1": [
-        "Mon copain a huit ans.",
-        "Ma copine a neuf ans.",
-        "Ma sœur a huit ans."
+        "Il a huit ans. Il est grand et fort !",
+        "Il a neuf ans. Il est petit et fort !",
+        "Il a neuf ans. Il est grand et rapide !"
       ]
     },
     {
-      "id": "listen-ak-je-tvoja-mama-je-mil",
+      "id": "listen-a-moja-susedka-je-mala-a-velmi-mila",
       "type": "listen",
-      "l1": "Comment est ta maman ? Elle est gentille ?",
-      "l2": "Aká je tvoja mama? Je milá?",
+      "l1": "Et ma voisine est petite et très gentille.",
+      "l2": "A moja susedka je malá a veľmi milá.",
       "choices_l1": [
-        "Comment est ton papa ? Il est gentil ?",
-        "Comment est ta sœur ? Elle est gentille ?",
-        "Comment est ta maman ? Elle est petite ?"
+        "Et mon voisin est petit et très gentil.",
+        "Et ma voisine est petite et très joyeuse.",
+        "Et ma copine est petite et très gentille."
       ]
     },
     {
-      "id": "listen-kto-je-to-to-je-m-j-str-ko-je-star-a-ve-k",
+      "id": "listen-bala-som-sa-ale-liska-je-velmi-mila",
       "type": "listen",
-      "l1": "Qui est-ce ? C'est mon oncle. Il est âgé et grand.",
-      "l2": "Kto je to? To je môj strýko. Je starý a veľký.",
+      "l1": "J'avais peur ! Mais le renard est très gentil.",
+      "l2": "Bála som sa! Ale líška je veľmi milá.",
       "choices_l1": [
-        "Qui est-ce ? C'est ma tante. Elle est âgée et grande.",
-        "Qui est-ce ? C'est mon oncle. Il est petit et fort.",
-        "Qui est-ce ? C'est mon voisin. Il est âgé et grand."
+        "J'ai peur ! Mais le renard est très gentil.",
+        "J'avais peur ! Mais la tante est très gentille.",
+        "J'avais peur ! Mais le renard est très petit."
       ]
     },
     {
-      "id": "listen-moja-teta-je-vesel-a-r-chla",
+      "id": "listen-moja-rodina-je-velka-a-vesela",
       "type": "listen",
-      "l1": "Ma tante est joyeuse et rapide.",
-      "l2": "Moja teta je veselá a rýchla.",
+      "l1": "Ma famille est grande et joyeuse !",
+      "l2": "Moja rodina je veľká a veselá!",
       "choices_l1": [
-        "Mon oncle est joyeux et rapide.",
-        "Ma tante est gentille et rapide.",
-        "Ma tante est joyeuse et forte."
+        "Ma famille est petite et joyeuse !",
+        "Ma famille est grande et gentille !",
+        "Ma sœur est grande et joyeuse !"
       ]
     },
     {
-      "id": "listen-m-j-sused-je-star-ale-ve-mi-mil",
-      "type": "listen",
-      "l1": "Mon voisin est âgé, mais très gentil.",
-      "l2": "Môj sused je starý, ale veľmi milý.",
-      "choices_l1": [
-        "Ma voisine est âgée, mais très gentille.",
-        "Mon voisin est petit, mais très gentil.",
-        "Mon voisin est âgé, mais très fort."
-      ]
-    },
-    {
-      "id": "listen-moja-rodina-je-ve-k-a-vesel",
-      "type": "listen",
-      "l1": "Ma famille est grande et joyeuse.",
-      "l2": "Moja rodina je veľká a veselá.",
-      "choices_l1": [
-        "Ma famille est petite et joyeuse.",
-        "Ma sœur est grande et joyeuse.",
-        "Ma famille est grande et gentille."
-      ]
-    },
-    {
-      "id": "listen-m-j-kamar-t-je-r-chly-a-siln",
-      "type": "listen",
-      "l1": "Mon copain est rapide et fort.",
-      "l2": "Môj kamarát je rýchly a silný.",
-      "choices_l1": [
-        "Ma copine est rapide et forte.",
-        "Mon copain est petit et fort.",
-        "Mon voisin est rapide et fort."
-      ]
-    },
-    {
-      "id": "listen-ahoj-deti-to-je-moja-susedka",
-      "type": "listen",
-      "l1": "Salut, les enfants ! Voici ma voisine.",
-      "l2": "Ahoj, deti! To je moja susedka.",
-      "choices_l1": [
-        "Salut, les enfants ! Voici mon voisin.",
-        "Salut, les enfants ! Voici ma tante.",
-        "Merci, les enfants ! Voici ma voisine."
-      ]
-    },
-    {
-      "id": "listen-kto-je-to-l-ka-boj-m-sa",
-      "type": "listen",
-      "l1": "Qui est-ce ? Un renard ! J'ai peur !",
-      "l2": "Kto je to? Líška! Bojím sa!",
-      "choices_l1": [
-        "Qui est-ce ? Ma sœur ! J'ai peur !",
-        "Qui est-ce ? Un renard ! Merci !",
-        "Comment est-il ? Un renard ! J'ai peur !"
-      ]
-    },
-    {
-      "id": "blank-moja-mama-je-mal-ale-ve-mi-vesel",
+      "id": "blank-ma-devat-rokov-je-velky-a-silny",
       "type": "fill-blank",
-      "l1": "Ma maman est petite, mais très joyeuse.",
-      "l2": "Moja mama je malá, ale veľmi veselá.",
-      "missing_l1": "mais",
-      "missing_l2": "ale",
-      "blank_index_l1": 4,
+      "l1": "Il a neuf ans. Il est grand et fort !",
+      "l2": "Má deväť rokov. Je veľký a silný!",
+      "missing_l1": "grand",
+      "missing_l2": "veľký",
+      "blank_index_l1": 6,
       "blank_index_l2": 4,
       "choices_l1": [
-        "et",
-        "aussi",
-        "qui"
-      ],
-      "choices_l2": [
-        "a",
-        "aj",
-        "kto"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-m-j-sused-je-star-ale-ve-mi-mil",
-      "type": "fill-blank",
-      "l1": "Mon voisin est âgé, mais très gentil.",
-      "l2": "Môj sused je starý, ale veľmi milý.",
-      "missing_l1": "gentil",
-      "missing_l2": "milý",
-      "blank_index_l1": 6,
-      "blank_index_l2": 6,
-      "choices_l1": [
-        "fort",
         "petit",
-        "rapide"
+        "âgé",
+        "joyeux"
       ],
       "choices_l2": [
-        "silný",
         "malý",
-        "rýchly"
+        "starý",
+        "veselý"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-m-j-brat-m-dev-rokov",
+      "id": "blank-a-moja-susedka-je-mala-a-velmi-mila",
       "type": "fill-blank",
-      "l1": "Mon frère a neuf ans.",
-      "l2": "Môj brat má deväť rokov.",
-      "missing_l1": "neuf",
-      "missing_l2": "deväť",
-      "blank_index_l1": 3,
-      "blank_index_l2": 3,
+      "l1": "Et ma voisine est petite et très gentille.",
+      "l2": "A moja susedka je malá a veľmi milá.",
+      "missing_l1": "voisine",
+      "missing_l2": "susedka",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
       "choices_l1": [
-        "huit",
+        "sœur",
+        "tante",
+        "copine"
+      ],
+      "choices_l2": [
+        "sestra",
+        "teta",
+        "kamarátka"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-moja-rodina-je-velka-a-vesela",
+      "type": "fill-blank",
+      "l1": "Ma famille est grande et joyeuse !",
+      "l2": "Moja rodina je veľká a veselá!",
+      "missing_l1": "famille",
+      "missing_l2": "rodina",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "maman",
+        "tante",
+        "copine"
+      ],
+      "choices_l2": [
+        "mama",
+        "teta",
+        "kamarátka"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-mam-osem-rokov-babka",
+      "type": "fill-blank",
+      "l1": "J'ai huit ans, mamie !",
+      "l2": "Mám osem rokov, babka!",
+      "missing_l1": "huit",
+      "missing_l2": "osem",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "neuf",
         "dix",
         "douze"
       ],
       "choices_l2": [
-        "osem",
+        "deväť",
         "desať",
         "dvanásť"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-moja-kamar-tka-m-osem-rokov",
-      "type": "fill-blank",
-      "l1": "Ma copine a huit ans.",
-      "l2": "Moja kamarátka má osem rokov.",
-      "missing_l1": "copine",
-      "missing_l2": "kamarátka",
-      "blank_index_l1": 1,
-      "blank_index_l2": 1,
-      "choices_l1": [
-        "sœur",
-        "tante",
-        "voisine"
-      ],
-      "choices_l2": [
-        "sestra",
-        "teta",
-        "susedka"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "order-moja-rodina-je-ve-k-a-vesel",
+      "id": "order-moja-rodina-je-velka-a-vesela",
       "type": "order",
-      "l1": "Ma famille est grande et joyeuse.",
-      "l2": "Moja rodina je veľká a veselá.",
+      "l1": "Ma famille est grande et joyeuse !",
+      "l2": "Moja rodina je veľká a veselá!",
       "tokens_l1": [
         "Ma famille",
-        "est grande",
+        "est",
+        "grande",
         "et",
-        "joyeuse."
+        "joyeuse !"
       ],
       "tokens_l2": [
         "Moja rodina",
-        "je veľká",
+        "je",
+        "veľká",
         "a",
-        "veselá."
+        "veselá!"
       ]
     },
     {
-      "id": "order-moja-teta-je-vesel-a-r-chla",
+      "id": "order-a-moja-susedka-je-mala-a-velmi-mila",
       "type": "order",
-      "l1": "Ma tante est joyeuse et rapide.",
-      "l2": "Moja teta je veselá a rýchla.",
+      "l1": "Et ma voisine est petite et très gentille.",
+      "l2": "A moja susedka je malá a veľmi milá.",
       "tokens_l1": [
-        "Ma tante",
-        "est",
-        "joyeuse",
-        "et rapide."
+        "Et",
+        "ma voisine",
+        "est petite",
+        "et",
+        "très gentille."
       ],
       "tokens_l2": [
-        "Moja teta",
-        "je",
-        "veselá",
-        "a rýchla."
+        "A",
+        "moja susedka",
+        "je malá",
+        "a",
+        "veľmi milá."
       ]
     },
     {
-      "id": "order-m-m-tetu-a-str-ka",
+      "id": "order-mam-osem-rokov-babka",
       "type": "order",
-      "l1": "J'ai une tante et un oncle.",
-      "l2": "Mám tetu a strýka.",
+      "l1": "J'ai huit ans, mamie !",
+      "l2": "Mám osem rokov, babka!",
       "tokens_l1": [
         "J'ai",
-        "une tante",
-        "et",
-        "un oncle."
+        "huit ans,",
+        "mamie !"
       ],
       "tokens_l2": [
         "Mám",
-        "tetu",
-        "a",
-        "strýka."
-      ]
-    },
-    {
-      "id": "match-moja-rodina-je-ve-k-a-vesel",
-      "type": "match",
-      "l1": [
-        "Ma famille est grande et joyeuse.",
-        "Mon frère a neuf ans.",
-        "J'ai une tante et un oncle.",
-        "J'ai une maman, un frère et une sœur."
-      ],
-      "l2": [
-        "Moja rodina je veľká a veselá.",
-        "Môj brat má deväť rokov.",
-        "Mám tetu a strýka.",
-        "Mám mamu, brata a sestru."
+        "osem rokov,",
+        "babka!"
       ]
     },
     {
@@ -325,15 +256,31 @@
       "type": "match",
       "l1": [
         "la tante",
-        "le copain",
         "l'oncle",
-        "les enfants"
+        "le voisin",
+        "la sœur"
       ],
       "l2": [
         "teta",
-        "kamarát",
         "strýko",
-        "deti"
+        "sused",
+        "sestra"
+      ]
+    },
+    {
+      "id": "match-mily",
+      "type": "match",
+      "l1": [
+        "gentil",
+        "joyeux",
+        "âgé",
+        "rapide"
+      ],
+      "l2": [
+        "milý",
+        "veselý",
+        "starý",
+        "rýchly"
       ]
     }
   ]
