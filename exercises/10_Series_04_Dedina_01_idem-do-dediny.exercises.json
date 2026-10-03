@@ -1,0 +1,370 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-dedina",
+      "type": "qcm",
+      "l1": "le village",
+      "l2": "dedina",
+      "choices_l1": [
+        "le magasin",
+        "la boulangerie",
+        "la ville"
+      ],
+      "choices_l2": [
+        "obchod",
+        "pekáreň",
+        "mesto"
+      ]
+    },
+    {
+      "id": "qcm-obchod",
+      "type": "qcm",
+      "l1": "le magasin",
+      "l2": "obchod",
+      "choices_l1": [
+        "le village",
+        "la boulangerie",
+        "la ville"
+      ],
+      "choices_l2": [
+        "dedina",
+        "pekáreň",
+        "mesto"
+      ]
+    },
+    {
+      "id": "qcm-pek-re",
+      "type": "qcm",
+      "l1": "la boulangerie",
+      "l2": "pekáreň",
+      "choices_l1": [
+        "le village",
+        "le magasin",
+        "la ville"
+      ],
+      "choices_l2": [
+        "dedina",
+        "obchod",
+        "mesto"
+      ]
+    },
+    {
+      "id": "qcm-mesto",
+      "type": "qcm",
+      "l1": "la ville",
+      "l2": "mesto",
+      "choices_l1": [
+        "le village",
+        "le magasin",
+        "la boulangerie"
+      ],
+      "choices_l2": [
+        "dedina",
+        "obchod",
+        "pekáreň"
+      ]
+    },
+    {
+      "id": "qcm-idem",
+      "type": "qcm",
+      "l1": "je vais",
+      "l2": "idem",
+      "choices_l1": [
+        "tu vas",
+        "j'ai",
+        "je veux"
+      ],
+      "choices_l2": [
+        "ideš",
+        "mám",
+        "chcem"
+      ]
+    },
+    {
+      "id": "qcm-ide",
+      "type": "qcm",
+      "l1": "tu vas",
+      "l2": "ideš",
+      "choices_l1": [
+        "je vais",
+        "tu as",
+        "tu veux"
+      ],
+      "choices_l2": [
+        "idem",
+        "máš",
+        "chceš"
+      ]
+    },
+    {
+      "id": "qcm-ide-2",
+      "type": "qcm",
+      "l1": "il ou elle va",
+      "l2": "ide",
+      "choices_l1": [
+        "je vais",
+        "tu vas",
+        "il a"
+      ],
+      "choices_l2": [
+        "idem",
+        "ideš",
+        "má"
+      ]
+    },
+    {
+      "id": "qcm-idem-do-obchodu",
+      "type": "qcm",
+      "l1": "je vais au magasin",
+      "l2": "idem do obchodu",
+      "choices_l1": [
+        "je vais au village",
+        "je vais à la boulangerie",
+        "je vais en ville"
+      ],
+      "choices_l2": [
+        "idem do dediny",
+        "idem do pekárne",
+        "idem do mesta"
+      ]
+    },
+    {
+      "id": "listen-kam-ide",
+      "type": "listen",
+      "l1": "Où vas-tu ?",
+      "l2": "Kam ideš?",
+      "choices_l1": [
+        "Où habites-tu ?",
+        "Où est le magasin ?",
+        "Tu vas au village ?"
+      ]
+    },
+    {
+      "id": "listen-idem-do-dediny",
+      "type": "listen",
+      "l1": "Je vais au village.",
+      "l2": "Idem do dediny.",
+      "choices_l1": [
+        "Je vais au magasin.",
+        "Je vais en ville.",
+        "J'habite au village."
+      ]
+    },
+    {
+      "id": "listen-idem-do-obchodu",
+      "type": "listen",
+      "l1": "Je vais au magasin.",
+      "l2": "Idem do obchodu.",
+      "choices_l1": [
+        "Je vais au village.",
+        "Je vais à la boulangerie.",
+        "Tu vas au magasin."
+      ]
+    },
+    {
+      "id": "listen-idem-do-pek-rne",
+      "type": "listen",
+      "l1": "Je vais à la boulangerie.",
+      "l2": "Idem do pekárne.",
+      "choices_l1": [
+        "Je vais au magasin.",
+        "Je vais en ville.",
+        "Je mange à la boulangerie."
+      ]
+    },
+    {
+      "id": "listen-katka-ide-do-obchodu",
+      "type": "listen",
+      "l1": "Katka va au magasin.",
+      "l2": "Katka ide do obchodu.",
+      "choices_l1": [
+        "Maťo va au magasin.",
+        "Katka va à la boulangerie.",
+        "Katka habite au magasin."
+      ]
+    },
+    {
+      "id": "listen-ma-o-ide-do-pek-rne",
+      "type": "listen",
+      "l1": "Maťo va à la boulangerie.",
+      "l2": "Maťo ide do pekárne.",
+      "choices_l1": [
+        "Katka va à la boulangerie.",
+        "Maťo va au magasin.",
+        "Maťo va en ville."
+      ]
+    },
+    {
+      "id": "listen-andrea-ide-do-mesta",
+      "type": "listen",
+      "l1": "Andrea va en ville.",
+      "l2": "Andrea ide do mesta.",
+      "choices_l1": [
+        "Andrea va au village.",
+        "Katka va en ville.",
+        "Andrea habite en ville."
+      ]
+    },
+    {
+      "id": "listen-kde-b-va-b-vam-v-nore-kam-ide-idem-do-dediny",
+      "type": "listen",
+      "l1": "Où habites-tu ? J'habite dans un terrier. Où vas-tu ? Je vais au village.",
+      "l2": "Kde bývaš? Bývam v nore. Kam ideš? Idem do dediny.",
+      "choices_l1": [
+        "Où habites-tu ? J'habite dans un nid. Où vas-tu ? Je vais au village.",
+        "Où habites-tu ? J'habite dans un terrier. Où vas-tu ? Je vais au magasin.",
+        "Où vas-tu ? J'habite dans un terrier. Où habites-tu ? Je vais au village."
+      ]
+    },
+    {
+      "id": "listen-idem-domov",
+      "type": "listen",
+      "l1": "Je rentre à la maison.",
+      "l2": "Idem domov.",
+      "choices_l1": [
+        "Je vais au village.",
+        "J'habite à la maison.",
+        "Tu rentres à la maison."
+      ]
+    },
+    {
+      "id": "listen-ide-domov",
+      "type": "listen",
+      "l1": "Tu rentres à la maison ?",
+      "l2": "Ideš domov?",
+      "choices_l1": [
+        "Je rentre à la maison.",
+        "Tu vas au village ?",
+        "Tu habites à la maison ?"
+      ]
+    },
+    {
+      "id": "blank-idem-do-dediny",
+      "type": "fill-blank",
+      "l1": "Je vais au village.",
+      "l2": "Idem do dediny.",
+      "missing_l1": "village",
+      "missing_l2": "dediny",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "magasin",
+        "boulangerie",
+        "ville"
+      ],
+      "choices_l2": [
+        "obchodu",
+        "pekárne",
+        "mesta"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-idem-do-pek-rne",
+      "type": "fill-blank",
+      "l1": "Je vais à la boulangerie.",
+      "l2": "Idem do pekárne.",
+      "missing_l1": "boulangerie",
+      "missing_l2": "pekárne",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "village",
+        "magasin",
+        "ville"
+      ],
+      "choices_l2": [
+        "dediny",
+        "obchodu",
+        "mesta"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-katka-ide-do-obchodu",
+      "type": "order",
+      "l1": "Katka va au magasin.",
+      "l2": "Katka ide do obchodu.",
+      "tokens_l1": [
+        "Katka",
+        "va",
+        "au magasin."
+      ],
+      "tokens_l2": [
+        "Katka",
+        "ide",
+        "do obchodu."
+      ]
+    },
+    {
+      "id": "order-ma-o-ide-do-pek-rne",
+      "type": "order",
+      "l1": "Maťo va à la boulangerie.",
+      "l2": "Maťo ide do pekárne.",
+      "tokens_l1": [
+        "Maťo",
+        "va",
+        "à la boulangerie."
+      ],
+      "tokens_l2": [
+        "Maťo",
+        "ide",
+        "do pekárne."
+      ]
+    },
+    {
+      "id": "order-idem-do-dediny-ale-ona-ide-domov",
+      "type": "order",
+      "l1": "Je vais au village, mais elle rentre à la maison.",
+      "l2": "Idem do dediny, ale ona ide domov.",
+      "tokens_l1": [
+        "Je vais",
+        "au village,",
+        "mais",
+        "elle rentre",
+        "à la maison."
+      ],
+      "tokens_l2": [
+        "Idem",
+        "do dediny,",
+        "ale",
+        "ona ide",
+        "domov."
+      ]
+    },
+    {
+      "id": "match-dedina",
+      "type": "match",
+      "l1": [
+        "le village",
+        "le magasin",
+        "la boulangerie",
+        "la ville"
+      ],
+      "l2": [
+        "dedina",
+        "obchod",
+        "pekáreň",
+        "mesto"
+      ]
+    },
+    {
+      "id": "match-idem",
+      "type": "match",
+      "l1": [
+        "je vais",
+        "tu vas",
+        "il ou elle va",
+        "à la maison"
+      ],
+      "l2": [
+        "idem",
+        "ideš",
+        "ide",
+        "domov"
+      ]
+    }
+  ]
+}

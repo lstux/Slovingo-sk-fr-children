@@ -1,0 +1,287 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-po-user-name-idem-do-obchodu",
+      "type": "listen",
+      "l1": "Viens, [USER_NAME] ! Je vais au magasin !",
+      "l2": "Poď, [USER_NAME]! Idem do obchodu!",
+      "choices_l1": [
+        "Attends, [USER_NAME] ! Je vais au magasin !",
+        "Viens, [USER_NAME] ! Je vais à la boulangerie !",
+        "Viens, [USER_NAME] ! Tu vas au magasin !"
+      ]
+    },
+    {
+      "id": "listen-po-kaj-andrea-idem-tie",
+      "type": "listen",
+      "l1": "Attends, Andrea ! Moi aussi, j'y vais !",
+      "l2": "Počkaj, Andrea! Idem tiež!",
+      "choices_l1": [
+        "Viens, Andrea ! Moi aussi, j'y vais !",
+        "Attends, Katka ! Moi aussi, j'y vais !",
+        "Attends, Andrea ! Moi, je n'y vais pas !"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-deti-pros-m",
+      "type": "listen",
+      "l1": "Bonjour, les enfants ! Oui, je vous écoute ?",
+      "l2": "Dobrý deň, deti! Prosím?",
+      "choices_l1": [
+        "Salut, les enfants ! Oui, je vous écoute ?",
+        "Bonjour, les enfants ! Combien ça coûte ?",
+        "Au revoir, les enfants ! Oui, je vous écoute ?"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-pros-m-si-chlieb-ko-ko-to-stoj",
+      "type": "listen",
+      "l1": "Bonjour ! Je voudrais du pain. Combien ça coûte ?",
+      "l2": "Dobrý deň! Prosím si chlieb. Koľko to stojí?",
+      "choices_l1": [
+        "Bonjour ! Je voudrais du lait. Combien ça coûte ?",
+        "Salut ! Je voudrais du pain. Combien ça coûte ?",
+        "Bonjour ! Je veux du pain. Combien ça coûte ?"
+      ]
+    },
+    {
+      "id": "listen-chlieb-stoj-dve-eur",
+      "type": "listen",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "choices_l1": [
+        "Le pain coûte trois euros.",
+        "Le lait coûte deux euros.",
+        "Le pain coûte un euro."
+      ]
+    },
+    {
+      "id": "listen-akujem-pros-m-si-aj-mlieko",
+      "type": "listen",
+      "l1": "Merci. Je voudrais aussi du lait.",
+      "l2": "Ďakujem. Prosím si aj mlieko.",
+      "choices_l1": [
+        "Merci. Je voudrais aussi du pain.",
+        "Pardon. Je voudrais aussi du lait.",
+        "Merci. Je veux aussi du lait."
+      ]
+    },
+    {
+      "id": "listen-mlieko-stoj-jedno-euro",
+      "type": "listen",
+      "l1": "Le lait coûte un euro.",
+      "l2": "Mlieko stojí jedno euro.",
+      "choices_l1": [
+        "Le lait coûte deux euros.",
+        "Le pain coûte un euro.",
+        "Le lait coûte cinq euros."
+      ]
+    },
+    {
+      "id": "listen-pani-je-kov-m-te-med",
+      "type": "listen",
+      "l1": "Madame Ježková, vous avez du miel ?",
+      "l2": "Pani Ježková, máte med?",
+      "choices_l1": [
+        "Madame Ježková, vous avez du pain ?",
+        "Madame Ježková, tu as du miel ?",
+        "Monsieur Ježková, vous avez du miel ?"
+      ]
+    },
+    {
+      "id": "listen-no-m-m-med-stoj-p-eur",
+      "type": "listen",
+      "l1": "Oui, j'en ai. Le miel coûte cinq euros.",
+      "l2": "Áno, mám. Med stojí päť eur.",
+      "choices_l1": [
+        "Oui, j'en ai. Le miel coûte deux euros.",
+        "Non, je n'en ai pas. Le miel coûte cinq euros.",
+        "Oui, j'en ai. Le pain coûte cinq euros."
+      ]
+    },
+    {
+      "id": "listen-p-eur-to-je-drah",
+      "type": "listen",
+      "l1": "Cinq euros ? C'est cher !",
+      "l2": "Päť eur? To je drahé!",
+      "choices_l1": [
+        "Cinq euros ? C'est pas cher !",
+        "Deux euros ? C'est cher !",
+        "Cinq euros ? C'est bon !"
+      ]
+    },
+    {
+      "id": "listen-pozri-katka-jablko-je-lacn",
+      "type": "listen",
+      "l1": "Regarde, Katka ! La pomme n'est pas chère !",
+      "l2": "Pozri, Katka! Jablko je lacné!",
+      "choices_l1": [
+        "Regarde, Katka ! La pomme est chère !",
+        "Attends, Katka ! La pomme n'est pas chère !",
+        "Regarde, Andrea ! La pomme n'est pas chère !"
+      ]
+    },
+    {
+      "id": "listen-dobre-dobre-tu-je-chlieb-a-mlieko",
+      "type": "listen",
+      "l1": "D'accord, d'accord. Voici le pain et le lait.",
+      "l2": "Dobre, dobre. Tu je chlieb a mlieko.",
+      "choices_l1": [
+        "D'accord, d'accord. Voici le pain et le miel.",
+        "Bien, bien. Où est le pain et le lait ?",
+        "D'accord, d'accord. Je voudrais le pain et le lait."
+      ]
+    },
+    {
+      "id": "listen-akujem-dovidenia-pani-je-kov",
+      "type": "listen",
+      "l1": "Merci, au revoir, Madame Ježková !",
+      "l2": "Ďakujem, dovidenia, pani Ježková!",
+      "choices_l1": [
+        "Merci, bonjour, Madame Ježková !",
+        "Pardon, au revoir, Madame Ježková !",
+        "Merci, au revoir, Monsieur Ježková !"
+      ]
+    },
+    {
+      "id": "listen-dovidenia-deti",
+      "type": "listen",
+      "l1": "Au revoir, les enfants !",
+      "l2": "Dovidenia, deti!",
+      "choices_l1": [
+        "Bonjour, les enfants !",
+        "Salut, les enfants !",
+        "Merci, les enfants !"
+      ]
+    },
+    {
+      "id": "blank-chlieb-stoj-dve-eur",
+      "type": "fill-blank",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "missing_l1": "pain",
+      "missing_l2": "Chlieb",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "lait",
+        "miel",
+        "fromage"
+      ],
+      "choices_l2": [
+        "Mlieko",
+        "Med",
+        "Syr"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-p-eur-to-je-drah",
+      "type": "fill-blank",
+      "l1": "Cinq euros ? C'est cher !",
+      "l2": "Päť eur? To je drahé!",
+      "missing_l1": "cher",
+      "missing_l2": "drahé",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "bon",
+        "sucré",
+        "grand"
+      ],
+      "choices_l2": [
+        "dobré",
+        "sladké",
+        "veľké"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-pozri-katka-jablko-je-lacn",
+      "type": "fill-blank",
+      "l1": "Regarde, Katka ! La pomme n'est pas chère !",
+      "l2": "Pozri, Katka! Jablko je lacné!",
+      "missing_l1": "Regarde",
+      "missing_l2": "Pozri",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Attends",
+        "Viens",
+        "Va"
+      ],
+      "choices_l2": [
+        "Počkaj",
+        "Poď",
+        "Choď"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-chlieb-stoj-dve-eur",
+      "type": "order",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "tokens_l1": [
+        "Le pain",
+        "coûte",
+        "deux euros."
+      ],
+      "tokens_l2": [
+        "Chlieb",
+        "stojí",
+        "dve eurá."
+      ]
+    },
+    {
+      "id": "order-akujem-dovidenia-pani-je-kov",
+      "type": "order",
+      "l1": "Merci, au revoir, Madame Ježková !",
+      "l2": "Ďakujem, dovidenia, pani Ježková!",
+      "tokens_l1": [
+        "Merci,",
+        "au revoir,",
+        "Madame Ježková !"
+      ],
+      "tokens_l2": [
+        "Ďakujem,",
+        "dovidenia,",
+        "pani Ježková!"
+      ]
+    },
+    {
+      "id": "order-p-eur-to-je-drah",
+      "type": "order",
+      "l1": "Cinq euros ? C'est cher !",
+      "l2": "Päť eur? To je drahé!",
+      "tokens_l1": [
+        "Cinq euros ?",
+        "C'est",
+        "cher !"
+      ],
+      "tokens_l2": [
+        "Päť eur?",
+        "To je",
+        "drahé!"
+      ]
+    },
+    {
+      "id": "match-dovidenia-deti",
+      "type": "match",
+      "l1": [
+        "Au revoir, les enfants !",
+        "Le lait coûte un euro.",
+        "Cinq euros ? C'est cher !",
+        "Merci, au revoir, Madame Ježková !"
+      ],
+      "l2": [
+        "Dovidenia, deti!",
+        "Mlieko stojí jedno euro.",
+        "Päť eur? To je drahé!",
+        "Ďakujem, dovidenia, pani Ježková!"
+      ]
+    }
+  ]
+}

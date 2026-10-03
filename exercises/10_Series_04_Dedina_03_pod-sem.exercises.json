@@ -1,0 +1,361 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-po",
+      "type": "qcm",
+      "l1": "viens",
+      "l2": "poď",
+      "choices_l1": [
+        "va",
+        "attends",
+        "regarde"
+      ],
+      "choices_l2": [
+        "choď",
+        "počkaj",
+        "pozri"
+      ]
+    },
+    {
+      "id": "qcm-cho",
+      "type": "qcm",
+      "l1": "va",
+      "l2": "choď",
+      "choices_l1": [
+        "viens",
+        "attends",
+        "regarde"
+      ],
+      "choices_l2": [
+        "poď",
+        "počkaj",
+        "pozri"
+      ]
+    },
+    {
+      "id": "qcm-po-kaj",
+      "type": "qcm",
+      "l1": "attends",
+      "l2": "počkaj",
+      "choices_l1": [
+        "viens",
+        "va",
+        "regarde"
+      ],
+      "choices_l2": [
+        "poď",
+        "choď",
+        "pozri"
+      ]
+    },
+    {
+      "id": "qcm-pozri",
+      "type": "qcm",
+      "l1": "regarde",
+      "l2": "pozri",
+      "choices_l1": [
+        "viens",
+        "va",
+        "attends"
+      ],
+      "choices_l2": [
+        "poď",
+        "choď",
+        "počkaj"
+      ]
+    },
+    {
+      "id": "qcm-sem",
+      "type": "qcm",
+      "l1": "ici (vers moi)",
+      "l2": "sem",
+      "choices_l1": [
+        "là-bas",
+        "ici",
+        "où"
+      ],
+      "choices_l2": [
+        "tam",
+        "tu",
+        "kde"
+      ]
+    },
+    {
+      "id": "listen-po-sem",
+      "type": "listen",
+      "l1": "Viens ici !",
+      "l2": "Poď sem!",
+      "choices_l1": [
+        "Va là-bas !",
+        "Attends !",
+        "Regarde !"
+      ]
+    },
+    {
+      "id": "listen-cho-tam",
+      "type": "listen",
+      "l1": "Va là-bas !",
+      "l2": "Choď tam!",
+      "choices_l1": [
+        "Viens ici !",
+        "Attends !",
+        "Regarde !"
+      ]
+    },
+    {
+      "id": "listen-po-kaj",
+      "type": "listen",
+      "l1": "Attends !",
+      "l2": "Počkaj!",
+      "choices_l1": [
+        "Viens !",
+        "Va !",
+        "Regarde !"
+      ]
+    },
+    {
+      "id": "listen-pozri",
+      "type": "listen",
+      "l1": "Regarde !",
+      "l2": "Pozri!",
+      "choices_l1": [
+        "Attends !",
+        "Viens !",
+        "Va !"
+      ]
+    },
+    {
+      "id": "listen-po-do-obchodu",
+      "type": "listen",
+      "l1": "Viens au magasin !",
+      "l2": "Poď do obchodu!",
+      "choices_l1": [
+        "Va au magasin !",
+        "Viens à la boulangerie !",
+        "Je vais au magasin."
+      ]
+    },
+    {
+      "id": "listen-cho-do-pek-rne",
+      "type": "listen",
+      "l1": "Va à la boulangerie !",
+      "l2": "Choď do pekárne!",
+      "choices_l1": [
+        "Viens à la boulangerie !",
+        "Va au magasin !",
+        "Je vais à la boulangerie."
+      ]
+    },
+    {
+      "id": "listen-po-r-chlo",
+      "type": "listen",
+      "l1": "Viens vite !",
+      "l2": "Poď rýchlo!",
+      "choices_l1": [
+        "Va vite !",
+        "Viens doucement !",
+        "Attends vite !"
+      ]
+    },
+    {
+      "id": "listen-cho-pomaly",
+      "type": "listen",
+      "l1": "Va doucement !",
+      "l2": "Choď pomaly!",
+      "choices_l1": [
+        "Va vite !",
+        "Viens doucement !",
+        "Attends doucement !"
+      ]
+    },
+    {
+      "id": "listen-po-kaj-andrea-idem-do-dediny",
+      "type": "listen",
+      "l1": "Attends, Andrea ! Je vais au village.",
+      "l2": "Počkaj, Andrea! Idem do dediny.",
+      "choices_l1": [
+        "Viens, Andrea ! Je vais au village.",
+        "Attends, Katka ! Je vais au village.",
+        "Attends, Andrea ! Je vais en ville."
+      ]
+    },
+    {
+      "id": "listen-pozri-to-je-obchod-po",
+      "type": "listen",
+      "l1": "Regarde, c'est un magasin ! Viens !",
+      "l2": "Pozri, to je obchod! Poď!",
+      "choices_l1": [
+        "Regarde, c'est une boulangerie ! Viens !",
+        "Attends, c'est un magasin ! Viens !",
+        "Regarde, c'est un magasin ! Va !"
+      ]
+    },
+    {
+      "id": "listen-po-sem-katka",
+      "type": "listen",
+      "l1": "Viens ici, Katka !",
+      "l2": "Poď sem, Katka!",
+      "choices_l1": [
+        "Viens ici, Andrea !",
+        "Va là-bas, Katka !",
+        "Attends, Katka !"
+      ]
+    },
+    {
+      "id": "listen-po-kaj-nie-r-chlo",
+      "type": "listen",
+      "l1": "Attends, pas si vite !",
+      "l2": "Počkaj, nie rýchlo!",
+      "choices_l1": [
+        "Viens, pas si vite !",
+        "Attends, très vite !",
+        "Regarde, pas si vite !"
+      ]
+    },
+    {
+      "id": "blank-po-r-chlo",
+      "type": "fill-blank",
+      "l1": "Viens vite !",
+      "l2": "Poď rýchlo!",
+      "missing_l1": "vite",
+      "missing_l2": "rýchlo",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "doucement",
+        "ici",
+        "là-bas"
+      ],
+      "choices_l2": [
+        "pomaly",
+        "sem",
+        "tam"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-cho-do-pek-rne",
+      "type": "fill-blank",
+      "l1": "Va à la boulangerie !",
+      "l2": "Choď do pekárne!",
+      "missing_l1": "boulangerie",
+      "missing_l2": "pekárne",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "magasin",
+        "village",
+        "ville"
+      ],
+      "choices_l2": [
+        "obchodu",
+        "dediny",
+        "mesta"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-po-do-obchodu",
+      "type": "fill-blank",
+      "l1": "Viens au magasin !",
+      "l2": "Poď do obchodu!",
+      "missing_l1": "Viens",
+      "missing_l2": "Poď",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Va",
+        "Attends",
+        "Regarde"
+      ],
+      "choices_l2": [
+        "Choď",
+        "Počkaj",
+        "Pozri"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-po-do-obchodu",
+      "type": "order",
+      "l1": "Viens au magasin !",
+      "l2": "Poď do obchodu!",
+      "tokens_l1": [
+        "Viens",
+        "au",
+        "magasin !"
+      ],
+      "tokens_l2": [
+        "Poď",
+        "do",
+        "obchodu!"
+      ]
+    },
+    {
+      "id": "order-cho-do-pek-rne",
+      "type": "order",
+      "l1": "Va à la boulangerie !",
+      "l2": "Choď do pekárne!",
+      "tokens_l1": [
+        "Va",
+        "à la",
+        "boulangerie !"
+      ],
+      "tokens_l2": [
+        "Choď",
+        "do",
+        "pekárne!"
+      ]
+    },
+    {
+      "id": "order-pozri-ma-o-ide-do-pek-rne",
+      "type": "order",
+      "l1": "Regarde, Maťo va à la boulangerie !",
+      "l2": "Pozri, Maťo ide do pekárne!",
+      "tokens_l1": [
+        "Regarde,",
+        "Maťo va",
+        "à la boulangerie !"
+      ],
+      "tokens_l2": [
+        "Pozri,",
+        "Maťo ide",
+        "do pekárne!"
+      ]
+    },
+    {
+      "id": "match-po",
+      "type": "match",
+      "l1": [
+        "viens",
+        "va",
+        "attends",
+        "regarde"
+      ],
+      "l2": [
+        "poď",
+        "choď",
+        "počkaj",
+        "pozri"
+      ]
+    },
+    {
+      "id": "match-po-sem",
+      "type": "match",
+      "l1": [
+        "Viens ici !",
+        "Va là-bas !",
+        "Attends !",
+        "Regarde !"
+      ],
+      "l2": [
+        "Poď sem!",
+        "Choď tam!",
+        "Počkaj!",
+        "Pozri!"
+      ]
+    }
+  ]
+}

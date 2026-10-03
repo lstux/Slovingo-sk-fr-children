@@ -1,0 +1,323 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-vy",
+      "type": "qcm",
+      "l1": "vous",
+      "l2": "vy",
+      "choices_l1": [
+        "tu",
+        "moi",
+        "il"
+      ],
+      "choices_l2": [
+        "ty",
+        "ja",
+        "on"
+      ]
+    },
+    {
+      "id": "qcm-m-te",
+      "type": "qcm",
+      "l1": "vous avez",
+      "l2": "máte",
+      "choices_l1": [
+        "tu as",
+        "j'ai",
+        "il a"
+      ],
+      "choices_l2": [
+        "máš",
+        "mám",
+        "má"
+      ]
+    },
+    {
+      "id": "qcm-pani",
+      "type": "qcm",
+      "l1": "madame",
+      "l2": "pani",
+      "choices_l1": [
+        "monsieur",
+        "salut",
+        "merci"
+      ],
+      "choices_l2": [
+        "pán",
+        "ahoj",
+        "ďakujem"
+      ]
+    },
+    {
+      "id": "qcm-p-n",
+      "type": "qcm",
+      "l1": "monsieur",
+      "l2": "pán",
+      "choices_l1": [
+        "madame",
+        "salut",
+        "pardon"
+      ],
+      "choices_l2": [
+        "pani",
+        "ahoj",
+        "prepáč"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-pani-je-kov",
+      "type": "listen",
+      "l1": "Bonjour, Madame Ježková !",
+      "l2": "Dobrý deň, pani Ježková!",
+      "choices_l1": [
+        "Salut, Madame Ježková !",
+        "Au revoir, Madame Ježková !",
+        "Bonjour, Monsieur Ježková !"
+      ]
+    },
+    {
+      "id": "listen-pros-m",
+      "type": "listen",
+      "l1": "Oui, je vous écoute ?",
+      "l2": "Prosím?",
+      "choices_l1": [
+        "Oui, merci ?",
+        "Pardon ?",
+        "Combien ça coûte ?"
+      ]
+    },
+    {
+      "id": "listen-m-te-chlieb",
+      "type": "listen",
+      "l1": "Vous avez du pain ?",
+      "l2": "Máte chlieb?",
+      "choices_l1": [
+        "Tu as du pain ?",
+        "Vous avez du lait ?",
+        "J'ai du pain."
+      ]
+    },
+    {
+      "id": "listen-no-m-m-chlieb",
+      "type": "listen",
+      "l1": "Oui, j'ai du pain.",
+      "l2": "Áno, mám chlieb.",
+      "choices_l1": [
+        "Non, je n'ai pas de pain.",
+        "Oui, tu as du pain.",
+        "Oui, j'ai du lait."
+      ]
+    },
+    {
+      "id": "listen-m-te-med",
+      "type": "listen",
+      "l1": "Vous avez du miel ?",
+      "l2": "Máte med?",
+      "choices_l1": [
+        "Tu as du miel ?",
+        "Vous avez du pain ?",
+        "Vous voulez du miel ?"
+      ]
+    },
+    {
+      "id": "listen-pros-m-si-chlieb-a-mlieko",
+      "type": "listen",
+      "l1": "Je voudrais du pain et du lait.",
+      "l2": "Prosím si chlieb a mlieko.",
+      "choices_l1": [
+        "Je voudrais du pain et du miel.",
+        "Je veux du pain et du lait.",
+        "Je voudrais du lait et du fromage."
+      ]
+    },
+    {
+      "id": "listen-akujem-dovidenia-pani-je-kov",
+      "type": "listen",
+      "l1": "Merci, au revoir, Madame Ježková !",
+      "l2": "Ďakujem, dovidenia, pani Ježková!",
+      "choices_l1": [
+        "Merci, bonjour, Madame Ježková !",
+        "Pardon, au revoir, Madame Ježková !",
+        "Merci, au revoir, Monsieur Ježková !"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-p-n-medve",
+      "type": "listen",
+      "l1": "Bonjour, Monsieur Medveď !",
+      "l2": "Dobrý deň, pán Medveď!",
+      "choices_l1": [
+        "Bonjour, Madame Medveď !",
+        "Salut, Monsieur Medveď !",
+        "Au revoir, Monsieur Medveď !"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-m-te-jablko-ko-ko-to-stoj",
+      "type": "listen",
+      "l1": "Bonjour ! Vous avez une pomme ? Combien ça coûte ?",
+      "l2": "Dobrý deň! Máte jablko? Koľko to stojí?",
+      "choices_l1": [
+        "Salut ! Tu as une pomme ? Combien ça coûte ?",
+        "Bonjour ! Vous avez une poire ? Combien ça coûte ?",
+        "Bonjour ! Vous avez une pomme ? Où est-ce ?"
+      ]
+    },
+    {
+      "id": "listen-tu-je-chlieb",
+      "type": "listen",
+      "l1": "Voici le pain.",
+      "l2": "Tu je chlieb.",
+      "choices_l1": [
+        "Voici le lait.",
+        "Où est le pain ?",
+        "Je voudrais le pain."
+      ]
+    },
+    {
+      "id": "blank-m-te-med",
+      "type": "fill-blank",
+      "l1": "Vous avez du miel ?",
+      "l2": "Máte med?",
+      "missing_l1": "miel",
+      "missing_l2": "med",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "pain",
+        "lait",
+        "fromage"
+      ],
+      "choices_l2": [
+        "chlieb",
+        "mlieko",
+        "syr"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-dobr-de-pani-je-kov",
+      "type": "fill-blank",
+      "l1": "Bonjour, Madame Ježková !",
+      "l2": "Dobrý deň, pani Ježková!",
+      "missing_l1": "Madame",
+      "missing_l2": "pani",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Monsieur",
+        "Salut",
+        "Merci"
+      ],
+      "choices_l2": [
+        "pán",
+        "Ahoj",
+        "Ďakujem"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-tu-je-chlieb",
+      "type": "fill-blank",
+      "l1": "Voici le pain.",
+      "l2": "Tu je chlieb.",
+      "missing_l1": "pain",
+      "missing_l2": "chlieb",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "lait",
+        "miel",
+        "fromage"
+      ],
+      "choices_l2": [
+        "mlieko",
+        "med",
+        "syr"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-akujem-dovidenia-pani-je-kov",
+      "type": "order",
+      "l1": "Merci, au revoir, Madame Ježková !",
+      "l2": "Ďakujem, dovidenia, pani Ježková!",
+      "tokens_l1": [
+        "Merci,",
+        "au revoir,",
+        "Madame Ježková !"
+      ],
+      "tokens_l2": [
+        "Ďakujem,",
+        "dovidenia,",
+        "pani Ježková!"
+      ]
+    },
+    {
+      "id": "order-dobr-de-pani-je-kov",
+      "type": "order",
+      "l1": "Bonjour, Madame Ježková !",
+      "l2": "Dobrý deň, pani Ježková!",
+      "tokens_l1": [
+        "Bonjour,",
+        "Madame",
+        "Ježková !"
+      ],
+      "tokens_l2": [
+        "Dobrý deň,",
+        "pani",
+        "Ježková!"
+      ]
+    },
+    {
+      "id": "order-pani-je-kov-m-te-syr",
+      "type": "order",
+      "l1": "Madame Ježková, vous avez du fromage ?",
+      "l2": "Pani Ježková, máte syr?",
+      "tokens_l1": [
+        "Madame Ježková,",
+        "vous avez",
+        "du fromage ?"
+      ],
+      "tokens_l2": [
+        "Pani Ježková,",
+        "máte",
+        "syr?"
+      ]
+    },
+    {
+      "id": "match-vy",
+      "type": "match",
+      "l1": [
+        "vous",
+        "vous avez",
+        "madame",
+        "monsieur"
+      ],
+      "l2": [
+        "vy",
+        "máte",
+        "pani",
+        "pán"
+      ]
+    },
+    {
+      "id": "match-dobr-de-pani-je-kov",
+      "type": "match",
+      "l1": [
+        "Bonjour, Madame Ježková !",
+        "Vous avez du pain ?",
+        "Voici le pain.",
+        "Oui, je vous écoute ?"
+      ],
+      "l2": [
+        "Dobrý deň, pani Ježková!",
+        "Máte chlieb?",
+        "Tu je chlieb.",
+        "Prosím?"
+      ]
+    }
+  ]
+}

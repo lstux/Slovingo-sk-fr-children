@@ -1,0 +1,368 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ko-ko-to-stoj",
+      "type": "qcm",
+      "l1": "combien ça coûte",
+      "l2": "koľko to stojí",
+      "choices_l1": [
+        "je voudrais",
+        "cher",
+        "pas cher"
+      ],
+      "choices_l2": [
+        "prosím si",
+        "drahé",
+        "lacné"
+      ]
+    },
+    {
+      "id": "qcm-pros-m-si",
+      "type": "qcm",
+      "l1": "je voudrais",
+      "l2": "prosím si",
+      "choices_l1": [
+        "combien ça coûte",
+        "j'ai faim",
+        "je veux"
+      ],
+      "choices_l2": [
+        "koľko to stojí",
+        "mám hlad",
+        "chcem"
+      ]
+    },
+    {
+      "id": "qcm-drah",
+      "type": "qcm",
+      "l1": "cher",
+      "l2": "drahé",
+      "choices_l1": [
+        "pas cher",
+        "délicieux",
+        "sucré (neutre)"
+      ],
+      "choices_l2": [
+        "lacné",
+        "výborné",
+        "sladké"
+      ]
+    },
+    {
+      "id": "qcm-lacn",
+      "type": "qcm",
+      "l1": "pas cher",
+      "l2": "lacné",
+      "choices_l1": [
+        "cher",
+        "bon",
+        "acide (neutre)"
+      ],
+      "choices_l2": [
+        "drahé",
+        "dobré",
+        "kyslé"
+      ]
+    },
+    {
+      "id": "qcm-dve-eur",
+      "type": "qcm",
+      "l1": "deux euros",
+      "l2": "dve eurá",
+      "choices_l1": [
+        "un euro",
+        "trois euros",
+        "cinq euros"
+      ],
+      "choices_l2": [
+        "jedno euro",
+        "tri eurá",
+        "päť eur"
+      ]
+    },
+    {
+      "id": "qcm-p-eur",
+      "type": "qcm",
+      "l1": "cinq euros",
+      "l2": "päť eur",
+      "choices_l1": [
+        "un euro",
+        "deux euros",
+        "quatre euros"
+      ],
+      "choices_l2": [
+        "jedno euro",
+        "dve eurá",
+        "štyri eurá"
+      ]
+    },
+    {
+      "id": "listen-ko-ko-to-stoj",
+      "type": "listen",
+      "l1": "Combien ça coûte ?",
+      "l2": "Koľko to stojí?",
+      "choices_l1": [
+        "Où est-ce ?",
+        "Ça coûte deux euros.",
+        "Combien d'ans ?"
+      ]
+    },
+    {
+      "id": "listen-to-stoj-dve-eur",
+      "type": "listen",
+      "l1": "Ça coûte deux euros.",
+      "l2": "To stojí dve eurá.",
+      "choices_l1": [
+        "Ça coûte trois euros.",
+        "Ça coûte un euro.",
+        "J'ai deux euros."
+      ]
+    },
+    {
+      "id": "listen-chlieb-stoj-dve-eur",
+      "type": "listen",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "choices_l1": [
+        "Le lait coûte deux euros.",
+        "Le pain coûte trois euros.",
+        "Le pain coûte cinq euros."
+      ]
+    },
+    {
+      "id": "listen-mlieko-stoj-jedno-euro",
+      "type": "listen",
+      "l1": "Le lait coûte un euro.",
+      "l2": "Mlieko stojí jedno euro.",
+      "choices_l1": [
+        "Le pain coûte un euro.",
+        "Le lait coûte deux euros.",
+        "Le lait coûte cinq euros."
+      ]
+    },
+    {
+      "id": "listen-pros-m-si-chlieb",
+      "type": "listen",
+      "l1": "Je voudrais du pain.",
+      "l2": "Prosím si chlieb.",
+      "choices_l1": [
+        "Je veux du pain.",
+        "Je mange du pain.",
+        "Je voudrais du lait."
+      ]
+    },
+    {
+      "id": "listen-pros-m-si-mrkvu",
+      "type": "listen",
+      "l1": "Je voudrais une carotte.",
+      "l2": "Prosím si mrkvu.",
+      "choices_l1": [
+        "Je voudrais une poire.",
+        "Je veux une carotte.",
+        "Je voudrais du miel."
+      ]
+    },
+    {
+      "id": "listen-je-to-drah",
+      "type": "listen",
+      "l1": "C'est cher.",
+      "l2": "Je to drahé.",
+      "choices_l1": [
+        "C'est pas cher.",
+        "C'est bon.",
+        "C'est sucré."
+      ]
+    },
+    {
+      "id": "listen-je-to-lacn",
+      "type": "listen",
+      "l1": "C'est pas cher.",
+      "l2": "Je to lacné.",
+      "choices_l1": [
+        "C'est cher.",
+        "C'est bon.",
+        "C'est acide."
+      ]
+    },
+    {
+      "id": "listen-pros-m-si-jablko-ko-ko-to-stoj",
+      "type": "listen",
+      "l1": "Je voudrais une pomme. Combien ça coûte ?",
+      "l2": "Prosím si jablko. Koľko to stojí?",
+      "choices_l1": [
+        "Je voudrais une poire. Combien ça coûte ?",
+        "Je veux une pomme. Combien ça coûte ?",
+        "Je voudrais une pomme. Combien ça coûte en tout ?"
+      ]
+    },
+    {
+      "id": "listen-ko-ko-to-stoj-spolu",
+      "type": "listen",
+      "l1": "Combien ça coûte en tout ?",
+      "l2": "Koľko to stojí spolu?",
+      "choices_l1": [
+        "Combien ça coûte ?",
+        "Combien de pommes ?",
+        "Où est le magasin ?"
+      ]
+    },
+    {
+      "id": "listen-med-stoj-p-eur-to-je-drah",
+      "type": "listen",
+      "l1": "Le miel coûte cinq euros. C'est cher !",
+      "l2": "Med stojí päť eur. To je drahé!",
+      "choices_l1": [
+        "Le miel coûte cinq euros. C'est pas cher !",
+        "Le miel coûte deux euros. C'est cher !",
+        "Le pain coûte cinq euros. C'est cher !"
+      ]
+    },
+    {
+      "id": "blank-mlieko-stoj-jedno-euro",
+      "type": "fill-blank",
+      "l1": "Le lait coûte un euro.",
+      "l2": "Mlieko stojí jedno euro.",
+      "missing_l1": "lait",
+      "missing_l2": "Mlieko",
+      "blank_index_l1": 1,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "pain",
+        "miel",
+        "fromage"
+      ],
+      "choices_l2": [
+        "Chlieb",
+        "Med",
+        "Syr"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-pros-m-si-chlieb",
+      "type": "fill-blank",
+      "l1": "Je voudrais du pain.",
+      "l2": "Prosím si chlieb.",
+      "missing_l1": "pain",
+      "missing_l2": "chlieb",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "lait",
+        "miel",
+        "fromage"
+      ],
+      "choices_l2": [
+        "mlieko",
+        "med",
+        "syr"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-je-to-drah",
+      "type": "fill-blank",
+      "l1": "C'est cher.",
+      "l2": "Je to drahé.",
+      "missing_l1": "cher",
+      "missing_l2": "drahé",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "bon",
+        "sucré",
+        "grand"
+      ],
+      "choices_l2": [
+        "dobré",
+        "sladké",
+        "veľké"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-chlieb-stoj-dve-eur",
+      "type": "order",
+      "l1": "Le pain coûte deux euros.",
+      "l2": "Chlieb stojí dve eurá.",
+      "tokens_l1": [
+        "Le pain",
+        "coûte",
+        "deux euros."
+      ],
+      "tokens_l2": [
+        "Chlieb",
+        "stojí",
+        "dve eurá."
+      ]
+    },
+    {
+      "id": "order-mlieko-stoj-jedno-euro",
+      "type": "order",
+      "l1": "Le lait coûte un euro.",
+      "l2": "Mlieko stojí jedno euro.",
+      "tokens_l1": [
+        "Le lait",
+        "coûte",
+        "un euro."
+      ],
+      "tokens_l2": [
+        "Mlieko",
+        "stojí",
+        "jedno euro."
+      ]
+    },
+    {
+      "id": "order-pros-m-si-jablko-ko-ko-to-stoj",
+      "type": "order",
+      "l1": "Je voudrais une pomme. Combien ça coûte ?",
+      "l2": "Prosím si jablko. Koľko to stojí?",
+      "tokens_l1": [
+        "Je voudrais",
+        "une pomme.",
+        "Combien",
+        "ça coûte ?"
+      ],
+      "tokens_l2": [
+        "Prosím si",
+        "jablko.",
+        "Koľko",
+        "to stojí?"
+      ]
+    },
+    {
+      "id": "match-jedno-euro",
+      "type": "match",
+      "l1": [
+        "un euro",
+        "deux euros",
+        "trois euros",
+        "quatre euros"
+      ],
+      "l2": [
+        "jedno euro",
+        "dve eurá",
+        "tri eurá",
+        "štyri eurá"
+      ]
+    },
+    {
+      "id": "match-drah",
+      "type": "match",
+      "l1": [
+        "cher",
+        "pas cher",
+        "je voudrais",
+        "combien ça coûte"
+      ],
+      "l2": [
+        "drahé",
+        "lacné",
+        "prosím si",
+        "koľko to stojí"
+      ]
+    }
+  ]
+}
