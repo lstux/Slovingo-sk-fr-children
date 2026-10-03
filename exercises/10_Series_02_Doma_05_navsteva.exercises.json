@@ -1,0 +1,236 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-vitaj",
+      "type": "qcm",
+      "l1": "bienvenue",
+      "l2": "vitaj",
+      "choices_l1": [
+        "merci",
+        "au revoir",
+        "pardon"
+      ],
+      "choices_l2": [
+        "ďakujem",
+        "dovidenia",
+        "prepáč"
+      ]
+    },
+    {
+      "id": "qcm-bl-zko",
+      "type": "qcm",
+      "l1": "près de",
+      "l2": "blízko",
+      "choices_l1": [
+        "dans",
+        "sur",
+        "là-bas"
+      ],
+      "choices_l2": [
+        "v",
+        "na",
+        "tam"
+      ]
+    },
+    {
+      "id": "listen-ahoj-user-name-vitaj-to-je-moja-nora",
+      "type": "listen",
+      "l1": "Salut, [USER_NAME] ! Bienvenue ! Voici mon terrier.",
+      "l2": "Ahoj, [USER_NAME]! Vitaj! To je moja nora.",
+      "choices_l1": [
+        "Salut, [USER_NAME] ! Au revoir ! Voici mon terrier.",
+        "Salut, [USER_NAME] ! Bienvenue ! Voici ma chambre.",
+        "Salut, [USER_NAME] ! Bienvenue ! Voici ma maison."
+      ]
+    },
+    {
+      "id": "listen-kuchy-a-je-tam-tu-je-moja-izba",
+      "type": "listen",
+      "l1": "La cuisine est là-bas. Ici, c'est ma chambre.",
+      "l2": "Kuchyňa je tam. Tu je moja izba.",
+      "choices_l1": [
+        "La cuisine est ici. Là-bas, c'est ma chambre.",
+        "La chambre est là-bas. Ici, c'est ma cuisine.",
+        "La cuisine est là-bas. Ici, c'est mon lit."
+      ]
+    },
+    {
+      "id": "listen-poste-je-v-izbe-na-posteli-je-hra-ka",
+      "type": "listen",
+      "l1": "Le lit est dans la chambre. Sur le lit, il y a un jouet.",
+      "l2": "Posteľ je v izbe. Na posteli je hračka.",
+      "choices_l1": [
+        "Le lit est dans la cuisine. Sur le lit, il y a un jouet.",
+        "Le lit est dans la chambre. Sur le lit, il y a un livre.",
+        "La table est dans la chambre. Sur la table, il y a un jouet."
+      ]
+    },
+    {
+      "id": "listen-na-stole-s-dve-knihy-a-tri-lampy",
+      "type": "listen",
+      "l1": "Sur la table, il y a deux livres et trois lampes !",
+      "l2": "Na stole sú dve knihy a tri lampy!",
+      "choices_l1": [
+        "Sur la table, il y a trois livres et deux lampes !",
+        "Sur le lit, il y a deux livres et trois lampes !",
+        "Sur la table, il y a deux livres et trois jouets !"
+      ]
+    },
+    {
+      "id": "listen-ahoj-ja-b-vam-v-brlohu-v-brlohu-je-teplo",
+      "type": "listen",
+      "l1": "Salut ! Moi, j'habite dans une tanière. Dans la tanière, il fait chaud !",
+      "l2": "Ahoj! Ja bývam v brlohu. V brlohu je teplo!",
+      "choices_l1": [
+        "Salut ! Moi, j'habite dans un terrier. Dans le terrier, il fait chaud !",
+        "Salut ! Moi, j'habite dans une tanière. Dans la tanière, il fait froid !",
+        "Salut ! Moi, j'habite dans un nid. Dans le nid, il fait chaud !"
+      ]
+    },
+    {
+      "id": "listen-andrea-kde-b-va",
+      "type": "listen",
+      "l1": "Andrea, où habites-tu ?",
+      "l2": "Andrea, kde bývaš?",
+      "choices_l1": [
+        "Andrea, où est la cuisine ?",
+        "Katka, où habites-tu ?",
+        "Andrea, tu habites ici ?"
+      ]
+    },
+    {
+      "id": "listen-boj-m-sa",
+      "type": "listen",
+      "l1": "J'ai peur !",
+      "l2": "Bojím sa!",
+      "choices_l1": [
+        "Je n'ai pas peur !",
+        "Pardon !",
+        "J'ai huit ans !"
+      ]
+    },
+    {
+      "id": "listen-no-b-vam-v-nore-dovidenia-user-name",
+      "type": "listen",
+      "l1": "Oui, j'habite dans un terrier. Au revoir, [USER_NAME] !",
+      "l2": "Áno, bývam v nore. Dovidenia, [USER_NAME]!",
+      "choices_l1": [
+        "Non, j'habite dans une tanière. Au revoir, [USER_NAME] !",
+        "Oui, j'habite dans un nid. Au revoir, [USER_NAME] !",
+        "Oui, j'habite dans un terrier. Merci, [USER_NAME] !"
+      ]
+    },
+    {
+      "id": "blank-ahoj-user-name-vitaj-to-je-moja-nora",
+      "type": "fill-blank",
+      "l1": "Salut, [USER_NAME] ! Bienvenue ! Voici mon terrier.",
+      "l2": "Ahoj, [USER_NAME]! Vitaj! To je moja nora.",
+      "missing_l1": "terrier",
+      "missing_l2": "nora",
+      "blank_index_l1": 7,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "tanière",
+        "maison",
+        "chambre"
+      ],
+      "choices_l2": [
+        "brloh",
+        "dom",
+        "izba"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kde-je-poste",
+      "type": "fill-blank",
+      "l1": "Où est le lit ?",
+      "l2": "Kde je posteľ?",
+      "missing_l1": "lit",
+      "missing_l2": "posteľ",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "table",
+        "chaise",
+        "livre"
+      ],
+      "choices_l2": [
+        "stôl",
+        "stolička",
+        "kniha"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-kuchy-a-je-tam-tu-je-moja-izba",
+      "type": "order",
+      "l1": "La cuisine est là-bas. Ici, c'est ma chambre.",
+      "l2": "Kuchyňa je tam. Tu je moja izba.",
+      "tokens_l1": [
+        "La cuisine",
+        "est là-bas.",
+        "Ici, c'est",
+        "ma chambre."
+      ],
+      "tokens_l2": [
+        "Kuchyňa",
+        "je tam.",
+        "Tu je",
+        "moja izba."
+      ]
+    },
+    {
+      "id": "order-kde-je-poste",
+      "type": "order",
+      "l1": "Où est le lit ?",
+      "l2": "Kde je posteľ?",
+      "tokens_l1": [
+        "Où",
+        "est",
+        "le lit ?"
+      ],
+      "tokens_l2": [
+        "Kde",
+        "je",
+        "posteľ?"
+      ]
+    },
+    {
+      "id": "order-poste-je-v-izbe-na-posteli-je-hra-ka",
+      "type": "order",
+      "l1": "Le lit est dans la chambre. Sur le lit, il y a un jouet.",
+      "l2": "Posteľ je v izbe. Na posteli je hračka.",
+      "tokens_l1": [
+        "Le lit",
+        "est dans la chambre.",
+        "Sur le lit,",
+        "il y a un jouet."
+      ],
+      "tokens_l2": [
+        "Posteľ",
+        "je v izbe.",
+        "Na posteli",
+        "je hračka."
+      ]
+    },
+    {
+      "id": "match-kde-je-poste",
+      "type": "match",
+      "l1": [
+        "Où est le lit ?",
+        "Qu'est-ce qu'il y a sur la table ?",
+        "Andrea, où habites-tu ?",
+        "J'ai peur !"
+      ],
+      "l2": [
+        "Kde je posteľ?",
+        "Čo je na stole?",
+        "Andrea, kde bývaš?",
+        "Bojím sa!"
+      ]
+    }
+  ]
+}

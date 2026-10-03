@@ -1,0 +1,365 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-s",
+      "type": "qcm",
+      "l1": "sont",
+      "l2": "sú",
+      "choices_l1": [
+        "est",
+        "j'ai",
+        "il a"
+      ],
+      "choices_l2": [
+        "je",
+        "mám",
+        "má"
+      ]
+    },
+    {
+      "id": "qcm-dve",
+      "type": "qcm",
+      "l1": "deux (mots féminins et neutres)",
+      "l2": "dve",
+      "choices_l1": [
+        "trois",
+        "quatre",
+        "huit"
+      ],
+      "choices_l2": [
+        "tri",
+        "štyri",
+        "osem"
+      ]
+    },
+    {
+      "id": "qcm-knihy",
+      "type": "qcm",
+      "l1": "les livres",
+      "l2": "knihy",
+      "choices_l1": [
+        "les chaises",
+        "les fenêtres",
+        "le livre"
+      ],
+      "choices_l2": [
+        "stoličky",
+        "okná",
+        "kniha"
+      ]
+    },
+    {
+      "id": "qcm-stoli-ky",
+      "type": "qcm",
+      "l1": "les chaises",
+      "l2": "stoličky",
+      "choices_l1": [
+        "les livres",
+        "les fenêtres",
+        "la chaise"
+      ],
+      "choices_l2": [
+        "knihy",
+        "okná",
+        "stolička"
+      ]
+    },
+    {
+      "id": "qcm-okn",
+      "type": "qcm",
+      "l1": "les fenêtres",
+      "l2": "okná",
+      "choices_l1": [
+        "les livres",
+        "les chaises",
+        "la fenêtre"
+      ],
+      "choices_l2": [
+        "knihy",
+        "stoličky",
+        "okno"
+      ]
+    },
+    {
+      "id": "qcm-dvere",
+      "type": "qcm",
+      "l1": "la porte",
+      "l2": "dvere",
+      "choices_l1": [
+        "la fenêtre",
+        "la table",
+        "la chambre"
+      ],
+      "choices_l2": [
+        "okno",
+        "stôl",
+        "izba"
+      ]
+    },
+    {
+      "id": "qcm-dve-stoli-ky",
+      "type": "qcm",
+      "l1": "deux chaises",
+      "l2": "dve stoličky",
+      "choices_l1": [
+        "trois livres",
+        "quatre fenêtres",
+        "une chaise"
+      ],
+      "choices_l2": [
+        "tri knihy",
+        "štyri okná",
+        "stolička"
+      ]
+    },
+    {
+      "id": "listen-s-tu-dve-stoli-ky",
+      "type": "listen",
+      "l1": "Il y a deux chaises ici.",
+      "l2": "Sú tu dve stoličky.",
+      "choices_l1": [
+        "Il y a trois chaises ici.",
+        "Il y a deux livres ici.",
+        "Il y a deux chaises là-bas."
+      ]
+    },
+    {
+      "id": "listen-s-tu-tri-knihy",
+      "type": "listen",
+      "l1": "Il y a trois livres ici.",
+      "l2": "Sú tu tri knihy.",
+      "choices_l1": [
+        "Il y a deux livres ici.",
+        "Il y a trois chaises ici.",
+        "Il y a quatre livres ici."
+      ]
+    },
+    {
+      "id": "listen-s-tu-tyri-okn",
+      "type": "listen",
+      "l1": "Il y a quatre fenêtres ici.",
+      "l2": "Sú tu štyri okná.",
+      "choices_l1": [
+        "Il y a trois fenêtres ici.",
+        "Il y a quatre chaises ici.",
+        "Il y a quatre livres ici."
+      ]
+    },
+    {
+      "id": "listen-kde-s-knihy",
+      "type": "listen",
+      "l1": "Où sont les livres ?",
+      "l2": "Kde sú knihy?",
+      "choices_l1": [
+        "Où est le livre ?",
+        "Où sont les chaises ?",
+        "Où est la porte ?"
+      ]
+    },
+    {
+      "id": "listen-knihy-s-na-stole",
+      "type": "listen",
+      "l1": "Les livres sont sur la table.",
+      "l2": "Knihy sú na stole.",
+      "choices_l1": [
+        "Les chaises sont sur la table.",
+        "Les livres sont sur le lit.",
+        "Le livre est sur la table."
+      ]
+    },
+    {
+      "id": "listen-kde-s-dvere",
+      "type": "listen",
+      "l1": "Où est la porte ?",
+      "l2": "Kde sú dvere?",
+      "choices_l1": [
+        "Où est la fenêtre ?",
+        "Où sont les chaises ?",
+        "Où est la chambre ?"
+      ]
+    },
+    {
+      "id": "listen-dvere-s-tam",
+      "type": "listen",
+      "l1": "La porte est là-bas.",
+      "l2": "Dvere sú tam.",
+      "choices_l1": [
+        "La porte est ici.",
+        "La fenêtre est là-bas.",
+        "La chaise est là-bas."
+      ]
+    },
+    {
+      "id": "listen-s-tu-dve-lampy",
+      "type": "listen",
+      "l1": "Il y a deux lampes ici.",
+      "l2": "Sú tu dve lampy.",
+      "choices_l1": [
+        "Il y a trois lampes ici.",
+        "Il y a deux livres ici.",
+        "Il y a deux lampes là-bas."
+      ]
+    },
+    {
+      "id": "listen-kde-s-hra-ky-s-v-izbe",
+      "type": "listen",
+      "l1": "Où sont les jouets ? Ils sont dans la chambre.",
+      "l2": "Kde sú hračky? Sú v izbe.",
+      "choices_l1": [
+        "Où sont les livres ? Ils sont dans la chambre.",
+        "Où sont les jouets ? Ils sont dans la cuisine.",
+        "Où est le jouet ? Il est dans la chambre."
+      ]
+    },
+    {
+      "id": "blank-s-tu-dve-stoli-ky",
+      "type": "fill-blank",
+      "l1": "Il y a deux chaises ici.",
+      "l2": "Sú tu dve stoličky.",
+      "missing_l1": "chaises",
+      "missing_l2": "stoličky",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "livres",
+        "lampes",
+        "fenêtres"
+      ],
+      "choices_l2": [
+        "knihy",
+        "lampy",
+        "okná"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-s-tu-tri-knihy",
+      "type": "fill-blank",
+      "l1": "Il y a trois livres ici.",
+      "l2": "Sú tu tri knihy.",
+      "missing_l1": "trois",
+      "missing_l2": "tri",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "deux",
+        "quatre",
+        "huit"
+      ],
+      "choices_l2": [
+        "dve",
+        "štyri",
+        "osem"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-s-tu-tyri-okn",
+      "type": "fill-blank",
+      "l1": "Il y a quatre fenêtres ici.",
+      "l2": "Sú tu štyri okná.",
+      "missing_l1": "fenêtres",
+      "missing_l2": "okná",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "livres",
+        "chaises",
+        "lampes"
+      ],
+      "choices_l2": [
+        "knihy",
+        "stoličky",
+        "lampy"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-knihy-s-na-stole",
+      "type": "fill-blank",
+      "l1": "Les livres sont sur la table.",
+      "l2": "Knihy sú na stole.",
+      "missing_l1": "sont",
+      "missing_l2": "sú",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "est",
+        "ai",
+        "as"
+      ],
+      "choices_l2": [
+        "je",
+        "mám",
+        "máš"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-knihy-s-na-stole",
+      "type": "order",
+      "l1": "Les livres sont sur la table.",
+      "l2": "Knihy sú na stole.",
+      "tokens_l1": [
+        "Les livres",
+        "sont",
+        "sur la table."
+      ],
+      "tokens_l2": [
+        "Knihy",
+        "sú",
+        "na stole."
+      ]
+    },
+    {
+      "id": "order-kde-s-knihy",
+      "type": "order",
+      "l1": "Où sont les livres ?",
+      "l2": "Kde sú knihy?",
+      "tokens_l1": [
+        "Où",
+        "sont",
+        "les livres ?"
+      ],
+      "tokens_l2": [
+        "Kde",
+        "sú",
+        "knihy?"
+      ]
+    },
+    {
+      "id": "match-je",
+      "type": "match",
+      "l1": [
+        "est",
+        "sont",
+        "les livres",
+        "la porte"
+      ],
+      "l2": [
+        "je",
+        "sú",
+        "knihy",
+        "dvere"
+      ]
+    },
+    {
+      "id": "match-knihy",
+      "type": "match",
+      "l1": [
+        "les livres",
+        "les chaises",
+        "les fenêtres",
+        "la porte"
+      ],
+      "l2": [
+        "knihy",
+        "stoličky",
+        "okná",
+        "dvere"
+      ]
+    }
+  ]
+}

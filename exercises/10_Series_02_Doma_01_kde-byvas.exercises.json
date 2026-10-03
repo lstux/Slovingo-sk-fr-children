@@ -1,0 +1,415 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-dom",
+      "type": "qcm",
+      "l1": "la maison",
+      "l2": "dom",
+      "choices_l1": [
+        "le terrier",
+        "la tanière",
+        "le nid"
+      ],
+      "choices_l2": [
+        "nora",
+        "brloh",
+        "hniezdo"
+      ]
+    },
+    {
+      "id": "qcm-nora",
+      "type": "qcm",
+      "l1": "le terrier",
+      "l2": "nora",
+      "choices_l1": [
+        "la maison",
+        "la tanière",
+        "le nid"
+      ],
+      "choices_l2": [
+        "dom",
+        "brloh",
+        "hniezdo"
+      ]
+    },
+    {
+      "id": "qcm-brloh",
+      "type": "qcm",
+      "l1": "la tanière",
+      "l2": "brloh",
+      "choices_l1": [
+        "la maison",
+        "le terrier",
+        "le nid"
+      ],
+      "choices_l2": [
+        "dom",
+        "nora",
+        "hniezdo"
+      ]
+    },
+    {
+      "id": "qcm-hniezdo",
+      "type": "qcm",
+      "l1": "le nid",
+      "l2": "hniezdo",
+      "choices_l1": [
+        "la maison",
+        "le terrier",
+        "la tanière"
+      ],
+      "choices_l2": [
+        "dom",
+        "nora",
+        "brloh"
+      ]
+    },
+    {
+      "id": "qcm-kde",
+      "type": "qcm",
+      "l1": "où",
+      "l2": "kde",
+      "choices_l1": [
+        "dans",
+        "j'habite",
+        "ici"
+      ],
+      "choices_l2": [
+        "v",
+        "bývam",
+        "tu"
+      ]
+    },
+    {
+      "id": "qcm-b-vam",
+      "type": "qcm",
+      "l1": "j'habite",
+      "l2": "bývam",
+      "choices_l1": [
+        "tu habites",
+        "j'ai",
+        "où"
+      ],
+      "choices_l2": [
+        "bývaš",
+        "mám",
+        "kde"
+      ]
+    },
+    {
+      "id": "qcm-b-va",
+      "type": "qcm",
+      "l1": "tu habites",
+      "l2": "bývaš",
+      "choices_l1": [
+        "j'habite",
+        "tu as",
+        "où"
+      ],
+      "choices_l2": [
+        "bývam",
+        "máš",
+        "kde"
+      ]
+    },
+    {
+      "id": "qcm-tu",
+      "type": "qcm",
+      "l1": "ici",
+      "l2": "tu",
+      "choices_l1": [
+        "là-bas",
+        "dans",
+        "où"
+      ],
+      "choices_l2": [
+        "tam",
+        "v",
+        "kde"
+      ]
+    },
+    {
+      "id": "qcm-b-vam-v-nore",
+      "type": "qcm",
+      "l1": "J'habite dans un terrier.",
+      "l2": "Bývam v nore.",
+      "choices_l1": [
+        "J'habite dans une tanière.",
+        "J'habite dans un nid.",
+        "J'habite dans une maison."
+      ],
+      "choices_l2": [
+        "Bývam v brlohu.",
+        "Bývam v hniezde.",
+        "Bývam v dome."
+      ]
+    },
+    {
+      "id": "listen-kde-b-va",
+      "type": "listen",
+      "l1": "Où habites-tu ?",
+      "l2": "Kde bývaš?",
+      "choices_l1": [
+        "Où est la maison ?",
+        "Tu habites ici ?",
+        "Comment t'appelles-tu ?"
+      ]
+    },
+    {
+      "id": "listen-b-vam-v-nore",
+      "type": "listen",
+      "l1": "J'habite dans un terrier.",
+      "l2": "Bývam v nore.",
+      "choices_l1": [
+        "J'habite dans une tanière.",
+        "J'habite dans un nid.",
+        "Tu habites dans un terrier."
+      ]
+    },
+    {
+      "id": "listen-b-vam-v-brlohu",
+      "type": "listen",
+      "l1": "J'habite dans une tanière.",
+      "l2": "Bývam v brlohu.",
+      "choices_l1": [
+        "J'habite dans un terrier.",
+        "J'habite dans un nid.",
+        "J'habite dans une maison."
+      ]
+    },
+    {
+      "id": "listen-b-vam-v-hniezde",
+      "type": "listen",
+      "l1": "J'habite dans un nid.",
+      "l2": "Bývam v hniezde.",
+      "choices_l1": [
+        "J'habite dans un terrier.",
+        "J'habite dans une tanière.",
+        "J'habite dans une maison."
+      ]
+    },
+    {
+      "id": "listen-b-vam-v-dome",
+      "type": "listen",
+      "l1": "J'habite dans une maison.",
+      "l2": "Bývam v dome.",
+      "choices_l1": [
+        "J'habite dans un nid.",
+        "J'habite dans un terrier.",
+        "J'habite dans une tanière."
+      ]
+    },
+    {
+      "id": "listen-katka-b-va-v-nore",
+      "type": "listen",
+      "l1": "Katka habite dans un terrier.",
+      "l2": "Katka býva v nore.",
+      "choices_l1": [
+        "Maťo habite dans un terrier.",
+        "Katka habite dans une tanière.",
+        "Katka habite dans un nid."
+      ]
+    },
+    {
+      "id": "listen-ma-o-b-va-v-brlohu",
+      "type": "listen",
+      "l1": "Maťo habite dans une tanière.",
+      "l2": "Maťo býva v brlohu.",
+      "choices_l1": [
+        "Katka habite dans une tanière.",
+        "Maťo habite dans un terrier.",
+        "Maťo habite dans un nid."
+      ]
+    },
+    {
+      "id": "listen-b-vam-tu",
+      "type": "listen",
+      "l1": "J'habite ici.",
+      "l2": "Bývam tu.",
+      "choices_l1": [
+        "J'habite là-bas.",
+        "Tu habites ici.",
+        "J'ai huit ans."
+      ]
+    },
+    {
+      "id": "listen-b-va-tam",
+      "type": "listen",
+      "l1": "Tu habites là-bas ?",
+      "l2": "Bývaš tam?",
+      "choices_l1": [
+        "Tu habites ici ?",
+        "J'habite là-bas.",
+        "Où habites-tu ?"
+      ]
+    },
+    {
+      "id": "blank-b-vam-v-nore",
+      "type": "fill-blank",
+      "l1": "J'habite dans un terrier.",
+      "l2": "Bývam v nore.",
+      "missing_l1": "terrier",
+      "missing_l2": "nore",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "nid",
+        "maison",
+        "tanière"
+      ],
+      "choices_l2": [
+        "hniezde",
+        "dome",
+        "brlohu"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-b-vam-v-brlohu",
+      "type": "fill-blank",
+      "l1": "J'habite dans une tanière.",
+      "l2": "Bývam v brlohu.",
+      "missing_l1": "tanière",
+      "missing_l2": "brlohu",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "nid",
+        "maison",
+        "terrier"
+      ],
+      "choices_l2": [
+        "hniezde",
+        "dome",
+        "nore"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-b-vam-v-hniezde",
+      "type": "fill-blank",
+      "l1": "J'habite dans un nid.",
+      "l2": "Bývam v hniezde.",
+      "missing_l1": "nid",
+      "missing_l2": "hniezde",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "terrier",
+        "maison",
+        "tanière"
+      ],
+      "choices_l2": [
+        "nore",
+        "dome",
+        "brlohu"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-b-vam-tu",
+      "type": "fill-blank",
+      "l1": "J'habite ici.",
+      "l2": "Bývam tu.",
+      "missing_l1": "ici",
+      "missing_l2": "tu",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "là-bas",
+        "dans",
+        "où"
+      ],
+      "choices_l2": [
+        "tam",
+        "v",
+        "kde"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-katka-b-va-v-nore",
+      "type": "order",
+      "l1": "Katka habite dans un terrier.",
+      "l2": "Katka býva v nore.",
+      "tokens_l1": [
+        "Katka",
+        "habite",
+        "dans un terrier."
+      ],
+      "tokens_l2": [
+        "Katka",
+        "býva",
+        "v nore."
+      ]
+    },
+    {
+      "id": "order-ma-o-b-va-v-brlohu",
+      "type": "order",
+      "l1": "Maťo habite dans une tanière.",
+      "l2": "Maťo býva v brlohu.",
+      "tokens_l1": [
+        "Maťo",
+        "habite",
+        "dans une tanière."
+      ],
+      "tokens_l2": [
+        "Maťo",
+        "býva",
+        "v brlohu."
+      ]
+    },
+    {
+      "id": "order-andrea-b-va-tam-v-nore",
+      "type": "order",
+      "l1": "Andrea habite là-bas dans un terrier.",
+      "l2": "Andrea býva tam v nore.",
+      "tokens_l1": [
+        "Andrea",
+        "habite",
+        "là-bas",
+        "dans un terrier."
+      ],
+      "tokens_l2": [
+        "Andrea",
+        "býva",
+        "tam",
+        "v nore."
+      ]
+    },
+    {
+      "id": "match-dom",
+      "type": "match",
+      "l1": [
+        "la maison",
+        "le terrier",
+        "la tanière",
+        "le nid"
+      ],
+      "l2": [
+        "dom",
+        "nora",
+        "brloh",
+        "hniezdo"
+      ]
+    },
+    {
+      "id": "match-tu",
+      "type": "match",
+      "l1": [
+        "ici",
+        "là-bas",
+        "où",
+        "dans"
+      ],
+      "l2": [
+        "tu",
+        "tam",
+        "kde",
+        "v"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-kde-b-va-b-vam-v-nore",
+      "type": "listen",
+      "l1": "Où habites-tu ? J'habite dans un terrier.",
+      "l2": "Kde bývaš? Bývam v nore.",
+      "choices_l1": [
+        "Où habites-tu ? J'habite dans une tanière.",
+        "Où est le lit ? J'habite dans un terrier.",
+        "Tu habites là-bas ? J'habite dans un terrier."
+      ]
+    },
+    {
+      "id": "listen-ma-o-b-va-v-brlohu-a-katka-b-va-v-nore",
+      "type": "listen",
+      "l1": "Maťo habite dans une tanière et Katka habite dans un terrier.",
+      "l2": "Maťo býva v brlohu a Katka býva v nore.",
+      "choices_l1": [
+        "Katka habite dans une tanière et Maťo habite dans un terrier.",
+        "Maťo habite dans un nid et Katka habite dans un terrier.",
+        "Maťo habite dans une tanière et Katka habite dans un nid."
+      ]
+    },
+    {
+      "id": "listen-v-mojom-brlohu-je-teplo",
+      "type": "listen",
+      "l1": "Dans ma tanière, il fait chaud.",
+      "l2": "V mojom brlohu je teplo.",
+      "choices_l1": [
+        "Dans ma tanière, il fait froid.",
+        "Dans ma cuisine, il fait chaud.",
+        "Dans mon terrier, il fait chaud."
+      ]
+    },
+    {
+      "id": "listen-kde-je-moja-poste-je-v-izbe",
+      "type": "listen",
+      "l1": "Où est mon lit ? Il est dans la chambre.",
+      "l2": "Kde je moja posteľ? Je v izbe.",
+      "choices_l1": [
+        "Où est mon lit ? Il est dans la cuisine.",
+        "Où est ma table ? Elle est dans la chambre.",
+        "Où est mon livre ? Il est dans la chambre."
+      ]
+    },
+    {
+      "id": "listen-o-je-na-stole-na-stole-je-kniha",
+      "type": "listen",
+      "l1": "Qu'est-ce qu'il y a sur la table ? Sur la table, il y a un livre.",
+      "l2": "Čo je na stole? Na stole je kniha.",
+      "choices_l1": [
+        "Qu'est-ce qu'il y a sur le lit ? Sur le lit, il y a un livre.",
+        "Qu'est-ce qu'il y a sur la table ? Sur la table, il y a un jouet.",
+        "Où est la table ? Sur la table, il y a un livre."
+      ]
+    },
+    {
+      "id": "listen-stoli-ka-je-v-kuchyni-ale-lampa-je-v-izbe",
+      "type": "listen",
+      "l1": "La chaise est dans la cuisine, mais la lampe est dans la chambre.",
+      "l2": "Stolička je v kuchyni, ale lampa je v izbe.",
+      "choices_l1": [
+        "La chaise est dans la chambre, mais la lampe est dans la cuisine.",
+        "La table est dans la cuisine, mais la lampe est dans la chambre.",
+        "La chaise est dans la cuisine, mais le livre est dans la chambre."
+      ]
+    },
+    {
+      "id": "listen-kde-s-dvere-dvere-s-tam",
+      "type": "listen",
+      "l1": "Où est la porte ? La porte est là-bas.",
+      "l2": "Kde sú dvere? Dvere sú tam.",
+      "choices_l1": [
+        "Où est la fenêtre ? La fenêtre est là-bas.",
+        "Où est la porte ? La porte est ici.",
+        "Où sont les chaises ? Les chaises sont là-bas."
+      ]
+    },
+    {
+      "id": "listen-na-posteli-s-dve-hra-ky",
+      "type": "listen",
+      "l1": "Sur le lit, il y a deux jouets.",
+      "l2": "Na posteli sú dve hračky.",
+      "choices_l1": [
+        "Sur le lit, il y a trois jouets.",
+        "Sur la table, il y a deux jouets.",
+        "Sur le lit, il y a deux livres."
+      ]
+    },
+    {
+      "id": "listen-vitaj-to-je-m-j-dom",
+      "type": "listen",
+      "l1": "Bienvenue ! Voici ma maison.",
+      "l2": "Vitaj! To je môj dom.",
+      "choices_l1": [
+        "Bienvenue ! Voici ma chambre.",
+        "Au revoir ! Voici ma maison.",
+        "Bienvenue ! Voici mon terrier."
+      ]
+    },
+    {
+      "id": "listen-v-kuchyni-je-zima-ale-v-izbe-je-teplo",
+      "type": "listen",
+      "l1": "Dans la cuisine, il fait froid, mais dans la chambre, il fait chaud.",
+      "l2": "V kuchyni je zima, ale v izbe je teplo.",
+      "choices_l1": [
+        "Dans la cuisine, il fait chaud, mais dans la chambre, il fait froid.",
+        "Dans la chambre, il fait froid, mais dans la cuisine, il fait chaud.",
+        "Dans la cuisine, il fait froid, mais dans le terrier, il fait chaud."
+      ]
+    },
+    {
+      "id": "listen-okn-s-ve-k-a-dvere-s-mal",
+      "type": "listen",
+      "l1": "Les fenêtres sont grandes et la porte est petite.",
+      "l2": "Okná sú veľké a dvere sú malé.",
+      "choices_l1": [
+        "Les fenêtres sont petites et la porte est grande.",
+        "Les chaises sont grandes et la porte est petite.",
+        "Les fenêtres sont grandes et la porte est grande."
+      ]
+    },
+    {
+      "id": "listen-kde-b-va-ty-aj-v-nore",
+      "type": "listen",
+      "l1": "Et toi, où habites-tu ? Aussi dans un terrier ?",
+      "l2": "Kde bývaš ty? Aj v nore?",
+      "choices_l1": [
+        "Et toi, où habites-tu ? Aussi dans un nid ?",
+        "Et toi, où est le lit ? Aussi dans un terrier ?",
+        "Et toi, tu habites ici ? Aussi dans un terrier ?"
+      ]
+    },
+    {
+      "id": "blank-kde-b-va-b-vam-v-nore",
+      "type": "fill-blank",
+      "l1": "Où habites-tu ? J'habite dans un terrier.",
+      "l2": "Kde bývaš? Bývam v nore.",
+      "missing_l1": "terrier",
+      "missing_l2": "nore",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "nid",
+        "maison",
+        "tanière"
+      ],
+      "choices_l2": [
+        "hniezde",
+        "dome",
+        "brlohu"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kde-je-moja-poste-je-v-izbe",
+      "type": "fill-blank",
+      "l1": "Où est mon lit ? Il est dans la chambre.",
+      "l2": "Kde je moja posteľ? Je v izbe.",
+      "missing_l1": "lit",
+      "missing_l2": "posteľ",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "table",
+        "chaise",
+        "livre"
+      ],
+      "choices_l2": [
+        "stôl",
+        "stolička",
+        "kniha"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-vitaj-to-je-m-j-dom",
+      "type": "fill-blank",
+      "l1": "Bienvenue ! Voici ma maison.",
+      "l2": "Vitaj! To je môj dom.",
+      "missing_l1": "maison",
+      "missing_l2": "dom",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "chambre",
+        "cuisine",
+        "table"
+      ],
+      "choices_l2": [
+        "izba",
+        "kuchyňa",
+        "stôl"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-okn-s-ve-k-a-dvere-s-mal",
+      "type": "fill-blank",
+      "l1": "Les fenêtres sont grandes et la porte est petite.",
+      "l2": "Okná sú veľké a dvere sú malé.",
+      "missing_l1": "porte",
+      "missing_l2": "dvere",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "table",
+        "chaise",
+        "chambre"
+      ],
+      "choices_l2": [
+        "stôl",
+        "stolička",
+        "izba"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ma-o-b-va-v-brlohu-a-katka-b-va-v-nore",
+      "type": "order",
+      "l1": "Maťo habite dans une tanière et Katka habite dans un terrier.",
+      "l2": "Maťo býva v brlohu a Katka býva v nore.",
+      "tokens_l1": [
+        "Maťo habite",
+        "dans une tanière",
+        "et",
+        "Katka habite",
+        "dans un terrier."
+      ],
+      "tokens_l2": [
+        "Maťo býva",
+        "v brlohu",
+        "a",
+        "Katka býva",
+        "v nore."
+      ]
+    },
+    {
+      "id": "order-kde-je-moja-poste-je-v-izbe",
+      "type": "order",
+      "l1": "Où est mon lit ? Il est dans la chambre.",
+      "l2": "Kde je moja posteľ? Je v izbe.",
+      "tokens_l1": [
+        "Où est",
+        "mon lit ?",
+        "Il est",
+        "dans la chambre."
+      ],
+      "tokens_l2": [
+        "Kde je",
+        "moja posteľ?",
+        "Je",
+        "v izbe."
+      ]
+    },
+    {
+      "id": "order-vitaj-to-je-m-j-dom",
+      "type": "order",
+      "l1": "Bienvenue ! Voici ma maison.",
+      "l2": "Vitaj! To je môj dom.",
+      "tokens_l1": [
+        "Bienvenue !",
+        "Voici",
+        "ma maison."
+      ],
+      "tokens_l2": [
+        "Vitaj!",
+        "To je",
+        "môj dom."
+      ]
+    },
+    {
+      "id": "match-dom",
+      "type": "match",
+      "l1": [
+        "la maison",
+        "le terrier",
+        "la tanière",
+        "le nid"
+      ],
+      "l2": [
+        "dom",
+        "nora",
+        "brloh",
+        "hniezdo"
+      ]
+    },
+    {
+      "id": "match-st-l",
+      "type": "match",
+      "l1": [
+        "la table",
+        "la chaise",
+        "le lit",
+        "la fenêtre"
+      ],
+      "l2": [
+        "stôl",
+        "stolička",
+        "posteľ",
+        "okno"
+      ]
+    },
+    {
+      "id": "match-kde-b-va-b-vam-v-nore",
+      "type": "match",
+      "l1": [
+        "Où habites-tu ? J'habite dans un terrier.",
+        "Bienvenue ! Voici ma maison.",
+        "Où est mon lit ? Il est dans la chambre.",
+        "Dans la cuisine, il fait froid, mais dans la chambre, il fait chaud."
+      ],
+      "l2": [
+        "Kde bývaš? Bývam v nore.",
+        "Vitaj! To je môj dom.",
+        "Kde je moja posteľ? Je v izbe.",
+        "V kuchyni je zima, ale v izbe je teplo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-izba",
+      "type": "qcm",
+      "l1": "la pièce, la chambre",
+      "l2": "izba",
+      "choices_l1": [
+        "la cuisine",
+        "le lit",
+        "la table"
+      ],
+      "choices_l2": [
+        "kuchyňa",
+        "posteľ",
+        "stôl"
+      ]
+    },
+    {
+      "id": "qcm-kuchy-a",
+      "type": "qcm",
+      "l1": "la cuisine",
+      "l2": "kuchyňa",
+      "choices_l1": [
+        "la pièce, la chambre",
+        "le lit",
+        "la table"
+      ],
+      "choices_l2": [
+        "izba",
+        "posteľ",
+        "stôl"
+      ]
+    },
+    {
+      "id": "qcm-poste",
+      "type": "qcm",
+      "l1": "le lit",
+      "l2": "posteľ",
+      "choices_l1": [
+        "la pièce, la chambre",
+        "la cuisine",
+        "la table"
+      ],
+      "choices_l2": [
+        "izba",
+        "kuchyňa",
+        "stôl"
+      ]
+    },
+    {
+      "id": "qcm-st-l",
+      "type": "qcm",
+      "l1": "la table",
+      "l2": "stôl",
+      "choices_l1": [
+        "la pièce, la chambre",
+        "la cuisine",
+        "le lit"
+      ],
+      "choices_l2": [
+        "izba",
+        "kuchyňa",
+        "posteľ"
+      ]
+    },
+    {
+      "id": "qcm-stoli-ka",
+      "type": "qcm",
+      "l1": "la chaise",
+      "l2": "stolička",
+      "choices_l1": [
+        "la pièce, la chambre",
+        "la cuisine",
+        "le lit"
+      ],
+      "choices_l2": [
+        "izba",
+        "kuchyňa",
+        "posteľ"
+      ]
+    },
+    {
+      "id": "qcm-okno",
+      "type": "qcm",
+      "l1": "la fenêtre",
+      "l2": "okno",
+      "choices_l1": [
+        "la pièce, la chambre",
+        "la cuisine",
+        "le lit"
+      ],
+      "choices_l2": [
+        "izba",
+        "kuchyňa",
+        "posteľ"
+      ]
+    },
+    {
+      "id": "qcm-kde-je-poste",
+      "type": "qcm",
+      "l1": "Où est le lit ?",
+      "l2": "Kde je posteľ?",
+      "choices_l1": [
+        "Où est la table ?",
+        "Le lit est dans la chambre.",
+        "Où habites-tu ?"
+      ],
+      "choices_l2": [
+        "Kde je stôl?",
+        "Posteľ je v izbe.",
+        "Kde bývaš?"
+      ]
+    },
+    {
+      "id": "listen-to-je-izba",
+      "type": "listen",
+      "l1": "C'est une chambre.",
+      "l2": "To je izba.",
+      "choices_l1": [
+        "C'est une cuisine.",
+        "C'est mon lit.",
+        "C'est ma sœur."
+      ]
+    },
+    {
+      "id": "listen-to-je-kuchy-a",
+      "type": "listen",
+      "l1": "C'est une cuisine.",
+      "l2": "To je kuchyňa.",
+      "choices_l1": [
+        "C'est une chambre.",
+        "C'est ma maman.",
+        "C'est une fenêtre."
+      ]
+    },
+    {
+      "id": "listen-kde-je-poste",
+      "type": "listen",
+      "l1": "Où est le lit ?",
+      "l2": "Kde je posteľ?",
+      "choices_l1": [
+        "Où est la table ?",
+        "Où est la chaise ?",
+        "Où est la fenêtre ?"
+      ]
+    },
+    {
+      "id": "listen-poste-je-v-izbe",
+      "type": "listen",
+      "l1": "Le lit est dans la chambre.",
+      "l2": "Posteľ je v izbe.",
+      "choices_l1": [
+        "Le lit est dans la cuisine.",
+        "La table est dans la chambre.",
+        "Le lit est là-bas."
+      ]
+    },
+    {
+      "id": "listen-kde-je-st-l",
+      "type": "listen",
+      "l1": "Où est la table ?",
+      "l2": "Kde je stôl?",
+      "choices_l1": [
+        "Où est le lit ?",
+        "Où est la chaise ?",
+        "Où est la maison ?"
+      ]
+    },
+    {
+      "id": "listen-st-l-je-v-kuchyni",
+      "type": "listen",
+      "l1": "La table est dans la cuisine.",
+      "l2": "Stôl je v kuchyni.",
+      "choices_l1": [
+        "La table est dans la chambre.",
+        "Le lit est dans la cuisine.",
+        "La chaise est dans la cuisine."
+      ]
+    },
+    {
+      "id": "listen-stoli-ka-je-tam",
+      "type": "listen",
+      "l1": "La chaise est là-bas.",
+      "l2": "Stolička je tam.",
+      "choices_l1": [
+        "La chaise est ici.",
+        "La table est là-bas.",
+        "La fenêtre est là-bas."
+      ]
+    },
+    {
+      "id": "listen-v-izbe-je-teplo",
+      "type": "listen",
+      "l1": "Dans la chambre, il fait chaud.",
+      "l2": "V izbe je teplo.",
+      "choices_l1": [
+        "Dans la cuisine, il fait chaud.",
+        "Dans la chambre, il fait froid.",
+        "Dans la tanière, il fait chaud."
+      ]
+    },
+    {
+      "id": "listen-v-kuchyni-je-zima",
+      "type": "listen",
+      "l1": "Dans la cuisine, il fait froid.",
+      "l2": "V kuchyni je zima.",
+      "choices_l1": [
+        "Dans la chambre, il fait froid.",
+        "Dans la cuisine, il fait chaud.",
+        "Dans le terrier, il fait froid."
+      ]
+    },
+    {
+      "id": "blank-poste-je-v-izbe",
+      "type": "fill-blank",
+      "l1": "Le lit est dans la chambre.",
+      "l2": "Posteľ je v izbe.",
+      "missing_l1": "chambre",
+      "missing_l2": "izbe",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "cuisine",
+        "terrier",
+        "maison"
+      ],
+      "choices_l2": [
+        "kuchyni",
+        "nore",
+        "dome"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-st-l-je-v-kuchyni",
+      "type": "fill-blank",
+      "l1": "La table est dans la cuisine.",
+      "l2": "Stôl je v kuchyni.",
+      "missing_l1": "cuisine",
+      "missing_l2": "kuchyni",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "chambre",
+        "terrier",
+        "maison"
+      ],
+      "choices_l2": [
+        "izbe",
+        "nore",
+        "dome"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-stoli-ka-je-tam",
+      "type": "fill-blank",
+      "l1": "La chaise est là-bas.",
+      "l2": "Stolička je tam.",
+      "missing_l1": "là-bas",
+      "missing_l2": "tam",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "ici",
+        "dans",
+        "où"
+      ],
+      "choices_l2": [
+        "tu",
+        "v",
+        "kde"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kde-je-st-l",
+      "type": "fill-blank",
+      "l1": "Où est la table ?",
+      "l2": "Kde je stôl?",
+      "missing_l1": "table",
+      "missing_l2": "stôl",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "lit",
+        "chaise",
+        "fenêtre"
+      ],
+      "choices_l2": [
+        "posteľ",
+        "stolička",
+        "okno"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-poste-je-v-izbe",
+      "type": "order",
+      "l1": "Le lit est dans la chambre.",
+      "l2": "Posteľ je v izbe.",
+      "tokens_l1": [
+        "Le lit",
+        "est",
+        "dans la chambre."
+      ],
+      "tokens_l2": [
+        "Posteľ",
+        "je",
+        "v izbe."
+      ]
+    },
+    {
+      "id": "order-st-l-je-v-kuchyni",
+      "type": "order",
+      "l1": "La table est dans la cuisine.",
+      "l2": "Stôl je v kuchyni.",
+      "tokens_l1": [
+        "La table",
+        "est",
+        "dans la cuisine."
+      ],
+      "tokens_l2": [
+        "Stôl",
+        "je",
+        "v kuchyni."
+      ]
+    },
+    {
+      "id": "order-kde-je-okno-okno-je-tu",
+      "type": "order",
+      "l1": "Où est la fenêtre ? La fenêtre est ici.",
+      "l2": "Kde je okno? Okno je tu.",
+      "tokens_l1": [
+        "Où est",
+        "la fenêtre ?",
+        "La fenêtre",
+        "est ici."
+      ],
+      "tokens_l2": [
+        "Kde je",
+        "okno?",
+        "Okno",
+        "je tu."
+      ]
+    },
+    {
+      "id": "match-izba",
+      "type": "match",
+      "l1": [
+        "la pièce, la chambre",
+        "la cuisine",
+        "le lit",
+        "la table"
+      ],
+      "l2": [
+        "izba",
+        "kuchyňa",
+        "posteľ",
+        "stôl"
+      ]
+    },
+    {
+      "id": "match-stoli-ka",
+      "type": "match",
+      "l1": [
+        "la chaise",
+        "la fenêtre",
+        "la cuisine",
+        "le lit"
+      ],
+      "l2": [
+        "stolička",
+        "okno",
+        "kuchyňa",
+        "posteľ"
+      ]
+    }
+  ]
+}

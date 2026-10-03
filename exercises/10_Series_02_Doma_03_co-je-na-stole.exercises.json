@@ -1,0 +1,351 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-kniha",
+      "type": "qcm",
+      "l1": "le livre",
+      "l2": "kniha",
+      "choices_l1": [
+        "la lampe",
+        "le jouet",
+        "la chaise"
+      ],
+      "choices_l2": [
+        "lampa",
+        "hračka",
+        "stolička"
+      ]
+    },
+    {
+      "id": "qcm-lampa",
+      "type": "qcm",
+      "l1": "la lampe",
+      "l2": "lampa",
+      "choices_l1": [
+        "le livre",
+        "le jouet",
+        "la chaise"
+      ],
+      "choices_l2": [
+        "kniha",
+        "hračka",
+        "stolička"
+      ]
+    },
+    {
+      "id": "qcm-hra-ka",
+      "type": "qcm",
+      "l1": "le jouet",
+      "l2": "hračka",
+      "choices_l1": [
+        "le livre",
+        "la lampe",
+        "la chaise"
+      ],
+      "choices_l2": [
+        "kniha",
+        "lampa",
+        "stolička"
+      ]
+    },
+    {
+      "id": "qcm-na",
+      "type": "qcm",
+      "l1": "sur",
+      "l2": "na",
+      "choices_l1": [
+        "dans",
+        "où",
+        "ici"
+      ],
+      "choices_l2": [
+        "v",
+        "kde",
+        "tu"
+      ]
+    },
+    {
+      "id": "qcm-o",
+      "type": "qcm",
+      "l1": "quoi, qu'est-ce que",
+      "l2": "čo",
+      "choices_l1": [
+        "où",
+        "qui",
+        "combien"
+      ],
+      "choices_l2": [
+        "kde",
+        "kto",
+        "koľko"
+      ]
+    },
+    {
+      "id": "qcm-na-stole",
+      "type": "qcm",
+      "l1": "sur la table",
+      "l2": "na stole",
+      "choices_l1": [
+        "sur le lit",
+        "dans la chambre",
+        "dans la cuisine"
+      ],
+      "choices_l2": [
+        "na posteli",
+        "v izbe",
+        "v kuchyni"
+      ]
+    },
+    {
+      "id": "listen-o-je-na-stole",
+      "type": "listen",
+      "l1": "Qu'est-ce qu'il y a sur la table ?",
+      "l2": "Čo je na stole?",
+      "choices_l1": [
+        "Où est la table ?",
+        "Qu'est-ce qu'il y a sur le lit ?",
+        "Qu'est-ce qu'il y a dans la cuisine ?"
+      ]
+    },
+    {
+      "id": "listen-na-stole-je-kniha",
+      "type": "listen",
+      "l1": "Sur la table, il y a un livre.",
+      "l2": "Na stole je kniha.",
+      "choices_l1": [
+        "Sur la table, il y a un jouet.",
+        "Sur le lit, il y a un livre.",
+        "Sur la table, il y a une lampe."
+      ]
+    },
+    {
+      "id": "listen-o-je-na-posteli",
+      "type": "listen",
+      "l1": "Qu'est-ce qu'il y a sur le lit ?",
+      "l2": "Čo je na posteli?",
+      "choices_l1": [
+        "Qu'est-ce qu'il y a sur la table ?",
+        "Où est le lit ?",
+        "Qu'est-ce qu'il y a dans la chambre ?"
+      ]
+    },
+    {
+      "id": "listen-na-posteli-je-hra-ka",
+      "type": "listen",
+      "l1": "Sur le lit, il y a un jouet.",
+      "l2": "Na posteli je hračka.",
+      "choices_l1": [
+        "Sur le lit, il y a un livre.",
+        "Sur la table, il y a un jouet.",
+        "Dans le lit, il y a un jouet."
+      ]
+    },
+    {
+      "id": "listen-lampa-je-v-izbe",
+      "type": "listen",
+      "l1": "La lampe est dans la chambre.",
+      "l2": "Lampa je v izbe.",
+      "choices_l1": [
+        "La lampe est dans la cuisine.",
+        "La lampe est sur la table.",
+        "Le livre est dans la chambre."
+      ]
+    },
+    {
+      "id": "listen-o-je-v-kuchyni",
+      "type": "listen",
+      "l1": "Qu'est-ce qu'il y a dans la cuisine ?",
+      "l2": "Čo je v kuchyni?",
+      "choices_l1": [
+        "Qu'est-ce qu'il y a sur la table ?",
+        "Où est la cuisine ?",
+        "Qu'est-ce qu'il y a dans la chambre ?"
+      ]
+    },
+    {
+      "id": "listen-v-kuchyni-je-st-l-a-stoli-ka",
+      "type": "listen",
+      "l1": "Dans la cuisine, il y a une table et une chaise.",
+      "l2": "V kuchyni je stôl a stolička.",
+      "choices_l1": [
+        "Dans la chambre, il y a une table et une chaise.",
+        "Dans la cuisine, il y a un lit et une chaise.",
+        "Dans la cuisine, il y a une table et une lampe."
+      ]
+    },
+    {
+      "id": "listen-kde-je-moja-kniha-je-na-stole",
+      "type": "listen",
+      "l1": "Où est mon livre ? Il est sur la table.",
+      "l2": "Kde je moja kniha? Je na stole.",
+      "choices_l1": [
+        "Où est ma lampe ? Elle est sur la table.",
+        "Où est mon livre ? Il est sur le lit.",
+        "Où est mon jouet ? Il est sur la table."
+      ]
+    },
+    {
+      "id": "blank-na-stole-je-kniha",
+      "type": "fill-blank",
+      "l1": "Sur la table, il y a un livre.",
+      "l2": "Na stole je kniha.",
+      "missing_l1": "livre",
+      "missing_l2": "kniha",
+      "blank_index_l1": 7,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "jouet",
+        "lampe",
+        "chaise"
+      ],
+      "choices_l2": [
+        "hračka",
+        "lampa",
+        "stolička"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-na-posteli-je-hra-ka",
+      "type": "fill-blank",
+      "l1": "Sur le lit, il y a un jouet.",
+      "l2": "Na posteli je hračka.",
+      "missing_l1": "jouet",
+      "missing_l2": "hračka",
+      "blank_index_l1": 7,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "livre",
+        "lampe",
+        "chaise"
+      ],
+      "choices_l2": [
+        "kniha",
+        "lampa",
+        "stolička"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-o-je-v-kuchyni",
+      "type": "fill-blank",
+      "l1": "Qu'est-ce qu'il y a dans la cuisine ?",
+      "l2": "Čo je v kuchyni?",
+      "missing_l1": "cuisine",
+      "missing_l2": "kuchyni",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "chambre",
+        "table",
+        "maison"
+      ],
+      "choices_l2": [
+        "izbe",
+        "stole",
+        "dome"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-na-stole-je-kniha",
+      "type": "order",
+      "l1": "Sur la table, il y a un livre.",
+      "l2": "Na stole je kniha.",
+      "tokens_l1": [
+        "Sur la table,",
+        "il y a",
+        "un livre."
+      ],
+      "tokens_l2": [
+        "Na stole",
+        "je",
+        "kniha."
+      ]
+    },
+    {
+      "id": "order-lampa-je-v-izbe",
+      "type": "order",
+      "l1": "La lampe est dans la chambre.",
+      "l2": "Lampa je v izbe.",
+      "tokens_l1": [
+        "La lampe",
+        "est",
+        "dans la chambre."
+      ],
+      "tokens_l2": [
+        "Lampa",
+        "je",
+        "v izbe."
+      ]
+    },
+    {
+      "id": "order-o-je-na-stole",
+      "type": "order",
+      "l1": "Qu'est-ce qu'il y a sur la table ?",
+      "l2": "Čo je na stole?",
+      "tokens_l1": [
+        "Qu'est-ce",
+        "qu'il y a",
+        "sur la table ?"
+      ],
+      "tokens_l2": [
+        "Čo",
+        "je",
+        "na stole?"
+      ]
+    },
+    {
+      "id": "order-v-kuchyni-je-st-l-a-stoli-ka",
+      "type": "order",
+      "l1": "Dans la cuisine, il y a une table et une chaise.",
+      "l2": "V kuchyni je stôl a stolička.",
+      "tokens_l1": [
+        "Dans la cuisine,",
+        "il y a",
+        "une table",
+        "et une chaise."
+      ],
+      "tokens_l2": [
+        "V kuchyni",
+        "je",
+        "stôl",
+        "a stolička."
+      ]
+    },
+    {
+      "id": "match-kniha",
+      "type": "match",
+      "l1": [
+        "le livre",
+        "la lampe",
+        "le jouet",
+        "sur"
+      ],
+      "l2": [
+        "kniha",
+        "lampa",
+        "hračka",
+        "na"
+      ]
+    },
+    {
+      "id": "match-na-stole",
+      "type": "match",
+      "l1": [
+        "sur la table",
+        "sur le lit",
+        "dans la chambre",
+        "dans la cuisine"
+      ],
+      "l2": [
+        "na stole",
+        "na posteli",
+        "v izbe",
+        "v kuchyni"
+      ]
+    }
+  ]
+}
