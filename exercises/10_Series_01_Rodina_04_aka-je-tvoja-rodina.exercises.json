@@ -1,0 +1,391 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-siln",
+      "type": "qcm",
+      "l1": "fort",
+      "l2": "silný",
+      "choices_l1": [
+        "joyeux",
+        "gentil",
+        "petit"
+      ],
+      "choices_l2": [
+        "veselý",
+        "milý",
+        "malý"
+      ]
+    },
+    {
+      "id": "qcm-vesel",
+      "type": "qcm",
+      "l1": "joyeux",
+      "l2": "veselý",
+      "choices_l1": [
+        "fort",
+        "gentil",
+        "petit"
+      ],
+      "choices_l2": [
+        "silný",
+        "milý",
+        "malý"
+      ]
+    },
+    {
+      "id": "qcm-mil",
+      "type": "qcm",
+      "l1": "gentil",
+      "l2": "milý",
+      "choices_l1": [
+        "fort",
+        "joyeux",
+        "petit"
+      ],
+      "choices_l2": [
+        "silný",
+        "veselý",
+        "malý"
+      ]
+    },
+    {
+      "id": "qcm-mal",
+      "type": "qcm",
+      "l1": "petit",
+      "l2": "malý",
+      "choices_l1": [
+        "fort",
+        "joyeux",
+        "gentil"
+      ],
+      "choices_l2": [
+        "silný",
+        "veselý",
+        "milý"
+      ]
+    },
+    {
+      "id": "qcm-ve-k",
+      "type": "qcm",
+      "l1": "grand",
+      "l2": "veľký",
+      "choices_l1": [
+        "fort",
+        "joyeux",
+        "gentil"
+      ],
+      "choices_l2": [
+        "silný",
+        "veselý",
+        "milý"
+      ]
+    },
+    {
+      "id": "qcm-siln-2",
+      "type": "qcm",
+      "l1": "forte",
+      "l2": "silná",
+      "choices_l1": [
+        "petite",
+        "joyeuse",
+        "gentille"
+      ],
+      "choices_l2": [
+        "malá",
+        "veselá",
+        "milá"
+      ]
+    },
+    {
+      "id": "qcm-je",
+      "type": "qcm",
+      "l1": "est",
+      "l2": "je",
+      "choices_l1": [
+        "j'ai",
+        "tu as",
+        "et"
+      ],
+      "choices_l2": [
+        "mám",
+        "máš",
+        "a"
+      ]
+    },
+    {
+      "id": "qcm-ak-je-tvoja-sestra",
+      "type": "qcm",
+      "l1": "Comment est ta sœur ?",
+      "l2": "Aká je tvoja sestra?",
+      "choices_l1": [
+        "Comment est ton frère ?",
+        "Elle est petite.",
+        "Ma sœur est forte."
+      ],
+      "choices_l2": [
+        "Aký je tvoj brat?",
+        "Je malá.",
+        "Moja sestra je silná."
+      ]
+    },
+    {
+      "id": "listen-m-j-brat-je-siln",
+      "type": "listen",
+      "l1": "Mon frère est fort.",
+      "l2": "Môj brat je silný.",
+      "choices_l1": [
+        "Ma sœur est forte.",
+        "Mon frère est petit.",
+        "Mon papa est fort."
+      ]
+    },
+    {
+      "id": "listen-moja-sestra-je-mal",
+      "type": "listen",
+      "l1": "Ma sœur est petite.",
+      "l2": "Moja sestra je malá.",
+      "choices_l1": [
+        "Mon frère est petit.",
+        "Ma sœur est grande.",
+        "Ma maman est petite."
+      ]
+    },
+    {
+      "id": "listen-moja-mama-je-vesel-a-mil",
+      "type": "listen",
+      "l1": "Ma maman est joyeuse et gentille.",
+      "l2": "Moja mama je veselá a milá.",
+      "choices_l1": [
+        "Mon papa est joyeux et gentil.",
+        "Ma maman est petite et gentille.",
+        "Ma maman est joyeuse et forte."
+      ]
+    },
+    {
+      "id": "listen-m-j-tato-je-ve-k",
+      "type": "listen",
+      "l1": "Mon papa est grand.",
+      "l2": "Môj tato je veľký.",
+      "choices_l1": [
+        "Ma maman est grande.",
+        "Mon papa est petit.",
+        "Mon frère est grand."
+      ]
+    },
+    {
+      "id": "listen-ak-je-tvoja-babka",
+      "type": "listen",
+      "l1": "Comment est ta grand-mère ?",
+      "l2": "Aká je tvoja babka?",
+      "choices_l1": [
+        "Comment est ton grand-père ?",
+        "Comment est ta sœur ?",
+        "Ta grand-mère est gentille."
+      ]
+    },
+    {
+      "id": "listen-ak-je-tvoj-brat",
+      "type": "listen",
+      "l1": "Comment est ton frère ?",
+      "l2": "Aký je tvoj brat?",
+      "choices_l1": [
+        "Comment est ta sœur ?",
+        "Comment est ton papa ?",
+        "Ton frère est fort."
+      ]
+    },
+    {
+      "id": "listen-m-m-sestru-je-vesel",
+      "type": "listen",
+      "l1": "J'ai une sœur. Elle est joyeuse.",
+      "l2": "Mám sestru. Je veselá.",
+      "choices_l1": [
+        "J'ai un frère. Il est joyeux.",
+        "J'ai une sœur. Elle est petite.",
+        "Je n'ai pas de sœur. Elle est joyeuse."
+      ]
+    },
+    {
+      "id": "blank-m-j-brat-je-siln",
+      "type": "fill-blank",
+      "l1": "Mon frère est fort.",
+      "l2": "Môj brat je silný.",
+      "missing_l1": "fort",
+      "missing_l2": "silný",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "petit",
+        "joyeux",
+        "gentil"
+      ],
+      "choices_l2": [
+        "malý",
+        "veselý",
+        "milý"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-moja-sestra-je-mal",
+      "type": "fill-blank",
+      "l1": "Ma sœur est petite.",
+      "l2": "Moja sestra je malá.",
+      "missing_l1": "petite",
+      "missing_l2": "malá",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "forte",
+        "grande",
+        "joyeuse"
+      ],
+      "choices_l2": [
+        "silná",
+        "veľká",
+        "veselá"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-moja-mama-je-vesel",
+      "type": "fill-blank",
+      "l1": "Ma maman est joyeuse.",
+      "l2": "Moja mama je veselá.",
+      "missing_l1": "joyeuse",
+      "missing_l2": "veselá",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "gentille",
+        "petite",
+        "forte"
+      ],
+      "choices_l2": [
+        "milá",
+        "malá",
+        "silná"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ak-je-tvoj-brat",
+      "type": "fill-blank",
+      "l1": "Comment est ton frère ?",
+      "l2": "Aký je tvoj brat?",
+      "missing_l1": "frère",
+      "missing_l2": "brat",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "papa",
+        "sœur",
+        "oncle"
+      ],
+      "choices_l2": [
+        "tato",
+        "sestra",
+        "strýko"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-m-j-brat-je-siln",
+      "type": "order",
+      "l1": "Mon frère est fort.",
+      "l2": "Môj brat je silný.",
+      "tokens_l1": [
+        "Mon frère",
+        "est",
+        "fort."
+      ],
+      "tokens_l2": [
+        "Môj brat",
+        "je",
+        "silný."
+      ]
+    },
+    {
+      "id": "order-moja-sestra-je-mal",
+      "type": "order",
+      "l1": "Ma sœur est petite.",
+      "l2": "Moja sestra je malá.",
+      "tokens_l1": [
+        "Ma sœur",
+        "est",
+        "petite."
+      ],
+      "tokens_l2": [
+        "Moja sestra",
+        "je",
+        "malá."
+      ]
+    },
+    {
+      "id": "order-ak-je-tvoja-babka",
+      "type": "order",
+      "l1": "Comment est ta grand-mère ?",
+      "l2": "Aká je tvoja babka?",
+      "tokens_l1": [
+        "Comment",
+        "est",
+        "ta grand-mère ?"
+      ],
+      "tokens_l2": [
+        "Aká",
+        "je",
+        "tvoja babka?"
+      ]
+    },
+    {
+      "id": "order-moja-babka-je-mil",
+      "type": "order",
+      "l1": "Ma grand-mère est gentille.",
+      "l2": "Moja babka je milá.",
+      "tokens_l1": [
+        "Ma grand-mère",
+        "est",
+        "gentille."
+      ],
+      "tokens_l2": [
+        "Moja babka",
+        "je",
+        "milá."
+      ]
+    },
+    {
+      "id": "match-siln",
+      "type": "match",
+      "l1": [
+        "fort",
+        "joyeux",
+        "gentil",
+        "petit"
+      ],
+      "l2": [
+        "silný",
+        "veselý",
+        "milý",
+        "malý"
+      ]
+    },
+    {
+      "id": "match-siln-2",
+      "type": "match",
+      "l1": [
+        "forte",
+        "joyeuse",
+        "gentille",
+        "petite"
+      ],
+      "l2": [
+        "silná",
+        "veselá",
+        "milá",
+        "malá"
+      ]
+    }
+  ]
+}

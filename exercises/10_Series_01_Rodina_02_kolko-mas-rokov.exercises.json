@@ -1,0 +1,324 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-ko-ko",
+      "type": "qcm",
+      "l1": "combien",
+      "l2": "koľko",
+      "choices_l1": [
+        "j'ai",
+        "ans",
+        "tu as"
+      ],
+      "choices_l2": [
+        "mám",
+        "rokov",
+        "máš"
+      ]
+    },
+    {
+      "id": "qcm-m-m",
+      "type": "qcm",
+      "l1": "j'ai",
+      "l2": "mám",
+      "choices_l1": [
+        "tu as",
+        "il a",
+        "ans"
+      ],
+      "choices_l2": [
+        "máš",
+        "má",
+        "rokov"
+      ]
+    },
+    {
+      "id": "qcm-m",
+      "type": "qcm",
+      "l1": "tu as",
+      "l2": "máš",
+      "choices_l1": [
+        "j'ai",
+        "il a",
+        "combien"
+      ],
+      "choices_l2": [
+        "mám",
+        "má",
+        "koľko"
+      ]
+    },
+    {
+      "id": "qcm-rokov",
+      "type": "qcm",
+      "l1": "ans",
+      "l2": "rokov",
+      "choices_l1": [
+        "j'ai",
+        "tu as",
+        "combien"
+      ],
+      "choices_l2": [
+        "mám",
+        "máš",
+        "koľko"
+      ]
+    },
+    {
+      "id": "qcm-ko-ko-m-rokov",
+      "type": "qcm",
+      "l1": "Quel âge as-tu ?",
+      "l2": "Koľko máš rokov?",
+      "choices_l1": [
+        "J'ai huit ans.",
+        "Tu as dix ans ?",
+        "Elle a huit ans."
+      ],
+      "choices_l2": [
+        "Mám osem rokov.",
+        "Máš desať rokov?",
+        "Ona má osem rokov."
+      ]
+    },
+    {
+      "id": "qcm-m-m-osem-rokov",
+      "type": "qcm",
+      "l1": "J'ai huit ans.",
+      "l2": "Mám osem rokov.",
+      "choices_l1": [
+        "J'ai neuf ans.",
+        "Tu as huit ans.",
+        "Il a huit ans."
+      ],
+      "choices_l2": [
+        "Mám deväť rokov.",
+        "Máš osem rokov.",
+        "On má osem rokov."
+      ]
+    },
+    {
+      "id": "listen-m-m-osem-rokov",
+      "type": "listen",
+      "l1": "J'ai huit ans.",
+      "l2": "Mám osem rokov.",
+      "choices_l1": [
+        "J'ai neuf ans.",
+        "Tu as huit ans.",
+        "Elle a huit ans."
+      ]
+    },
+    {
+      "id": "listen-m-m-dev-rokov",
+      "type": "listen",
+      "l1": "J'ai neuf ans.",
+      "l2": "Mám deväť rokov.",
+      "choices_l1": [
+        "J'ai dix ans.",
+        "Il a neuf ans.",
+        "Tu as neuf ans."
+      ]
+    },
+    {
+      "id": "listen-m-desa-rokov",
+      "type": "listen",
+      "l1": "Tu as dix ans ?",
+      "l2": "Máš desať rokov?",
+      "choices_l1": [
+        "J'ai dix ans.",
+        "Tu as neuf ans ?",
+        "Elle a dix ans."
+      ]
+    },
+    {
+      "id": "listen-ko-ko-m-rokov",
+      "type": "listen",
+      "l1": "Quel âge as-tu ?",
+      "l2": "Koľko máš rokov?",
+      "choices_l1": [
+        "Quel âge a-t-il ?",
+        "Tu as huit ans ?",
+        "Combien de frères ?"
+      ]
+    },
+    {
+      "id": "listen-ona-m-osem-rokov",
+      "type": "listen",
+      "l1": "Elle a huit ans.",
+      "l2": "Ona má osem rokov.",
+      "choices_l1": [
+        "Il a huit ans.",
+        "J'ai huit ans.",
+        "Elle a neuf ans."
+      ]
+    },
+    {
+      "id": "listen-on-m-dev-rokov",
+      "type": "listen",
+      "l1": "Il a neuf ans.",
+      "l2": "On má deväť rokov.",
+      "choices_l1": [
+        "Elle a neuf ans.",
+        "J'ai neuf ans.",
+        "Il a huit ans."
+      ]
+    },
+    {
+      "id": "listen-to-je-moja-sestra-m-osem-rokov",
+      "type": "listen",
+      "l1": "C'est ma sœur. Elle a huit ans.",
+      "l2": "To je moja sestra. Má osem rokov.",
+      "choices_l1": [
+        "C'est mon frère. Il a huit ans.",
+        "C'est ma sœur. Elle a neuf ans.",
+        "C'est ma maman. Elle a huit ans."
+      ]
+    },
+    {
+      "id": "blank-m-m-osem-rokov",
+      "type": "fill-blank",
+      "l1": "J'ai huit ans.",
+      "l2": "Mám osem rokov.",
+      "missing_l1": "huit",
+      "missing_l2": "osem",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "neuf",
+        "dix",
+        "ans"
+      ],
+      "choices_l2": [
+        "deväť",
+        "desať",
+        "rokov"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-m-desa-rokov",
+      "type": "fill-blank",
+      "l1": "Tu as dix ans ?",
+      "l2": "Máš desať rokov?",
+      "missing_l1": "dix",
+      "missing_l2": "desať",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "huit",
+        "neuf",
+        "ans"
+      ],
+      "choices_l2": [
+        "osem",
+        "deväť",
+        "rokov"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ona-m-osem-rokov",
+      "type": "fill-blank",
+      "l1": "Elle a huit ans.",
+      "l2": "Ona má osem rokov.",
+      "missing_l1": "ans",
+      "missing_l2": "rokov",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "huit",
+        "neuf",
+        "dix"
+      ],
+      "choices_l2": [
+        "osem",
+        "deväť",
+        "desať"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ko-ko-m-rokov",
+      "type": "order",
+      "l1": "Quel âge as-tu ?",
+      "l2": "Koľko máš rokov?",
+      "tokens_l1": [
+        "Quel",
+        "âge",
+        "as-tu ?"
+      ],
+      "tokens_l2": [
+        "Koľko",
+        "máš",
+        "rokov?"
+      ]
+    },
+    {
+      "id": "order-m-m-osem-rokov",
+      "type": "order",
+      "l1": "J'ai huit ans.",
+      "l2": "Mám osem rokov.",
+      "tokens_l1": [
+        "J'ai",
+        "huit",
+        "ans."
+      ],
+      "tokens_l2": [
+        "Mám",
+        "osem",
+        "rokov."
+      ]
+    },
+    {
+      "id": "order-ona-m-dev-rokov",
+      "type": "order",
+      "l1": "Elle a neuf ans.",
+      "l2": "Ona má deväť rokov.",
+      "tokens_l1": [
+        "Elle",
+        "a",
+        "neuf",
+        "ans."
+      ],
+      "tokens_l2": [
+        "Ona",
+        "má",
+        "deväť",
+        "rokov."
+      ]
+    },
+    {
+      "id": "match-m-m",
+      "type": "match",
+      "l1": [
+        "j'ai",
+        "tu as",
+        "il a",
+        "ans"
+      ],
+      "l2": [
+        "mám",
+        "máš",
+        "má",
+        "rokov"
+      ]
+    },
+    {
+      "id": "match-ja",
+      "type": "match",
+      "l1": [
+        "moi",
+        "toi",
+        "il",
+        "elle"
+      ],
+      "l2": [
+        "ja",
+        "ty",
+        "on",
+        "ona"
+      ]
+    }
+  ]
+}

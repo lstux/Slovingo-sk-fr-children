@@ -1,0 +1,297 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-l-ka",
+      "type": "qcm",
+      "l1": "le renard (l'animal)",
+      "l2": "líška",
+      "choices_l1": [
+        "la sœur",
+        "la tante",
+        "la grand-mère"
+      ],
+      "choices_l2": [
+        "sestra",
+        "teta",
+        "babka"
+      ]
+    },
+    {
+      "id": "qcm-boj-m-sa",
+      "type": "qcm",
+      "l1": "j'ai peur",
+      "l2": "bojím sa",
+      "choices_l1": [
+        "je n'ai pas peur",
+        "je n'ai pas",
+        "j'ai huit ans"
+      ],
+      "choices_l2": [
+        "nebojím sa",
+        "nemám",
+        "mám osem rokov"
+      ]
+    },
+    {
+      "id": "qcm-neboj-m-sa",
+      "type": "qcm",
+      "l1": "je n'ai pas peur",
+      "l2": "nebojím sa",
+      "choices_l1": [
+        "j'ai peur",
+        "je n'ai pas",
+        "pas de souci"
+      ],
+      "choices_l2": [
+        "bojím sa",
+        "nemám",
+        "nevadí"
+      ]
+    },
+    {
+      "id": "qcm-deti",
+      "type": "qcm",
+      "l1": "les enfants",
+      "l2": "deti",
+      "choices_l1": [
+        "les parents",
+        "l'enfant",
+        "le voisin"
+      ],
+      "choices_l2": [
+        "rodičia",
+        "dieťa",
+        "sused"
+      ]
+    },
+    {
+      "id": "qcm-teraz",
+      "type": "qcm",
+      "l1": "maintenant",
+      "l2": "teraz",
+      "choices_l1": [
+        "très",
+        "mais",
+        "oui"
+      ],
+      "choices_l2": [
+        "veľmi",
+        "ale",
+        "áno"
+      ]
+    },
+    {
+      "id": "listen-boj-m-sa",
+      "type": "listen",
+      "l1": "J'ai peur !",
+      "l2": "Bojím sa!",
+      "choices_l1": [
+        "Je n'ai pas peur.",
+        "J'ai huit ans !",
+        "Pardon !"
+      ]
+    },
+    {
+      "id": "listen-ja-sa-neboj-m",
+      "type": "listen",
+      "l1": "Moi, je n'ai pas peur.",
+      "l2": "Ja sa nebojím.",
+      "choices_l1": [
+        "Moi, j'ai peur.",
+        "Moi, j'ai huit ans.",
+        "Toi, tu n'as pas peur."
+      ]
+    },
+    {
+      "id": "listen-ach-to-je-l-ka",
+      "type": "listen",
+      "l1": "Ah ! C'est un renard !",
+      "l2": "Ach! To je líška!",
+      "choices_l1": [
+        "Ah ! C'est ma sœur !",
+        "Ah ! C'est mon frère !",
+        "Oh ! C'est ma tante !"
+      ]
+    },
+    {
+      "id": "listen-no-ale-je-ve-mi-mil",
+      "type": "listen",
+      "l1": "Oui, mais il est très gentil !",
+      "l2": "Áno, ale je veľmi milá!",
+      "choices_l1": [
+        "Non, mais il est très gentil !",
+        "Oui, mais il est très petit !",
+        "Oui, et il est très gentil !"
+      ]
+    },
+    {
+      "id": "listen-nem-m-brata-ale-m-m-sestru",
+      "type": "listen",
+      "l1": "Je n'ai pas de frère, mais j'ai une sœur.",
+      "l2": "Nemám brata, ale mám sestru.",
+      "choices_l1": [
+        "J'ai un frère, mais je n'ai pas de sœur.",
+        "Je n'ai pas de frère, mais j'ai un oncle.",
+        "Je n'ai pas de sœur, mais j'ai une tante."
+      ]
+    },
+    {
+      "id": "listen-ak-je-tvoj-tato-je-ve-k",
+      "type": "listen",
+      "l1": "Comment est ton papa ? Il est grand ?",
+      "l2": "Aký je tvoj tato? Je veľký?",
+      "choices_l1": [
+        "Comment est ta maman ? Elle est grande ?",
+        "Comment est ton frère ? Il est grand ?",
+        "Comment est ton papa ? Il est petit ?"
+      ]
+    },
+    {
+      "id": "blank-ja-sa-neboj-m",
+      "type": "fill-blank",
+      "l1": "Moi, je n'ai pas peur.",
+      "l2": "Ja sa nebojím.",
+      "missing_l1": "Moi",
+      "missing_l2": "Ja",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Toi",
+        "Il",
+        "Elle"
+      ],
+      "choices_l2": [
+        "Ty",
+        "On",
+        "Ona"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-no-ale-je-ve-mi-mil",
+      "type": "fill-blank",
+      "l1": "Oui, mais il est très gentil !",
+      "l2": "Áno, ale je veľmi milá!",
+      "missing_l1": "mais",
+      "missing_l2": "ale",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "et",
+        "non",
+        "très"
+      ],
+      "choices_l2": [
+        "a",
+        "nie",
+        "veľmi"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ach-to-je-l-ka",
+      "type": "fill-blank",
+      "l1": "Ah ! C'est un renard !",
+      "l2": "Ach! To je líška!",
+      "missing_l1": "renard",
+      "missing_l2": "líška",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "frère",
+        "tante",
+        "sœur"
+      ],
+      "choices_l2": [
+        "brat",
+        "teta",
+        "sestra"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ach-to-je-l-ka",
+      "type": "order",
+      "l1": "Ah ! C'est un renard !",
+      "l2": "Ach! To je líška!",
+      "tokens_l1": [
+        "Ah !",
+        "C'est",
+        "un renard !"
+      ],
+      "tokens_l2": [
+        "Ach!",
+        "To je",
+        "líška!"
+      ]
+    },
+    {
+      "id": "order-ja-sa-neboj-m",
+      "type": "order",
+      "l1": "Moi, je n'ai pas peur.",
+      "l2": "Ja sa nebojím.",
+      "tokens_l1": [
+        "Moi,",
+        "je n'ai",
+        "pas peur."
+      ],
+      "tokens_l2": [
+        "Ja",
+        "sa",
+        "nebojím."
+      ]
+    },
+    {
+      "id": "order-nem-m-brata-ale-m-m-sestru",
+      "type": "order",
+      "l1": "Je n'ai pas de frère, mais j'ai une sœur.",
+      "l2": "Nemám brata, ale mám sestru.",
+      "tokens_l1": [
+        "Je n'ai pas",
+        "de frère,",
+        "mais",
+        "j'ai une sœur."
+      ],
+      "tokens_l2": [
+        "Nemám",
+        "brata,",
+        "ale",
+        "mám sestru."
+      ]
+    },
+    {
+      "id": "match-boj-m-sa",
+      "type": "match",
+      "l1": [
+        "j'ai peur",
+        "je n'ai pas peur",
+        "les enfants",
+        "maintenant"
+      ],
+      "l2": [
+        "bojím sa",
+        "nebojím sa",
+        "deti",
+        "teraz"
+      ]
+    },
+    {
+      "id": "match-ach-to-je-l-ka",
+      "type": "match",
+      "l1": [
+        "Ah ! C'est un renard !",
+        "Oui, mais il est très gentil !",
+        "J'ai peur !",
+        "Moi, je n'ai pas peur."
+      ],
+      "l2": [
+        "Ach! To je líška!",
+        "Áno, ale je veľmi milá!",
+        "Bojím sa!",
+        "Ja sa nebojím."
+      ]
+    }
+  ]
+}

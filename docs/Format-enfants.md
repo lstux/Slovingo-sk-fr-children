@@ -9,6 +9,7 @@ La base reste le **SMD (Slovingo Markdown)** : voir `Format-SMD.txt` dans le rep
 Tous les personnages sont des animaux qui vivent dans les Tatry, façon Bisounours : ils parlent, ils ont une maison avec un lit et une table, et le monde est gentil. Pas besoin d'expliquer les liens de parenté (Katka et Maťo sont frère et sœur, point).
 
 - **Toi (🦊)** arrives dans la montagne. Le texte ne dit jamais « petit renard / petite renarde » : on ne sait pas si c'est un garçon ou une fille. Quand il faut un nom, on parle de l'avatar (« 🦊 Toi »).
+- **Gag** : 🦊 est un renard et Andrea un lièvre, donc il pourrait la manger… mais c'est un gentil renard. Léger, jamais de vraie peur.
 - **Le message nature** revient doucement, surtout dans les coins slovaques : rester sur le sentier (*chodník*), ne pas nourrir les animaux, remporter ses déchets (*odpadky*), le parc national des Tatry (TANAP, créé en 1949). Jamais de morale lourde : une phrase, un fait, un sourire.
 - **Faits** : on ne dit que ce qui est vérifiable sur les Tatry (marmotte *svišť*, chamois *kamzík*, ours *medveď*, lynx *rys*, aigle *orol*, cerf *jeleň*, loup *vlk*).
 - **Humour** : Jedlo contient une petite blague sur la bryndza et les halušky, que Babka Zuzana (une brebis) évite soigneusement.

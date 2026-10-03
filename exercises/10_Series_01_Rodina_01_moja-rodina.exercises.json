@@ -1,0 +1,382 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-rodina",
+      "type": "qcm",
+      "l1": "la famille",
+      "l2": "rodina",
+      "choices_l1": [
+        "maman",
+        "papa",
+        "le frère"
+      ],
+      "choices_l2": [
+        "mama",
+        "tato",
+        "brat"
+      ]
+    },
+    {
+      "id": "qcm-mama",
+      "type": "qcm",
+      "l1": "maman",
+      "l2": "mama",
+      "choices_l1": [
+        "la famille",
+        "papa",
+        "le frère"
+      ],
+      "choices_l2": [
+        "rodina",
+        "tato",
+        "brat"
+      ]
+    },
+    {
+      "id": "qcm-tato",
+      "type": "qcm",
+      "l1": "papa",
+      "l2": "tato",
+      "choices_l1": [
+        "la famille",
+        "maman",
+        "le frère"
+      ],
+      "choices_l2": [
+        "rodina",
+        "mama",
+        "brat"
+      ]
+    },
+    {
+      "id": "qcm-brat",
+      "type": "qcm",
+      "l1": "le frère",
+      "l2": "brat",
+      "choices_l1": [
+        "la famille",
+        "maman",
+        "papa"
+      ],
+      "choices_l2": [
+        "rodina",
+        "mama",
+        "tato"
+      ]
+    },
+    {
+      "id": "qcm-sestra",
+      "type": "qcm",
+      "l1": "la sœur",
+      "l2": "sestra",
+      "choices_l1": [
+        "la famille",
+        "maman",
+        "papa"
+      ],
+      "choices_l2": [
+        "rodina",
+        "mama",
+        "tato"
+      ]
+    },
+    {
+      "id": "qcm-babka",
+      "type": "qcm",
+      "l1": "la grand-mère",
+      "l2": "babka",
+      "choices_l1": [
+        "la famille",
+        "maman",
+        "papa"
+      ],
+      "choices_l2": [
+        "rodina",
+        "mama",
+        "tato"
+      ]
+    },
+    {
+      "id": "qcm-dedko",
+      "type": "qcm",
+      "l1": "le grand-père",
+      "l2": "dedko",
+      "choices_l1": [
+        "le frère",
+        "le copain",
+        "papa"
+      ],
+      "choices_l2": [
+        "brat",
+        "kamarát",
+        "tato"
+      ]
+    },
+    {
+      "id": "qcm-moja-sestra",
+      "type": "qcm",
+      "l1": "ma sœur",
+      "l2": "moja sestra",
+      "choices_l1": [
+        "mon frère",
+        "ma maman",
+        "ma grand-mère"
+      ],
+      "choices_l2": [
+        "môj brat",
+        "moja mama",
+        "moja babka"
+      ]
+    },
+    {
+      "id": "qcm-m-j-tato",
+      "type": "qcm",
+      "l1": "mon papa",
+      "l2": "môj tato",
+      "choices_l1": [
+        "ma maman",
+        "mon frère",
+        "ma sœur"
+      ],
+      "choices_l2": [
+        "moja mama",
+        "môj brat",
+        "moja sestra"
+      ]
+    },
+    {
+      "id": "listen-to-je-moja-mama",
+      "type": "listen",
+      "l1": "C'est ma maman.",
+      "l2": "To je moja mama.",
+      "choices_l1": [
+        "C'est mon papa.",
+        "C'est ma sœur.",
+        "C'est mon frère."
+      ]
+    },
+    {
+      "id": "listen-to-je-m-j-tato",
+      "type": "listen",
+      "l1": "C'est mon papa.",
+      "l2": "To je môj tato.",
+      "choices_l1": [
+        "C'est ma maman.",
+        "C'est mon frère.",
+        "C'est ma grand-mère."
+      ]
+    },
+    {
+      "id": "listen-to-je-m-j-brat",
+      "type": "listen",
+      "l1": "C'est mon frère.",
+      "l2": "To je môj brat.",
+      "choices_l1": [
+        "C'est ma sœur.",
+        "C'est mon papa.",
+        "C'est ma maman."
+      ]
+    },
+    {
+      "id": "listen-to-je-moja-babka",
+      "type": "listen",
+      "l1": "C'est ma grand-mère.",
+      "l2": "To je moja babka.",
+      "choices_l1": [
+        "C'est ma sœur.",
+        "C'est ma maman.",
+        "C'est mon grand-père."
+      ]
+    },
+    {
+      "id": "listen-to-je-moja-rodina",
+      "type": "listen",
+      "l1": "Voici ma famille.",
+      "l2": "To je moja rodina.",
+      "choices_l1": [
+        "Voici ma maman.",
+        "Voici mon frère.",
+        "Voici ma sœur."
+      ]
+    },
+    {
+      "id": "listen-to-je-m-j-dedko",
+      "type": "listen",
+      "l1": "C'est mon grand-père.",
+      "l2": "To je môj dedko.",
+      "choices_l1": [
+        "C'est mon copain.",
+        "C'est mon papa.",
+        "C'est mon frère."
+      ]
+    },
+    {
+      "id": "blank-to-je-moja-mama",
+      "type": "fill-blank",
+      "l1": "C'est ma maman.",
+      "l2": "To je moja mama.",
+      "missing_l1": "maman",
+      "missing_l2": "mama",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "papa",
+        "frère",
+        "sœur"
+      ],
+      "choices_l2": [
+        "tato",
+        "brat",
+        "sestra"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-to-je-moja-sestra",
+      "type": "fill-blank",
+      "l1": "C'est ma sœur.",
+      "l2": "To je moja sestra.",
+      "missing_l1": "sœur",
+      "missing_l2": "sestra",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "maman",
+        "frère",
+        "famille"
+      ],
+      "choices_l2": [
+        "mama",
+        "brat",
+        "rodina"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-to-je-m-j-brat",
+      "type": "fill-blank",
+      "l1": "C'est mon frère.",
+      "l2": "To je môj brat.",
+      "missing_l1": "frère",
+      "missing_l2": "brat",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "papa",
+        "sœur",
+        "copain"
+      ],
+      "choices_l2": [
+        "tato",
+        "sestra",
+        "kamarát"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-to-je-m-j-tato",
+      "type": "fill-blank",
+      "l1": "C'est mon papa.",
+      "l2": "To je môj tato.",
+      "missing_l1": "papa",
+      "missing_l2": "tato",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "maman",
+        "frère",
+        "copain"
+      ],
+      "choices_l2": [
+        "mama",
+        "brat",
+        "kamarát"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-to-je-moja-sestra",
+      "type": "order",
+      "l1": "C'est ma sœur.",
+      "l2": "To je moja sestra.",
+      "tokens_l1": [
+        "C'est",
+        "ma",
+        "sœur."
+      ],
+      "tokens_l2": [
+        "To je",
+        "moja",
+        "sestra."
+      ]
+    },
+    {
+      "id": "order-to-je-m-j-brat",
+      "type": "order",
+      "l1": "C'est mon frère.",
+      "l2": "To je môj brat.",
+      "tokens_l1": [
+        "C'est",
+        "mon",
+        "frère."
+      ],
+      "tokens_l2": [
+        "To je",
+        "môj",
+        "brat."
+      ]
+    },
+    {
+      "id": "order-to-je-moja-mama-a-m-j-tato",
+      "type": "order",
+      "l1": "Voici ma maman et mon papa.",
+      "l2": "To je moja mama a môj tato.",
+      "tokens_l1": [
+        "Voici",
+        "ma maman",
+        "et",
+        "mon papa."
+      ],
+      "tokens_l2": [
+        "To je",
+        "moja mama",
+        "a",
+        "môj tato."
+      ]
+    },
+    {
+      "id": "match-rodina",
+      "type": "match",
+      "l1": [
+        "la famille",
+        "maman",
+        "papa",
+        "la grand-mère"
+      ],
+      "l2": [
+        "rodina",
+        "mama",
+        "tato",
+        "babka"
+      ]
+    },
+    {
+      "id": "match-brat",
+      "type": "match",
+      "l1": [
+        "le frère",
+        "la sœur",
+        "le grand-père",
+        "le copain"
+      ],
+      "l2": [
+        "brat",
+        "sestra",
+        "dedko",
+        "kamarát"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-m-m-brata",
+      "type": "qcm",
+      "l1": "j'ai un frère",
+      "l2": "mám brata",
+      "choices_l1": [
+        "j'ai une sœur",
+        "je n'ai pas de frère",
+        "j'ai une grand-mère"
+      ],
+      "choices_l2": [
+        "mám sestru",
+        "nemám brata",
+        "mám babku"
+      ]
+    },
+    {
+      "id": "qcm-m-m-sestru",
+      "type": "qcm",
+      "l1": "j'ai une sœur",
+      "l2": "mám sestru",
+      "choices_l1": [
+        "j'ai un frère",
+        "j'ai une tante",
+        "je n'ai pas de sœur"
+      ],
+      "choices_l2": [
+        "mám brata",
+        "mám tetu",
+        "nemám brata"
+      ]
+    },
+    {
+      "id": "qcm-nem-m-brata",
+      "type": "qcm",
+      "l1": "je n'ai pas de frère",
+      "l2": "nemám brata",
+      "choices_l1": [
+        "j'ai un frère",
+        "j'ai une sœur",
+        "je n'ai pas de grand-père"
+      ],
+      "choices_l2": [
+        "mám brata",
+        "mám sestru",
+        "nemám dedka"
+      ]
+    },
+    {
+      "id": "qcm-teta",
+      "type": "qcm",
+      "l1": "la tante",
+      "l2": "teta",
+      "choices_l1": [
+        "l'oncle",
+        "le voisin",
+        "la voisine"
+      ],
+      "choices_l2": [
+        "strýko",
+        "sused",
+        "susedka"
+      ]
+    },
+    {
+      "id": "qcm-str-ko",
+      "type": "qcm",
+      "l1": "l'oncle",
+      "l2": "strýko",
+      "choices_l1": [
+        "la tante",
+        "le frère",
+        "le grand-père"
+      ],
+      "choices_l2": [
+        "teta",
+        "brat",
+        "dedko"
+      ]
+    },
+    {
+      "id": "qcm-kto",
+      "type": "qcm",
+      "l1": "qui",
+      "l2": "kto",
+      "choices_l1": [
+        "combien",
+        "mais",
+        "ans"
+      ],
+      "choices_l2": [
+        "koľko",
+        "ale",
+        "rokov"
+      ]
+    },
+    {
+      "id": "listen-m-m-brata",
+      "type": "listen",
+      "l1": "J'ai un frère.",
+      "l2": "Mám brata.",
+      "choices_l1": [
+        "Je n'ai pas de frère.",
+        "J'ai une sœur.",
+        "Tu as un frère."
+      ]
+    },
+    {
+      "id": "listen-nem-m-brata",
+      "type": "listen",
+      "l1": "Je n'ai pas de frère.",
+      "l2": "Nemám brata.",
+      "choices_l1": [
+        "J'ai un frère.",
+        "Je n'ai pas de sœur.",
+        "Tu n'as pas de frère."
+      ]
+    },
+    {
+      "id": "listen-m-sestru",
+      "type": "listen",
+      "l1": "Tu as une sœur ?",
+      "l2": "Máš sestru?",
+      "choices_l1": [
+        "Tu as un frère ?",
+        "J'ai une sœur.",
+        "Elle a une sœur."
+      ]
+    },
+    {
+      "id": "listen-m-m-rodi-ov",
+      "type": "listen",
+      "l1": "J'ai des parents.",
+      "l2": "Mám rodičov.",
+      "choices_l1": [
+        "J'ai un frère.",
+        "J'ai une tante.",
+        "Je n'ai pas de parents."
+      ]
+    },
+    {
+      "id": "listen-kto-je-to-to-je-moja-teta",
+      "type": "listen",
+      "l1": "Qui est-ce ? C'est ma tante.",
+      "l2": "Kto je to? To je moja teta.",
+      "choices_l1": [
+        "Qui est-ce ? C'est mon oncle.",
+        "Qui est-ce ? C'est ma sœur.",
+        "Combien ? C'est ma tante."
+      ]
+    },
+    {
+      "id": "listen-to-je-m-j-str-ko",
+      "type": "listen",
+      "l1": "C'est mon oncle.",
+      "l2": "To je môj strýko.",
+      "choices_l1": [
+        "C'est ma tante.",
+        "C'est mon frère.",
+        "C'est mon voisin."
+      ]
+    },
+    {
+      "id": "listen-to-je-moje-vn-a",
+      "type": "listen",
+      "l1": "C'est mon petit-enfant.",
+      "l2": "To je moje vnúča.",
+      "choices_l1": [
+        "C'est mon enfant.",
+        "C'est mon frère.",
+        "C'est mon voisin."
+      ]
+    },
+    {
+      "id": "blank-m-m-brata",
+      "type": "fill-blank",
+      "l1": "J'ai un frère.",
+      "l2": "Mám brata.",
+      "missing_l1": "frère",
+      "missing_l2": "brata",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "sœur",
+        "tante",
+        "oncle"
+      ],
+      "choices_l2": [
+        "sestru",
+        "tetu",
+        "strýka"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-m-m-sestru",
+      "type": "fill-blank",
+      "l1": "J'ai une sœur.",
+      "l2": "Mám sestru.",
+      "missing_l1": "sœur",
+      "missing_l2": "sestru",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "frère",
+        "tante",
+        "oncle"
+      ],
+      "choices_l2": [
+        "brata",
+        "tetu",
+        "strýka"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-m-tetu",
+      "type": "fill-blank",
+      "l1": "Tu as une tante ?",
+      "l2": "Máš tetu?",
+      "missing_l1": "tante",
+      "missing_l2": "tetu",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "sœur",
+        "grand-mère",
+        "oncle"
+      ],
+      "choices_l2": [
+        "sestru",
+        "babku",
+        "strýka"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-to-je-m-j-str-ko",
+      "type": "fill-blank",
+      "l1": "C'est mon oncle.",
+      "l2": "To je môj strýko.",
+      "missing_l1": "oncle",
+      "missing_l2": "strýko",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "papa",
+        "frère",
+        "voisin"
+      ],
+      "choices_l2": [
+        "tato",
+        "brat",
+        "sused"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-kto-je-to",
+      "type": "fill-blank",
+      "l1": "Qui est-ce ?",
+      "l2": "Kto je to?",
+      "missing_l1": "Qui",
+      "missing_l2": "Kto",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Combien",
+        "Mais",
+        "Oui"
+      ],
+      "choices_l2": [
+        "Koľko",
+        "Ale",
+        "Áno"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-kto-je-to-to-je-m-j-sused",
+      "type": "order",
+      "l1": "Qui est-ce ? C'est mon voisin.",
+      "l2": "Kto je to? To je môj sused.",
+      "tokens_l1": [
+        "Qui est-ce ?",
+        "C'est",
+        "mon voisin."
+      ],
+      "tokens_l2": [
+        "Kto je to?",
+        "To je",
+        "môj sused."
+      ]
+    },
+    {
+      "id": "order-to-je-m-j-str-ko-a-moja-teta",
+      "type": "order",
+      "l1": "C'est mon oncle et ma tante.",
+      "l2": "To je môj strýko a moja teta.",
+      "tokens_l1": [
+        "C'est",
+        "mon oncle",
+        "et",
+        "ma tante."
+      ],
+      "tokens_l2": [
+        "To je",
+        "môj strýko",
+        "a",
+        "moja teta."
+      ]
+    },
+    {
+      "id": "match-m-m-brata",
+      "type": "match",
+      "l1": [
+        "j'ai un frère",
+        "j'ai une sœur",
+        "je n'ai pas de frère",
+        "j'ai une tante"
+      ],
+      "l2": [
+        "mám brata",
+        "mám sestru",
+        "nemám brata",
+        "mám tetu"
+      ]
+    },
+    {
+      "id": "match-teta",
+      "type": "match",
+      "l1": [
+        "la tante",
+        "l'oncle",
+        "le voisin",
+        "la voisine"
+      ],
+      "l2": [
+        "teta",
+        "strýko",
+        "sused",
+        "susedka"
+      ]
+    }
+  ]
+}

@@ -114,6 +114,8 @@ Tutoiement entre tous. Ce sont de vrais animaux des Tatry qui parlent : Andrea (
 L'enfant rencontre Andrea dès le Kit de Survie (fiche 03) : c'est elle qui lui apprend à se présenter, et qui justifie *nerozumiem* et *hovoríš po francúzsky?*.
 
 **Traits à établir au fil des séries** (à noter ici dès qu'ils sont posés, pour rester cohérent) :
+- Gag de fond : 🦊 est un renard et Andrea 🐰 un lièvre, donc il pourrait la manger… mais c'est un gentil renard (jamais de vraie peur, tout le monde en rit). Il mange des baies, pas des lièvres.
+- Quand quelqu'un parle de 🦊 comme d'un animal, on utilise le mot *líška* (nom féminin) : « milá líška ». L'accord se fait avec le mot, pas avec l'enfant. Les répliques de 🦊 lui-même restent sans forme genrée.
 - Jedlo : Babka Zuzana est une brebis ; la bryndza et les halušky sont un sujet qu'elle évite avec le sourire (petite blague)
 - Dedina : le marchand est un adulte, donc *vy* ; il tutoie les enfants, qui le vouvoient
 
