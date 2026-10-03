@@ -1,0 +1,328 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-veveri-ka",
+      "type": "qcm",
+      "l1": "l'écureuil",
+      "l2": "veverička",
+      "choices_l1": [
+        "la chouette, le hibou",
+        "le bébé animal",
+        "les animaux"
+      ],
+      "choices_l2": [
+        "sova",
+        "mláďa",
+        "zvieratá"
+      ]
+    },
+    {
+      "id": "qcm-sova",
+      "type": "qcm",
+      "l1": "la chouette, le hibou",
+      "l2": "sova",
+      "choices_l1": [
+        "l'écureuil",
+        "le bébé animal",
+        "les animaux"
+      ],
+      "choices_l2": [
+        "veverička",
+        "mláďa",
+        "zvieratá"
+      ]
+    },
+    {
+      "id": "qcm-ml-a",
+      "type": "qcm",
+      "l1": "le bébé animal",
+      "l2": "mláďa",
+      "choices_l1": [
+        "l'écureuil",
+        "la chouette, le hibou",
+        "les animaux"
+      ],
+      "choices_l2": [
+        "veverička",
+        "sova",
+        "zvieratá"
+      ]
+    },
+    {
+      "id": "qcm-zvierat",
+      "type": "qcm",
+      "l1": "les animaux",
+      "l2": "zvieratá",
+      "choices_l1": [
+        "l'écureuil",
+        "la chouette, le hibou",
+        "le bébé animal"
+      ],
+      "choices_l2": [
+        "veverička",
+        "sova",
+        "mláďa"
+      ]
+    },
+    {
+      "id": "listen-s-tu-dve-veveri-ky",
+      "type": "listen",
+      "l1": "Il y a deux écureuils ici.",
+      "l2": "Sú tu dve veveričky.",
+      "choices_l1": [
+        "Il y a trois écureuils ici.",
+        "Il y a deux chouettes ici.",
+        "Il y a deux écureuils là-bas."
+      ]
+    },
+    {
+      "id": "listen-s-tu-tri-sovy",
+      "type": "listen",
+      "l1": "Il y a trois chouettes ici.",
+      "l2": "Sú tu tri sovy.",
+      "choices_l1": [
+        "Il y a deux chouettes ici.",
+        "Il y a trois écureuils ici.",
+        "Il y a quatre chouettes ici."
+      ]
+    },
+    {
+      "id": "listen-s-tu-tyri-l-ky",
+      "type": "listen",
+      "l1": "Il y a quatre renards ici.",
+      "l2": "Sú tu štyri líšky.",
+      "choices_l1": [
+        "Il y a trois renards ici.",
+        "Il y a quatre chouettes ici.",
+        "Il y a quatre écureuils ici."
+      ]
+    },
+    {
+      "id": "listen-v-tatr-ch-s-zvierat",
+      "type": "listen",
+      "l1": "Dans les Tatry, il y a des animaux.",
+      "l2": "V Tatrách sú zvieratá.",
+      "choices_l1": [
+        "Dans les Tatry, il y a un animal.",
+        "Dans le village, il y a des animaux.",
+        "Dans les Tatry, il y a des chouettes."
+      ]
+    },
+    {
+      "id": "listen-kde-s-ml-at",
+      "type": "listen",
+      "l1": "Où sont les bébés animaux ?",
+      "l2": "Kde sú mláďatá?",
+      "choices_l1": [
+        "Où est le bébé animal ?",
+        "Où sont les chouettes ?",
+        "Où sont les animaux ?"
+      ]
+    },
+    {
+      "id": "listen-ml-at-s-v-nore",
+      "type": "listen",
+      "l1": "Les bébés animaux sont dans le terrier.",
+      "l2": "Mláďatá sú v nore.",
+      "choices_l1": [
+        "Les bébés animaux sont dans la tanière.",
+        "Les écureuils sont dans le terrier.",
+        "Le bébé animal est dans le terrier."
+      ]
+    },
+    {
+      "id": "listen-s-tu-dve-ml-at",
+      "type": "listen",
+      "l1": "Il y a deux bébés animaux ici.",
+      "l2": "Sú tu dve mláďatá.",
+      "choices_l1": [
+        "Il y a trois bébés animaux ici.",
+        "Il y a deux écureuils ici.",
+        "Il y a deux bébés animaux là-bas."
+      ]
+    },
+    {
+      "id": "listen-kde-s-sovy-s-tam",
+      "type": "listen",
+      "l1": "Où sont les chouettes ? Elles sont là-bas.",
+      "l2": "Kde sú sovy? Sú tam.",
+      "choices_l1": [
+        "Où sont les écureuils ? Elles sont là-bas.",
+        "Où sont les chouettes ? Elles sont ici.",
+        "Où est la chouette ? Elle est là-bas."
+      ]
+    },
+    {
+      "id": "listen-tu-je-veveri-ka",
+      "type": "listen",
+      "l1": "Voici un écureuil.",
+      "l2": "Tu je veverička.",
+      "choices_l1": [
+        "Voici une chouette.",
+        "Où est l'écureuil ?",
+        "Voici deux écureuils."
+      ]
+    },
+    {
+      "id": "listen-tam-s-dve-sovy-a-tri-veveri-ky",
+      "type": "listen",
+      "l1": "Là-bas, il y a deux chouettes et trois écureuils.",
+      "l2": "Tam sú dve sovy a tri veveričky.",
+      "choices_l1": [
+        "Là-bas, il y a trois chouettes et deux écureuils.",
+        "Ici, il y a deux chouettes et trois écureuils.",
+        "Là-bas, il y a deux chouettes et trois renards."
+      ]
+    },
+    {
+      "id": "blank-s-tu-dve-veveri-ky",
+      "type": "fill-blank",
+      "l1": "Il y a deux écureuils ici.",
+      "l2": "Sú tu dve veveričky.",
+      "missing_l1": "écureuils",
+      "missing_l2": "veveričky",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "chouettes",
+        "renards",
+        "animaux"
+      ],
+      "choices_l2": [
+        "sovy",
+        "líšky",
+        "zvieratá"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-s-tu-tri-sovy",
+      "type": "fill-blank",
+      "l1": "Il y a trois chouettes ici.",
+      "l2": "Sú tu tri sovy.",
+      "missing_l1": "trois",
+      "missing_l2": "tri",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "deux",
+        "quatre",
+        "huit"
+      ],
+      "choices_l2": [
+        "dve",
+        "štyri",
+        "osem"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-v-tatr-ch-s-zvierat",
+      "type": "fill-blank",
+      "l1": "Dans les Tatry, il y a des animaux.",
+      "l2": "V Tatrách sú zvieratá.",
+      "missing_l1": "animaux",
+      "missing_l2": "zvieratá",
+      "blank_index_l1": 7,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "écureuils",
+        "chouettes",
+        "renards"
+      ],
+      "choices_l2": [
+        "veveričky",
+        "sovy",
+        "líšky"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ml-at-s-v-nore",
+      "type": "fill-blank",
+      "l1": "Les bébés animaux sont dans le terrier.",
+      "l2": "Mláďatá sú v nore.",
+      "missing_l1": "terrier",
+      "missing_l2": "nore",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "tanière",
+        "nid",
+        "maison"
+      ],
+      "choices_l2": [
+        "brlohu",
+        "hniezde",
+        "dome"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-ml-at-s-v-nore",
+      "type": "order",
+      "l1": "Les bébés animaux sont dans le terrier.",
+      "l2": "Mláďatá sú v nore.",
+      "tokens_l1": [
+        "Les bébés animaux",
+        "sont",
+        "dans le terrier."
+      ],
+      "tokens_l2": [
+        "Mláďatá",
+        "sú",
+        "v nore."
+      ]
+    },
+    {
+      "id": "order-kde-s-ml-at",
+      "type": "order",
+      "l1": "Où sont les bébés animaux ?",
+      "l2": "Kde sú mláďatá?",
+      "tokens_l1": [
+        "Où",
+        "sont",
+        "les bébés animaux ?"
+      ],
+      "tokens_l2": [
+        "Kde",
+        "sú",
+        "mláďatá?"
+      ]
+    },
+    {
+      "id": "match-veveri-ka",
+      "type": "match",
+      "l1": [
+        "l'écureuil",
+        "la chouette, le hibou",
+        "le bébé animal",
+        "les animaux"
+      ],
+      "l2": [
+        "veverička",
+        "sova",
+        "mláďa",
+        "zvieratá"
+      ]
+    },
+    {
+      "id": "match-veveri-ka-veveri-ky",
+      "type": "match",
+      "l1": [
+        "un écureuil → des écureuils",
+        "une chouette → des chouettes",
+        "un renard → des renards",
+        "un animal → des animaux"
+      ],
+      "l2": [
+        "veverička → veveričky",
+        "sova → sovy",
+        "líška → líšky",
+        "zviera → zvieratá"
+      ]
+    }
+  ]
+}

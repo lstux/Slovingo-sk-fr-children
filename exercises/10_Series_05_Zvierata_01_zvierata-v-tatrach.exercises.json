@@ -1,0 +1,467 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-svi",
+      "type": "qcm",
+      "l1": "la marmotte",
+      "l2": "svišť",
+      "choices_l1": [
+        "l'ours",
+        "le lièvre",
+        "le chamois"
+      ],
+      "choices_l2": [
+        "medveď",
+        "zajac",
+        "kamzík"
+      ]
+    },
+    {
+      "id": "qcm-medve",
+      "type": "qcm",
+      "l1": "l'ours",
+      "l2": "medveď",
+      "choices_l1": [
+        "la marmotte",
+        "le lièvre",
+        "le chamois"
+      ],
+      "choices_l2": [
+        "svišť",
+        "zajac",
+        "kamzík"
+      ]
+    },
+    {
+      "id": "qcm-zajac",
+      "type": "qcm",
+      "l1": "le lièvre",
+      "l2": "zajac",
+      "choices_l1": [
+        "la marmotte",
+        "l'ours",
+        "le chamois"
+      ],
+      "choices_l2": [
+        "svišť",
+        "medveď",
+        "kamzík"
+      ]
+    },
+    {
+      "id": "qcm-kamz-k",
+      "type": "qcm",
+      "l1": "le chamois",
+      "l2": "kamzík",
+      "choices_l1": [
+        "la marmotte",
+        "l'ours",
+        "le lièvre"
+      ],
+      "choices_l2": [
+        "svišť",
+        "medveď",
+        "zajac"
+      ]
+    },
+    {
+      "id": "qcm-orol",
+      "type": "qcm",
+      "l1": "l'aigle",
+      "l2": "orol",
+      "choices_l1": [
+        "la marmotte",
+        "l'ours",
+        "le lièvre"
+      ],
+      "choices_l2": [
+        "svišť",
+        "medveď",
+        "zajac"
+      ]
+    },
+    {
+      "id": "qcm-vlk",
+      "type": "qcm",
+      "l1": "le loup",
+      "l2": "vlk",
+      "choices_l1": [
+        "la marmotte",
+        "l'ours",
+        "le lièvre"
+      ],
+      "choices_l2": [
+        "svišť",
+        "medveď",
+        "zajac"
+      ]
+    },
+    {
+      "id": "qcm-rys",
+      "type": "qcm",
+      "l1": "le lynx",
+      "l2": "rys",
+      "choices_l1": [
+        "la marmotte",
+        "l'ours",
+        "le lièvre"
+      ],
+      "choices_l2": [
+        "svišť",
+        "medveď",
+        "zajac"
+      ]
+    },
+    {
+      "id": "qcm-som",
+      "type": "qcm",
+      "l1": "je suis",
+      "l2": "som",
+      "choices_l1": [
+        "tu es",
+        "j'ai",
+        "je vais"
+      ],
+      "choices_l2": [
+        "si",
+        "mám",
+        "idem"
+      ]
+    },
+    {
+      "id": "qcm-si",
+      "type": "qcm",
+      "l1": "tu es",
+      "l2": "si",
+      "choices_l1": [
+        "je suis",
+        "tu as",
+        "tu vas"
+      ],
+      "choices_l2": [
+        "som",
+        "máš",
+        "ideš"
+      ]
+    },
+    {
+      "id": "qcm-zviera",
+      "type": "qcm",
+      "l1": "l'animal",
+      "l2": "zviera",
+      "choices_l1": [
+        "le village",
+        "le loup",
+        "la famille"
+      ],
+      "choices_l2": [
+        "dedina",
+        "vlk",
+        "rodina"
+      ]
+    },
+    {
+      "id": "listen-ja-som-l-ka",
+      "type": "listen",
+      "l1": "Moi, je suis un renard.",
+      "l2": "Ja som líška.",
+      "choices_l1": [
+        "Toi, tu es un renard.",
+        "Moi, je suis un lynx.",
+        "Moi, j'ai un renard."
+      ]
+    },
+    {
+      "id": "listen-ty-si-zaja-ica",
+      "type": "listen",
+      "l1": "Toi, tu es une hase.",
+      "l2": "Ty si zajačica.",
+      "choices_l1": [
+        "Moi, je suis une hase.",
+        "Toi, tu es une marmotte.",
+        "Toi, tu as une hase."
+      ]
+    },
+    {
+      "id": "listen-andrea-je-zaja-ica",
+      "type": "listen",
+      "l1": "Andrea est une hase.",
+      "l2": "Andrea je zajačica.",
+      "choices_l1": [
+        "Katka est une hase.",
+        "Andrea est une marmotte.",
+        "Andrea a une hase."
+      ]
+    },
+    {
+      "id": "listen-katka-je-svi",
+      "type": "listen",
+      "l1": "Katka est une marmotte.",
+      "l2": "Katka je svišť.",
+      "choices_l1": [
+        "Maťo est une marmotte.",
+        "Katka est une hase.",
+        "Katka a une marmotte."
+      ]
+    },
+    {
+      "id": "listen-ma-o-je-medve",
+      "type": "listen",
+      "l1": "Maťo est un ours.",
+      "l2": "Maťo je medveď.",
+      "choices_l1": [
+        "Katka est un ours.",
+        "Maťo est un loup.",
+        "Maťo a un ours."
+      ]
+    },
+    {
+      "id": "listen-to-je-kamz-k",
+      "type": "listen",
+      "l1": "C'est un chamois.",
+      "l2": "To je kamzík.",
+      "choices_l1": [
+        "C'est un aigle.",
+        "C'est un lynx.",
+        "C'est un loup."
+      ]
+    },
+    {
+      "id": "listen-to-je-orol",
+      "type": "listen",
+      "l1": "C'est un aigle.",
+      "l2": "To je orol.",
+      "choices_l1": [
+        "C'est un chamois.",
+        "C'est un ours.",
+        "C'est un loup."
+      ]
+    },
+    {
+      "id": "listen-v-tatr-ch-je-rys",
+      "type": "listen",
+      "l1": "Dans les Tatry, il y a un lynx.",
+      "l2": "V Tatrách je rys.",
+      "choices_l1": [
+        "Dans les Tatry, il y a un loup.",
+        "Dans les Tatry, il y a un ours.",
+        "Dans le village, il y a un lynx."
+      ]
+    },
+    {
+      "id": "listen-v-tatr-ch-je-vlk",
+      "type": "listen",
+      "l1": "Dans les Tatry, il y a un loup.",
+      "l2": "V Tatrách je vlk.",
+      "choices_l1": [
+        "Dans les Tatry, il y a un lynx.",
+        "Dans les Tatry, il y a un aigle.",
+        "Dans le terrier, il y a un loup."
+      ]
+    },
+    {
+      "id": "listen-ja-som-l-ka-ty-si-zaja-ica-katka-je-svi",
+      "type": "listen",
+      "l1": "Moi, je suis un renard. Toi, tu es une hase. Katka est une marmotte.",
+      "l2": "Ja som líška. Ty si zajačica. Katka je svišť.",
+      "choices_l1": [
+        "Moi, je suis un renard. Toi, tu es une marmotte. Katka est une hase.",
+        "Moi, je suis une hase. Toi, tu es un renard. Katka est une marmotte.",
+        "Moi, je suis un renard. Toi, tu es une hase. Katka est un ours."
+      ]
+    },
+    {
+      "id": "listen-to-je-jele",
+      "type": "listen",
+      "l1": "C'est un cerf.",
+      "l2": "To je jeleň.",
+      "choices_l1": [
+        "C'est un loup.",
+        "C'est un chamois.",
+        "C'est un ours."
+      ]
+    },
+    {
+      "id": "blank-katka-je-svi",
+      "type": "fill-blank",
+      "l1": "Katka est une marmotte.",
+      "l2": "Katka je svišť.",
+      "missing_l1": "marmotte",
+      "missing_l2": "svišť",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "ours",
+        "hase",
+        "loup"
+      ],
+      "choices_l2": [
+        "medveď",
+        "zajačica",
+        "vlk"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-ma-o-je-medve",
+      "type": "fill-blank",
+      "l1": "Maťo est un ours.",
+      "l2": "Maťo je medveď.",
+      "missing_l1": "ours",
+      "missing_l2": "medveď",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "marmotte",
+        "loup",
+        "lynx"
+      ],
+      "choices_l2": [
+        "svišť",
+        "vlk",
+        "rys"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-to-je-kamz-k",
+      "type": "fill-blank",
+      "l1": "C'est un chamois.",
+      "l2": "To je kamzík.",
+      "missing_l1": "chamois",
+      "missing_l2": "kamzík",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "aigle",
+        "loup",
+        "lynx"
+      ],
+      "choices_l2": [
+        "orol",
+        "vlk",
+        "rys"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-v-tatr-ch-je-rys",
+      "type": "fill-blank",
+      "l1": "Dans les Tatry, il y a un lynx.",
+      "l2": "V Tatrách je rys.",
+      "missing_l1": "lynx",
+      "missing_l2": "rys",
+      "blank_index_l1": 7,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "loup",
+        "ours",
+        "aigle"
+      ],
+      "choices_l2": [
+        "vlk",
+        "medveď",
+        "orol"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-katka-je-svi",
+      "type": "order",
+      "l1": "Katka est une marmotte.",
+      "l2": "Katka je svišť.",
+      "tokens_l1": [
+        "Katka",
+        "est",
+        "une marmotte."
+      ],
+      "tokens_l2": [
+        "Katka",
+        "je",
+        "svišť."
+      ]
+    },
+    {
+      "id": "order-ma-o-je-medve",
+      "type": "order",
+      "l1": "Maťo est un ours.",
+      "l2": "Maťo je medveď.",
+      "tokens_l1": [
+        "Maťo",
+        "est",
+        "un ours."
+      ],
+      "tokens_l2": [
+        "Maťo",
+        "je",
+        "medveď."
+      ]
+    },
+    {
+      "id": "order-v-tatr-ch-je-rys",
+      "type": "order",
+      "l1": "Dans les Tatry, il y a un lynx.",
+      "l2": "V Tatrách je rys.",
+      "tokens_l1": [
+        "Dans les Tatry,",
+        "il y a",
+        "un lynx."
+      ],
+      "tokens_l2": [
+        "V Tatrách",
+        "je",
+        "rys."
+      ]
+    },
+    {
+      "id": "order-ty-si-zaja-ica",
+      "type": "order",
+      "l1": "Toi, tu es une hase.",
+      "l2": "Ty si zajačica.",
+      "tokens_l1": [
+        "Toi,",
+        "tu es",
+        "une hase."
+      ],
+      "tokens_l2": [
+        "Ty",
+        "si",
+        "zajačica."
+      ]
+    },
+    {
+      "id": "match-svi",
+      "type": "match",
+      "l1": [
+        "la marmotte",
+        "l'ours",
+        "le lièvre",
+        "le chamois"
+      ],
+      "l2": [
+        "svišť",
+        "medveď",
+        "zajac",
+        "kamzík"
+      ]
+    },
+    {
+      "id": "match-orol",
+      "type": "match",
+      "l1": [
+        "l'aigle",
+        "le loup",
+        "le lynx",
+        "le cerf"
+      ],
+      "l2": [
+        "orol",
+        "vlk",
+        "rys",
+        "jeleň"
+      ]
+    }
+  ]
+}

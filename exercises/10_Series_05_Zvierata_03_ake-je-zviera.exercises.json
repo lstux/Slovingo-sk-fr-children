@@ -1,0 +1,421 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-pomal",
+      "type": "qcm",
+      "l1": "lent",
+      "l2": "pomalý",
+      "choices_l1": [
+        "silencieux",
+        "long",
+        "rapide"
+      ],
+      "choices_l2": [
+        "tichý",
+        "dlhý",
+        "rýchly"
+      ]
+    },
+    {
+      "id": "qcm-tich",
+      "type": "qcm",
+      "l1": "silencieux",
+      "l2": "tichý",
+      "choices_l1": [
+        "lent",
+        "long",
+        "tout doux"
+      ],
+      "choices_l2": [
+        "pomalý",
+        "dlhý",
+        "chlpatý"
+      ]
+    },
+    {
+      "id": "qcm-chlpat",
+      "type": "qcm",
+      "l1": "tout doux",
+      "l2": "chlpatý",
+      "choices_l1": [
+        "lent",
+        "silencieux",
+        "long"
+      ],
+      "choices_l2": [
+        "pomalý",
+        "tichý",
+        "dlhý"
+      ]
+    },
+    {
+      "id": "qcm-u-i",
+      "type": "qcm",
+      "l1": "les oreilles",
+      "l2": "uši",
+      "choices_l1": [
+        "les pattes",
+        "les ailes",
+        "la queue"
+      ],
+      "choices_l2": [
+        "labky",
+        "krídla",
+        "chvost"
+      ]
+    },
+    {
+      "id": "qcm-kr-dla",
+      "type": "qcm",
+      "l1": "les ailes",
+      "l2": "krídla",
+      "choices_l1": [
+        "les oreilles",
+        "les pattes",
+        "la queue"
+      ],
+      "choices_l2": [
+        "uši",
+        "labky",
+        "chvost"
+      ]
+    },
+    {
+      "id": "qcm-chvost",
+      "type": "qcm",
+      "l1": "la queue",
+      "l2": "chvost",
+      "choices_l1": [
+        "les ailes",
+        "les pattes",
+        "les oreilles"
+      ],
+      "choices_l2": [
+        "krídla",
+        "labky",
+        "uši"
+      ]
+    },
+    {
+      "id": "qcm-labky",
+      "type": "qcm",
+      "l1": "les pattes",
+      "l2": "labky",
+      "choices_l1": [
+        "les ailes",
+        "la queue",
+        "les oreilles"
+      ],
+      "choices_l2": [
+        "krídla",
+        "chvost",
+        "uši"
+      ]
+    },
+    {
+      "id": "listen-medve-je-ve-k-a-chlpat",
+      "type": "listen",
+      "l1": "L'ours est grand et tout doux.",
+      "l2": "Medveď je veľký a chlpatý.",
+      "choices_l1": [
+        "L'ours est grand et fort.",
+        "L'ours est petit et tout doux.",
+        "La marmotte est grande et toute douce."
+      ]
+    },
+    {
+      "id": "listen-svi-je-mal",
+      "type": "listen",
+      "l1": "La marmotte est petite.",
+      "l2": "Svišť je malý.",
+      "choices_l1": [
+        "L'ours est petit.",
+        "La marmotte est grande.",
+        "La marmotte est rapide."
+      ]
+    },
+    {
+      "id": "listen-sova-je-tich",
+      "type": "listen",
+      "l1": "La chouette est silencieuse.",
+      "l2": "Sova je tichá.",
+      "choices_l1": [
+        "La chouette est rapide.",
+        "L'aigle est silencieux.",
+        "La chouette est lente."
+      ]
+    },
+    {
+      "id": "listen-l-ka-je-r-chla",
+      "type": "listen",
+      "l1": "Le renard est rapide.",
+      "l2": "Líška je rýchla.",
+      "choices_l1": [
+        "Le renard est lent.",
+        "Le lièvre est rapide.",
+        "Le renard est grand."
+      ]
+    },
+    {
+      "id": "listen-orol-je-vysoko",
+      "type": "listen",
+      "l1": "L'aigle est en haut.",
+      "l2": "Orol je vysoko.",
+      "choices_l1": [
+        "L'aigle est ici.",
+        "L'aigle est rapide.",
+        "Le loup est en haut."
+      ]
+    },
+    {
+      "id": "listen-zajac-m-dlh-u-i",
+      "type": "listen",
+      "l1": "Le lièvre a de longues oreilles.",
+      "l2": "Zajac má dlhé uši.",
+      "choices_l1": [
+        "Le lièvre a de petites oreilles.",
+        "Le renard a de longues oreilles.",
+        "Le lièvre a une longue queue."
+      ]
+    },
+    {
+      "id": "listen-orol-m-ve-k-kr-dla",
+      "type": "listen",
+      "l1": "L'aigle a de grandes ailes.",
+      "l2": "Orol má veľké krídla.",
+      "choices_l1": [
+        "L'aigle a de petites ailes.",
+        "L'ours a de grandes ailes.",
+        "L'aigle a de grandes pattes."
+      ]
+    },
+    {
+      "id": "listen-l-ka-m-dlh-chvost",
+      "type": "listen",
+      "l1": "Le renard a une longue queue.",
+      "l2": "Líška má dlhý chvost.",
+      "choices_l1": [
+        "Le lièvre a une longue queue.",
+        "Le renard a une petite queue.",
+        "Le renard a de longues oreilles."
+      ]
+    },
+    {
+      "id": "listen-medve-m-ve-k-labky",
+      "type": "listen",
+      "l1": "L'ours a de grosses pattes.",
+      "l2": "Medveď má veľké labky.",
+      "choices_l1": [
+        "La marmotte a de grosses pattes.",
+        "L'ours a de petites pattes.",
+        "L'ours a de grandes ailes."
+      ]
+    },
+    {
+      "id": "listen-to-je-kamz-k-je-r-chly-a-siln",
+      "type": "listen",
+      "l1": "C'est un chamois. Il est rapide et fort.",
+      "l2": "To je kamzík. Je rýchly a silný.",
+      "choices_l1": [
+        "C'est un loup. Il est rapide et fort.",
+        "C'est un chamois. Il est lent et fort.",
+        "C'est un chamois. Il est petit et fort."
+      ]
+    },
+    {
+      "id": "listen-svi-m-mal-u-i",
+      "type": "listen",
+      "l1": "La marmotte a de petites oreilles.",
+      "l2": "Svišť má malé uši.",
+      "choices_l1": [
+        "La marmotte a de grandes oreilles.",
+        "Le lièvre a de petites oreilles.",
+        "La marmotte a de petites pattes."
+      ]
+    },
+    {
+      "id": "blank-zajac-m-dlh-u-i",
+      "type": "fill-blank",
+      "l1": "Le lièvre a de longues oreilles.",
+      "l2": "Zajac má dlhé uši.",
+      "missing_l1": "oreilles",
+      "missing_l2": "uši",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "pattes",
+        "ailes",
+        "queue"
+      ],
+      "choices_l2": [
+        "labky",
+        "krídla",
+        "chvost"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-orol-m-ve-k-kr-dla",
+      "type": "fill-blank",
+      "l1": "L'aigle a de grandes ailes.",
+      "l2": "Orol má veľké krídla.",
+      "missing_l1": "ailes",
+      "missing_l2": "krídla",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "oreilles",
+        "pattes",
+        "queue"
+      ],
+      "choices_l2": [
+        "uši",
+        "labky",
+        "chvost"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-l-ka-m-dlh-chvost",
+      "type": "fill-blank",
+      "l1": "Le renard a une longue queue.",
+      "l2": "Líška má dlhý chvost.",
+      "missing_l1": "queue",
+      "missing_l2": "chvost",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "ailes",
+        "pattes",
+        "oreilles"
+      ],
+      "choices_l2": [
+        "krídla",
+        "labky",
+        "uši"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-sova-je-tich",
+      "type": "fill-blank",
+      "l1": "La chouette est silencieuse.",
+      "l2": "Sova je tichá.",
+      "missing_l1": "silencieuse",
+      "missing_l2": "tichá",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "rapide",
+        "grande",
+        "petite"
+      ],
+      "choices_l2": [
+        "rýchla",
+        "veľká",
+        "malá"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-zajac-m-dlh-u-i",
+      "type": "order",
+      "l1": "Le lièvre a de longues oreilles.",
+      "l2": "Zajac má dlhé uši.",
+      "tokens_l1": [
+        "Le lièvre",
+        "a",
+        "de longues oreilles."
+      ],
+      "tokens_l2": [
+        "Zajac",
+        "má",
+        "dlhé uši."
+      ]
+    },
+    {
+      "id": "order-orol-m-ve-k-kr-dla",
+      "type": "order",
+      "l1": "L'aigle a de grandes ailes.",
+      "l2": "Orol má veľké krídla.",
+      "tokens_l1": [
+        "L'aigle",
+        "a",
+        "de grandes ailes."
+      ],
+      "tokens_l2": [
+        "Orol",
+        "má",
+        "veľké krídla."
+      ]
+    },
+    {
+      "id": "order-sova-je-tich",
+      "type": "order",
+      "l1": "La chouette est silencieuse.",
+      "l2": "Sova je tichá.",
+      "tokens_l1": [
+        "La chouette",
+        "est",
+        "silencieuse."
+      ],
+      "tokens_l2": [
+        "Sova",
+        "je",
+        "tichá."
+      ]
+    },
+    {
+      "id": "order-medve-je-ve-k-ale-pomal",
+      "type": "order",
+      "l1": "L'ours est grand, mais lent.",
+      "l2": "Medveď je veľký, ale pomalý.",
+      "tokens_l1": [
+        "L'ours",
+        "est grand,",
+        "mais",
+        "lent."
+      ],
+      "tokens_l2": [
+        "Medveď",
+        "je veľký,",
+        "ale",
+        "pomalý."
+      ]
+    },
+    {
+      "id": "match-pomal",
+      "type": "match",
+      "l1": [
+        "lent",
+        "silencieux",
+        "tout doux",
+        "long"
+      ],
+      "l2": [
+        "pomalý",
+        "tichý",
+        "chlpatý",
+        "dlhý"
+      ]
+    },
+    {
+      "id": "match-u-i",
+      "type": "match",
+      "l1": [
+        "les oreilles",
+        "les pattes",
+        "les ailes",
+        "la queue"
+      ],
+      "l2": [
+        "uši",
+        "labky",
+        "krídla",
+        "chvost"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-v",
+      "type": "qcm",
+      "l1": "plus grand",
+      "l2": "väčší",
+      "choices_l1": [
+        "plus petit",
+        "plus rapide",
+        "plus fort"
+      ],
+      "choices_l2": [
+        "menší",
+        "rýchlejší",
+        "silnejší"
+      ]
+    },
+    {
+      "id": "qcm-men",
+      "type": "qcm",
+      "l1": "plus petit",
+      "l2": "menší",
+      "choices_l1": [
+        "plus grand",
+        "plus rapide",
+        "plus fort"
+      ],
+      "choices_l2": [
+        "väčší",
+        "rýchlejší",
+        "silnejší"
+      ]
+    },
+    {
+      "id": "qcm-r-chlej",
+      "type": "qcm",
+      "l1": "plus rapide",
+      "l2": "rýchlejší",
+      "choices_l1": [
+        "plus grand",
+        "plus petit",
+        "plus fort"
+      ],
+      "choices_l2": [
+        "väčší",
+        "menší",
+        "silnejší"
+      ]
+    },
+    {
+      "id": "qcm-silnej",
+      "type": "qcm",
+      "l1": "plus fort",
+      "l2": "silnejší",
+      "choices_l1": [
+        "plus grand",
+        "plus petit",
+        "plus rapide"
+      ],
+      "choices_l2": [
+        "väčší",
+        "menší",
+        "rýchlejší"
+      ]
+    },
+    {
+      "id": "qcm-ako",
+      "type": "qcm",
+      "l1": "que",
+      "l2": "ako",
+      "choices_l1": [
+        "et",
+        "mais",
+        "ou"
+      ],
+      "choices_l2": [
+        "a",
+        "ale",
+        "alebo"
+      ]
+    },
+    {
+      "id": "listen-medve-je-v-ako-svi",
+      "type": "listen",
+      "l1": "L'ours est plus grand que la marmotte.",
+      "l2": "Medveď je väčší ako svišť.",
+      "choices_l1": [
+        "La marmotte est plus grande que l'ours.",
+        "L'ours est plus petit que la marmotte.",
+        "L'ours est plus fort que la marmotte."
+      ]
+    },
+    {
+      "id": "listen-svi-je-men-ako-medve",
+      "type": "listen",
+      "l1": "La marmotte est plus petite que l'ours.",
+      "l2": "Svišť je menší ako medveď.",
+      "choices_l1": [
+        "L'ours est plus petit que la marmotte.",
+        "La marmotte est plus grande que l'ours.",
+        "La marmotte est plus rapide que l'ours."
+      ]
+    },
+    {
+      "id": "listen-zajac-je-r-chlej-ako-medve",
+      "type": "listen",
+      "l1": "Le lièvre est plus rapide que l'ours.",
+      "l2": "Zajac je rýchlejší ako medveď.",
+      "choices_l1": [
+        "L'ours est plus rapide que le lièvre.",
+        "Le lièvre est plus fort que l'ours.",
+        "Le lièvre est plus rapide que le loup."
+      ]
+    },
+    {
+      "id": "listen-medve-je-silnej-ako-zajac",
+      "type": "listen",
+      "l1": "L'ours est plus fort que le lièvre.",
+      "l2": "Medveď je silnejší ako zajac.",
+      "choices_l1": [
+        "Le lièvre est plus fort que l'ours.",
+        "L'ours est plus rapide que le lièvre.",
+        "L'ours est plus fort que le loup."
+      ]
+    },
+    {
+      "id": "listen-kamz-k-je-r-chlej-ako-vlk",
+      "type": "listen",
+      "l1": "Le chamois est plus rapide que le loup.",
+      "l2": "Kamzík je rýchlejší ako vlk.",
+      "choices_l1": [
+        "Le loup est plus rapide que le chamois.",
+        "Le chamois est plus fort que le loup.",
+        "Le chamois est plus rapide que le lynx."
+      ]
+    },
+    {
+      "id": "listen-kto-je-v-medve-alebo-svi",
+      "type": "listen",
+      "l1": "Qui est le plus grand, l'ours ou la marmotte ?",
+      "l2": "Kto je väčší, medveď alebo svišť?",
+      "choices_l1": [
+        "Qui est le plus petit, l'ours ou la marmotte ?",
+        "Qui est le plus grand, l'ours ou le loup ?",
+        "Qui est le plus rapide, l'ours ou la marmotte ?"
+      ]
+    },
+    {
+      "id": "listen-kto-je-r-chlej",
+      "type": "listen",
+      "l1": "Qui est le plus rapide ?",
+      "l2": "Kto je rýchlejší?",
+      "choices_l1": [
+        "Qui est le plus grand ?",
+        "Qui est le plus fort ?",
+        "Où est le plus rapide ?"
+      ]
+    },
+    {
+      "id": "listen-kto-je-r-chlej-zajac-alebo-medve-zajac",
+      "type": "listen",
+      "l1": "Qui est le plus rapide, le lièvre ou l'ours ? Le lièvre !",
+      "l2": "Kto je rýchlejší, zajac alebo medveď? Zajac!",
+      "choices_l1": [
+        "Qui est le plus rapide, le lièvre ou l'ours ? L'ours !",
+        "Qui est le plus fort, le lièvre ou l'ours ? Le lièvre !",
+        "Qui est le plus rapide, le lièvre ou le loup ? Le lièvre !"
+      ]
+    },
+    {
+      "id": "listen-medve-je-najv",
+      "type": "listen",
+      "l1": "L'ours est le plus grand.",
+      "l2": "Medveď je najväčší.",
+      "choices_l1": [
+        "La marmotte est la plus grande.",
+        "L'ours est le plus petit.",
+        "L'ours est le plus rapide."
+      ]
+    },
+    {
+      "id": "listen-svi-je-najmen",
+      "type": "listen",
+      "l1": "La marmotte est la plus petite.",
+      "l2": "Svišť je najmenší.",
+      "choices_l1": [
+        "L'ours est le plus petit.",
+        "La marmotte est la plus grande.",
+        "La marmotte est la plus rapide."
+      ]
+    },
+    {
+      "id": "blank-medve-je-v-ako-svi",
+      "type": "fill-blank",
+      "l1": "L'ours est plus grand que la marmotte.",
+      "l2": "Medveď je väčší ako svišť.",
+      "missing_l1": "grand",
+      "missing_l2": "väčší",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "petit",
+        "rapide",
+        "fort"
+      ],
+      "choices_l2": [
+        "menší",
+        "rýchlejší",
+        "silnejší"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-svi-je-men-ako-medve",
+      "type": "fill-blank",
+      "l1": "La marmotte est plus petite que l'ours.",
+      "l2": "Svišť je menší ako medveď.",
+      "missing_l1": "petite",
+      "missing_l2": "menší",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "grande",
+        "rapide",
+        "forte"
+      ],
+      "choices_l2": [
+        "väčší",
+        "rýchlejší",
+        "silnejší"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-zajac-je-r-chlej-ako-medve",
+      "type": "fill-blank",
+      "l1": "Le lièvre est plus rapide que l'ours.",
+      "l2": "Zajac je rýchlejší ako medveď.",
+      "missing_l1": "rapide",
+      "missing_l2": "rýchlejší",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "grand",
+        "petit",
+        "fort"
+      ],
+      "choices_l2": [
+        "väčší",
+        "menší",
+        "silnejší"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-medve-je-silnej-ako-zajac",
+      "type": "fill-blank",
+      "l1": "L'ours est plus fort que le lièvre.",
+      "l2": "Medveď je silnejší ako zajac.",
+      "missing_l1": "lièvre",
+      "missing_l2": "zajac",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "loup",
+        "lynx",
+        "chamois"
+      ],
+      "choices_l2": [
+        "vlk",
+        "rys",
+        "kamzík"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-medve-je-v-ako-svi",
+      "type": "order",
+      "l1": "L'ours est plus grand que la marmotte.",
+      "l2": "Medveď je väčší ako svišť.",
+      "tokens_l1": [
+        "L'ours",
+        "est plus grand",
+        "que",
+        "la marmotte."
+      ],
+      "tokens_l2": [
+        "Medveď",
+        "je väčší",
+        "ako",
+        "svišť."
+      ]
+    },
+    {
+      "id": "order-zajac-je-r-chlej-ako-medve",
+      "type": "order",
+      "l1": "Le lièvre est plus rapide que l'ours.",
+      "l2": "Zajac je rýchlejší ako medveď.",
+      "tokens_l1": [
+        "Le lièvre",
+        "est plus rapide",
+        "que",
+        "l'ours."
+      ],
+      "tokens_l2": [
+        "Zajac",
+        "je rýchlejší",
+        "ako",
+        "medveď."
+      ]
+    },
+    {
+      "id": "order-kto-je-r-chlej",
+      "type": "order",
+      "l1": "Qui est le plus rapide ?",
+      "l2": "Kto je rýchlejší?",
+      "tokens_l1": [
+        "Qui",
+        "est",
+        "le plus rapide ?"
+      ],
+      "tokens_l2": [
+        "Kto",
+        "je",
+        "rýchlejší?"
+      ]
+    },
+    {
+      "id": "order-kamz-k-je-r-chlej-ako-vlk",
+      "type": "order",
+      "l1": "Le chamois est plus rapide que le loup.",
+      "l2": "Kamzík je rýchlejší ako vlk.",
+      "tokens_l1": [
+        "Le chamois",
+        "est plus rapide",
+        "que",
+        "le loup."
+      ],
+      "tokens_l2": [
+        "Kamzík",
+        "je rýchlejší",
+        "ako",
+        "vlk."
+      ]
+    },
+    {
+      "id": "match-v",
+      "type": "match",
+      "l1": [
+        "plus grand",
+        "plus petit",
+        "plus rapide",
+        "plus fort"
+      ],
+      "l2": [
+        "väčší",
+        "menší",
+        "rýchlejší",
+        "silnejší"
+      ]
+    },
+    {
+      "id": "match-ve-k-v",
+      "type": "match",
+      "l1": [
+        "grand → plus grand",
+        "petit → plus petit",
+        "rapide → plus rapide",
+        "fort → plus fort"
+      ],
+      "l2": [
+        "veľký → väčší",
+        "malý → menší",
+        "rýchly → rýchlejší",
+        "silný → silnejší"
+      ]
+    }
+  ]
+}
