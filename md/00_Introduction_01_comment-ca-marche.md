@@ -32,7 +32,7 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 ## Essaie !
 
-- 🐰 Andrea, une hase des Tatras
+- 🐰 Andrea, une hase des Tatras (une hase, c'est la femelle du lièvre)
 - 🦊 Toi
 
 ! 🐰 Ahoj!
