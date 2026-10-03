@@ -83,7 +83,7 @@ md/
 
 Exemple : `10_Series_01_Rodina_02_kolko-mas-rokov.md`
 
-- Titres : `# Série Rodina (2/5) — Koľko máš rokov?`, extra : `# Série Rodina (extra) — Všetko dokopy`
+- Titres : `# Série Rodina (2/5) — Koľko máš rokov?`, extra : `# Rodina (extra) — Všetko o rodine` (Kit : `# Kit de Survie (extra) — Všetko dokopy`)
 - Le thème du nom de fichier donne la clé de `lang.json` → `subgroups` et `subgroup_themes`, en minuscules et **sans diacritiques** (`Zvierata` → `zvierata`)
 - Les noms de fichiers n'ont pas d'accent ; les titres à l'intérieur, si
 

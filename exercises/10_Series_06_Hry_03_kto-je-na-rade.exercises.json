@@ -5,7 +5,7 @@
     {
       "id": "qcm-na-rade",
       "type": "qcm",
-      "l1": "à son tour",
+      "l1": "au tour (de jouer)",
       "l2": "na rade",
       "choices_l1": [
         "chercher",
@@ -24,7 +24,7 @@
       "l1": "chercher",
       "l2": "hľadať",
       "choices_l1": [
-        "à son tour",
+        "au tour (de jouer)",
         "je compte",
         "te"
       ],
@@ -41,7 +41,7 @@
       "l2": "počítam",
       "choices_l1": [
         "chercher",
-        "à son tour",
+        "au tour (de jouer)",
         "me voici"
       ],
       "choices_l2": [
@@ -190,12 +190,12 @@
     {
       "id": "listen-u-idem-h-ada",
       "type": "listen",
-      "l1": "J'arrive pour chercher !",
+      "l1": "Ça y est, je viens chercher !",
       "l2": "Už idem hľadať!",
       "choices_l1": [
         "Je vais chercher.",
-        "J'arrive pour compter !",
-        "Tu arrives pour chercher !"
+        "Ça y est, je viens compter !",
+        "Ça y est, tu viens chercher !"
       ]
     },
     {
@@ -273,7 +273,7 @@
       "id": "match-na-rade",
       "type": "match",
       "l1": [
-        "à son tour",
+        "au tour (de jouer)",
         "chercher",
         "je compte",
         "te"

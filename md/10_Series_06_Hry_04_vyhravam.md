@@ -12,7 +12,7 @@
 |------------|----------|
 | vyhrávam | je gagne |
 | prehrávam | je perds |
-| zábava | le plaisir, le fun |
+| zábava | l'amusement |
 | ešte raz | encore une fois |
 | hurá | hourra |
 | dobrá hra | bien joué, belle partie |

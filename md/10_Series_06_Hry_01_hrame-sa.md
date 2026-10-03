@@ -40,7 +40,6 @@
 |------------|----------|
 | hráme sa na skrývačku | on joue à cache-cache |
 | hráme sa na naháňačku | on joue au chat |
-| hráme sa s loptou | on joue avec le ballon |
 
 ---
 
@@ -101,7 +100,7 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| spolu | ensemble |
+| spolu | ensemble (rappel) |
 
 ---
 
@@ -112,13 +111,11 @@
 > Hráme sa = on joue
 > spolu = ensemble
 
-! Ty sa hráš s loptou a ja sa hrám na skrývačku.
-> Toi, tu joues avec le ballon et moi, je joue à cache-cache.
-> Ty sa hráš = toi, tu joues
+! Hráš sa s loptou? Aj ja!
+> Tu joues avec le ballon ? Moi aussi !
+> Hráš sa = tu joues
 > s loptou = avec le ballon
-> a = et
-> ja sa hrám = moi, je joue
-> na skrývačku = à cache-cache
+> Aj ja = moi aussi
 
 ! Hráme sa na naháňačku, nie na skrývačku.
 > On joue au chat, pas à cache-cache.

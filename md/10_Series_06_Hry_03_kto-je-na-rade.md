@@ -10,7 +10,8 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| na rade | à son tour |
+| na rade | au tour (de jouer) |
+| teraz | maintenant |
 | hľadať | chercher |
 | počítam | je compte |
 | ťa | te |
@@ -23,7 +24,7 @@
 
 ### Le tour de chacun
 
-{{fr:Pour dire que c'est le tour de quelqu'un, on dit « il est à son tour » :}} {{na rade}}{{fr:.}}
+{{fr:Pour dire à qui c'est le tour, on dit mot à mot « je suis au tour » :}} {{na rade}}{{fr:.}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -49,22 +50,22 @@
 > C'est à qui ?
 > Kto = qui
 > je = est
-> na rade = à son tour
+> na rade = au tour
 
 ! Ja som na rade.
 > C'est mon tour.
 > Ja som = moi, je suis
-> na rade = à mon tour
+> na rade = au tour
 
 ! Ty si na rade.
 > C'est ton tour.
 > Ty si = toi, tu es
-> na rade = à ton tour
+> na rade = au tour
 
 ! Teraz je na rade Katka.
 > Maintenant, c'est le tour de Katka.
 > Teraz = maintenant
-> je na rade = est à son tour
+> je na rade = c'est le tour
 > Katka = Katka
 
 ! Počítam: jeden, dva, tri!
@@ -89,7 +90,7 @@
 ! Mám ťa!
 > Je t'ai trouvé(e) !
 > Mám ťa = je t'ai
-+ Mot à mot : « je t'ai ». Ça veut dire « je t'ai trouvé(e) ! », sans rien changer si tu parles à un garçon ou à une fille. Pratique !
++ Mot à mot : « je t'ai ». C'est surtout le cri du jeu du chat, mais ça marche aussi à cache-cache. Et ça ne change pas si tu parles à un garçon ou à une fille. Pratique !
 
 ---
 
@@ -113,15 +114,15 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| už | déjà, maintenant |
+| už | déjà, ça y est |
 
 ---
 
 ## Encore quelques phrases
 
 ! Už idem hľadať!
-> J'arrive pour chercher !
-> Už = déjà
+> Ça y est, je viens chercher !
+> Už = ça y est
 > idem = je vais
 > hľadať = chercher
 

@@ -25,7 +25,11 @@
 | nemôžem | je ne peux pas |
 | hrať sa | jouer |
 | ísť | aller |
-| na rade | à son tour |
+| na rade | au tour (de jouer) |
+| teraz | maintenant |
+| už | ça y est |
+| ťa | te |
+| nevidím ťa | je ne te vois pas |
 | hľadať | chercher |
 | počítam | je compte |
 | kde si | où es-tu |
@@ -35,7 +39,10 @@
 | zábava | le plaisir |
 | ešte raz | encore une fois |
 | hurá | hourra |
-| spolu | ensemble |
+| spolu | ensemble (rappel) |
+| nemôžeš / nemôžeme | tu ne peux pas / on ne peut pas |
+| vyhráva | il ou elle gagne |
+| dobrá hra | bien joué |
 
 ---
 
@@ -59,8 +66,8 @@
 > Kde si = où es-tu
 > Katka = Katka
 
-! Tu som! Mám ťa!
-> Me voici ! Je t'ai trouvé(e) !
+! Tu som! – Mám ťa!
+> Me voici ! – Je t'ai trouvé(e) !
 > Tu som = me voici
 > Mám ťa = je t'ai trouvé(e)
 
@@ -71,13 +78,13 @@
 > Áno = oui
 > môžeš = tu peux
 
-! Nemôžeme sa hrať tu, ale môžeme sa hrať tam.
-> On ne peut pas jouer ici, mais on peut jouer là-bas.
-> Nemôžeme sa hrať = on ne peut pas jouer
-> tu = ici
+! Tu sa nemôžeme hrať, ale tam sa môžeme hrať.
+> Ici, on ne peut pas jouer, mais là-bas, on peut jouer.
+> Tu = ici
+> sa nemôžeme hrať = on ne peut pas jouer
 > ale = mais
-> môžeme sa hrať = on peut jouer
 > tam = là-bas
+> sa môžeme hrať = on peut jouer
 
 ! Môžem ísť do dediny? Nie, nemôžeš.
 > Je peux aller au village ? Non, tu ne peux pas.
@@ -99,19 +106,18 @@
 > nevadí = pas de souci
 > Ešte raz = encore une fois
 
-! Hráme sa na lúke, nie v lese.
-> On joue dans la prairie, pas dans la forêt.
+! Hráme sa na lúke, nie tu.
+> On joue dans la prairie, pas ici.
 > Hráme sa = on joue
 > na lúke = dans la prairie
 > nie = pas
-> v lese = dans la forêt
-+ À écouter : {{les}} = la forêt, et {{v lese}} = dans la forêt.
+> tu = ici
 
-! Strom je veľký a medveď je väčší.
-> L'arbre est grand et l'ours est plus grand.
-> Strom je veľký = l'arbre est grand
-> a = et
-> medveď je väčší = l'ours est plus grand
+! Teraz je na rade Maťo. Už idem hľadať!
+> Maintenant, c'est le tour de Maťo. Ça y est, je viens chercher !
+> Teraz = maintenant
+> je na rade Maťo = c'est le tour de Maťo
+> Už idem hľadať = ça y est, je viens chercher
 
 ! Mám hlad, ale hráme sa spolu!
 > J'ai faim, mais on joue ensemble !
@@ -119,11 +125,10 @@
 > ale = mais
 > hráme sa spolu = on joue ensemble
 
-! Ahoj, Andrea! Môžem sa hrať? Hurá!
-> Salut, Andrea ! Je peux jouer ? Hourra !
-> Ahoj = salut
-> Andrea = Andrea
+! Môžem sa hrať? – Áno, môžeš! – Hurá!
+> Je peux jouer ? – Oui, tu peux ! – Hourra !
 > Môžem sa hrať = je peux jouer
+> Áno, môžeš = oui, tu peux
 > Hurá = hourra
 
 ! Nevidím ťa. Kde si? Tu som!

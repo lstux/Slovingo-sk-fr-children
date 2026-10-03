@@ -66,12 +66,12 @@ Soit **environ 40 mots par série**, dont ~28 essentiels. C'est un plafond. Les 
 | Série | Points de grammaire |
 |-------|---------------------|
 | Kit de Survie | Schémas figés : *Ahoj*, *Dobrý deň*, *Ďakujem*, *Prosím*, *Prepáč*, *Dovidenia*, *Ako sa voláš? / Volám sa…*, *Nerozumiem*, *Hovoríš po francúzsky?* |
-| Rodina | *môj / moja / moje*, *som / si / je*, *mám*, l'âge (*mám osem rokov*, appris en bloc) |
-| Doma | Les trois genres (m, f, n), *je / sú*, *kde je…?*, *v* + lieu en morceaux (*v brlohu*, *v kuchyni*), pluriel simple |
-| Jedlo | *chcem*, *jem / pijem*, *páči sa mi / chutí mi*, l'accusatif en morceaux (*chcem chlieb*, *jem polievku*), *Dobrú chuť!* |
-| Dedina | *idem / ideme*, *do* + lieu en morceaux (*do obchodu*), *Koľko to stojí?*, impératif *choď / poď*, premier *vy* de politesse avec un adulte inconnu (le marchand) |
-| Zvieratá | Pluriels, adjectifs devant le nom, comparatif simple (*väčší ako*), *má* (« il a ») |
-| Hry | *môžem / môžeš*, *Hráme sa?*, *Poď sa hrať!*, *Kto je na rade?* |
+| Rodina | *môj / moja*, *je*, *mám / máš / má*, *nemám*, l'âge (*mám osem rokov*, appris en bloc), *mám brata / sestru* (en bloc), adjectifs -ý / -á |
+| Doma | Les trois genres (m, f, n), *je / sú*, *kde je…?*, *v / na* + lieu en morceaux (*v brlohu*, *na stole*), pluriel simple, *dva / dve / tri / štyri* |
+| Jedlo | *chcem / chceš / chce / chcete*, *jem / pijem / nejem*, *chutí mi*, l'accusatif en morceaux (*chcem hrušku*, *jem polievku*), *na obed*, *Dobrú chuť!* |
+| Dedina | *idem / ideš / ide*, *do* + lieu en morceaux (*do obchodu*), *Koľko to stojí?*, *prosím si*, impératif *choď / poď / počkaj / pozri*, premier *vy* (*máte*, *ako sa máte*) avec un adulte inconnu (Pani Ježková) |
+| Zvieratá | *som / si / je*, pluriels (-y, -tá), adjectifs (-ý / -á, pluriel -é), *má* + parties du corps, comparatif simple (*väčší ako*) |
+| Hry | *hrám sa / hráme sa*, *môžem / môžeš / môžeme* + infinitif, *Kto je na rade?*, *Mám ťa!*, *vyhrávam / prehrávam* |
 
 **Pas encore abordés** (séries 07+ ou plus tard) : les cas expliqués comme tels, le passé, le futur, l'aspect des verbes, les nombres au-delà de 10 (avec l'accord *dva / dve / tri…*), le conditionnel.
 
@@ -145,9 +145,9 @@ La structure doit permettre, sans changer le contenu : un suivi quotidien (« j'
 
 1. ~~Écrire les 5 fiches d'introduction~~ (fait)
 2. ~~Kit de Survie et ses exercices~~ (fait)
-3. ~~Séries 01 à 06 : Rodina, Doma, Jedlo, Dedina, Zvieratá, Hry~~ (fiches et exercices faits, à relire avec un locuteur natif)
-4. Relecture native : phrases slovaques, prononciation figurée, faits (Tatras, TANAP, électrique, etc.)
+3. ~~Séries 01 à 06 : Rodina, Doma, Jedlo, Dedina, Zvieratá, Hry~~ (fiches et exercices faits)
+4. ~~Relecture complète (langue, faits, cohérence, pédagogie)~~ (faite en octobre 2026, voir `Relecture-2026-10.md`) ; reste une écoute par un locuteur natif
 5. Choisir les illustrations (Wikimedia Commons, avec crédits) : tous les `TODO_img/…` sont à remplacer
-6. Workflow de CI (en attente du fichier `build-release.yml` du dépôt Slovingo)
+6. ~~Workflow de CI~~ (fait : `.github/workflows/build-release.yml`)
 7. Tester avec un enfant, ajuster ton, rythme et quantité de vocabulaire
 8. Séries 07+ (Farby, Škola, Telo, Sviatky, éventuellement Hory)

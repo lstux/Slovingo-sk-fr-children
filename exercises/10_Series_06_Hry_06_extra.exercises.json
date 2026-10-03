@@ -38,12 +38,12 @@
     {
       "id": "listen-tu-som-m-m-a",
       "type": "listen",
-      "l1": "Me voici ! Je t'ai trouvé(e) !",
-      "l2": "Tu som! Mám ťa!",
+      "l1": "Me voici ! – Je t'ai trouvé(e) !",
+      "l2": "Tu som! – Mám ťa!",
       "choices_l1": [
-        "Où es-tu ! Je t'ai trouvé(e) !",
-        "Me voici ! Je ne te vois pas !",
-        "Me voici ! Tu m'as perdu !"
+        "Où es-tu ? – Je t'ai trouvé(e) !",
+        "Me voici ! – Je ne te vois pas !",
+        "Me voici ! – Encore une fois !"
       ]
     },
     {
@@ -58,14 +58,14 @@
       ]
     },
     {
-      "id": "listen-nem-eme-sa-hra-tu-ale-m-eme-sa-hra-tam",
+      "id": "listen-tu-sa-nem-eme-hra-ale-tam-sa-m-eme-hra",
       "type": "listen",
-      "l1": "On ne peut pas jouer ici, mais on peut jouer là-bas.",
-      "l2": "Nemôžeme sa hrať tu, ale môžeme sa hrať tam.",
+      "l1": "Ici, on ne peut pas jouer, mais là-bas, on peut jouer.",
+      "l2": "Tu sa nemôžeme hrať, ale tam sa môžeme hrať.",
       "choices_l1": [
-        "On peut jouer ici, mais on ne peut pas jouer là-bas.",
-        "On ne peut pas jouer ici, mais on peut aller là-bas.",
-        "On ne peut pas aller ici, mais on peut jouer là-bas."
+        "Ici, on peut jouer, mais là-bas, on ne peut pas jouer.",
+        "Ici, on ne peut pas jouer, mais là-bas, on peut aller.",
+        "Ici, on ne peut pas aller, mais là-bas, on peut jouer."
       ]
     },
     {
@@ -102,14 +102,14 @@
       ]
     },
     {
-      "id": "listen-hr-me-sa-na-l-ke-nie-v-lese",
+      "id": "listen-hr-me-sa-na-l-ke-nie-tu",
       "type": "listen",
-      "l1": "On joue dans la prairie, pas dans la forêt.",
-      "l2": "Hráme sa na lúke, nie v lese.",
+      "l1": "On joue dans la prairie, pas ici.",
+      "l2": "Hráme sa na lúke, nie tu.",
       "choices_l1": [
-        "On joue dans la forêt, pas dans la prairie.",
+        "On joue ici, pas dans la prairie.",
         "On joue dans la prairie, pas au village.",
-        "Je joue dans la prairie, pas dans la forêt."
+        "Je joue dans la prairie, pas ici."
       ]
     },
     {
@@ -174,21 +174,21 @@
       ]
     },
     {
-      "id": "order-hr-me-sa-na-l-ke-nie-v-lese",
+      "id": "order-hr-me-sa-na-l-ke-nie-tu",
       "type": "order",
-      "l1": "On joue dans la prairie, pas dans la forêt.",
-      "l2": "Hráme sa na lúke, nie v lese.",
+      "l1": "On joue dans la prairie, pas ici.",
+      "l2": "Hráme sa na lúke, nie tu.",
       "tokens_l1": [
         "On joue",
         "dans la prairie,",
         "pas",
-        "dans la forêt."
+        "ici."
       ],
       "tokens_l2": [
         "Hráme sa",
         "na lúke,",
         "nie",
-        "v lese."
+        "tu."
       ]
     },
     {

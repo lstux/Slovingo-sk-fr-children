@@ -46,14 +46,14 @@
       ]
     },
     {
-      "id": "listen-no-po-hr-me-sa-na-l-ke",
+      "id": "listen-no-po-user-name-hr-me-sa-na-l-ke",
       "type": "listen",
-      "l1": "Oui ! Viens, on joue dans la prairie !",
-      "l2": "Áno! Poď, hráme sa na lúke!",
+      "l1": "Oui ! Viens, [USER_NAME], on joue dans la prairie !",
+      "l2": "Áno! Poď, [USER_NAME], hráme sa na lúke!",
       "choices_l1": [
-        "Non ! Viens, on joue dans la prairie !",
-        "Oui ! Attends, on joue dans la prairie !",
-        "Oui ! Viens, on joue dans le village !"
+        "Non ! Viens, [USER_NAME], on joue dans la prairie !",
+        "Oui ! Attends, [USER_NAME], on joue dans la prairie !",
+        "Oui ! Viens, [USER_NAME], on joue dans le village !"
       ]
     },
     {
@@ -178,14 +178,14 @@
       ]
     },
     {
-      "id": "listen-deti-je-obed",
+      "id": "listen-deti-obed",
       "type": "listen",
-      "l1": "Les enfants ! C'est l'heure du déjeuner !",
-      "l2": "Deti! Je obed!",
+      "l1": "Les enfants, à table !",
+      "l2": "Deti, obed!",
       "choices_l1": [
-        "Les enfants ! C'est l'heure de jouer !",
-        "Les enfants ! C'est l'heure du dîner !",
-        "Les parents ! C'est l'heure du déjeuner !"
+        "Les enfants, on joue !",
+        "Les enfants, au lit !",
+        "Les parents, à table !"
       ]
     },
     {
@@ -229,22 +229,6 @@
         "Nevadí!",
         "To je",
         "zábava!"
-      ]
-    },
-    {
-      "id": "order-deti-je-obed",
-      "type": "order",
-      "l1": "Les enfants ! C'est l'heure du déjeuner !",
-      "l2": "Deti! Je obed!",
-      "tokens_l1": [
-        "Les enfants !",
-        "C'est",
-        "l'heure du déjeuner !"
-      ],
-      "tokens_l2": [
-        "Deti!",
-        "Je",
-        "obed!"
       ]
     },
     {

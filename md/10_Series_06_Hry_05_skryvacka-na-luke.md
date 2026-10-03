@@ -1,6 +1,6 @@
 # Série Hry (5/5) — Skrývačka na lúke
 
-@ TODO_img/lac-montagne-pre.jpg | TODO : choisir une image (prairie de montagne fleurie avec un petit arbre) sur Wikimedia Commons
+@ TODO_img/prairie-fleurie.jpg | TODO : choisir une image (prairie de montagne fleurie avec un petit arbre) sur Wikimedia Commons
 
 {{fr:Une belle partie de cache-cache dans une prairie des Tatras avec Andrea, Katka et Maťo. Pour la première fois, tu vas jouer avec tout ce que tu as appris !}}
 
@@ -31,13 +31,13 @@ Les personnages :
 > Hráme sa = on joue
 > na skrývačku = à cache-cache
 
-! 🐹 Áno! Poď, hráme sa na lúke!
-> Oui ! Viens, on joue dans la prairie !
+! 🐹 Áno! Poď, [USER_NAME], hráme sa na lúke!
+> Oui ! Viens, [USER_NAME], on joue dans la prairie !
 > Áno = oui
 > Poď = viens
 > hráme sa = on joue
 > na lúke = dans la prairie
-+ Mot nouveau signalé : {{lúka}} = la prairie. On joue sur la prairie, pas dans la forêt, pour ne pas déranger les animaux. À écouter : {{na lúke}} !
++ Mot nouveau signalé : {{lúka}} = la prairie. On joue dans la prairie, pas dans la forêt, pour ne pas déranger les animaux. À écouter : {{na lúke}} !
 
 ! 🐻 Aj ja! Môžem sa hrať?
 > Moi aussi ! Je peux jouer ?
@@ -112,13 +112,14 @@ Les personnages :
 
 ! 🐰 Wau! Ty vyhrávaš! Dobrá hra!
 > Waouh ! Tu gagnes ! Bien joué !
+> Wau = waouh
 > Ty vyhrávaš = tu gagnes
 > Dobrá hra = bien joué
 
-! 🐑 Deti! Je obed!
-> Les enfants ! C'est l'heure du déjeuner !
+! 🐑 Deti, obed!
+> Les enfants, à table !
 > Deti = les enfants
-> Je obed = c'est l'heure du déjeuner
+> obed = le déjeuner (à table !)
 
 ! 🐻 Hurá! Mám hlad!
 > Hourra ! J'ai faim !
@@ -142,11 +143,11 @@ Les personnages :
 > Môžem sa hrať = je peux jouer
 > na lúke = dans la prairie
 
-! Strom je veľký, ale Katka je rýchla.
-> L'arbre est grand, mais Katka est rapide.
-> Strom je veľký = l'arbre est grand
+! Strom je malý, ale Maťo je veľký.
+> L'arbre est petit, mais Maťo est grand.
+> Strom je malý = l'arbre est petit
 > ale = mais
-> Katka je rýchla = Katka est rapide
+> Maťo je veľký = Maťo est grand
 
 ! Hráme sa spolu, kto je na rade?
 > On joue ensemble, c'est à qui ?

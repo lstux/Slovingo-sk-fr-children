@@ -31,7 +31,7 @@
 
 ### Après « môžem », un verbe qui ne change pas
 
-{{fr:Après}} {{môžem}}{{fr:, on met le verbe tout simple, comme en français :}} {{hrať sa}} {{fr:= jouer,}} {{ísť}} {{fr:= aller.}}
+{{fr:Après}} {{môžem}}{{fr:, on met le verbe tout simple, comme en français :}} {{hrať sa}} {{fr:= jouer,}} {{ísť}} {{fr:= aller. Et le petit mot}} {{sa}} {{fr:saute juste après}} {{môžem}} {{fr:: on dit}} {{môžem sa hrať}}{{fr:.}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -80,11 +80,11 @@
 > ísť = aller
 > do dediny = au village
 
-! Nemôžem ísť domov.
-> Je ne peux pas rentrer à la maison.
+! Nemôžem ísť do dediny.
+> Je ne peux pas aller au village.
 > Nemôžem = je ne peux pas
 > ísť = aller
-> domov = à la maison
+> do dediny = au village
 
 ---
 
@@ -116,17 +116,16 @@
 
 ## Encore quelques phrases
 
-! Nemôžeme sa hrať tu.
+! Tu sa nemôžeme hrať.
 > On ne peut pas jouer ici.
-> Nemôžeme = on ne peut pas
-> sa hrať = jouer
-> tu = ici
+> Tu = ici
+> sa nemôžeme hrať = on ne peut pas jouer
++ Le mot {{tu}} vient en premier : c'est lui qui compte !
 
-! Môžeme sa hrať tam.
-> On peut jouer là-bas.
-> Môžeme = on peut
-> sa hrať = jouer
-> tam = là-bas
+! Tam sa môžeme hrať.
+> Là-bas, on peut jouer.
+> Tam = là-bas
+> sa môžeme hrať = on peut jouer
 
 ! Nemôžem sa hrať, ale môžem ísť do dediny.
 > Je ne peux pas jouer, mais je peux aller au village.

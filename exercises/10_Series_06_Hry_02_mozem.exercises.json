@@ -144,14 +144,14 @@
       ]
     },
     {
-      "id": "listen-nem-em-s-domov",
+      "id": "listen-nem-em-s-do-dediny",
       "type": "listen",
-      "l1": "Je ne peux pas rentrer à la maison.",
-      "l2": "Nemôžem ísť domov.",
+      "l1": "Je ne peux pas aller au village.",
+      "l2": "Nemôžem ísť do dediny.",
       "choices_l1": [
-        "Je peux rentrer à la maison.",
-        "Tu ne peux pas rentrer à la maison.",
-        "Je ne peux pas aller au village."
+        "Je peux aller au village.",
+        "Tu ne peux pas aller au village.",
+        "Je ne peux pas aller au magasin."
       ]
     },
     {
@@ -166,10 +166,10 @@
       ]
     },
     {
-      "id": "listen-nem-eme-sa-hra-tu",
+      "id": "listen-tu-sa-nem-eme-hra",
       "type": "listen",
       "l1": "On ne peut pas jouer ici.",
-      "l2": "Nemôžeme sa hrať tu.",
+      "l2": "Tu sa nemôžeme hrať.",
       "choices_l1": [
         "On peut jouer ici.",
         "On ne peut pas jouer là-bas.",
@@ -177,14 +177,14 @@
       ]
     },
     {
-      "id": "listen-m-eme-sa-hra-tam",
+      "id": "listen-tam-sa-m-eme-hra",
       "type": "listen",
-      "l1": "On peut jouer là-bas.",
-      "l2": "Môžeme sa hrať tam.",
+      "l1": "Là-bas, on peut jouer.",
+      "l2": "Tam sa môžeme hrať.",
       "choices_l1": [
-        "On ne peut pas jouer là-bas.",
-        "On peut jouer ici.",
-        "Je peux jouer là-bas."
+        "Là-bas, on ne peut pas jouer.",
+        "Ici, on peut jouer.",
+        "Là-bas, je peux jouer."
       ]
     },
     {
@@ -294,35 +294,35 @@
       ]
     },
     {
-      "id": "order-nem-eme-sa-hra-tu",
+      "id": "order-tu-sa-nem-eme-hra",
       "type": "order",
       "l1": "On ne peut pas jouer ici.",
-      "l2": "Nemôžeme sa hrať tu.",
+      "l2": "Tu sa nemôžeme hrať.",
       "tokens_l1": [
         "On ne peut pas",
         "jouer",
         "ici."
       ],
       "tokens_l2": [
-        "Nemôžeme",
-        "sa hrať",
-        "tu."
+        "Tu",
+        "sa nemôžeme",
+        "hrať."
       ]
     },
     {
-      "id": "order-m-eme-sa-hra-tam",
+      "id": "order-tam-sa-m-eme-hra",
       "type": "order",
-      "l1": "On peut jouer là-bas.",
-      "l2": "Môžeme sa hrať tam.",
+      "l1": "Là-bas, on peut jouer.",
+      "l2": "Tam sa môžeme hrať.",
       "tokens_l1": [
-        "On peut",
-        "jouer",
-        "là-bas."
+        "Là-bas,",
+        "on peut",
+        "jouer."
       ],
       "tokens_l2": [
-        "Môžeme",
-        "sa hrať",
-        "tam."
+        "Tam",
+        "sa môžeme",
+        "hrať."
       ]
     },
     {

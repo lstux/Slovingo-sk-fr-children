@@ -239,6 +239,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 06 Hry
 
+> ✅ **Traité le 2026-10-03.** H01 : *s loptou* sorti du tableau de grammaire (reste « à écouter »), *spolu* (rappel), carte « Hráš sa s loptou? Aj ja! ». H02 : place de *sa* expliquée ; *Tu sa nemôžeme hrať* / *Tam sa môžeme hrať* ; *Nemôžem ísť do dediny*. H03 : *na rade* = « au tour (de jouer) », *teraz* introduit, « Ça y est, je viens chercher ! », *Mám ťa!* = cri du jeu du chat. H04 : « l'amusement ». H05 : *Deti, obed!*, *Wau* décomposé, *Poď, [USER_NAME]*, « dans la prairie », *Strom je malý, ale Maťo je veľký*, image renommée. H06 : plus de *les / v lese*, ordre des mots corrigé, répliques à deux voix séparées par un tiret, tableau complété (*teraz, už, ťa, nevidím ťa, nemôžeš…*).
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | ✅ | 01 l.15, 06 l.15 | « la cache-cache » | Corrigé « le cache-cache » (+ exercices) |
@@ -280,5 +282,5 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | 03 Jedlo | ✅ passe détaillée faite (2026-10-03) |
 | 04 Dedina | ✅ passe détaillée faite (2026-10-03) |
 | 05 Zvieratá | ✅ passe détaillée faite (2026-10-03) |
-| 06 Hry | à faire |
-| Docs (Format, Progression, README) | à faire |
+| 06 Hry | ✅ passe détaillée faite (2026-10-03) |
+| Docs (Format, Progression, README) | ✅ mis à jour (2026-10-03) |
