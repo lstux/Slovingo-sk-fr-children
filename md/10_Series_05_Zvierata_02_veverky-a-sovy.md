@@ -21,7 +21,7 @@
 
 ### Plusieurs animaux
 
-{{fr:Comme pour les chaises, la fin du mot change : -a devient -y, et -o ou -e devient -á.}}
+{{fr:Pour parler de plusieurs animaux, la fin du mot change. Les mots qui finissent par un a prennent souvent un y. Et deux mots sont spéciaux : ils s'allongent ! On les retient en bloc.}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -85,6 +85,13 @@
 > Kde sú = où sont
 > sovy = chouettes
 > Sú tam = elles sont là-bas
+
+! Pozri! Dve veveričky a orechy!
+> Regarde ! Deux écureuils et des noix !
+> Pozri = regarde
+> Dve veveričky = deux écureuils
+> a = et
+> orechy = des noix
 
 ---
 

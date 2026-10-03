@@ -206,6 +206,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 05 Zvieratá
 
+> ✅ **Traité le 2026-10-03.** Z01 : *vlk / rys* en complémentaire (9 mots), cartes « V Tatrách… » déplacées en fin de fiche, endémiques « qu'on ne trouve que dans les Tatras », 2e carte « On révise », plus de *zajace*. Z02 : règle du pluriel réécrite (« deux mots spéciaux qui s'allongent »), plus de renvoi, 2e carte « On révise ». Z03 : *chlpatý* = « poilu » partout ; règle -ý/-á + piège de la fin courte (*rýchly*) ; *pomalý / vysoko* en complémentaire ; *Svišť má malé labky* au lieu des pattes de l'ours ; **« Medveď je veľký, ale aj rýchly! »** + remarque sécurité ; « L'aigle est tout là-haut ». Z04 : règle du genre corrigée ; *alebo* introduit ; *Zajac je rýchlejší ako vlk* ; *Kto je najmenší? Veverička!* ; *Medveď je najväčší v Tatrách* ; **« Orol je rýchlejší ako kamzík »** (piqué) ; Coin « l'ours n'a pas besoin d'être petit ». Z05 réécrit : 3 nouveautés (*po chodníku, prečo, nekrmte*), une forme à écouter (*choďte*), plus de *krásne / strážca / rozumiem / bývajú / ich / parku* ; « Prečo? » → « Pozri! Tu je nora a tam je hniezdo! » ; plus de pomme offerte juste après « nekrmte », remplacée par le clin d'œil de Maťo (« A med? » « Nie, nie! ») ; prénoms seuls dans les `{{fr:}}`. Z06 : tableau complet, cartes recombinées sans nouveautés.
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | ✅ | 01 l.17 | « la lièvre femelle » | Corrigé « la femelle du lièvre » |
@@ -277,6 +279,6 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | 02 Doma | ✅ passe détaillée faite (2026-10-03) |
 | 03 Jedlo | ✅ passe détaillée faite (2026-10-03) |
 | 04 Dedina | ✅ passe détaillée faite (2026-10-03) |
-| 05 Zvieratá | à faire |
+| 05 Zvieratá | ✅ passe détaillée faite (2026-10-03) |
 | 06 Hry | à faire |
 | Docs (Format, Progression, README) | à faire |

@@ -69,14 +69,14 @@
       ]
     },
     {
-      "id": "listen-orol-m-ve-k-kr-dla-a-medve-m-ve-k-labky",
+      "id": "listen-orol-m-ve-k-kr-dla-a-svi-m-mal-labky",
       "type": "listen",
-      "l1": "L'aigle a de grandes ailes et l'ours a de grosses pattes.",
-      "l2": "Orol má veľké krídla a medveď má veľké labky.",
+      "l1": "L'aigle a de grandes ailes et la marmotte a de petites pattes.",
+      "l2": "Orol má veľké krídla a svišť má malé labky.",
       "choices_l1": [
-        "L'ours a de grandes ailes et l'aigle a de grosses pattes.",
-        "L'aigle a de petites ailes et l'ours a de grosses pattes.",
-        "L'aigle a de grandes ailes et l'ours a une longue queue."
+        "La marmotte a de grandes ailes et l'aigle a de petites pattes.",
+        "L'aigle a de petites ailes et la marmotte a de petites pattes.",
+        "L'aigle a de grandes ailes et la marmotte a une longue queue."
       ]
     },
     {
@@ -91,14 +91,14 @@
       ]
     },
     {
-      "id": "listen-kamz-k-je-r-chlej-ako-vlk-kto-je-silnej",
+      "id": "listen-zajac-je-r-chlej-ako-vlk-kto-je-silnej",
       "type": "listen",
-      "l1": "Le chamois est plus rapide que le loup. Qui est le plus fort ?",
-      "l2": "Kamzík je rýchlejší ako vlk. Kto je silnejší?",
+      "l1": "Le lièvre est plus rapide que le loup. Qui est le plus fort ?",
+      "l2": "Zajac je rýchlejší ako vlk. Kto je silnejší?",
       "choices_l1": [
-        "Le loup est plus rapide que le chamois. Qui est le plus fort ?",
-        "Le chamois est plus fort que le loup. Qui est le plus rapide ?",
-        "Le chamois est plus rapide que le lynx. Qui est le plus fort ?"
+        "Le loup est plus rapide que le lièvre. Qui est le plus fort ?",
+        "Le lièvre est plus fort que le loup. Qui est le plus rapide ?",
+        "Le lièvre est plus rapide que le lynx. Qui est le plus fort ?"
       ]
     },
     {
@@ -253,13 +253,13 @@
         "la marmotte",
         "le chamois",
         "l'aigle",
-        "l'écureuil"
+        "le lynx"
       ],
       "l2": [
         "svišť",
         "kamzík",
         "orol",
-        "veverička"
+        "rys"
       ]
     },
     {

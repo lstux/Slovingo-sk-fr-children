@@ -127,14 +127,14 @@
       ]
     },
     {
-      "id": "listen-kamz-k-je-r-chlej-ako-vlk",
+      "id": "listen-zajac-je-r-chlej-ako-vlk",
       "type": "listen",
-      "l1": "Le chamois est plus rapide que le loup.",
-      "l2": "Kamzík je rýchlejší ako vlk.",
+      "l1": "Le lièvre est plus rapide que le loup.",
+      "l2": "Zajac je rýchlejší ako vlk.",
       "choices_l1": [
-        "Le loup est plus rapide que le chamois.",
-        "Le chamois est plus fort que le loup.",
-        "Le chamois est plus rapide que le lynx."
+        "Le loup est plus rapide que le lièvre.",
+        "Le lièvre est plus fort que le loup.",
+        "Le lièvre est plus rapide que le lynx."
       ]
     },
     {
@@ -171,25 +171,25 @@
       ]
     },
     {
-      "id": "listen-medve-je-najv",
+      "id": "listen-medve-je-najv-v-tatr-ch",
       "type": "listen",
-      "l1": "L'ours est le plus grand.",
-      "l2": "Medveď je najväčší.",
+      "l1": "L'ours est le plus grand des Tatras.",
+      "l2": "Medveď je najväčší v Tatrách.",
       "choices_l1": [
-        "La marmotte est la plus grande.",
-        "L'ours est le plus petit.",
-        "L'ours est le plus rapide."
+        "La marmotte est la plus grande des Tatras.",
+        "L'ours est le plus petit des Tatras.",
+        "L'ours est le plus rapide des Tatras."
       ]
     },
     {
-      "id": "listen-svi-je-najmen",
+      "id": "listen-kto-je-najmen-veveri-ka",
       "type": "listen",
-      "l1": "La marmotte est la plus petite.",
-      "l2": "Svišť je najmenší.",
+      "l1": "Qui est le plus petit ? L'écureuil !",
+      "l2": "Kto je najmenší? Veverička!",
       "choices_l1": [
-        "L'ours est le plus petit.",
-        "La marmotte est la plus grande.",
-        "La marmotte est la plus rapide."
+        "Qui est le plus grand ? L'écureuil !",
+        "Qui est le plus petit ? La marmotte !",
+        "Qui est le plus rapide ? L'écureuil !"
       ]
     },
     {
@@ -329,21 +329,21 @@
       ]
     },
     {
-      "id": "order-kamz-k-je-r-chlej-ako-vlk",
+      "id": "order-orol-je-r-chlej-ako-kamz-k",
       "type": "order",
-      "l1": "Le chamois est plus rapide que le loup.",
-      "l2": "Kamzík je rýchlejší ako vlk.",
+      "l1": "L'aigle est plus rapide que le chamois.",
+      "l2": "Orol je rýchlejší ako kamzík.",
       "tokens_l1": [
-        "Le chamois",
+        "L'aigle",
         "est plus rapide",
         "que",
-        "le loup."
+        "le chamois."
       ],
       "tokens_l2": [
-        "Kamzík",
+        "Orol",
         "je rýchlejší",
         "ako",
-        "vlk."
+        "kamzík."
       ]
     },
     {

@@ -17,8 +17,6 @@
 | zajačica | la hase (la femelle du lièvre) |
 | kamzík | le chamois |
 | orol | l'aigle |
-| vlk | le loup |
-| rys | le lynx |
 | som | je suis |
 | si | tu es |
 
@@ -76,19 +74,6 @@
 > To je = c'est
 > orol = aigle
 
-! V Tatrách je rys.
-> Dans les Tatras, il y a un lynx.
-> V Tatrách = dans les Tatras
-> je = il y a
-> rys = lynx
-+ À écouter : {{v Tatrách}} = dans les Tatras.
-
-! V Tatrách je vlk.
-> Dans les Tatras, il y a un loup.
-> V Tatrách = dans les Tatras
-> je = il y a
-> vlk = loup
-
 ---
 
 ## On révise
@@ -99,11 +84,17 @@
 > Ty si zajačica = toi, tu es une hase
 > Katka je svišť = Katka est une marmotte
 
+! Maťo je medveď. Je veľký a silný.
+> Maťo est un ours. Il est grand et fort.
+> Maťo je medveď = Maťo est un ours
+> Je = il est
+> veľký a silný = grand et fort
+
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Les Tatras sont un parc national, le}} {{TANAP}}{{fr:, créé en 1949. On y protège les animaux et les plantes. Ici vivent un chamois et une marmotte qui n'existent nulle part ailleurs : le chamois des Tatras et la marmotte des Tatras !}} 🏔️
+{{fr:Les Tatras sont un parc national, le}} {{TANAP}}{{fr:, créé en 1949. On y protège les animaux et les plantes. Ici vivent une sorte de chamois et une sorte de marmotte qu'on ne trouve que dans les montagnes des Tatras : le chamois des Tatras et la marmotte des Tatras !}} 🏔️
 
 ---
 
@@ -112,6 +103,8 @@
 | Slovenčina | Français |
 |------------|----------|
 | jeleň | le cerf |
+| vlk | le loup |
+| rys | le lynx |
 
 ---
 
@@ -127,9 +120,21 @@
 > Medveď je = l'ours est
 > zviera = animal
 
-! Ja som líška, ale nejem zajace.
-> Je suis un renard, mais je ne mange pas de lièvres.
+! V Tatrách je rys.
+> Dans les Tatras, il y a un lynx.
+> V Tatrách = dans les Tatras
+> je = il y a
+> rys = lynx
++ À écouter : {{v Tatrách}} = dans les Tatras.
+
+! V Tatrách je vlk.
+> Dans les Tatras, il y a un loup.
+> V Tatrách = dans les Tatras
+> je = il y a
+> vlk = loup
+
+! Ja som líška a Andrea je moja kamarátka.
+> Je suis un renard, et Andrea est mon amie.
 > Ja som líška = je suis un renard
-> ale = mais
-> nejem zajace = je ne mange pas de lièvres
-+ Cette phrase est surtout pour rire : {{zajace}} = les lièvres. À écouter !
+> a = et
+> Andrea je moja kamarátka = Andrea est mon amie

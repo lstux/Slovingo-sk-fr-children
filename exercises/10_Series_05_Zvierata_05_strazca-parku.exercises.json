@@ -3,35 +3,19 @@
   "sync": "full",
   "exercises": [
     {
-      "id": "qcm-chodn-k",
+      "id": "qcm-po-chodn-ku",
       "type": "qcm",
-      "l1": "le sentier",
-      "l2": "chodník",
+      "l1": "sur le sentier",
+      "l2": "po chodníku",
       "choices_l1": [
-        "le gardien",
-        "la maison",
-        "le village"
+        "dans le terrier",
+        "sur la table",
+        "au village"
       ],
       "choices_l2": [
-        "strážca",
-        "dom",
-        "dedina"
-      ]
-    },
-    {
-      "id": "qcm-str-ca",
-      "type": "qcm",
-      "l1": "le gardien",
-      "l2": "strážca",
-      "choices_l1": [
-        "le sentier",
-        "l'aigle",
-        "le chamois"
-      ],
-      "choices_l2": [
-        "chodník",
-        "orol",
-        "kamzík"
+        "v nore",
+        "na stole",
+        "do dediny"
       ]
     },
     {
@@ -48,22 +32,6 @@
         "aký",
         "koľko",
         "kde"
-      ]
-    },
-    {
-      "id": "qcm-rozumiem",
-      "type": "qcm",
-      "l1": "je comprends",
-      "l2": "rozumiem",
-      "choices_l1": [
-        "je ne comprends pas",
-        "je veux",
-        "j'ai"
-      ],
-      "choices_l2": [
-        "nerozumiem",
-        "chcem",
-        "mám"
       ]
     },
     {
@@ -100,14 +68,14 @@
       ]
     },
     {
-      "id": "listen-dobr-de-deti-ja-som-p-n-orol-str-ca-parku",
+      "id": "listen-dobr-de-deti-ja-som-p-n-orol",
       "type": "listen",
-      "l1": "Bonjour, les enfants ! Je suis Monsieur Orol, le gardien du parc.",
-      "l2": "Dobrý deň, deti! Ja som pán Orol, strážca parku.",
+      "l1": "Bonjour, les enfants ! Je suis Monsieur Orol.",
+      "l2": "Dobrý deň, deti! Ja som pán Orol.",
       "choices_l1": [
-        "Bonjour, les enfants ! Je suis Madame Orol, le gardien du parc.",
-        "Salut, les enfants ! Je suis Monsieur Orol, le gardien du parc.",
-        "Bonjour, les enfants ! Je suis Monsieur Medveď, le gardien du parc."
+        "Salut, les enfants ! Je suis Monsieur Orol.",
+        "Bonjour, les enfants ! Je suis Madame Orol.",
+        "Bonjour, les enfants ! Je suis Monsieur Medveď."
       ]
     },
     {
@@ -127,8 +95,8 @@
       "l1": "Les enfants, restez sur le sentier, s'il vous plaît.",
       "l2": "Deti, choďte po chodníku, prosím.",
       "choices_l1": [
-        "Les enfants, venez sur le sentier, s'il vous plaît.",
-        "Les enfants, restez au village, s'il vous plaît.",
+        "Les enfants, venez au village, s'il vous plaît.",
+        "Les enfants, restez dans le terrier, s'il vous plaît.",
         "Les enfants, restez sur le sentier, merci."
       ]
     },
@@ -144,14 +112,14 @@
       ]
     },
     {
-      "id": "listen-rozumiem-idem-po-chodn-ku",
+      "id": "listen-pozri-tu-je-nora-a-tam-je-hniezdo",
       "type": "listen",
-      "l1": "J'ai compris ! Je reste sur le sentier.",
-      "l2": "Rozumiem! Idem po chodníku.",
+      "l1": "Regarde ! Ici, il y a un terrier, et là-bas, un nid !",
+      "l2": "Pozri! Tu je nora a tam je hniezdo!",
       "choices_l1": [
-        "Je n'ai pas compris ! Je reste sur le sentier.",
-        "J'ai compris ! Je vais au village.",
-        "J'ai compris ! Je reste dans le terrier."
+        "Regarde ! Ici, il y a un nid, et là-bas, un terrier !",
+        "Regarde ! Ici, il y a une tanière, et là-bas, un nid !",
+        "Attends ! Ici, il y a un terrier, et là-bas, un nid !"
       ]
     },
     {
@@ -162,29 +130,29 @@
       "choices_l1": [
         "Et s'il vous plaît, nourrissez les animaux.",
         "Et merci, ne nourrissez pas les animaux.",
-        "Et s'il vous plaît, ne touchez pas les animaux."
+        "Et s'il vous plaît, regardez les animaux."
       ]
     },
     {
-      "id": "listen-p-n-orol-chcete-jablko",
+      "id": "listen-a-med",
       "type": "listen",
-      "l1": "Monsieur Orol, vous voulez une pomme ?",
-      "l2": "Pán Orol, chcete jablko?",
+      "l1": "Et le miel ?",
+      "l2": "A med?",
       "choices_l1": [
-        "Monsieur Orol, vous avez une pomme ?",
-        "Madame Orol, vous voulez une pomme ?",
-        "Monsieur Orol, vous voulez une poire ?"
+        "Et le lait ?",
+        "Et la pomme ?",
+        "Et le pain ?"
       ]
     },
     {
-      "id": "listen-nie-akujem-ja-nejem-jablko",
+      "id": "listen-dovidenia-p-n-orol",
       "type": "listen",
-      "l1": "Non, merci. Moi, je ne mange pas de pomme !",
-      "l2": "Nie, ďakujem. Ja nejem jablko!",
+      "l1": "Au revoir, Monsieur Orol !",
+      "l2": "Dovidenia, pán Orol!",
       "choices_l1": [
-        "Oui, merci. Moi, je mange une pomme !",
-        "Non, merci. Moi, je ne mange pas de pain !",
-        "Non, pardon. Moi, je ne mange pas de pomme !"
+        "Bonjour, Monsieur Orol !",
+        "Merci, Monsieur Orol !",
+        "Au revoir, Madame Orol !"
       ]
     },
     {
@@ -209,6 +177,27 @@
       "show_translation": true
     },
     {
+      "id": "blank-pozri-tu-je-nora-a-tam-je-hniezdo",
+      "type": "fill-blank",
+      "l1": "Regarde ! Ici, il y a un terrier, et là-bas, un nid !",
+      "l2": "Pozri! Tu je nora a tam je hniezdo!",
+      "missing_l1": "nid",
+      "missing_l2": "hniezdo",
+      "blank_index_l1": 11,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "terrier",
+        "tanière",
+        "maison"
+      ],
+      "choices_l2": [
+        "nora",
+        "brloh",
+        "dom"
+      ],
+      "show_translation": true
+    },
+    {
       "id": "order-dobr-de-p-n-orol",
       "type": "order",
       "l1": "Bonjour, Monsieur Orol !",
@@ -225,35 +214,21 @@
       ]
     },
     {
-      "id": "order-rozumiem-idem-po-chodn-ku",
+      "id": "order-deti-cho-te-po-chodn-ku-pros-m",
       "type": "order",
-      "l1": "J'ai compris ! Je reste sur le sentier.",
-      "l2": "Rozumiem! Idem po chodníku.",
+      "l1": "Les enfants, restez sur le sentier, s'il vous plaît.",
+      "l2": "Deti, choďte po chodníku, prosím.",
       "tokens_l1": [
-        "J'ai compris !",
-        "Je reste",
-        "sur le sentier."
+        "Les enfants,",
+        "restez",
+        "sur le sentier,",
+        "s'il vous plaît."
       ],
       "tokens_l2": [
-        "Rozumiem!",
-        "Idem",
-        "po chodníku."
-      ]
-    },
-    {
-      "id": "order-p-n-orol-chcete-jablko",
-      "type": "order",
-      "l1": "Monsieur Orol, vous voulez une pomme ?",
-      "l2": "Pán Orol, chcete jablko?",
-      "tokens_l1": [
-        "Monsieur Orol,",
-        "vous voulez",
-        "une pomme ?"
-      ],
-      "tokens_l2": [
-        "Pán Orol,",
-        "chcete",
-        "jablko?"
+        "Deti,",
+        "choďte",
+        "po chodníku,",
+        "prosím."
       ]
     },
     {

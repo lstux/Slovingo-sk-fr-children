@@ -26,7 +26,7 @@
       "choices_l1": [
         "lent",
         "long",
-        "tout doux"
+        "poilu"
       ],
       "choices_l2": [
         "pomalý",
@@ -37,7 +37,7 @@
     {
       "id": "qcm-chlpat",
       "type": "qcm",
-      "l1": "tout doux",
+      "l1": "poilu",
       "l2": "chlpatý",
       "choices_l1": [
         "lent",
@@ -117,11 +117,11 @@
     {
       "id": "listen-medve-je-ve-k-a-chlpat",
       "type": "listen",
-      "l1": "L'ours est grand et tout doux.",
+      "l1": "L'ours est grand et poilu.",
       "l2": "Medveď je veľký a chlpatý.",
       "choices_l1": [
         "L'ours est grand et fort.",
-        "L'ours est petit et tout doux.",
+        "L'ours est petit et poilu.",
         "La marmotte est grande et toute douce."
       ]
     },
@@ -161,12 +161,12 @@
     {
       "id": "listen-orol-je-vysoko",
       "type": "listen",
-      "l1": "L'aigle est en haut.",
+      "l1": "L'aigle est tout là-haut.",
       "l2": "Orol je vysoko.",
       "choices_l1": [
         "L'aigle est ici.",
         "L'aigle est rapide.",
-        "Le loup est en haut."
+        "Le loup est tout là-haut."
       ]
     },
     {
@@ -203,14 +203,14 @@
       ]
     },
     {
-      "id": "listen-medve-m-ve-k-labky",
+      "id": "listen-svi-m-mal-labky",
       "type": "listen",
-      "l1": "L'ours a de grosses pattes.",
-      "l2": "Medveď má veľké labky.",
+      "l1": "La marmotte a de petites pattes.",
+      "l2": "Svišť má malé labky.",
       "choices_l1": [
-        "La marmotte a de grosses pattes.",
+        "La marmotte a de petites oreilles.",
         "L'ours a de petites pattes.",
-        "L'ours a de grandes ailes."
+        "La marmotte a de grandes pattes."
       ]
     },
     {
@@ -368,21 +368,21 @@
       ]
     },
     {
-      "id": "order-medve-je-ve-k-ale-pomal",
+      "id": "order-medve-je-ve-k-ale-aj-r-chly",
       "type": "order",
-      "l1": "L'ours est grand, mais lent.",
-      "l2": "Medveď je veľký, ale pomalý.",
+      "l1": "L'ours est grand, mais il est aussi rapide !",
+      "l2": "Medveď je veľký, ale aj rýchly!",
       "tokens_l1": [
-        "L'ours",
-        "est grand,",
-        "mais",
-        "lent."
+        "L'ours est grand,",
+        "mais il est",
+        "aussi",
+        "rapide !"
       ],
       "tokens_l2": [
-        "Medveď",
-        "je veľký,",
+        "Medveď je veľký,",
         "ale",
-        "pomalý."
+        "aj",
+        "rýchly!"
       ]
     },
     {
@@ -391,7 +391,7 @@
       "l1": [
         "lent",
         "silencieux",
-        "tout doux",
+        "poilu",
         "long"
       ],
       "l2": [

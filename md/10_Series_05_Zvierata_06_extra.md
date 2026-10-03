@@ -10,7 +10,7 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| zviera | l'animal |
+| zviera / zvieratá | l'animal / les animaux |
 | svišť | la marmotte |
 | medveď | l'ours |
 | zajac | le lièvre |
@@ -20,18 +20,19 @@
 | vlk | le loup |
 | rys | le lynx |
 | jeleň | le cerf |
-| líška | le renard |
-| veverička | l'écureuil |
-| sova | la chouette |
-| mláďa | le bébé animal |
+| líška | le renard (rappel) |
+| veverička / veveričky | l'écureuil / les écureuils |
+| sova / sovy | la chouette / les chouettes |
+| mláďa / mláďatá | le bébé animal / les bébés animaux |
 | som | je suis |
 | si | tu es |
 | je | est |
+| chlpatý | poilu |
+| tichý / tichá | silencieux / silencieuse |
+| dlhý / dlhé | long / longs |
+| malé | petits, petites |
 | pomalý | lent |
-| chlpatý | tout doux |
-| tichý | silencieux |
-| dlhý | long |
-| vysoko | en haut |
+| vysoko | tout là-haut |
 | uši | les oreilles |
 | labky | les pattes |
 | krídla | les ailes |
@@ -40,9 +41,12 @@
 | menší | plus petit |
 | rýchlejší | plus rapide |
 | silnejší | plus fort |
+| najväčší / najmenší | le plus grand / le plus petit |
 | ako | que |
-| chodník | le sentier |
+| alebo | ou |
+| po chodníku | sur le sentier |
 | prečo | pourquoi |
+| nekrmte | ne nourrissez pas |
 
 ---
 
@@ -83,11 +87,11 @@
 > a = et
 > líška má dlhý chvost = le renard a une longue queue
 
-! Orol má veľké krídla a medveď má veľké labky.
-> L'aigle a de grandes ailes et l'ours a de grosses pattes.
+! Orol má veľké krídla a svišť má malé labky.
+> L'aigle a de grandes ailes et la marmotte a de petites pattes.
 > Orol má veľké krídla = l'aigle a de grandes ailes
 > a = et
-> medveď má veľké labky = l'ours a de grosses pattes
+> svišť má malé labky = la marmotte a de petites pattes
 
 ! Sova je tichá, ale medveď je veľký.
 > La chouette est silencieuse, mais l'ours est grand.
@@ -101,23 +105,28 @@
 > ale = mais
 > svišť je menší ako medveď = la marmotte est plus petite que l'ours
 
-! Kamzík je rýchlejší ako vlk. Kto je silnejší?
-> Le chamois est plus rapide que le loup. Qui est le plus fort ?
-> Kamzík je rýchlejší ako vlk = le chamois est plus rapide que le loup
+! Zajac je rýchlejší ako vlk. Kto je silnejší?
+> Le lièvre est plus rapide que le loup. Qui est le plus fort ?
+> Zajac je rýchlejší ako vlk = le lièvre est plus rapide que le loup
 > Kto je silnejší = qui est le plus fort
 
-! Prečo ideš po chodníku? Rozumiem, to je domov zvierat.
-> Pourquoi marches-tu sur le sentier ? Je comprends, c'est la maison des animaux.
-> Prečo ideš po chodníku = pourquoi marches-tu sur le sentier
-> Rozumiem = je comprends
-> domov zvierat = la maison des animaux
-+ À écouter : {{zvierat}} = des animaux.
+! Kto je väčší, kamzík alebo orol?
+> Qui est le plus grand, le chamois ou l'aigle ?
+> Kto je väčší = qui est le plus grand
+> kamzík alebo orol = le chamois ou l'aigle
 
-! Dobrý deň, pán Orol! Orol je vysoko.
-> Bonjour, Monsieur Orol ! L'aigle est en haut.
+! Prečo idem po chodníku? Tu je hniezdo!
+> Pourquoi je marche sur le sentier ? Il y a un nid ici !
+> Prečo = pourquoi
+> idem po chodníku = je marche sur le sentier
+> Tu je hniezdo = il y a un nid ici
+
+! Dobrý deň, pán Orol! Kde je hniezdo? Vysoko?
+> Bonjour, Monsieur Orol ! Où est le nid ? Tout là-haut ?
 > Dobrý deň = bonjour
 > pán Orol = Monsieur Orol
-> Orol je vysoko = l'aigle est en haut
+> Kde je = où est
+> Vysoko = tout là-haut
 
 ! Pozri, to je kamzík! Je rýchly!
 > Regarde, c'est un chamois ! Il est rapide !
@@ -132,7 +141,7 @@
 > Idem po chodníku = je reste sur le sentier
 
 ! Svišť je malý a chlpatý, ale medveď je väčší.
-> La marmotte est petite et toute douce, mais l'ours est plus grand.
-> Svišť je malý a chlpatý = la marmotte est petite et toute douce
+> La marmotte est petite et poilue, mais l'ours est plus grand.
+> Svišť je malý a chlpatý = la marmotte est petite et poilue
 > ale = mais
 > medveď je väčší = l'ours est plus grand

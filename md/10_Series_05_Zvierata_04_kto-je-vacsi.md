@@ -15,6 +15,7 @@
 | rýchlejší | plus rapide |
 | silnejší | plus fort |
 | ako | que |
+| alebo | ou |
 
 ---
 
@@ -31,7 +32,7 @@
 | rýchly → rýchlejší | rapide → plus rapide |
 | silný → silnejší | fort → plus fort |
 
-{{fr:Ces mots ne changent pas selon le genre dans nos phrases : on les retient en bloc !}}
+{{fr:Ici, tous les animaux sont des mots masculins. Pour un mot féminin, la fin change encore un peu, mais on verra ça plus tard !}}
 
 ---
 
@@ -65,9 +66,9 @@
 > ako = que
 > zajac = le lièvre
 
-! Kamzík je rýchlejší ako vlk.
-> Le chamois est plus rapide que le loup.
-> Kamzík je = le chamois est
+! Zajac je rýchlejší ako vlk.
+> Le lièvre est plus rapide que le loup.
+> Zajac je = le lièvre est
 > rýchlejší = plus rapide
 > ako = que
 > vlk = le loup
@@ -93,11 +94,17 @@
 > zajac alebo medveď = le lièvre ou l'ours
 > Zajac = le lièvre
 
+! Moja sestra je malá, ale môj brat je väčší.
+> Ma sœur est petite, mais mon frère est plus grand.
+> Moja sestra je malá = ma sœur est petite
+> ale = mais
+> môj brat je väčší = mon frère est plus grand
+
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:On compare pour s'amuser, mais dans la nature, chacun est parfait comme il est : la marmotte n'a pas besoin d'être grande, et l'ours n'a pas besoin d'être rapide. Chacun a sa place dans les Tatras !}} 🌲
+{{fr:On compare pour s'amuser, mais dans la nature, chacun est parfait comme il est : la marmotte n'a pas besoin d'être grande, et l'ours n'a pas besoin d'être petit. Chacun a sa place dans les Tatras !}} 🌲
 
 ---
 
@@ -112,18 +119,22 @@
 
 ## Encore quelques phrases
 
-! Medveď je najväčší.
-> L'ours est le plus grand.
+! Medveď je najväčší v Tatrách.
+> L'ours est le plus grand des Tatras.
 > Medveď je = l'ours est
 > najväčší = le plus grand
+> v Tatrách = dans les Tatras
 
-! Svišť je najmenší.
-> La marmotte est la plus petite.
-> Svišť je = la marmotte est
+! Kto je najmenší? Veverička!
+> Qui est le plus petit ? L'écureuil !
+> Kto je = qui est
 > najmenší = le plus petit
+> Veverička = l'écureuil
 
-! Orol je vysoko, ale kamzík je rýchlejší.
-> L'aigle est en haut, mais le chamois est plus rapide.
-> Orol je vysoko = l'aigle est en haut
-> ale = mais
-> kamzík je rýchlejší = le chamois est plus rapide
+! Orol je rýchlejší ako kamzík.
+> L'aigle est plus rapide que le chamois.
+> Orol je = l'aigle est
+> rýchlejší = plus rapide
+> ako = que
+> kamzík = le chamois
++ Quand l'aigle plonge du ciel, il va plus vite qu'une voiture sur l'autoroute !

@@ -10,13 +10,11 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| pomalý | lent |
-| chlpatý | tout doux |
+| chlpatý | poilu |
 | tichý | silencieux |
 | tichá | silencieuse |
 | dlhý | long |
 | dlhé | longs, longues |
-| vysoko | haut, en haut |
 | uši | les oreilles |
 | labky | les pattes |
 | krídla | les ailes |
@@ -28,7 +26,7 @@
 
 ### Décrire : le mot qui décrit suit l'animal
 
-{{fr:Comme pour la famille : -ý pour un mot masculin, -á pour un mot féminin.}}
+{{fr:Comme}} {{milý}} {{fr:et}} {{milá}}{{fr:, le mot qui décrit change de fin pour un mot masculin ou féminin. Petit piège : après une syllabe longue, la fin est courte, comme dans}} {{rýchly}}{{fr:,}} {{rýchla}}{{fr:.}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -51,11 +49,11 @@
 ## Des phrases
 
 ! Medveď je veľký a chlpatý.
-> L'ours est grand et tout doux.
+> L'ours est grand et poilu.
 > Medveď je = l'ours est
 > veľký = grand
 > a = et
-> chlpatý = tout doux
+> chlpatý = poilu
 
 ! Svišť je malý.
 > La marmotte est petite.
@@ -72,11 +70,6 @@
 > Le renard est rapide.
 > Líška je = le renard est
 > rýchla = rapide
-
-! Orol je vysoko.
-> L'aigle est en haut.
-> Orol je = l'aigle est
-> vysoko = en haut
 
 ! Zajac má dlhé uši.
 > Le lièvre a de longues oreilles.
@@ -96,10 +89,10 @@
 > dlhý = longue
 > chvost = queue
 
-! Medveď má veľké labky.
-> L'ours a de grosses pattes.
-> Medveď má = l'ours a
-> veľké = grosses
+! Svišť má malé labky.
+> La marmotte a de petites pattes.
+> Svišť má = la marmotte a
+> malé = petites
 > labky = pattes
 
 ---
@@ -125,6 +118,8 @@
 | Slovenčina | Français |
 |------------|----------|
 | malé | petits, petites |
+| pomalý | lent |
+| vysoko | tout là-haut |
 
 ---
 
@@ -142,8 +137,20 @@
 > ale = mais
 > orol je rýchly = l'aigle est rapide
 
-! Medveď je veľký, ale pomalý.
-> L'ours est grand, mais lent.
+! Medveď je veľký, ale aj rýchly!
+> L'ours est grand, mais il est aussi rapide !
 > Medveď je veľký = l'ours est grand
-> ale = mais
+> ale aj = mais aussi
+> rýchly = rapide
++ Attention : l'ours court très vite, bien plus vite qu'un humain ! C'est pour ça qu'on le regarde toujours de loin.
+
+! Orol je vysoko.
+> L'aigle est tout là-haut.
+> Orol je = l'aigle est
+> vysoko = tout là-haut
+
+! Medveď nie je pomalý!
+> L'ours n'est pas lent !
+> Medveď = l'ours
+> nie je = n'est pas
 > pomalý = lent
