@@ -1,6 +1,6 @@
 # Introduction (4/5) — Comment ça se prononce ?
 
-@ TODO_img/enfants-qui-parlent.jpg | TODO : choisir une image (enfants qui rient ou qui parlent) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg | Une marmotte devant son terrier
 
 {{fr:Bonne nouvelle : en slovaque, on lit presque toujours comme c'est écrit, et il n'y a pas de lettres muettes ! Il suffit de retenir six astuces. Écoute bien, et répète à voix haute.}}
 

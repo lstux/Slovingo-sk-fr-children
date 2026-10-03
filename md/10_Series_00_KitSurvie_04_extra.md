@@ -1,6 +1,6 @@
 # Kit de Survie (extra) — Všetko dokopy
 
-@ TODO_img/tatry-panorama.jpg | TODO : choisir une image (panorama des Tatras, lac de montagne) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A9_%C5%A0trbsk%C3%A9_pleso_25_Slovakia_1.jpg | Le Nové Štrbské Pleso, un lac de montagne dans les Tatras
 
 {{fr:Pas de mot nouveau ici. On réunit tout le Kit de Survie, et on mélange les mots dans de nouvelles phrases !}}
 

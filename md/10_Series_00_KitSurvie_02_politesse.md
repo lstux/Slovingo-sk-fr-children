@@ -1,6 +1,6 @@
 # Kit de Survie (2/3) — Prosím a prepáč
 
-@ TODO_img/enfant-qui-dit-merci.jpg | TODO : choisir une image (animal ou enfant qui tend quelque chose, geste de politesse) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg | Les prés fleuris près du Štrbské Pleso, là où Babka Zuzana aime brouter
 
 {{fr:Les mots qui ouvrent toutes les portes : s'il te plaît, pardon, oui, non !}}
 

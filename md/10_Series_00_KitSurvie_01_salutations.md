@@ -1,6 +1,6 @@
 # Kit de Survie (1/3) — Ahoj!
 
-@ TODO_img/sentier-tatry.jpg | TODO : choisir une image (sentier de montagne dans les Tatras, ou randonneurs qui se croisent) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Biele_pleso,_NPR_Belianske_Tatry_727.jpg | Un sentier de montagne dans les Tatras : quand on croise quelqu'un, on dit bonjour !
 
 {{fr:Pour commencer : dire bonjour, demander comment ça va, et répondre. Touche les mots pour les écouter !}}
 

@@ -1,6 +1,6 @@
 # Kit de Survie (3/3) — Prvé stretnutie
 
-@ TODO_img/premiere-rencontre.jpg | TODO : choisir une image (deux animaux ou deux enfants qui se rencontrent sur un sentier de montagne) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/20170401_kozica_Ko%C5%84czysty_Wierch_5522.jpg | Un chamois des Tatras
 
 {{fr:Tu viens d'arriver dans les Tatras. Sur un sentier, tu croises Andrea, une hase très sympa. Tu vas te présenter, et dire quand tu ne comprends pas !}}
 

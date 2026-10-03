@@ -1,6 +1,6 @@
 # Introduction (3/5) — Une langue déjà familière ?
 
-@ TODO_img/mots-qui-se-ressemblent.jpg | TODO : choisir une image (fruits, pizza et chocolat, ou une carte d'Europe) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_Hare(js)02.jpg | Andrea, la hase des Tatras
 
 {{fr:On dit que le slovaque est difficile. Mais tu en connais déjà des bouts, sans le savoir !}}
 

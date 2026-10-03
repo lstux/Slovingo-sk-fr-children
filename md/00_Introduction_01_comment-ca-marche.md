@@ -1,6 +1,6 @@
 # Introduction (1/5) — Comment ça marche ?
 
-@ TODO_img/comment-ca-marche.jpg | TODO : choisir une image (enfant avec des écouteurs, ou tablette) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_red_fox_(Vulpes_vulpes).jpg | Le renard roux : c'est toi, dans cette aventure !
 
 ## Salut ! Comment tu t'appelles ?
 

@@ -1,6 +1,6 @@
 # Introduction (5/5) — Compter jusqu'à 10
 
-@ TODO_img/enfant-qui-compte.jpg | TODO : choisir une image (enfant comptant sur ses doigts, ou objets à compter) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Amoo_click.jpg | Des moutons à compter
 
 {{fr:Dernière étape avant de vraiment commencer : les nombres ! Compte sur tes doigts, en slovaque.}}
 
