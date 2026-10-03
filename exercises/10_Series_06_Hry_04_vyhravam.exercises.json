@@ -1,0 +1,273 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-vyhr-vam",
+      "type": "qcm",
+      "l1": "je gagne",
+      "l2": "vyhrávam",
+      "choices_l1": [
+        "je perds",
+        "je joue",
+        "tu gagnes"
+      ],
+      "choices_l2": [
+        "prehrávam",
+        "hrám sa",
+        "vyhrávaš"
+      ]
+    },
+    {
+      "id": "qcm-prehr-vam",
+      "type": "qcm",
+      "l1": "je perds",
+      "l2": "prehrávam",
+      "choices_l1": [
+        "je gagne",
+        "je joue",
+        "tu perds"
+      ],
+      "choices_l2": [
+        "vyhrávam",
+        "hrám sa",
+        "prehrávaš"
+      ]
+    },
+    {
+      "id": "qcm-e-te-raz",
+      "type": "qcm",
+      "l1": "encore une fois",
+      "l2": "ešte raz",
+      "choices_l1": [
+        "hourra",
+        "bien joué",
+        "pas de souci"
+      ],
+      "choices_l2": [
+        "hurá",
+        "dobrá hra",
+        "nevadí"
+      ]
+    },
+    {
+      "id": "qcm-hur",
+      "type": "qcm",
+      "l1": "hourra",
+      "l2": "hurá",
+      "choices_l1": [
+        "encore une fois",
+        "bien joué",
+        "merci"
+      ],
+      "choices_l2": [
+        "ešte raz",
+        "dobrá hra",
+        "ďakujem"
+      ]
+    },
+    {
+      "id": "listen-vyhr-vam",
+      "type": "listen",
+      "l1": "Je gagne !",
+      "l2": "Vyhrávam!",
+      "choices_l1": [
+        "Je perds.",
+        "Tu gagnes !",
+        "Je joue !"
+      ]
+    },
+    {
+      "id": "listen-prehr-vam",
+      "type": "listen",
+      "l1": "Je perds.",
+      "l2": "Prehrávam.",
+      "choices_l1": [
+        "Je gagne !",
+        "Tu perds.",
+        "Je joue."
+      ]
+    },
+    {
+      "id": "listen-ty-vyhr-va",
+      "type": "listen",
+      "l1": "Tu gagnes !",
+      "l2": "Ty vyhrávaš!",
+      "choices_l1": [
+        "Je gagne !",
+        "Tu perds !",
+        "Tu joues !"
+      ]
+    },
+    {
+      "id": "listen-prehr-vam-ale-nevad",
+      "type": "listen",
+      "l1": "Je perds, mais pas de souci !",
+      "l2": "Prehrávam, ale nevadí!",
+      "choices_l1": [
+        "Je gagne, mais pas de souci !",
+        "Je perds, et pas de souci !",
+        "Tu perds, mais pas de souci !"
+      ]
+    },
+    {
+      "id": "listen-to-je-z-bava",
+      "type": "listen",
+      "l1": "C'est amusant !",
+      "l2": "To je zábava!",
+      "choices_l1": [
+        "C'est cher !",
+        "C'est bon !",
+        "C'est grand !"
+      ]
+    },
+    {
+      "id": "listen-e-te-raz",
+      "type": "listen",
+      "l1": "Encore une fois !",
+      "l2": "Ešte raz!",
+      "choices_l1": [
+        "Hourra !",
+        "Bien joué !",
+        "Pas de souci !"
+      ]
+    },
+    {
+      "id": "listen-dobr-hra",
+      "type": "listen",
+      "l1": "Bien joué !",
+      "l2": "Dobrá hra!",
+      "choices_l1": [
+        "Encore une fois !",
+        "Hourra !",
+        "C'est amusant !"
+      ]
+    },
+    {
+      "id": "listen-prehr-vam-ale-to-je-z-bava-e-te-raz",
+      "type": "listen",
+      "l1": "Je perds, mais c'est amusant. Encore une fois !",
+      "l2": "Prehrávam, ale to je zábava. Ešte raz!",
+      "choices_l1": [
+        "Je gagne, mais c'est amusant. Encore une fois !",
+        "Je perds, mais c'est amusant. Bien joué !",
+        "Je perds, mais c'est cher. Encore une fois !"
+      ]
+    },
+    {
+      "id": "listen-katka-vyhr-va",
+      "type": "listen",
+      "l1": "Katka gagne !",
+      "l2": "Katka vyhráva!",
+      "choices_l1": [
+        "Maťo gagne !",
+        "Katka perd !",
+        "Katka joue !"
+      ]
+    },
+    {
+      "id": "listen-ma-o-prehr-va-ale-je-vesel",
+      "type": "listen",
+      "l1": "Maťo perd, mais il est joyeux.",
+      "l2": "Maťo prehráva, ale je veselý.",
+      "choices_l1": [
+        "Katka perd, mais elle est joyeuse.",
+        "Maťo gagne, mais il est joyeux.",
+        "Maťo perd, mais il est fort."
+      ]
+    },
+    {
+      "id": "listen-ja-vyhr-vam-a-ty-prehr-va-e-te-raz",
+      "type": "listen",
+      "l1": "Moi, je gagne et toi, tu perds. Encore une fois ?",
+      "l2": "Ja vyhrávam a ty prehrávaš. Ešte raz?",
+      "choices_l1": [
+        "Moi, je perds et toi, tu gagnes. Encore une fois ?",
+        "Moi, je gagne et toi, tu joues. Encore une fois ?",
+        "Moi, je gagne et toi, tu perds. Bien joué ?"
+      ]
+    },
+    {
+      "id": "order-prehr-vam-ale-nevad",
+      "type": "order",
+      "l1": "Je perds, mais pas de souci !",
+      "l2": "Prehrávam, ale nevadí!",
+      "tokens_l1": [
+        "Je perds,",
+        "mais",
+        "pas de souci !"
+      ],
+      "tokens_l2": [
+        "Prehrávam,",
+        "ale",
+        "nevadí!"
+      ]
+    },
+    {
+      "id": "order-ja-vyhr-vam-a-ty-prehr-va-e-te-raz",
+      "type": "order",
+      "l1": "Moi, je gagne et toi, tu perds. Encore une fois ?",
+      "l2": "Ja vyhrávam a ty prehrávaš. Ešte raz?",
+      "tokens_l1": [
+        "Moi, je gagne",
+        "et",
+        "toi, tu perds.",
+        "Encore une fois ?"
+      ],
+      "tokens_l2": [
+        "Ja vyhrávam",
+        "a",
+        "ty prehrávaš.",
+        "Ešte raz?"
+      ]
+    },
+    {
+      "id": "order-ma-o-prehr-va-ale-je-vesel",
+      "type": "order",
+      "l1": "Maťo perd, mais il est joyeux.",
+      "l2": "Maťo prehráva, ale je veselý.",
+      "tokens_l1": [
+        "Maťo perd,",
+        "mais",
+        "il est joyeux."
+      ],
+      "tokens_l2": [
+        "Maťo prehráva,",
+        "ale",
+        "je veselý."
+      ]
+    },
+    {
+      "id": "match-ja-vyhr-vam",
+      "type": "match",
+      "l1": [
+        "je gagne",
+        "je perds",
+        "tu gagnes",
+        "tu perds"
+      ],
+      "l2": [
+        "ja vyhrávam",
+        "ja prehrávam",
+        "ty vyhrávaš",
+        "ty prehrávaš"
+      ]
+    },
+    {
+      "id": "match-vyhr-vam",
+      "type": "match",
+      "l1": [
+        "Je gagne !",
+        "Je perds.",
+        "Encore une fois !",
+        "Bien joué !"
+      ],
+      "l2": [
+        "Vyhrávam!",
+        "Prehrávam.",
+        "Ešte raz!",
+        "Dobrá hra!"
+      ]
+    }
+  ]
+}

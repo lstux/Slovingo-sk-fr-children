@@ -1,0 +1,361 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-m-em",
+      "type": "qcm",
+      "l1": "je peux",
+      "l2": "môžem",
+      "choices_l1": [
+        "tu peux",
+        "je veux",
+        "je vais"
+      ],
+      "choices_l2": [
+        "môžeš",
+        "chcem",
+        "idem"
+      ]
+    },
+    {
+      "id": "qcm-m-e",
+      "type": "qcm",
+      "l1": "tu peux",
+      "l2": "môžeš",
+      "choices_l1": [
+        "je peux",
+        "tu veux",
+        "tu vas"
+      ],
+      "choices_l2": [
+        "môžem",
+        "chceš",
+        "ideš"
+      ]
+    },
+    {
+      "id": "qcm-nem-em",
+      "type": "qcm",
+      "l1": "je ne peux pas",
+      "l2": "nemôžem",
+      "choices_l1": [
+        "je peux",
+        "je n'ai pas",
+        "je ne veux pas"
+      ],
+      "choices_l2": [
+        "môžem",
+        "nemám",
+        "nechcem"
+      ]
+    },
+    {
+      "id": "qcm-s",
+      "type": "qcm",
+      "l1": "aller",
+      "l2": "ísť",
+      "choices_l1": [
+        "jouer",
+        "je vais",
+        "je peux"
+      ],
+      "choices_l2": [
+        "hrať sa",
+        "idem",
+        "môžem"
+      ]
+    },
+    {
+      "id": "listen-m-em-sa-hra",
+      "type": "listen",
+      "l1": "Je peux jouer ?",
+      "l2": "Môžem sa hrať?",
+      "choices_l1": [
+        "Tu peux jouer ?",
+        "Je peux aller ?",
+        "On peut jouer ?"
+      ]
+    },
+    {
+      "id": "listen-m-e-sa-hra",
+      "type": "listen",
+      "l1": "Tu peux jouer ?",
+      "l2": "Môžeš sa hrať?",
+      "choices_l1": [
+        "Je peux jouer ?",
+        "Tu peux aller ?",
+        "On peut jouer ?"
+      ]
+    },
+    {
+      "id": "listen-m-eme-sa-hra",
+      "type": "listen",
+      "l1": "On peut jouer ?",
+      "l2": "Môžeme sa hrať?",
+      "choices_l1": [
+        "Je peux jouer ?",
+        "Tu peux jouer ?",
+        "On ne peut pas jouer ?"
+      ]
+    },
+    {
+      "id": "listen-no-m-e",
+      "type": "listen",
+      "l1": "Oui, tu peux.",
+      "l2": "Áno, môžeš.",
+      "choices_l1": [
+        "Non, tu ne peux pas.",
+        "Oui, je peux.",
+        "Oui, tu veux."
+      ]
+    },
+    {
+      "id": "listen-nie-nem-e",
+      "type": "listen",
+      "l1": "Non, tu ne peux pas.",
+      "l2": "Nie, nemôžeš.",
+      "choices_l1": [
+        "Oui, tu peux.",
+        "Non, je ne peux pas.",
+        "Non, tu ne veux pas."
+      ]
+    },
+    {
+      "id": "listen-m-em-sa-hra-s-loptou",
+      "type": "listen",
+      "l1": "Je peux jouer avec le ballon ?",
+      "l2": "Môžem sa hrať s loptou?",
+      "choices_l1": [
+        "Je peux jouer à cache-cache ?",
+        "Tu peux jouer avec le ballon ?",
+        "Je peux aller avec le ballon ?"
+      ]
+    },
+    {
+      "id": "listen-m-em-s-do-dediny",
+      "type": "listen",
+      "l1": "Je peux aller au village ?",
+      "l2": "Môžem ísť do dediny?",
+      "choices_l1": [
+        "Je peux aller au magasin ?",
+        "Tu peux aller au village ?",
+        "Je peux jouer au village ?"
+      ]
+    },
+    {
+      "id": "listen-nem-em-s-domov",
+      "type": "listen",
+      "l1": "Je ne peux pas rentrer à la maison.",
+      "l2": "Nemôžem ísť domov.",
+      "choices_l1": [
+        "Je peux rentrer à la maison.",
+        "Tu ne peux pas rentrer à la maison.",
+        "Je ne peux pas aller au village."
+      ]
+    },
+    {
+      "id": "listen-m-em-sa-hra-no-hr-me-sa-na-skr-va-ku",
+      "type": "listen",
+      "l1": "Je peux jouer ? Oui ! On joue à cache-cache.",
+      "l2": "Môžem sa hrať? Áno! Hráme sa na skrývačku.",
+      "choices_l1": [
+        "Je peux jouer ? Non ! On joue à cache-cache.",
+        "Je peux jouer ? Oui ! On joue au chat.",
+        "Tu peux jouer ? Oui ! On joue à cache-cache."
+      ]
+    },
+    {
+      "id": "listen-nem-eme-sa-hra-tu",
+      "type": "listen",
+      "l1": "On ne peut pas jouer ici.",
+      "l2": "Nemôžeme sa hrať tu.",
+      "choices_l1": [
+        "On peut jouer ici.",
+        "On ne peut pas jouer là-bas.",
+        "Je ne peux pas jouer ici."
+      ]
+    },
+    {
+      "id": "listen-m-eme-sa-hra-tam",
+      "type": "listen",
+      "l1": "On peut jouer là-bas.",
+      "l2": "Môžeme sa hrať tam.",
+      "choices_l1": [
+        "On ne peut pas jouer là-bas.",
+        "On peut jouer ici.",
+        "Je peux jouer là-bas."
+      ]
+    },
+    {
+      "id": "listen-nem-em-sa-hra-ale-m-em-s-do-dediny",
+      "type": "listen",
+      "l1": "Je ne peux pas jouer, mais je peux aller au village.",
+      "l2": "Nemôžem sa hrať, ale môžem ísť do dediny.",
+      "choices_l1": [
+        "Je peux jouer, mais je ne peux pas aller au village.",
+        "Je ne peux pas jouer, mais je peux aller au magasin.",
+        "Tu ne peux pas jouer, mais tu peux aller au village."
+      ]
+    },
+    {
+      "id": "blank-m-em-s-do-dediny",
+      "type": "fill-blank",
+      "l1": "Je peux aller au village ?",
+      "l2": "Môžem ísť do dediny?",
+      "missing_l1": "village",
+      "missing_l2": "dediny",
+      "blank_index_l1": 4,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "magasin",
+        "boulangerie",
+        "ville"
+      ],
+      "choices_l2": [
+        "obchodu",
+        "pekárne",
+        "mesta"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-no-m-e",
+      "type": "fill-blank",
+      "l1": "Oui, tu peux.",
+      "l2": "Áno, môžeš.",
+      "missing_l1": "Oui",
+      "missing_l2": "Áno",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Non",
+        "Merci",
+        "Pardon"
+      ],
+      "choices_l2": [
+        "Nie",
+        "Ďakujem",
+        "Prepáč"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-nie-nem-e",
+      "type": "fill-blank",
+      "l1": "Non, tu ne peux pas.",
+      "l2": "Nie, nemôžeš.",
+      "missing_l1": "Non",
+      "missing_l2": "Nie",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Oui",
+        "Merci",
+        "Pardon"
+      ],
+      "choices_l2": [
+        "Áno",
+        "Ďakujem",
+        "Prepáč"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-m-em-sa-hra-s-loptou",
+      "type": "order",
+      "l1": "Je peux jouer avec le ballon ?",
+      "l2": "Môžem sa hrať s loptou?",
+      "tokens_l1": [
+        "Je peux",
+        "jouer",
+        "avec le ballon ?"
+      ],
+      "tokens_l2": [
+        "Môžem",
+        "sa hrať",
+        "s loptou?"
+      ]
+    },
+    {
+      "id": "order-m-em-s-do-dediny",
+      "type": "order",
+      "l1": "Je peux aller au village ?",
+      "l2": "Môžem ísť do dediny?",
+      "tokens_l1": [
+        "Je peux",
+        "aller",
+        "au village ?"
+      ],
+      "tokens_l2": [
+        "Môžem",
+        "ísť",
+        "do dediny?"
+      ]
+    },
+    {
+      "id": "order-nem-eme-sa-hra-tu",
+      "type": "order",
+      "l1": "On ne peut pas jouer ici.",
+      "l2": "Nemôžeme sa hrať tu.",
+      "tokens_l1": [
+        "On ne peut pas",
+        "jouer",
+        "ici."
+      ],
+      "tokens_l2": [
+        "Nemôžeme",
+        "sa hrať",
+        "tu."
+      ]
+    },
+    {
+      "id": "order-m-eme-sa-hra-tam",
+      "type": "order",
+      "l1": "On peut jouer là-bas.",
+      "l2": "Môžeme sa hrať tam.",
+      "tokens_l1": [
+        "On peut",
+        "jouer",
+        "là-bas."
+      ],
+      "tokens_l2": [
+        "Môžeme",
+        "sa hrať",
+        "tam."
+      ]
+    },
+    {
+      "id": "match-m-em",
+      "type": "match",
+      "l1": [
+        "je peux",
+        "tu peux",
+        "je ne peux pas",
+        "aller"
+      ],
+      "l2": [
+        "môžem",
+        "môžeš",
+        "nemôžem",
+        "ísť"
+      ]
+    },
+    {
+      "id": "match-no-m-e",
+      "type": "match",
+      "l1": [
+        "Oui, tu peux.",
+        "Non, tu ne peux pas.",
+        "On peut jouer ?",
+        "Je peux jouer ?"
+      ],
+      "l2": [
+        "Áno, môžeš.",
+        "Nie, nemôžeš.",
+        "Môžeme sa hrať?",
+        "Môžem sa hrať?"
+      ]
+    }
+  ]
+}

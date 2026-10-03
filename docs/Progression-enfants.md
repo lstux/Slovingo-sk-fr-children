@@ -143,9 +143,11 @@ La structure doit permettre, sans changer le contenu : un suivi quotidien (« j'
 
 ## Prochaines étapes
 
-1. Écrire les 5 fiches d'introduction
-2. Kit de Survie (3 fiches + extra) et ses exercices
-3. Séries 01 à 06, une à la fois, avec relecture entre chaque
-4. Choisir les illustrations (Wikimedia Commons, avec crédits)
-5. Tester avec un enfant, ajuster ton, rythme et quantité de vocabulaire
-6. Séries 07+
+1. ~~Écrire les 5 fiches d'introduction~~ (fait)
+2. ~~Kit de Survie et ses exercices~~ (fait)
+3. ~~Séries 01 à 06 : Rodina, Doma, Jedlo, Dedina, Zvieratá, Hry~~ (fiches et exercices faits, à relire avec un locuteur natif)
+4. Relecture native : phrases slovaques, prononciation figurée, faits (Tatry, TANAP, électrique, etc.)
+5. Choisir les illustrations (Wikimedia Commons, avec crédits) : tous les `TODO_img/…` sont à remplacer
+6. Workflow de CI (en attente du fichier `build-release.yml` du dépôt Slovingo)
+7. Tester avec un enfant, ajuster ton, rythme et quantité de vocabulaire
+8. Séries 07+ (Farby, Škola, Telo, Sviatky, éventuellement Hory)

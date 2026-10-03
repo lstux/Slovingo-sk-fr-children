@@ -1,0 +1,305 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-na-rade",
+      "type": "qcm",
+      "l1": "à son tour",
+      "l2": "na rade",
+      "choices_l1": [
+        "chercher",
+        "je compte",
+        "te"
+      ],
+      "choices_l2": [
+        "hľadať",
+        "počítam",
+        "ťa"
+      ]
+    },
+    {
+      "id": "qcm-h-ada",
+      "type": "qcm",
+      "l1": "chercher",
+      "l2": "hľadať",
+      "choices_l1": [
+        "à son tour",
+        "je compte",
+        "te"
+      ],
+      "choices_l2": [
+        "na rade",
+        "počítam",
+        "ťa"
+      ]
+    },
+    {
+      "id": "qcm-po-tam",
+      "type": "qcm",
+      "l1": "je compte",
+      "l2": "počítam",
+      "choices_l1": [
+        "chercher",
+        "à son tour",
+        "me voici"
+      ],
+      "choices_l2": [
+        "hľadať",
+        "na rade",
+        "tu som"
+      ]
+    },
+    {
+      "id": "qcm-kde-si",
+      "type": "qcm",
+      "l1": "où es-tu",
+      "l2": "kde si",
+      "choices_l1": [
+        "me voici",
+        "où habites-tu",
+        "où vas-tu"
+      ],
+      "choices_l2": [
+        "tu som",
+        "kde bývaš",
+        "kam ideš"
+      ]
+    },
+    {
+      "id": "listen-kto-je-na-rade",
+      "type": "listen",
+      "l1": "C'est à qui ?",
+      "l2": "Kto je na rade?",
+      "choices_l1": [
+        "Qui est-ce ?",
+        "C'est mon tour.",
+        "Où es-tu ?"
+      ]
+    },
+    {
+      "id": "listen-ja-som-na-rade",
+      "type": "listen",
+      "l1": "C'est mon tour.",
+      "l2": "Ja som na rade.",
+      "choices_l1": [
+        "C'est ton tour.",
+        "C'est à qui ?",
+        "Je joue."
+      ]
+    },
+    {
+      "id": "listen-ty-si-na-rade",
+      "type": "listen",
+      "l1": "C'est ton tour.",
+      "l2": "Ty si na rade.",
+      "choices_l1": [
+        "C'est mon tour.",
+        "C'est à qui ?",
+        "Tu joues."
+      ]
+    },
+    {
+      "id": "listen-teraz-je-na-rade-katka",
+      "type": "listen",
+      "l1": "Maintenant, c'est le tour de Katka.",
+      "l2": "Teraz je na rade Katka.",
+      "choices_l1": [
+        "Maintenant, c'est le tour d'Andrea.",
+        "Maintenant, c'est mon tour.",
+        "Katka est une marmotte."
+      ]
+    },
+    {
+      "id": "listen-po-tam-jeden-dva-tri",
+      "type": "listen",
+      "l1": "Je compte : un, deux, trois !",
+      "l2": "Počítam: jeden, dva, tri!",
+      "choices_l1": [
+        "Je compte : deux, trois, quatre !",
+        "Tu comptes : un, deux, trois !",
+        "Je cherche : un, deux, trois !"
+      ]
+    },
+    {
+      "id": "listen-idem-h-ada",
+      "type": "listen",
+      "l1": "Je vais chercher !",
+      "l2": "Idem hľadať!",
+      "choices_l1": [
+        "Je vais compter !",
+        "Tu vas chercher !",
+        "Je vais jouer !"
+      ]
+    },
+    {
+      "id": "listen-kde-si",
+      "type": "listen",
+      "l1": "Où es-tu ?",
+      "l2": "Kde si?",
+      "choices_l1": [
+        "Où habites-tu ?",
+        "Où vas-tu ?",
+        "Me voici !"
+      ]
+    },
+    {
+      "id": "listen-tu-som",
+      "type": "listen",
+      "l1": "Me voici !",
+      "l2": "Tu som!",
+      "choices_l1": [
+        "Où es-tu ?",
+        "Je vais chercher !",
+        "Encore une fois !"
+      ]
+    },
+    {
+      "id": "listen-m-m-a",
+      "type": "listen",
+      "l1": "Je t'ai trouvé(e) !",
+      "l2": "Mám ťa!",
+      "choices_l1": [
+        "Je ne te vois pas !",
+        "Me voici !",
+        "Tu me cherches !"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-na-skr-va-ku-kto-je-na-rade",
+      "type": "listen",
+      "l1": "On joue à cache-cache. C'est à qui ?",
+      "l2": "Hráme sa na skrývačku. Kto je na rade?",
+      "choices_l1": [
+        "On joue au chat. C'est à qui ?",
+        "On joue à cache-cache. C'est mon tour.",
+        "Je joue à cache-cache. C'est à qui ?"
+      ]
+    },
+    {
+      "id": "listen-kde-si-ma-o-m-m-a",
+      "type": "listen",
+      "l1": "Où es-tu, Maťo ? Je t'ai trouvé !",
+      "l2": "Kde si, Maťo? Mám ťa!",
+      "choices_l1": [
+        "Où es-tu, Katka ? Je t'ai trouvée !",
+        "Où es-tu, Maťo ? Me voici !",
+        "Où vas-tu, Maťo ? Je t'ai trouvé !"
+      ]
+    },
+    {
+      "id": "listen-u-idem-h-ada",
+      "type": "listen",
+      "l1": "J'arrive pour chercher !",
+      "l2": "Už idem hľadať!",
+      "choices_l1": [
+        "Je vais chercher.",
+        "J'arrive pour compter !",
+        "Tu arrives pour chercher !"
+      ]
+    },
+    {
+      "id": "blank-po-tam-jeden-dva-tri",
+      "type": "fill-blank",
+      "l1": "Je compte : un, deux, trois !",
+      "l2": "Počítam: jeden, dva, tri!",
+      "missing_l1": "trois",
+      "missing_l2": "tri",
+      "blank_index_l1": 5,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "deux",
+        "quatre",
+        "huit"
+      ],
+      "choices_l2": [
+        "dva",
+        "štyri",
+        "osem"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-teraz-je-na-rade-katka",
+      "type": "order",
+      "l1": "Maintenant, c'est le tour de Katka.",
+      "l2": "Teraz je na rade Katka.",
+      "tokens_l1": [
+        "Maintenant,",
+        "c'est le tour",
+        "de Katka."
+      ],
+      "tokens_l2": [
+        "Teraz",
+        "je na rade",
+        "Katka."
+      ]
+    },
+    {
+      "id": "order-po-tam-jeden-dva-tri",
+      "type": "order",
+      "l1": "Je compte : un, deux, trois !",
+      "l2": "Počítam: jeden, dva, tri!",
+      "tokens_l1": [
+        "Je compte :",
+        "un, deux,",
+        "trois !"
+      ],
+      "tokens_l2": [
+        "Počítam:",
+        "jeden, dva,",
+        "tri!"
+      ]
+    },
+    {
+      "id": "order-kde-si-ma-o-m-m-a",
+      "type": "order",
+      "l1": "Où es-tu, Maťo ? Je t'ai trouvé !",
+      "l2": "Kde si, Maťo? Mám ťa!",
+      "tokens_l1": [
+        "Où es-tu,",
+        "Maťo ?",
+        "Je t'ai",
+        "trouvé !"
+      ],
+      "tokens_l2": [
+        "Kde si,",
+        "Maťo?",
+        "Mám",
+        "ťa!"
+      ]
+    },
+    {
+      "id": "match-na-rade",
+      "type": "match",
+      "l1": [
+        "à son tour",
+        "chercher",
+        "je compte",
+        "te"
+      ],
+      "l2": [
+        "na rade",
+        "hľadať",
+        "počítam",
+        "ťa"
+      ]
+    },
+    {
+      "id": "match-kde-si",
+      "type": "match",
+      "l1": [
+        "Où es-tu ?",
+        "Me voici !",
+        "C'est à qui ?",
+        "Je vais chercher !"
+      ],
+      "l2": [
+        "Kde si?",
+        "Tu som!",
+        "Kto je na rade?",
+        "Idem hľadať!"
+      ]
+    }
+  ]
+}

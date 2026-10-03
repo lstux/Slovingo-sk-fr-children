@@ -1,0 +1,267 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-l-ka",
+      "type": "qcm",
+      "l1": "la prairie",
+      "l2": "lúka",
+      "choices_l1": [
+        "l'arbre",
+        "le village",
+        "le jeu"
+      ],
+      "choices_l2": [
+        "strom",
+        "dedina",
+        "hra"
+      ]
+    },
+    {
+      "id": "qcm-strom",
+      "type": "qcm",
+      "l1": "l'arbre",
+      "l2": "strom",
+      "choices_l1": [
+        "la prairie",
+        "l'ours",
+        "le ballon"
+      ],
+      "choices_l2": [
+        "lúka",
+        "medveď",
+        "lopta"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-na-skr-va-ku",
+      "type": "listen",
+      "l1": "On joue à cache-cache ?",
+      "l2": "Hráme sa na skrývačku?",
+      "choices_l1": [
+        "On joue au chat ?",
+        "Tu joues à cache-cache ?",
+        "On joue avec le ballon ?"
+      ]
+    },
+    {
+      "id": "listen-no-po-hr-me-sa-na-l-ke",
+      "type": "listen",
+      "l1": "Oui ! Viens, on joue dans la prairie !",
+      "l2": "Áno! Poď, hráme sa na lúke!",
+      "choices_l1": [
+        "Non ! Viens, on joue dans la prairie !",
+        "Oui ! Attends, on joue dans la prairie !",
+        "Oui ! Viens, on joue dans le village !"
+      ]
+    },
+    {
+      "id": "listen-aj-ja-m-em-sa-hra",
+      "type": "listen",
+      "l1": "Moi aussi ! Je peux jouer ?",
+      "l2": "Aj ja! Môžem sa hrať?",
+      "choices_l1": [
+        "Moi aussi ! Tu peux jouer ?",
+        "Moi aussi ! Je peux aller ?",
+        "Salut ! Je peux jouer ?"
+      ]
+    },
+    {
+      "id": "listen-no-m-e-kto-je-na-rade",
+      "type": "listen",
+      "l1": "Oui, tu peux ! C'est à qui ?",
+      "l2": "Áno, môžeš! Kto je na rade?",
+      "choices_l1": [
+        "Non, tu ne peux pas ! C'est à qui ?",
+        "Oui, tu peux ! Où es-tu ?",
+        "Oui, je peux ! C'est à qui ?"
+      ]
+    },
+    {
+      "id": "listen-ty-si-na-rade-andrea",
+      "type": "listen",
+      "l1": "C'est ton tour, Andrea !",
+      "l2": "Ty si na rade, Andrea!",
+      "choices_l1": [
+        "C'est mon tour, Andrea !",
+        "C'est ton tour, Katka !",
+        "C'est le tour d'Andrea !"
+      ]
+    },
+    {
+      "id": "listen-dobre-po-tam-jeden-dva-tri-idem-h-ada",
+      "type": "listen",
+      "l1": "D'accord ! Je compte : un, deux, trois ! Je vais chercher !",
+      "l2": "Dobre! Počítam: jeden, dva, tri! Idem hľadať!",
+      "choices_l1": [
+        "D'accord ! Je compte : un, deux, trois ! Je vais jouer !",
+        "Merci ! Je compte : un, deux, trois ! Je vais chercher !",
+        "D'accord ! Tu comptes : un, deux, trois ! Je vais chercher !"
+      ]
+    },
+    {
+      "id": "listen-kde-si-katka",
+      "type": "listen",
+      "l1": "Où es-tu, Katka ?",
+      "l2": "Kde si, Katka?",
+      "choices_l1": [
+        "Où es-tu, Maťo ?",
+        "Où habites-tu, Katka ?",
+        "Me voici, Katka !"
+      ]
+    },
+    {
+      "id": "listen-tu-som",
+      "type": "listen",
+      "l1": "Me voici !",
+      "l2": "Tu som!",
+      "choices_l1": [
+        "Où es-tu ?",
+        "Je t'ai trouvé !",
+        "Encore une fois !"
+      ]
+    },
+    {
+      "id": "listen-m-m-a-prehr-va-katka",
+      "type": "listen",
+      "l1": "Je t'ai trouvée ! Tu perds, Katka !",
+      "l2": "Mám ťa! Prehrávaš, Katka!",
+      "choices_l1": [
+        "Je t'ai trouvée ! Tu gagnes, Katka !",
+        "Je t'ai trouvé ! Tu perds, Maťo !",
+        "Je ne te vois pas ! Tu perds, Katka !"
+      ]
+    },
+    {
+      "id": "listen-nevad-to-je-z-bava",
+      "type": "listen",
+      "l1": "Pas de souci ! C'est amusant !",
+      "l2": "Nevadí! To je zábava!",
+      "choices_l1": [
+        "Pas de souci ! C'est cher !",
+        "Merci ! C'est amusant !",
+        "Pas de souci ! C'est grand !"
+      ]
+    },
+    {
+      "id": "listen-m-m-a-ma-o-si-ve-k-a-strom-je-mal",
+      "type": "listen",
+      "l1": "Je t'ai trouvé, Maťo ! Tu es grand et l'arbre est petit !",
+      "l2": "Mám ťa, Maťo! Si veľký a strom je malý!",
+      "choices_l1": [
+        "Je t'ai trouvée, Katka ! Tu es petite et l'arbre est grand !",
+        "Je t'ai trouvé, Maťo ! Tu es petit et l'arbre est grand !",
+        "Je ne te vois pas, Maťo ! Tu es grand et l'arbre est petit !"
+      ]
+    },
+    {
+      "id": "listen-kde-si-user-name-nevid-m-a",
+      "type": "listen",
+      "l1": "Où es-tu, [USER_NAME] ? Je ne te vois pas !",
+      "l2": "Kde si, [USER_NAME]? Nevidím ťa!",
+      "choices_l1": [
+        "Où es-tu, [USER_NAME] ? Je t'ai trouvé(e) !",
+        "Où vas-tu, [USER_NAME] ? Je ne te vois pas !",
+        "Où es-tu, Maťo ? Je ne te vois pas !"
+      ]
+    },
+    {
+      "id": "listen-wau-ty-vyhr-va-dobr-hra",
+      "type": "listen",
+      "l1": "Waouh ! Tu gagnes ! Bien joué !",
+      "l2": "Wau! Ty vyhrávaš! Dobrá hra!",
+      "choices_l1": [
+        "Waouh ! Tu perds ! Bien joué !",
+        "Waouh ! Je gagne ! Bien joué !",
+        "Waouh ! Tu gagnes ! Encore une fois !"
+      ]
+    },
+    {
+      "id": "listen-deti-je-obed",
+      "type": "listen",
+      "l1": "Les enfants ! C'est l'heure du déjeuner !",
+      "l2": "Deti! Je obed!",
+      "choices_l1": [
+        "Les enfants ! C'est l'heure de jouer !",
+        "Les enfants ! C'est l'heure du dîner !",
+        "Les parents ! C'est l'heure du déjeuner !"
+      ]
+    },
+    {
+      "id": "listen-hur-m-m-hlad",
+      "type": "listen",
+      "l1": "Hourra ! J'ai faim !",
+      "l2": "Hurá! Mám hlad!",
+      "choices_l1": [
+        "Hourra ! J'ai soif !",
+        "Hourra ! Je vais jouer !",
+        "Hourra ! Tu as faim !"
+      ]
+    },
+    {
+      "id": "order-kde-si-katka",
+      "type": "order",
+      "l1": "Où es-tu, Katka ?",
+      "l2": "Kde si, Katka?",
+      "tokens_l1": [
+        "Où",
+        "es-tu,",
+        "Katka ?"
+      ],
+      "tokens_l2": [
+        "Kde",
+        "si,",
+        "Katka?"
+      ]
+    },
+    {
+      "id": "order-nevad-to-je-z-bava",
+      "type": "order",
+      "l1": "Pas de souci ! C'est amusant !",
+      "l2": "Nevadí! To je zábava!",
+      "tokens_l1": [
+        "Pas de souci !",
+        "C'est",
+        "amusant !"
+      ],
+      "tokens_l2": [
+        "Nevadí!",
+        "To je",
+        "zábava!"
+      ]
+    },
+    {
+      "id": "order-deti-je-obed",
+      "type": "order",
+      "l1": "Les enfants ! C'est l'heure du déjeuner !",
+      "l2": "Deti! Je obed!",
+      "tokens_l1": [
+        "Les enfants !",
+        "C'est",
+        "l'heure du déjeuner !"
+      ],
+      "tokens_l2": [
+        "Deti!",
+        "Je",
+        "obed!"
+      ]
+    },
+    {
+      "id": "match-hr-me-sa-na-skr-va-ku",
+      "type": "match",
+      "l1": [
+        "On joue à cache-cache ?",
+        "Où es-tu, Katka ?",
+        "Me voici !",
+        "Hourra ! J'ai faim !"
+      ],
+      "l2": [
+        "Hráme sa na skrývačku?",
+        "Kde si, Katka?",
+        "Tu som!",
+        "Hurá! Mám hlad!"
+      ]
+    }
+  ]
+}

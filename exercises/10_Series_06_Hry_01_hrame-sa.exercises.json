@@ -1,0 +1,324 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-hra",
+      "type": "qcm",
+      "l1": "le jeu",
+      "l2": "hra",
+      "choices_l1": [
+        "le ballon",
+        "la cache-cache",
+        "le jeu du chat"
+      ],
+      "choices_l2": [
+        "lopta",
+        "skrývačka",
+        "naháňačka"
+      ]
+    },
+    {
+      "id": "qcm-lopta",
+      "type": "qcm",
+      "l1": "le ballon",
+      "l2": "lopta",
+      "choices_l1": [
+        "le jeu",
+        "la cache-cache",
+        "le jeu du chat"
+      ],
+      "choices_l2": [
+        "hra",
+        "skrývačka",
+        "naháňačka"
+      ]
+    },
+    {
+      "id": "qcm-skr-va-ka",
+      "type": "qcm",
+      "l1": "la cache-cache",
+      "l2": "skrývačka",
+      "choices_l1": [
+        "le jeu",
+        "le ballon",
+        "le jeu du chat"
+      ],
+      "choices_l2": [
+        "hra",
+        "lopta",
+        "naháňačka"
+      ]
+    },
+    {
+      "id": "qcm-nah-a-ka",
+      "type": "qcm",
+      "l1": "le jeu du chat",
+      "l2": "naháňačka",
+      "choices_l1": [
+        "le jeu",
+        "le ballon",
+        "la cache-cache"
+      ],
+      "choices_l2": [
+        "hra",
+        "lopta",
+        "skrývačka"
+      ]
+    },
+    {
+      "id": "qcm-hr-m-sa",
+      "type": "qcm",
+      "l1": "je joue",
+      "l2": "hrám sa",
+      "choices_l1": [
+        "tu joues",
+        "j'ai",
+        "je vais"
+      ],
+      "choices_l2": [
+        "hráš sa",
+        "mám",
+        "idem"
+      ]
+    },
+    {
+      "id": "qcm-hr-sa",
+      "type": "qcm",
+      "l1": "tu joues",
+      "l2": "hráš sa",
+      "choices_l1": [
+        "je joue",
+        "tu as",
+        "tu vas"
+      ],
+      "choices_l2": [
+        "hrám sa",
+        "máš",
+        "ideš"
+      ]
+    },
+    {
+      "id": "qcm-hr-me-sa-na-skr-va-ku",
+      "type": "qcm",
+      "l1": "on joue à cache-cache",
+      "l2": "hráme sa na skrývačku",
+      "choices_l1": [
+        "on joue au chat",
+        "on joue avec le ballon",
+        "je joue"
+      ],
+      "choices_l2": [
+        "hráme sa na naháňačku",
+        "hráme sa s loptou",
+        "hrám sa"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa",
+      "type": "listen",
+      "l1": "On joue !",
+      "l2": "Hráme sa!",
+      "choices_l1": [
+        "Je joue !",
+        "Tu joues !",
+        "On mange !"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-2",
+      "type": "listen",
+      "l1": "On joue ?",
+      "l2": "Hráme sa?",
+      "choices_l1": [
+        "Tu joues ?",
+        "On joue !",
+        "On va ?"
+      ]
+    },
+    {
+      "id": "listen-hr-m-sa",
+      "type": "listen",
+      "l1": "Je joue.",
+      "l2": "Hrám sa.",
+      "choices_l1": [
+        "Tu joues.",
+        "On joue.",
+        "J'ai faim."
+      ]
+    },
+    {
+      "id": "listen-hr-sa",
+      "type": "listen",
+      "l1": "Tu joues ?",
+      "l2": "Hráš sa?",
+      "choices_l1": [
+        "Je joue ?",
+        "On joue ?",
+        "Tu as faim ?"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-na-skr-va-ku",
+      "type": "listen",
+      "l1": "On joue à cache-cache.",
+      "l2": "Hráme sa na skrývačku.",
+      "choices_l1": [
+        "On joue au chat.",
+        "On joue avec le ballon.",
+        "Je joue à cache-cache."
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-na-nah-a-ku",
+      "type": "listen",
+      "l1": "On joue au chat.",
+      "l2": "Hráme sa na naháňačku.",
+      "choices_l1": [
+        "On joue à cache-cache.",
+        "On joue avec le ballon.",
+        "Tu joues au chat."
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-s-loptou",
+      "type": "listen",
+      "l1": "On joue avec le ballon.",
+      "l2": "Hráme sa s loptou.",
+      "choices_l1": [
+        "On joue à cache-cache.",
+        "On joue au chat.",
+        "Tu joues avec le ballon."
+      ]
+    },
+    {
+      "id": "listen-m-m-hlad-ale-hr-me-sa",
+      "type": "listen",
+      "l1": "J'ai faim, mais on joue !",
+      "l2": "Mám hlad, ale hráme sa!",
+      "choices_l1": [
+        "J'ai soif, mais on joue !",
+        "J'ai faim, mais je joue !",
+        "J'ai faim, et on joue !"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-spolu",
+      "type": "listen",
+      "l1": "On joue ensemble !",
+      "l2": "Hráme sa spolu!",
+      "choices_l1": [
+        "Je joue ensemble !",
+        "On joue ici !",
+        "On mange ensemble !"
+      ]
+    },
+    {
+      "id": "listen-hr-me-sa-na-nah-a-ku-nie-na-skr-va-ku",
+      "type": "listen",
+      "l1": "On joue au chat, pas à cache-cache.",
+      "l2": "Hráme sa na naháňačku, nie na skrývačku.",
+      "choices_l1": [
+        "On joue à cache-cache, pas au chat.",
+        "On joue au chat, pas avec le ballon.",
+        "Je joue au chat, pas à cache-cache."
+      ]
+    },
+    {
+      "id": "order-hr-me-sa-na-skr-va-ku",
+      "type": "order",
+      "l1": "On joue à cache-cache.",
+      "l2": "Hráme sa na skrývačku.",
+      "tokens_l1": [
+        "On joue",
+        "à",
+        "cache-cache."
+      ],
+      "tokens_l2": [
+        "Hráme sa",
+        "na",
+        "skrývačku."
+      ]
+    },
+    {
+      "id": "order-hr-me-sa-na-nah-a-ku",
+      "type": "order",
+      "l1": "On joue au chat.",
+      "l2": "Hráme sa na naháňačku.",
+      "tokens_l1": [
+        "On joue",
+        "au",
+        "chat."
+      ],
+      "tokens_l2": [
+        "Hráme sa",
+        "na",
+        "naháňačku."
+      ]
+    },
+    {
+      "id": "order-hr-me-sa-s-loptou",
+      "type": "order",
+      "l1": "On joue avec le ballon.",
+      "l2": "Hráme sa s loptou.",
+      "tokens_l1": [
+        "On joue",
+        "avec",
+        "le ballon."
+      ],
+      "tokens_l2": [
+        "Hráme sa",
+        "s",
+        "loptou."
+      ]
+    },
+    {
+      "id": "order-hr-me-sa-spolu",
+      "type": "order",
+      "l1": "On joue ensemble !",
+      "l2": "Hráme sa spolu!",
+      "tokens_l1": [
+        "On",
+        "joue",
+        "ensemble !"
+      ],
+      "tokens_l2": [
+        "Hráme",
+        "sa",
+        "spolu!"
+      ]
+    },
+    {
+      "id": "match-hra",
+      "type": "match",
+      "l1": [
+        "le jeu",
+        "le ballon",
+        "la cache-cache",
+        "le jeu du chat"
+      ],
+      "l2": [
+        "hra",
+        "lopta",
+        "skrývačka",
+        "naháňačka"
+      ]
+    },
+    {
+      "id": "match-hr-m-sa",
+      "type": "match",
+      "l1": [
+        "je joue",
+        "tu joues",
+        "ensemble",
+        "le ballon"
+      ],
+      "l2": [
+        "hrám sa",
+        "hráš sa",
+        "spolu",
+        "lopta"
+      ]
+    }
+  ]
+}
