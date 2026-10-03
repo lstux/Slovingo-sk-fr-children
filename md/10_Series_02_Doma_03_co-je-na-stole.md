@@ -86,11 +86,17 @@
 > Je = il est
 > na stole = sur la table
 
+! Môj brat je v kuchyni. Čo je na stole?
+> Mon frère est dans la cuisine. Qu'est-ce qu'il y a sur la table ?
+> Môj brat = mon frère
+> je v kuchyni = est dans la cuisine
+> Čo je na stole = qu'est-ce qu'il y a sur la table
+
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Les marmottes aiment bien tout ranger : elles gardent un coin pour dormir et un coin pour l'herbe sèche de l'hiver. Et toi, ta chambre, elle est rangée ?}} 😄
+{{fr:Avant l'hiver, les marmottes tapissent leur chambre d'herbe sèche, comme un matelas bien douillet. Puis elles dorment tout l'hiver ! Et toi, ta chambre, elle est douillette ?}} 😄
 
 ---
 
@@ -105,13 +111,12 @@
 
 ## Encore quelques phrases
 
-! Na stole je kniha aj lampa.
+! Na stole je aj kniha, aj lampa.
 > Sur la table, il y a un livre et aussi une lampe.
 > Na stole = sur la table
 > je = il y a
-> kniha = livre
-> aj = aussi
-> lampa = lampe
+> aj kniha = un livre
+> aj lampa = et aussi une lampe
 
 ! Hračka je na posteli, ale kniha je na stole.
 > Le jouet est sur le lit, mais le livre est sur la table.

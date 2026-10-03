@@ -24,24 +24,30 @@
 | posteľ | le lit |
 | stôl | la table |
 | stolička | la chaise |
+| stoličky | les chaises |
 | okno | la fenêtre |
+| okná | les fenêtres |
 | dvere | la porte |
 | kniha | le livre |
+| knihy | les livres |
 | lampa | la lampe |
+| lampy | les lampes |
 | hračka | le jouet |
+| hračky | les jouets |
 | v | dans |
 | na | sur |
 | tu | ici |
 | tam | là-bas |
 | je | est |
 | sú | sont |
-| dve | deux (mots féminins et neutres) |
+| dva / dve | deux |
 | tri | trois |
 | štyri | quatre |
 | teplo | chaud |
 | zima | froid |
 | vitaj | bienvenue |
-| blízko | près de |
+| blízko | près de, tout près |
+| ďakujem za pozvanie | merci pour l'invitation |
 
 ---
 
@@ -61,11 +67,10 @@
 > Katka býva = Katka habite
 > v nore = dans un terrier
 
-! V mojom brlohu je teplo.
-> Dans ma tanière, il fait chaud.
-> V mojom brlohu = dans ma tanière
+! V brlohu je teplo.
+> Dans la tanière, il fait chaud.
+> V brlohu = dans la tanière
 > je teplo = il fait chaud
-+ Après {{v}}, {{môj}} devient {{mojom}}. À écouter !
 
 ! Kde je moja posteľ? Je v izbe.
 > Où est mon lit ? Il est dans la chambre.
@@ -92,13 +97,12 @@
 > dvere = porte
 > sú tam = sont là-bas
 
-! Sú tu tri stoličky a dva stoly.
-> Il y a trois chaises et deux tables ici.
+! Sú tu tri stoličky a dve lampy.
+> Il y a trois chaises et deux lampes ici.
 > Sú tu = il y a ici
 > tri stoličky = trois chaises
 > a = et
-> dva stoly = deux tables
-+ Pour un mot masculin comme {{stôl}}, le pluriel finit par -y : {{stoly}}. Et « deux » se dit {{dva}}.
+> dve lampy = deux lampes
 
 ! Na posteli sú dve hračky.
 > Sur le lit, il y a deux jouets.
@@ -118,17 +122,16 @@
 > ale = mais
 > v izbe je teplo = dans la chambre, il fait chaud
 
-! Okná sú veľké a dvere sú malé.
-> Les fenêtres sont grandes et la porte est petite.
-> Okná sú veľké = les fenêtres sont grandes
+! Dvere sú tam a okno je tu.
+> La porte est là-bas et la fenêtre est ici.
+> Dvere sú tam = la porte est là-bas
 > a = et
-> dvere sú malé = la porte est petite
-+ Au pluriel, le mot qui décrit change aussi : {{veľké}}, {{malé}}.
+> okno je tu = la fenêtre est ici
 
 ! Môj brat býva blízko, ale moja sestra býva tam.
-> Mon frère habite près d'ici, mais ma sœur habite là-bas.
+> Mon frère habite tout près, mais ma sœur habite là-bas.
 > Môj brat býva = mon frère habite
-> blízko = près
+> blízko = tout près
 > ale = mais
 > moja sestra býva tam = ma sœur habite là-bas
 
@@ -139,9 +142,14 @@
 > Aj = aussi
 > v nore = dans un terrier
 
-! Moja izba je malá, ale veľmi milá.
-> Ma chambre est petite, mais très gentille.
-> Moja izba = ma chambre
-> je malá = est petite
+! Moja izba je malá, ale v izbe je teplo.
+> Ma chambre est petite, mais il y fait chaud.
+> Moja izba je malá = ma chambre est petite
 > ale = mais
-> veľmi milá = très gentille
+> v izbe je teplo = dans la chambre, il fait chaud
+
+! Ďakujem za pozvanie! Tvoja nora je veľká!
+> Merci pour l'invitation ! Ton terrier est grand !
+> Ďakujem za pozvanie = merci pour l'invitation
+> Tvoja nora = ton terrier
+> je veľká = est grand

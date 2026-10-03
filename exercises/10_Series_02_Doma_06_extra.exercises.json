@@ -25,14 +25,14 @@
       ]
     },
     {
-      "id": "listen-v-mojom-brlohu-je-teplo",
+      "id": "listen-v-brlohu-je-teplo",
       "type": "listen",
-      "l1": "Dans ma tanière, il fait chaud.",
-      "l2": "V mojom brlohu je teplo.",
+      "l1": "Dans la tanière, il fait chaud.",
+      "l2": "V brlohu je teplo.",
       "choices_l1": [
-        "Dans ma tanière, il fait froid.",
-        "Dans ma cuisine, il fait chaud.",
-        "Dans mon terrier, il fait chaud."
+        "Dans la tanière, il fait froid.",
+        "Dans la cuisine, il fait chaud.",
+        "Dans le terrier, il fait chaud."
       ]
     },
     {
@@ -113,14 +113,14 @@
       ]
     },
     {
-      "id": "listen-okn-s-ve-k-a-dvere-s-mal",
+      "id": "listen-dvere-s-tam-a-okno-je-tu",
       "type": "listen",
-      "l1": "Les fenêtres sont grandes et la porte est petite.",
-      "l2": "Okná sú veľké a dvere sú malé.",
+      "l1": "La porte est là-bas et la fenêtre est ici.",
+      "l2": "Dvere sú tam a okno je tu.",
       "choices_l1": [
-        "Les fenêtres sont petites et la porte est grande.",
-        "Les chaises sont grandes et la porte est petite.",
-        "Les fenêtres sont grandes et la porte est grande."
+        "La porte est ici et la fenêtre est là-bas.",
+        "La porte est là-bas et la chaise est ici.",
+        "La porte est là-bas et la fenêtre est là-bas."
       ]
     },
     {
@@ -198,12 +198,12 @@
       "show_translation": true
     },
     {
-      "id": "blank-okn-s-ve-k-a-dvere-s-mal",
+      "id": "blank-dvere-s-tam-a-okno-je-tu",
       "type": "fill-blank",
-      "l1": "Les fenêtres sont grandes et la porte est petite.",
-      "l2": "Okná sú veľké a dvere sú malé.",
-      "missing_l1": "porte",
-      "missing_l2": "dvere",
+      "l1": "La porte est là-bas et la fenêtre est ici.",
+      "l2": "Dvere sú tam a okno je tu.",
+      "missing_l1": "fenêtre",
+      "missing_l2": "okno",
       "blank_index_l1": 6,
       "blank_index_l2": 4,
       "choices_l1": [

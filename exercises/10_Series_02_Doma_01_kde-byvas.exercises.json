@@ -362,24 +362,6 @@
       ]
     },
     {
-      "id": "order-andrea-b-va-tam-v-nore",
-      "type": "order",
-      "l1": "Andrea habite là-bas dans un terrier.",
-      "l2": "Andrea býva tam v nore.",
-      "tokens_l1": [
-        "Andrea",
-        "habite",
-        "là-bas",
-        "dans un terrier."
-      ],
-      "tokens_l2": [
-        "Andrea",
-        "býva",
-        "tam",
-        "v nore."
-      ]
-    },
-    {
       "id": "match-dom",
       "type": "match",
       "l1": [

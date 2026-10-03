@@ -30,7 +30,7 @@
 
 ### Le pluriel
 
-{{fr:Pour parler de plusieurs, la fin du mot change : -a devient -y, et -o devient -á.}}
+{{fr:Pour parler de plusieurs, la fin du mot change souvent. Regarde bien les fins dans le tableau !}}
 
 | Slovenčina | Français |
 |------------|----------|
@@ -106,6 +106,13 @@
 > hračky = jouets
 > Sú = ils sont
 > v izbe = dans la chambre
+
+! Mám dve sestry a tri knihy.
+> J'ai deux sœurs et trois livres.
+> Mám = j'ai
+> dve sestry = deux sœurs
+> a = et
+> tri knihy = trois livres
 
 ---
 

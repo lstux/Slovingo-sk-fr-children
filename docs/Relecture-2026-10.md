@@ -135,6 +135,8 @@ Les exercices (`exercises/*.json`) reprennent le texte des fiches : chaque corre
 
 ## 02 Doma
 
+> ✅ **Traité le 2026-10-03.** D01 : *Andrea býva tam* (+ remarque : le lièvre n'a pas de terrier, le renard si). D02 : *je* (rappel), 2e carte « On révise ». D03 : marmottes → litière d'herbe sèche ; *aj kniha, aj lampa* ; 2e carte « On révise ». D04 : règle du pluriel « souvent », sans finales dans le `{{fr:}}` ; 2e carte « On révise ». D05 réécrit : 3 nouveautés (*vitaj, blízko, ďakujem za pozvanie*) et une seule forme à écouter (*líšky*) ; 🦊 remercie pour l'invitation et dit où il habite ; nouveau gag « Líška je moja kamarátka ! » au lieu de « Bojím sa / Nevadí ». D06 : plus de *stoly / mojom / mojej / Andrey / adjectifs au pluriel*, chambre « où il fait chaud » au lieu de « très gentille », tableau complet (pluriels, dva/dve…).
+
 | | Fiche / ligne | Problème | Proposition |
 |---|---|---|---|
 | 🟠 | 01 l.111 (+ Doma 05 l.79) | *Andrea býva v nore* : le lièvre vit dans un gîte en surface, pas un terrier (c'est le renard qui a une *nora* !) | *Andrea býva tam*, et donner la *nora* à 🦊 |
@@ -268,7 +270,7 @@ Invérifiables mais plausibles : randonneurs qui se saluent, « Dobrý deň » �
 | 00 Introduction | ✅ passe détaillée faite (2026-10-03) |
 | 00 Kit de Survie | ✅ passe détaillée faite (2026-10-03) |
 | 01 Rodina | ✅ passe détaillée faite (2026-10-03) |
-| 02 Doma | à faire |
+| 02 Doma | ✅ passe détaillée faite (2026-10-03) |
 | 03 Jedlo | à faire |
 | 04 Dedina | à faire |
 | 05 Zvieratá | à faire |

@@ -16,7 +16,7 @@
 | stôl | la table |
 | stolička | la chaise |
 | okno | la fenêtre |
-| je | est |
+| je | est (rappel) |
 
 ---
 
@@ -101,6 +101,12 @@
 > Bývam v nore = j'habite dans un terrier
 > To je = c'est
 > moja izba = ma chambre
+
+! Moja mama je v kuchyni.
+> Ma maman est dans la cuisine.
+> Moja mama = ma maman
+> je = est
+> v kuchyni = dans la cuisine
 
 ---
 

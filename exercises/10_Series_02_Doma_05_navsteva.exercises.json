@@ -21,7 +21,7 @@
     {
       "id": "qcm-bl-zko",
       "type": "qcm",
-      "l1": "près de",
+      "l1": "près de, tout près",
       "l2": "blízko",
       "choices_l1": [
         "dans",
@@ -32,6 +32,33 @@
         "v",
         "na",
         "tam"
+      ]
+    },
+    {
+      "id": "qcm-akujem-za-pozvanie",
+      "type": "qcm",
+      "l1": "merci pour l'invitation",
+      "l2": "ďakujem za pozvanie",
+      "choices_l1": [
+        "bienvenue",
+        "pas de souci",
+        "au revoir"
+      ],
+      "choices_l2": [
+        "vitaj",
+        "nevadí",
+        "dovidenia"
+      ]
+    },
+    {
+      "id": "listen-akujem-za-pozvanie-katka-kde-je-kuchy-a",
+      "type": "listen",
+      "l1": "Merci pour l'invitation, Katka ! Où est la cuisine ?",
+      "l2": "Ďakujem za pozvanie, Katka! Kde je kuchyňa?",
+      "choices_l1": [
+        "Merci pour l'invitation, Katka ! Où est la chambre ?",
+        "Bienvenue, Katka ! Où est la cuisine ?",
+        "Merci pour l'invitation, Andrea ! Où est la cuisine ?"
       ]
     },
     {
@@ -101,25 +128,25 @@
       ]
     },
     {
-      "id": "listen-boj-m-sa",
+      "id": "listen-no-l-ka-je-moja-kamar-tka",
       "type": "listen",
-      "l1": "J'ai peur !",
-      "l2": "Bojím sa!",
+      "l1": "Oui ! Le renard, c'est mon ami !",
+      "l2": "Áno! Líška je moja kamarátka!",
       "choices_l1": [
-        "Je n'ai pas peur !",
-        "Pardon !",
-        "J'ai huit ans !"
+        "Non ! Le renard, c'est mon ami !",
+        "Oui ! Le renard, c'est ma sœur !",
+        "Oui ! Le renard est très gentil !"
       ]
     },
     {
-      "id": "listen-no-b-vam-v-nore-dovidenia-user-name",
+      "id": "listen-aj-ja-b-vam-v-nore",
       "type": "listen",
-      "l1": "Oui, j'habite dans un terrier. Au revoir, [USER_NAME] !",
-      "l2": "Áno, bývam v nore. Dovidenia, [USER_NAME]!",
+      "l1": "Moi aussi, j'habite dans un terrier !",
+      "l2": "Aj ja bývam v nore!",
       "choices_l1": [
-        "Non, j'habite dans une tanière. Au revoir, [USER_NAME] !",
-        "Oui, j'habite dans un nid. Au revoir, [USER_NAME] !",
-        "Oui, j'habite dans un terrier. Merci, [USER_NAME] !"
+        "Moi aussi, j'habite dans une tanière !",
+        "Moi, je n'habite pas dans un terrier !",
+        "Toi aussi, tu habites dans un terrier !"
       ]
     },
     {
@@ -223,13 +250,13 @@
         "Où est le lit ?",
         "Qu'est-ce qu'il y a sur la table ?",
         "Andrea, où habites-tu ?",
-        "J'ai peur !"
+        "Merci, Andrea !"
       ],
       "l2": [
         "Kde je posteľ?",
         "Čo je na stole?",
         "Andrea, kde bývaš?",
-        "Bojím sa!"
+        "Ďakujem, Andrea!"
       ]
     }
   ]

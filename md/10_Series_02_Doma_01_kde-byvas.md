@@ -108,8 +108,8 @@
 > Bývaš = tu habites
 > tam = là-bas
 
-! Andrea býva tam v nore.
-> Andrea habite là-bas dans un terrier.
+! Andrea býva tam.
+> Andrea habite là-bas.
 > Andrea býva = Andrea habite
 > tam = là-bas
-> v nore = dans un terrier
++ Le lièvre ne creuse pas de terrier : il dort dans un petit creux dans l'herbe. Le renard, lui, a un vrai terrier !

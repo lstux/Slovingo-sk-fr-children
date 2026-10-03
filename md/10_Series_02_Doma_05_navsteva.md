@@ -11,14 +11,17 @@
 | Slovenčina | Français |
 |------------|----------|
 | vitaj | bienvenue |
-| blízko | près de |
+| blízko | près de, tout près |
+| ďakujem za pozvanie | merci pour l'invitation |
 
-Les personnages :
+---
+
+## Les personnages
 
 - 🦊 Toi
 - 🐹 Katka, 8 ans, une marmotte
 - 🐻 Maťo, 9 ans, un ours
-- 🐰 Andrea, ton amie, un lièvre
+- 🐰 Andrea, ton amie, une hase
 
 ---
 
@@ -31,11 +34,12 @@ Les personnages :
 > moja nora = mon terrier
 + Mot nouveau signalé : {{vitaj}} = bienvenue. On le dit à quelqu'un qui arrive chez soi.
 
-! 🦊 Ďakujem, Katka! Kde je kuchyňa?
-> Merci, Katka ! Où est la cuisine ?
-> Ďakujem = merci
+! 🦊 Ďakujem za pozvanie, Katka! Kde je kuchyňa?
+> Merci pour l'invitation, Katka ! Où est la cuisine ?
+> Ďakujem za pozvanie = merci pour l'invitation
 > Kde je = où est
 > kuchyňa = cuisine
++ Mot nouveau signalé : {{Ďakujem za pozvanie}} = merci pour l'invitation. Très poli, et ça fait toujours plaisir !
 
 ! 🐹 Kuchyňa je tam. Tu je moja izba.
 > La cuisine est là-bas. Ici, c'est ma chambre.
@@ -76,60 +80,65 @@ Les personnages :
 > Kde = où
 > bývaš = tu habites
 
-! 🐰 Bývam tam v nore, blízko líšky.
-> J'habite là-bas dans un terrier, près du renard.
+! 🐰 Bývam tam, blízko líšky.
+> J'habite là-bas, tout près du renard.
 > Bývam = j'habite
 > tam = là-bas
-> v nore = dans un terrier
-> blízko líšky = près du renard
-+ Mot nouveau signalé : {{blízko}} = près de. Après {{blízko}}, {{líška}} change de fin : {{líšky}}. À écouter, pas à retenir !
+> blízko líšky = tout près du renard
++ Mot nouveau signalé : {{blízko}} = près de. À écouter : après {{blízko}}, {{líška}} devient {{líšky}}.
 
-! 🐹 Bojím sa!
-> J'ai peur !
-> Bojím sa = j'ai peur
+! 🐹 Blízko líšky? Ach!
+> Tout près du renard ? Oh !
+> Blízko líšky = tout près du renard
 
-! 🐰 Nevadí! Je veľmi milá.
-> Pas de souci ! Elle est très gentille.
-> Nevadí = pas de souci
-> je veľmi milá = elle est très gentille
-
-! 🦊 Ďakujem, Andrea! Kde bývaš ty, Katka? Aj v nore?
-> Merci, Andrea ! Et toi, Katka, où habites-tu ? Aussi dans un terrier ?
-> Ďakujem = merci
-> Kde bývaš = où habites-tu
-> ty = toi
-> Aj = aussi
-
-! 🐹 Áno, bývam v nore. Dovidenia, [USER_NAME]!
-> Oui, j'habite dans un terrier. Au revoir, [USER_NAME] !
+! 🐰 Áno! Líška je moja kamarátka!
+> Oui ! Le renard, c'est mon ami !
 > Áno = oui
+> Líška = le renard
+> je moja kamarátka = est mon amie
++ {{kamarátka}} s'accorde avec {{líška}}, un mot féminin, comme {{milá}}.
+
+! 🦊 Ďakujem, Andrea!
+> Merci, Andrea !
+> Ďakujem = merci
+
+! 🐹 A ty, [USER_NAME], kde bývaš?
+> Et toi, [USER_NAME], où habites-tu ?
+> A ty = et toi
+> kde bývaš = où habites-tu
+
+! 🦊 Bývam v nore, tam!
+> J'habite dans un terrier, là-bas !
+> Bývam = j'habite
+> v nore = dans un terrier
+> tam = là-bas
+
+! 🐹 Aj ja bývam v nore!
+> Moi aussi, j'habite dans un terrier !
+> Aj ja = moi aussi
 > bývam v nore = j'habite dans un terrier
-> Dovidenia = au revoir
 
 ---
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:Quand quelqu'un t'invite chez lui, tu peux dire}} {{Ďakujem za pozvanie}}{{fr: : « merci pour l'invitation ». Ça fait toujours plaisir !}} 💛
-
-{{fr:Et si tu croises un vrai terrier en montagne : on regarde de loin, sans faire de bruit !}}
+{{fr:Quand quelqu'un t'invite chez lui, n'oublie pas de dire merci pour l'invitation, comme tu viens de le faire. Et si tu croises un vrai terrier en montagne : on regarde de loin, sans faire de bruit !}} 💛
 
 ---
 
 ## Encore quelques phrases
 
-! Bývam v nore blízko Andrey.
-> J'habite dans un terrier près d'Andrea.
-> Bývam v nore = j'habite dans un terrier
-> blízko Andrey = près d'Andrea
-+ Après {{blízko}}, le prénom change aussi de fin : {{Andrea}} devient {{Andrey}}.
+! Vitaj! To je moja izba.
+> Bienvenue ! Voici ma chambre.
+> Vitaj = bienvenue
+> To je = voici
+> moja izba = ma chambre
 
-! V mojej izbe je posteľ.
-> Dans ma chambre, il y a un lit.
-> V mojej izbe = dans ma chambre
-> je = il y a
-> posteľ = lit
-+ Après {{v}}, {{moja}} devient {{mojej}}. À écouter !
+! Kuchyňa je blízko.
+> La cuisine est tout près.
+> Kuchyňa = cuisine
+> je = est
+> blízko = tout près
 
 ! Na stole sú štyri hračky.
 > Sur la table, il y a quatre jouets.
