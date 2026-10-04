@@ -1,6 +1,6 @@
 {
   "mode": "replace",
-  "sync": "full",
+  "sync": "no-add",
   "exercises": [
     {
       "id": "qcm-a-tvoj-brat-kolko-rokov-ma-mato",
@@ -32,6 +32,118 @@
         "Máš brata?",
         "Máš strýka?",
         "Máš tetu?"
+      ]
+    },
+    {
+      "id": "qcm-m-j-moja",
+      "type": "qcm",
+      "l1": "mon / ma",
+      "l2": "môj / moja",
+      "choices_l1": [
+        "ton / ta",
+        "moi / toi",
+        "il / elle"
+      ],
+      "choices_l2": [
+        "tvoj / tvoja",
+        "ja / ty",
+        "on / ona"
+      ]
+    },
+    {
+      "id": "qcm-tvoj-tvoja",
+      "type": "qcm",
+      "l1": "ton / ta",
+      "l2": "tvoj / tvoja",
+      "choices_l1": [
+        "mon / ma",
+        "moi / toi",
+        "il / elle"
+      ],
+      "choices_l2": [
+        "môj / moja",
+        "ja / ty",
+        "on / ona"
+      ]
+    },
+    {
+      "id": "qcm-nem-m",
+      "type": "qcm",
+      "l1": "je n'ai pas",
+      "l2": "nemám",
+      "choices_l1": [
+        "j'ai / tu as / il ou elle a",
+        "qui",
+        "combien"
+      ],
+      "choices_l2": [
+        "mám / máš / má",
+        "kto",
+        "koľko"
+      ]
+    },
+    {
+      "id": "qcm-ve-mi",
+      "type": "qcm",
+      "l1": "très",
+      "l2": "veľmi",
+      "choices_l1": [
+        "mais",
+        "combien",
+        "comment (pour décrire)"
+      ],
+      "choices_l2": [
+        "ale",
+        "koľko",
+        "aký / aká"
+      ]
+    },
+    {
+      "id": "qcm-deti",
+      "type": "qcm",
+      "l1": "les enfants",
+      "l2": "deti",
+      "choices_l1": [
+        "la famille",
+        "le copain",
+        "la copine"
+      ],
+      "choices_l2": [
+        "rodina",
+        "kamarát",
+        "kamarátka"
+      ]
+    },
+    {
+      "id": "qcm-l-ka",
+      "type": "qcm",
+      "l1": "le renard (l'animal)",
+      "l2": "líška",
+      "choices_l1": [
+        "le frère",
+        "le voisin",
+        "le copain"
+      ],
+      "choices_l2": [
+        "brat",
+        "sused",
+        "kamarát"
+      ]
+    },
+    {
+      "id": "qcm-boj-m-sa",
+      "type": "qcm",
+      "l1": "j'ai peur",
+      "l2": "bojím sa",
+      "choices_l1": [
+        "j'avais peur (dit par une fille)",
+        "je n'ai pas",
+        "qui"
+      ],
+      "choices_l2": [
+        "bála som sa",
+        "nemám",
+        "kto"
       ]
     },
     {
@@ -271,16 +383,32 @@
       "id": "match-mily",
       "type": "match",
       "l1": [
-        "gentil",
-        "joyeux",
-        "âgé",
+        "gentil / gentille",
+        "joyeux / joyeuse",
+        "âgé / âgée",
         "rapide"
       ],
       "l2": [
-        "milý",
-        "veselý",
-        "starý",
-        "rýchly"
+        "milý / milá",
+        "veselý / veselá",
+        "starý / stará",
+        "rýchly / rýchla"
+      ]
+    },
+    {
+      "id": "match-mal-mal",
+      "type": "match",
+      "l1": [
+        "petit / petite",
+        "grand / grande",
+        "fort / forte",
+        "très"
+      ],
+      "l2": [
+        "malý / malá",
+        "veľký / veľká",
+        "silný / silná",
+        "veľmi"
       ]
     }
   ]

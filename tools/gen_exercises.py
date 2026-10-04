@@ -8,6 +8,23 @@ import json, re, os, sys
 OUT = sys.argv[1]
 os.makedirs(OUT, exist_ok=True)
 
+# Fiches dont les exercices ont été retravaillés directement dans le JSON
+# (extras en mini-dialogues, relectures) : le script n'écrit plus leur fichier,
+# sinon il remettrait l'ancienne version. Pour les modifier, on édite le JSON
+# (ou on met d'abord la section correspondante de ce script à jour, puis on
+# la retire de cette liste).
+FROZEN = {
+    "10_Series_00_KitSurvie_04_extra",
+    "10_Series_01_Rodina_05_u-babky",
+    "10_Series_01_Rodina_06_extra",
+    "10_Series_02_Doma_06_extra",
+    "10_Series_03_Jedlo_06_extra",
+    "10_Series_04_Dedina_06_extra",
+    "10_Series_05_Zvierata_05_strazca-parku",
+    "10_Series_05_Zvierata_06_extra",
+    "10_Series_06_Hry_06_extra",
+}
+
 
 def slug(s):
     return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')
@@ -50,6 +67,9 @@ class Sheet:
         self.ex.append(dict(id=self._id("match", L2[0]), type="match", l1=L1, l2=L2))
 
     def write(self):
+        if self.name in FROZEN:
+            print(self.name, "(gelé : exercices édités dans le JSON, fichier non réécrit)")
+            return
         d = {"mode": "replace", "sync": self.sync, "exercises": self.ex}
         with open(os.path.join(OUT, self.name + ".exercises.json"), "w", encoding="utf-8") as f:
             json.dump(d, f, ensure_ascii=False, indent=2)
