@@ -35,6 +35,26 @@
 > A = et
 > môj kamarát = mon copain
 
+! 🐹 Ach! To je líška!
+> Oh ! C'est un renard !
+> To je = c'est
+> líška = renard
++ Mot nouveau signalé : {{líška}}. C'est le nom de l'animal, un mot féminin en slovaque : c'est pour ça qu'il finit par -a.
+
+! 🐹 Bojím sa!
+> J'ai peur !
+> Bojím sa = j'ai peur
++ Mot nouveau signalé : {{bojím sa}} = j'ai peur.
+
+! 🐰 Bála som sa! Ale líška je veľmi milá!
+> J'avais peur ! Mais le renard est très gentil !
+> Bála som sa = j'avais peur
+> Ale = mais
+> Líška = le renard
+> je veľmi milá = est très gentil
++ À écouter : {{bála som sa}} = j'avais peur (c'est le passé, et Andrea est une fille, alors {{bála}}). Elle a eu un peu peur elle aussi, au début : les autres renards qu'elle avait croisés étaient beaucoup moins sympas. Normal, quand on est une hase… 😄
++ On dit {{milá}} parce que {{líška}} est un mot féminin, comme {{mama}}. Ça ne dit pas si le renard est un garçon ou une fille !
+
 ! 🐹 Ahoj! Mám osem rokov.
 > Salut ! J'ai huit ans.
 > Ahoj = salut
@@ -81,26 +101,6 @@
 > Moja sestra = ma sœur
 > je = est
 > malá a veselá = petite et joyeuse
-
-! 🐹 Ach! To je líška!
-> Oh ! C'est un renard !
-> To je = c'est
-> líška = renard
-+ Mot nouveau signalé : {{líška}}. C'est le nom de l'animal, un mot féminin en slovaque : c'est pour ça qu'il finit par -a.
-
-! 🐹 Bojím sa!
-> J'ai peur !
-> Bojím sa = j'ai peur
-+ Mot nouveau signalé : {{bojím sa}} = j'ai peur.
-
-! 🐰 Bála som sa! Ale líška je veľmi milá!
-> J'avais peur ! Mais le renard est très gentil !
-> Bála som sa = j'avais peur
-> Ale = mais
-> Líška = le renard
-> je veľmi milá = est très gentil
-+ À écouter : {{bála som sa}} = j'avais peur (c'est le passé, et Andrea est une fille, alors {{bála}}). Elle a eu un peu peur elle aussi, au début : les autres renards qu'elle avait croisés étaient beaucoup moins sympas. Normal, quand on est une hase… 😄
-+ On dit {{milá}} parce que {{líška}} est un mot féminin, comme {{mama}}. Ça ne dit pas si le renard est un garçon ou une fille !
 
 ! 🐻 Aký je tvoj tato? Je veľký?
 > Comment est ton papa ? Il est grand ?
