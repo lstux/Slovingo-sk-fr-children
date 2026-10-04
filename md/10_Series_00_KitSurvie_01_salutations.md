@@ -37,7 +37,7 @@
 + Pour un adulte. Entre copains, on dit {{ahoj}}.
 
 ! Ako sa máš?
-> Ça va ?
+> Comment ça va ?
 > Ako = comment
 > sa máš = tu vas
 + Pour demander à un copain.
@@ -49,7 +49,7 @@
 + Le ď se dit « dy » : « dyakouyèm ».
 
 ! Ahoj! Ako sa máš?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 
 ---
 

@@ -49,16 +49,16 @@
 > Ako sa voláš = comment tu t'appelles
 
 ! 🐻 Volám sa Maťo. Ako sa máš?
-> Je m'appelle Maťo. Ça va ?
+> Je m'appelle Maťo. Comment ça va ?
 > Volám sa = je m'appelle
 > Maťo = Maťo
-> Ako sa máš = ça va
+> Ako sa máš = comment ça va
 
 ! 🦊 Dobre, ďakujem! Ako sa máš?
-> Bien, merci ! Ça va ?
+> Bien, merci ! Comment ça va ?
 > Dobre = bien
 > ďakujem = merci
-> Ako sa máš = ça va
+> Ako sa máš = comment ça va
 
 ---
 
@@ -73,10 +73,10 @@
 + {{Dobrý deň}} se dit surtout aux adultes. Entre copains, on dit {{ahoj}}. Maťo exagère un peu… 😄
 
 ! 🐰 Dobrý deň, Maťo! Ako sa máš?
-> Bonjour, Maťo ! Ça va ?
+> Bonjour, Maťo ! Comment ça va ?
 > Dobrý deň = bonjour
 > Maťo = Maťo
-> Ako sa máš = ça va
+> Ako sa máš = comment ça va
 
 ! 🐻 Dobre! Prepáč, Andrea!
 > Bien ! Pardon, Andrea !

@@ -28,9 +28,9 @@
 ## Le dialogue
 
 ! 🐰 Ahoj! Ako sa máš?
-> Salut ! Ça va ?
+> Salut ! Comment ça va ?
 > Ahoj = salut
-> Ako sa máš = ça va
+> Ako sa máš = comment ça va
 
 ! 🦊 Dobre, ďakujem!
 > Bien, merci !

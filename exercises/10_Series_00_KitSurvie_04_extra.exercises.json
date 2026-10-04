@@ -37,7 +37,7 @@
     {
       "id": "listen-volam-sa-mato-ako-sa-mas",
       "type": "listen",
-      "l1": "Je m'appelle Maťo. Ça va ?",
+      "l1": "Je m'appelle Maťo. Comment ça va ?",
       "l2": "Volám sa Maťo. Ako sa máš?",
       "choices_l1": [
         "Je m'appelle Andrea. Ça va ?",
@@ -48,7 +48,7 @@
     {
       "id": "listen-dobre-dakujem-ako-sa-mas",
       "type": "listen",
-      "l1": "Bien, merci ! Ça va ?",
+      "l1": "Bien, merci ! Comment ça va ?",
       "l2": "Dobre, ďakujem! Ako sa máš?",
       "choices_l1": [
         "Bien, merci ! Au revoir !",
