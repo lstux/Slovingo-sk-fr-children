@@ -138,11 +138,27 @@ Les clés viennent de `subgroup_themes` dans `lang.json`. Les autres thèmes du 
 | `img/style_animals.jpg` | `animals` | Zvieratá | miel, foin | Le chamois ou l'aigle | [Rupicapra rupicapra tatrica](https://commons.wikimedia.org/wiki/Category:Rupicapra_rupicapra_tatrica), [Aquila chrysaetos in flight](https://commons.wikimedia.org/wiki/Category:Aquila_chrysaetos_in_flight) |
 | `img/style_games.jpg` | `games` | Hry | vert chartreuse, rose | Une grande prairie fleurie | [Meadows](https://commons.wikimedia.org/wiki/Category:Meadows), [Flora of the Tatra Mountains](https://commons.wikimedia.org/wiki/Category:Flora_of_the_Tatra_Mountains) |
 
-### Pour mettre une image de style en place
+### Choix retenus (2026-10-04)
 
-1. On choisit la photo sur Commons, on note auteur et licence.
-2. On la télécharge en grand format, on la réduit (largeur 1600 à 2000 px) et on l'enregistre en `img/style_<clé>.jpg`.
-3. On ajoute sa ligne dans `img/credits.md`.
-4. On reconstruit le cours et on regarde le bandeau en clair et en sombre, sur téléphone aussi.
+| Thème | Photo retenue |
+|---|---|
+| `default` | [On the way to Biele pleso](https://commons.wikimedia.org/wiki/File:On_the_way_to_Biele_pleso_-_panoramio_(2).jpg) |
+| `basics` | [Belianske Tatry oct 2022](https://commons.wikimedia.org/wiki/File:Belianske_Tatry_oct_2022.jpg) |
+| `family` | [Marmota marmota, parc national de la Vanoise](https://commons.wikimedia.org/wiki/File:Marmota_marmota_in_Vanoise_National_Park_2023_(1).jpg) (Alpes françaises : ce n'est pas la marmotte des Tatras) |
+| `house` | [Tanap, schronisko Zamkovskiego](https://commons.wikimedia.org/wiki/File:Tanap_schronisko_Zamkovskiego_2.jpg) |
+| `food` | [Jaseur boréal et baie de sorbier](https://commons.wikimedia.org/wiki/File:Bohemian_waxwing_tosses_a_mountain_ash_berry_(50829531677).jpg) |
+| `city` | [Banská Štiavnica, 2018 (20)](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica,_2018_(20).jpg) |
+| `animals` | [Gämse in der Hohen Tatra](https://commons.wikimedia.org/wiki/File:G%C3%A4mse_In_Der_Hohen_Tatra_(224466327).jpeg) |
+| `games` | [Lupina mnoholistá, Cesta slobody](https://commons.wikimedia.org/wiki/File:Lupina_mnoholist%C3%A1_(Lupinus_polyphyllus)_-_Cesta_slobody.jpg) |
 
-Le téléchargement et la réduction doivent se faire depuis un endroit qui a accès à Commons (l'environnement de Claude n'y a pas accès). Les images de style ne passent pas par `fetch_images.py` (qui ne lit que les lignes `@` des fiches) : elles se déposent à la main dans `img/`.
+Ces fichiers sont notés dans `img/credits.md`.
+
+### Pour mettre les images de style en place
+
+Depuis un endroit qui a accès à Commons (l'environnement de Claude n'y a pas accès) :
+
+1. `./tools/fetch_style_images.sh` : télécharge les 8 images, les nomme `img/style_<clé>.jpg` et les réduit à 1200 px de large au maximum. Options : une ou plusieurs clés (`family city`), `--force` pour refaire celles qui existent. Réglages : `WIDTH=1000`, `QUALITY=80`. Il faut `curl` et ImageMagick (`convert` ou `magick`).
+2. `./tools/fetch_style_images.sh --credits` : affiche l'auteur et la licence de chaque image, en lignes prêtes à coller dans `img/credits.md` (il faut `python3`).
+3. On reconstruit le cours et on regarde le bandeau en clair et en sombre, sur téléphone aussi.
+
+Ces images ne passent pas par `fetch_images.py` du moteur (qui ne lit que les lignes `@` des fiches).
