@@ -13,7 +13,7 @@
 | ahoj | salut (bonjour ou au revoir) |
 | dobrý deň | bonjour |
 | dovidenia | au revoir |
-| ako sa máš | comment ça va ?? |
+| ako sa máš | comment ça va ? |
 | dobre | bien |
 | ďakujem | merci |
 
