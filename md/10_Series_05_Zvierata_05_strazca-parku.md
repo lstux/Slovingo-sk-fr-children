@@ -28,18 +28,6 @@
 
 ## Le dialogue
 
-! 🐰 Ty si milá líška!
-> Tu es un gentil renard !
-> Ty si = tu es
-> milá líška = un gentil renard
-+ On dit {{milá}} parce que {{líška}} est un mot féminin. Ça ne dit pas si le renard est un garçon ou une fille !
-
-! 🦊 Ďakujem! Ty si milá zajačica!
-> Merci ! Tu es une gentille hase !
-> Ďakujem = merci
-> Ty si = tu es
-> milá zajačica = une gentille hase
-
 ! 🐹 Pozri! Kamzík! Je veľmi rýchly!
 > Regarde ! Un chamois ! Il est très rapide !
 > Pozri = regarde

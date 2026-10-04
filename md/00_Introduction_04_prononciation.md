@@ -101,6 +101,12 @@
 
 ---
 
+{{fr:Ça peut paraître difficile, mais ne t'inquiètes pas! Un Slovaque qui lit du français a du mal lui aussi !}}
+
+{{Bonjour et bienvenue! Au début on a un accent bizarre, peu importe!}}
+
+---
+
 ## On s'entraîne
 
 ! Ďakujem!

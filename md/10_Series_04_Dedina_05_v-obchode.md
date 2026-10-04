@@ -45,18 +45,31 @@ Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 > deti = les enfants
 > Prosím = oui ?
 
-! 🦊 Dobrý deň! Prosím si chlieb. Koľko to stojí?
-> Bonjour ! Je voudrais du pain. Combien ça coûte ?
+! 🦊 Dobrý deň! Prosím si chlieb.
+> Bonjour ! Je voudrais du pain.
 > Dobrý deň = bonjour
 > Prosím si = je voudrais
 > chlieb = du pain
-> Koľko to stojí = combien ça coûte
 
-! 🦔 Chlieb stojí dve eurá.
-> Le pain coûte deux euros.
+! 🦔 Ach! Líška! Chlieb ? A chceš bobule?
+> Oh ! Un renard ! Du pain ? Et tu veux des baies ?
+> Líška = un renard
+> Chceš = tu veux
+> bobule = des baies
 > Chlieb = pain
 > stojí = coûte
 > dve eurá = deux euros
++ Pani Ježková est une adulte : elle peut te tutoyer. Toi, tu la vouvoies !
+
+! 🦊 Áno, prosím! Koľko to stojí?
+> Oui, s'il vous plaît ! Combien ça coûte ?
+> Áno, prosím = oui, s'il vous plaît
+> Koľko to stojí = combien ça coûte
+
+! 🦔 Bobule sú lacné. Jedno euro.
+> Les baies ne sont pas chères. Un euro.
+> Bobule sú lacné = les baies ne sont pas chères
+> Jedno euro = un euro
 
 ! 🦊 Ďakujem. Prosím si aj mlieko.
 > Merci. Je voudrais aussi du lait.
@@ -96,23 +109,6 @@ Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 > Pozri = regarde
 > Jablko = pomme
 > je lacné = n'est pas chère
-
-! 🦔 Ach! Líška! Chceš bobule?
-> Oh ! Un renard ! Tu veux des baies ?
-> Líška = un renard
-> Chceš = tu veux
-> bobule = des baies
-+ Pani Ježková est une adulte : elle peut te tutoyer. Toi, tu la vouvoies !
-
-! 🦊 Áno, prosím! Koľko to stojí?
-> Oui, s'il vous plaît ! Combien ça coûte ?
-> Áno, prosím = oui, s'il vous plaît
-> Koľko to stojí = combien ça coûte
-
-! 🦔 Bobule sú lacné. Jedno euro.
-> Les baies ne sont pas chères. Un euro.
-> Bobule sú lacné = les baies ne sont pas chères
-> Jedno euro = un euro
 
 ! 🦔 Tu je chlieb, mlieko a bobule.
 > Voici le pain, le lait et les baies.
