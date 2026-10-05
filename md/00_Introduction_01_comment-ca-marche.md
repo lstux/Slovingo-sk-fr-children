@@ -49,7 +49,7 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 
 | Icône | À quoi ça sert |
 |-------|----------------|
-| 🏠 | Accueil : la liste de toutes les fiches |
+| 🗺️ | Carte : ton chemin d'aventure et, en dessous, la liste de toutes les fiches |
 | ▶ | Continuer : reprendre la dernière fiche ouverte |
 | 🎯 | Exercices : les petits jeux de la fiche |
 | ⚙️ | Paramètres : les voix, la vitesse, la lecture lente |
@@ -57,6 +57,19 @@ Les phrases à apprendre sont dans des cartes. Touche la phrase pour l'écouter,
 | ‹ › | Fiche précédente, fiche suivante |
 
 Sur un grand écran, il y a aussi 👀 **Traductions**, pour afficher d'un coup toutes les traductions de la fiche.
+
+---
+
+## La carte
+
+{{fr:Quand tu ouvres l'appli, tu vois une carte des Tatras. C'est ton chemin d'aventure : il descend jusqu'au château !}} 🗺️
+
+- 🦊 Le renard, c'est toi. Touche une étape : il y marche, et une petite bulle s'ouvre avec les fiches de cette étape. Touche une fiche, et le renard saute dedans !
+- 🌫️ Le brouillard cache le chemin qui est encore loin. Quand tu réussis une série, il se lève sur la suite.
+- ✓ Une série est réussie quand tu as **85 %** de bonnes réponses en moyenne aux exercices. Pour l'introduction et le Kit de Survie, il suffit d'ouvrir toutes les fiches.
+- 🏰 Au bout du chemin, le château t'attend : un grand examen final, bientôt !
+
+{{fr:Rien n'est bloqué : tu peux aller où tu veux, même dans le brouillard. La carte est là pour t'aider, pas pour t'obliger !}}
 
 ---
 
@@ -78,10 +91,10 @@ Commence par le **Kit de Survie** : les mots magiques pour se débrouiller.
 - 🔀 remettre dans l'ordre
 - 🔗 relier
 
-Tes scores s'affichent sur l'accueil 🏠, et 🔥 compte les jours de suite où tu t'entraînes.
+Tes scores s'affichent sur la carte 🗺️, et 🔥 compte les jours de suite où tu t'entraînes.
 
 ---
 
 ## Pour les parents
 
-Si rien ne s'entend, vérifiez que l'appareil a une voix slovaque et une voix française, et réglez-les dans ⚙️ **Paramètres** (voix, vitesse, lecture lente, voix de chaque personnage). Sur téléphone, le menu n'affiche que les icônes : 🏠 accueil, ▶ continuer, 🎯 exercices, ⚙️ paramètres.
+Si rien ne s'entend, vérifiez que l'appareil a une voix slovaque et une voix française, et réglez-les dans ⚙️ **Paramètres** (voix, vitesse, lecture lente, voix de chaque personnage). Sur téléphone, le menu n'affiche que les icônes : 🗺️ carte, ▶ continuer, 🎯 exercices, ⚙️ paramètres.
