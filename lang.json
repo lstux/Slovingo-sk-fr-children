@@ -165,7 +165,8 @@
     "map_undiscovered": "Cette partie du chemin n'est pas encore découverte. Tu peux quand même l'explorer !",
     "map_castle_soon": "Le grand examen final arrive bientôt !",
     "map_series_done": "Série terminée !",
-    "map_step_done": "Étape terminée !"
+    "map_step_done": "Étape terminée !",
+    "all_sheets": "Toutes les fiches"
   },
   "generator": {
     "target_headers": [
