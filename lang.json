@@ -33,7 +33,8 @@
     "series": "Séries",
     "dialog": "Dialogues",
     "vocabulary": "Vocabulaire",
-    "annex": "Annexes"
+    "annex": "Annexes",
+    "credits": "Générique"
   },
   "subgroups": {
     "kitsurvie": "Kit de Survie",
@@ -167,6 +168,9 @@
     "map_castle_soon": "Le grand examen final arrive bientôt !",
     "map_series_done": "Série terminée !",
     "map_step_done": "Étape terminée !",
+    "map_final_reached": "Bravo ! Tu as terminé toute l'aventure !",
+    "credits_pause": "Pause",
+    "credits_resume": "Reprendre",
     "all_sheets": "Toutes les fiches"
   },
   "generator": {
