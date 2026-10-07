@@ -37,6 +37,20 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | `animals` (Zvieratá) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `games` (Hry) | [Lupina mnoholistá (Lupinus polyphyllus) - Cesta slobody.jpg](https://commons.wikimedia.org/wiki/File:Lupina_mnoholist%C3%A1_(Lupinus_polyphyllus)_-_Cesta_slobody.jpg) | à compléter | à compléter |
 
+## Images de dialogues (fiches — générées avec ChatGPT)
+
+| Fiche | Fichier | Source | Auteur | Licence |
+|---|---|---|---|---|
+| Intro · Rencontre | `intro-rencontre.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
+| Kit 03 · Dialogue (TODO) | — | — | — | — |
+| Série 1 · Rodina — u babky (TODO) | — | — | — | — |
+| Série 2 · Doma — návšteva (TODO) | — | — | — | — |
+| Série 3 · Jedlo — halušky (TODO) | — | — | — | — |
+| Série 4 · Dedina — obchode (TODO) | — | — | — | — |
+| Série 5 · Zvieratá — strážca parku (TODO) | — | — | — | — |
+| Série 6 · Hry — skrývačka (TODO) | — | — | — | — |
+| Homepage · Carte Tatras (TODO) | — | — | — | — |
+
 ## En réserve (pas encore utilisées)
 
 | Sujet | Fichier Commons |
