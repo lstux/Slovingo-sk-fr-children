@@ -33,9 +33,12 @@ Une grand-mère hermine tricote à proximité. Premier plan : herbe et fleurs mo
 Cabane en rondins chaleureuse en arrière-plan. Ciel étoilé fin de journée, ambiance douce et réconfortante.
 Petits écureuils jouent autour du foyer.
 
----
-
-## TODO
+### city (Dedina)
+Bannière format 1200x280px, style Zootopia. 
+Place de village slovaque : petites maisons colorées, église traditionnelle avec clocher. 
+Au premier plan, enfants animaux (lapins, renards, écureuils) jouent ensemble, souriant. 
+Marché avec étals, bancs en bois, fontaine. 
+Saules pleureurs, arbre centenaire. Ciel bleu tendre, ambiance communauté chaleureuse, sécurité du village.
 
 ### food (Jedlo)
 Bannière format 1200x280px, style Zootopia. 
@@ -44,32 +47,21 @@ Autour d'elle, étalage de récolte d'automne : courges, maïs, herbes.
 Pique-nique joyeux en prairie fleurie, Tatras en arrière-plan. 
 Abeilles butinent les fleurs, oiseau vole. Lumière chaude miel/or, ambiance gourmande et naturelle.
 
----
-
-## ✅ DONE
-
-### city (Dedina)
-Bannière format 1200x280px, style Zootopia. 
-Place de village slovaque : petites maisons colorées, église traditionnelle avec clocher. 
-Au premier plan, enfants animaux (lapins, renards, écureuils) jouent ensemble, souriant. 
-Marché avec étals, bancs en bois, fontaine. 
-Saules pleureurs, arbre centenaire. Ciel bleu tendre, ambiance communauté chaleureuse, sécurité du village.
-Bannière format 1200x280px, style Zootopia. 
-Place de village slovaque : petites maisons colorées, église traditionnelle avec clocher. 
-Au premier plan, enfants animaux (lapins, renards, écureuils) jouent ensemble, souriant. 
-Marché avec étals, bancs en bois, fontaine. 
-Saules pleureurs, arbre centenaire. Ciel bleu tendre, ambiance communauté chaleureuse, sécurité du village.
-
 ### animals (Zvieratá)
 Bannière format 1200x280px, style Zootopia. 
-Parade d'animaux montagne slovaque : chamois sauteur, lynx bienveillant, aigle majestueux (ciel), 
-blaireau curieux au terrier, cerf noble, écureuil roux vif. 
+Parade d'animaux montagne slovaque : chamois sauteur, lynx bienveillant, 
+aigle majestueux (ciel), blaireau curieux au terrier, cerf noble, écureuil roux vif. 
 Paysage varié : rochers, forêt, prairie alpine. 
 Ambiance faune riche, diversité, respect nature. Couleurs naturelles chaleureuses.
 
+---
+
+## TODO
+
 ### games (Hry)
 Bannière format 1200x280px, style Zootopia. 
-Bande de jeunes animaux jouant : cache-cache dans les buissons, course en prairie, balançoire sur branche. 
-Rire, mouvement, énergie positive. Premier plan : jeux, fleurs, rochers à grimper. 
+Bande de jeunes animaux jouant : cache-cache dans les buissons, course en prairie, 
+balançoire sur branche. Rire, mouvement, énergie positive. 
+Premier plan : jeux, fleurs, rochers à grimper. 
 Tatras douces en arrière-plan. Soleil bas, ombres ludiques. 
 Ambiance joie, amitié, aventure sans danger, enfance insouciante.
