@@ -26,9 +26,9 @@ Fichiers `img/style_<clé>.jpg`, téléchargés et réduits à 1200 px de large 
 
 Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --credits` affiche des lignes prêtes à coller ici.
 
-| Thème (utilisé pour) | Fichier Commons | Auteur | Licence |
+| Thème (utilisé pour) | Source | Auteur | Licence |
 |---|---|---|---|
-| `default` (Intro, hors séries) | [On the way to Biele pleso - panoramio (2).jpg](https://commons.wikimedia.org/wiki/File:On_the_way_to_Biele_pleso_-_panoramio_(2).jpg) | à compléter | à compléter |
+| `default` (Intro, hors séries) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `basics` (Kit de survie) | [Belianske Tatry oct 2022.jpg](https://commons.wikimedia.org/wiki/File:Belianske_Tatry_oct_2022.jpg) | à compléter | à compléter |
 | `family` (Rodina) | [Marmota marmota in Vanoise National Park 2023 (1).jpg](https://commons.wikimedia.org/wiki/File:Marmota_marmota_in_Vanoise_National_Park_2023_(1).jpg) (Alpes françaises, pas Tatras) | à compléter | à compléter |
 | `house` (Doma) | [Tanap schronisko Zamkovskiego 2.jpg](https://commons.wikimedia.org/wiki/File:Tanap_schronisko_Zamkovskiego_2.jpg) | à compléter | à compléter |
