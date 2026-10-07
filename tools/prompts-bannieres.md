@@ -50,6 +50,11 @@ Place de village slovaque : petites maisons colorées, église traditionnelle av
 Au premier plan, enfants animaux (lapins, renards, écureuils) jouent ensemble, souriant. 
 Marché avec étals, bancs en bois, fontaine. 
 Saules pleureurs, arbre centenaire. Ciel bleu tendre, ambiance communauté chaleureuse, sécurité du village.
+Bannière format 1200x280px, style Zootopia. 
+Place de village slovaque : petites maisons colorées, église traditionnelle avec clocher. 
+Au premier plan, enfants animaux (lapins, renards, écureuils) jouent ensemble, souriant. 
+Marché avec étals, bancs en bois, fontaine. 
+Saules pleureurs, arbre centenaire. Ciel bleu tendre, ambiance communauté chaleureuse, sécurité du village.
 
 ### animals (Zvieratá)
 Bannière format 1200x280px, style Zootopia. 
