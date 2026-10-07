@@ -26,16 +26,16 @@ Une famille (renard, lièvre, écureuil) devant la porte, accueillante.
 Jardin avec légumes, fleurs, clôture rustique. Montagnes douces en arrière-plan. 
 Poules picotent dans la cour. Ambiance chaleur du foyer, accueil, tradition.
 
----
-
-## TODO
-
 ### family (Rodina)
 Bannière format 1200x280px, style Zootopia. 
 Au centre, une famille ours (papa, maman, trois petits) autour d'un feu de camp, souriant ensemble. 
 Une grand-mère hermine tricote à proximité. Premier plan : herbe et fleurs montagne. 
 Cabane en rondins chaleureuse en arrière-plan. Ciel étoilé fin de journée, ambiance douce et réconfortante.
 Petits écureuils jouent autour du foyer.
+
+---
+
+## TODO
 
 ### food (Jedlo)
 Bannière format 1200x280px, style Zootopia. 
