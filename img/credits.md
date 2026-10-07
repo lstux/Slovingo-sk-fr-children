@@ -31,7 +31,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | `default` (Intro, hors séries) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `basics` (Kit de survie) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `family` (Rodina) | [Marmota marmota in Vanoise National Park 2023 (1).jpg](https://commons.wikimedia.org/wiki/File:Marmota_marmota_in_Vanoise_National_Park_2023_(1).jpg) (Alpes françaises, pas Tatras) | à compléter | à compléter |
-| `house` (Doma) | [Tanap schronisko Zamkovskiego 2.jpg](https://commons.wikimedia.org/wiki/File:Tanap_schronisko_Zamkovskiego_2.jpg) | à compléter | à compléter |
+| `house` (Doma) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `food` (Jedlo) | [Bohemian waxwing tosses a mountain ash berry (50829531677).jpg](https://commons.wikimedia.org/wiki/File:Bohemian_waxwing_tosses_a_mountain_ash_berry_(50829531677).jpg) | à compléter | à compléter |
 | `city` (Dedina) | [Banská Štiavnica, 2018 (20).jpg](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica,_2018_(20).jpg) | à compléter | à compléter |
 | `animals` (Zvieratá) | [Gämse In Der Hohen Tatra (224466327).jpeg](https://commons.wikimedia.org/wiki/File:G%C3%A4mse_In_Der_Hohen_Tatra_(224466327).jpeg) | à compléter | à compléter |
