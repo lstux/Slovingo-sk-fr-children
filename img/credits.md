@@ -29,7 +29,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | Thème (utilisé pour) | Source | Auteur | Licence |
 |---|---|---|---|
 | `default` (Intro, hors séries) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
-| `basics` (Kit de survie) | [Belianske Tatry oct 2022.jpg](https://commons.wikimedia.org/wiki/File:Belianske_Tatry_oct_2022.jpg) | à compléter | à compléter |
+| `basics` (Kit de survie) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `family` (Rodina) | [Marmota marmota in Vanoise National Park 2023 (1).jpg](https://commons.wikimedia.org/wiki/File:Marmota_marmota_in_Vanoise_National_Park_2023_(1).jpg) (Alpes françaises, pas Tatras) | à compléter | à compléter |
 | `house` (Doma) | [Tanap schronisko Zamkovskiego 2.jpg](https://commons.wikimedia.org/wiki/File:Tanap_schronisko_Zamkovskiego_2.jpg) | à compléter | à compléter |
 | `food` (Jedlo) | [Bohemian waxwing tosses a mountain ash berry (50829531677).jpg](https://commons.wikimedia.org/wiki/File:Bohemian_waxwing_tosses_a_mountain_ash_berry_(50829531677).jpg) | à compléter | à compléter |
