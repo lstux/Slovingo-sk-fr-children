@@ -32,7 +32,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | `basics` (Kit de survie) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `family` (Rodina) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `house` (Doma) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
-| `food` (Jedlo) | [Bohemian waxwing tosses a mountain ash berry (50829531677).jpg](https://commons.wikimedia.org/wiki/File:Bohemian_waxwing_tosses_a_mountain_ash_berry_(50829531677).jpg) | à compléter | à compléter |
+| `food` (Jedlo) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `city` (Dedina) | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | `animals` (Zvieratá) | [Gämse In Der Hohen Tatra (224466327).jpeg](https://commons.wikimedia.org/wiki/File:G%C3%A4mse_In_Der_Hohen_Tatra_(224466327).jpeg) | à compléter | à compléter |
 | `games` (Hry) | [Lupina mnoholistá (Lupinus polyphyllus) - Cesta slobody.jpg](https://commons.wikimedia.org/wiki/File:Lupina_mnoholist%C3%A1_(Lupinus_polyphyllus)_-_Cesta_slobody.jpg) | à compléter | à compléter |

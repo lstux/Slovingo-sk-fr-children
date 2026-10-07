@@ -44,6 +44,10 @@ Autour d'elle, étalage de récolte d'automne : courges, maïs, herbes.
 Pique-nique joyeux en prairie fleurie, Tatras en arrière-plan. 
 Abeilles butinent les fleurs, oiseau vole. Lumière chaude miel/or, ambiance gourmande et naturelle.
 
+---
+
+## ✅ DONE
+
 ### city (Dedina)
 Bannière format 1200x280px, style Zootopia. 
 Place de village slovaque : petites maisons colorées, église traditionnelle avec clocher. 
