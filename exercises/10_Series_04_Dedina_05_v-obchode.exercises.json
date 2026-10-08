@@ -36,28 +36,6 @@
       ]
     },
     {
-      "id": "listen-dobr-de-pros-m-si-chlieb-ko-ko-to-stoj",
-      "type": "listen",
-      "l1": "Bonjour ! Je voudrais du pain. Combien ça coûte ?",
-      "l2": "Dobrý deň! Prosím si chlieb. Koľko to stojí?",
-      "choices_l1": [
-        "Bonjour ! Je voudrais du lait. Combien ça coûte ?",
-        "Salut ! Je voudrais du pain. Combien ça coûte ?",
-        "Bonjour ! Je veux du pain. Combien ça coûte ?"
-      ]
-    },
-    {
-      "id": "listen-chlieb-stoj-dve-eur",
-      "type": "listen",
-      "l1": "Le pain coûte deux euros.",
-      "l2": "Chlieb stojí dve eurá.",
-      "choices_l1": [
-        "Le pain coûte trois euros.",
-        "Le lait coûte deux euros.",
-        "Le pain coûte un euro."
-      ]
-    },
-    {
       "id": "listen-akujem-pros-m-si-aj-mlieko",
       "type": "listen",
       "l1": "Merci. Je voudrais aussi du lait.",
@@ -124,17 +102,6 @@
       ]
     },
     {
-      "id": "listen-ach-l-ka-chce-bobule",
-      "type": "listen",
-      "l1": "Oh ! Un renard ! Tu veux des baies ?",
-      "l2": "Ach! Líška! Chceš bobule?",
-      "choices_l1": [
-        "Oh ! Un renard ! Tu veux du miel ?",
-        "Oh ! Un renard ! J'ai peur !",
-        "Oh ! Un ours ! Tu veux des baies ?"
-      ]
-    },
-    {
       "id": "listen-akujem-dovidenia-pani-je-kov",
       "type": "listen",
       "l1": "Merci, au revoir, Madame Ježková !",
@@ -155,27 +122,6 @@
         "Salut, les enfants !",
         "Merci, les enfants !"
       ]
-    },
-    {
-      "id": "blank-chlieb-stoj-dve-eur",
-      "type": "fill-blank",
-      "l1": "Le pain coûte deux euros.",
-      "l2": "Chlieb stojí dve eurá.",
-      "missing_l1": "pain",
-      "missing_l2": "Chlieb",
-      "blank_index_l1": 1,
-      "blank_index_l2": 0,
-      "choices_l1": [
-        "lait",
-        "miel",
-        "fromage"
-      ],
-      "choices_l2": [
-        "Mlieko",
-        "Med",
-        "Syr"
-      ],
-      "show_translation": true
     },
     {
       "id": "blank-p-eur-to-je-drah",
@@ -218,22 +164,6 @@
         "Choď"
       ],
       "show_translation": true
-    },
-    {
-      "id": "order-chlieb-stoj-dve-eur",
-      "type": "order",
-      "l1": "Le pain coûte deux euros.",
-      "l2": "Chlieb stojí dve eurá.",
-      "tokens_l1": [
-        "Le pain",
-        "coûte",
-        "deux euros."
-      ],
-      "tokens_l2": [
-        "Chlieb",
-        "stojí",
-        "dve eurá."
-      ]
     },
     {
       "id": "order-akujem-dovidenia-pani-je-kov",
@@ -281,6 +211,618 @@
         "Mlieko stojí jedno euro.",
         "Päť eur? To je drahé!",
         "Ďakujem, dovidenia, pani Ježková!"
+      ]
+    },
+    {
+      "id": "blank-dobr-de-pani-je-kov",
+      "type": "fill-blank",
+      "l1": "Bonjour, Madame Ježková !",
+      "l2": "Dobrý deň, pani Ježková!",
+      "missing_l1": "Madame",
+      "missing_l2": "deň",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "pas",
+        "aussi",
+        "miel"
+      ],
+      "choices_l2": [
+        "poď",
+        "si",
+        "stojí"
+      ]
+    },
+    {
+      "id": "blank-dobr-de-pros-m-si-chlieb",
+      "type": "fill-blank",
+      "l1": "Bonjour ! Je voudrais du pain.",
+      "l2": "Dobrý deň! Prosím si chlieb.",
+      "missing_l1": "Je",
+      "missing_l2": "Prosím",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "les",
+        "bonjour",
+        "et"
+      ],
+      "choices_l2": [
+        "počkaj",
+        "mlieko",
+        "líška"
+      ]
+    },
+    {
+      "id": "blank-ach-l-ka-chlieb-a-chce-bobule",
+      "type": "fill-blank",
+      "l1": "Oh ! Un renard ! Du pain ? Et tu veux des baies ?",
+      "l2": "Ach! Líška! Chlieb ? A chceš bobule?",
+      "missing_l1": "Et",
+      "missing_l2": "A",
+      "blank_index_l1": 8,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "cinq",
+        "magasin",
+        "elle"
+      ],
+      "choices_l2": [
+        "počkaj",
+        "eur",
+        "je"
+      ]
+    },
+    {
+      "id": "blank-no-pros-m-ko-ko-to-stoj",
+      "type": "fill-blank",
+      "l1": "Oui, s'il vous plaît ! Combien ça coûte ?",
+      "l2": "Áno, prosím! Koľko to stojí?",
+      "missing_l1": "ça",
+      "missing_l2": "to",
+      "blank_index_l1": 6,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "voudrais",
+        "aussi",
+        "vais"
+      ],
+      "choices_l2": [
+        "mám",
+        "obchodu",
+        "mlieko"
+      ]
+    },
+    {
+      "id": "blank-bobule-s-lacn-jedno-euro",
+      "type": "fill-blank",
+      "l1": "Les baies ne sont pas chères. Un euro.",
+      "l2": "Bobule sú lacné. Jedno euro.",
+      "missing_l1": "Un",
+      "missing_l2": "sú",
+      "blank_index_l1": 6,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "avez",
+        "je",
+        "vais"
+      ],
+      "choices_l2": [
+        "euro",
+        "a",
+        "mám"
+      ]
+    },
+    {
+      "id": "blank-tu-je-chlieb-mlieko-a-bobule",
+      "type": "fill-blank",
+      "l1": "Voici le pain, le lait et les baies.",
+      "l2": "Tu je chlieb, mlieko a bobule.",
+      "missing_l1": "le",
+      "missing_l2": "je",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "les",
+        "attends",
+        "elle"
+      ],
+      "choices_l2": [
+        "mám",
+        "deň",
+        "a"
+      ]
+    },
+    {
+      "id": "blank-idem-do-obchodu-a-ona-ide-do-pek-rne",
+      "type": "fill-blank",
+      "l1": "Je vais au magasin et elle va à la boulangerie.",
+      "l2": "Idem do obchodu a ona ide do pekárne.",
+      "missing_l1": "la",
+      "missing_l2": "a",
+      "blank_index_l1": 8,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "les",
+        "pomme",
+        "chère"
+      ],
+      "choices_l2": [
+        "andrea",
+        "koľko",
+        "euro"
+      ]
+    },
+    {
+      "id": "blank-pros-m-si-jablko-je-lacn",
+      "type": "fill-blank",
+      "l1": "Je voudrais une pomme. Elle n'est pas chère.",
+      "l2": "Prosím si jablko. Je lacné.",
+      "missing_l1": "une",
+      "missing_l2": "Je",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "euro",
+        "pomme",
+        "ça"
+      ],
+      "choices_l2": [
+        "lacné",
+        "si",
+        "eur"
+      ]
+    },
+    {
+      "id": "blank-m-te-mrkvu-ko-ko-to-stoj",
+      "type": "fill-blank",
+      "l1": "Vous avez une carotte ? Combien ça coûte ?",
+      "l2": "Máte mrkvu? Koľko to stojí?",
+      "missing_l1": "une",
+      "missing_l2": "to",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "revoir",
+        "miel",
+        "coûte"
+      ],
+      "choices_l2": [
+        "počkaj",
+        "si",
+        "líška"
+      ]
+    },
+    {
+      "id": "listen-dobr-de-pani-je-kov",
+      "type": "listen",
+      "l1": "Bonjour, Madame Ježková !",
+      "l2": "Dobrý deň, pani Ježková!",
+      "choices_l1": [
+        "Il y a quatre renards ici.",
+        "Merci. Je voudrais aussi du lait.",
+        "On joue au chat."
+      ]
+    },
+    {
+      "id": "listen-dobr-de-pros-m-si-chlieb",
+      "type": "listen",
+      "l1": "Bonjour ! Je voudrais du pain.",
+      "l2": "Dobrý deň! Prosím si chlieb.",
+      "choices_l1": [
+        "Maťo, c'est ton voisin ?",
+        "Ce n'est pas cher.",
+        "Moi, je suis plus grand qu'une marmotte."
+      ]
+    },
+    {
+      "id": "listen-ach-l-ka-chlieb-a-chce-bobule",
+      "type": "listen",
+      "l1": "Oh ! Un renard ! Du pain ? Et tu veux des baies ?",
+      "l2": "Ach! Líška! Chlieb ? A chceš bobule?",
+      "choices_l1": [
+        "Salut, les enfants ! À table ! Vous voulez des halušky ?",
+        "Sur la table, il y a un livre et aussi une lampe.",
+        "Moi, je ne mange pas de bryndza, mais je veux des halušky."
+      ]
+    },
+    {
+      "id": "listen-no-pros-m-ko-ko-to-stoj",
+      "type": "listen",
+      "l1": "Oui, s'il vous plaît ! Combien ça coûte ?",
+      "l2": "Áno, prosím! Koľko to stojí?",
+      "choices_l1": [
+        "Tu veux du lait ? Tu veux du thé ?",
+        "Madame Ježková, vous avez du miel ?",
+        "On joue à cache-cache ! C'est à qui ?"
+      ]
+    },
+    {
+      "id": "listen-bobule-s-lacn-jedno-euro",
+      "type": "listen",
+      "l1": "Les baies ne sont pas chères. Un euro.",
+      "l2": "Bobule sú lacné. Jedno euro.",
+      "choices_l1": [
+        "Pour le dîner, je mange du fromage et du pain.",
+        "J'aime ce fromage. Combien coûte-t-il ?",
+        "Salut, les enfants ! Quel âge as-tu, Katka ?"
+      ]
+    },
+    {
+      "id": "listen-tu-je-chlieb-mlieko-a-bobule",
+      "type": "listen",
+      "l1": "Voici le pain, le lait et les baies.",
+      "l2": "Tu je chlieb, mlieko a bobule.",
+      "choices_l1": [
+        "On joue à cache-cache. C'est à qui ?",
+        "Moi, je n'en veux pas. Moi, je mange une pomme.",
+        "Qu'est-ce qu'il y a sur la table ?"
+      ]
+    },
+    {
+      "id": "listen-idem-do-obchodu-a-ona-ide-do-pek-rne",
+      "type": "listen",
+      "l1": "Je vais au magasin et elle va à la boulangerie.",
+      "l2": "Idem do obchodu a ona ide do pekárne.",
+      "choices_l1": [
+        "Il y a trois livres et quatre chaises ici !",
+        "Oui, j'en ai. Le miel coûte cinq euros.",
+        "Bonjour, les enfants ! Je suis Monsieur Orol."
+      ]
+    },
+    {
+      "id": "listen-pros-m-si-jablko-je-lacn",
+      "type": "listen",
+      "l1": "Je voudrais une pomme. Elle n'est pas chère.",
+      "l2": "Prosím si jablko. Je lacné.",
+      "choices_l1": [
+        "J'aime la soupe, mais je ne veux pas de fromage.",
+        "C'est mon frère. Il a neuf ans.",
+        "Moi, j'ai huit ans. Toi, tu as dix ans."
+      ]
+    },
+    {
+      "id": "listen-m-te-mrkvu-ko-ko-to-stoj",
+      "type": "listen",
+      "l1": "Vous avez une carotte ? Combien ça coûte ?",
+      "l2": "Máte mrkvu? Koľko to stojí?",
+      "choices_l1": [
+        "Bonjour, Madame Ježková ! Comment allez-vous ?",
+        "Je peux jouer ? Oui ! On joue à cache-cache.",
+        "Merci, au revoir ! Je rentre à la maison."
+      ]
+    },
+    {
+      "id": "order-dobr-de-pani-je-kov",
+      "type": "order",
+      "l1": "Bonjour, Madame Ježková !",
+      "l2": "Dobrý deň, pani Ježková!",
+      "tokens_l1": [
+        "Bonjour,",
+        "Madame",
+        "Ježková",
+        "!",
+        "Voici",
+        "le",
+        "pain,",
+        "le",
+        "lait",
+        "et",
+        "les",
+        "baies."
+      ],
+      "tokens_l2": [
+        "Dobrý",
+        "deň,",
+        "pani",
+        "Ježková!",
+        "Tu",
+        "je",
+        "chlieb,",
+        "mlieko",
+        "a",
+        "bobule."
+      ]
+    },
+    {
+      "id": "order-dobr-de-pros-m-si-chlieb",
+      "type": "order",
+      "l1": "Bonjour ! Je voudrais du pain.",
+      "l2": "Dobrý deň! Prosím si chlieb.",
+      "tokens_l1": [
+        "Bonjour",
+        "!",
+        "Je",
+        "voudrais",
+        "du",
+        "pain.",
+        "Je",
+        "voudrais",
+        "une",
+        "pomme.",
+        "Elle",
+        "n'est",
+        "pas",
+        "chère."
+      ],
+      "tokens_l2": [
+        "Dobrý",
+        "deň!",
+        "Prosím",
+        "si",
+        "chlieb.",
+        "Prosím",
+        "si",
+        "jablko.",
+        "Je",
+        "lacné."
+      ]
+    },
+    {
+      "id": "order-ach-l-ka-chlieb-a-chce-bobule",
+      "type": "order",
+      "l1": "Oh ! Un renard ! Du pain ? Et tu veux des baies ?",
+      "l2": "Ach! Líška! Chlieb ? A chceš bobule?",
+      "tokens_l1": [
+        "Oh",
+        "!",
+        "Un",
+        "renard",
+        "!",
+        "Du",
+        "pain",
+        "?",
+        "Et",
+        "tu",
+        "veux",
+        "des",
+        "baies",
+        "?",
+        "Je",
+        "voudrais",
+        "une",
+        "pomme.",
+        "Elle",
+        "n'est",
+        "pas",
+        "chère."
+      ],
+      "tokens_l2": [
+        "Ach!",
+        "Líška!",
+        "Chlieb",
+        "?",
+        "A",
+        "chceš",
+        "bobule?",
+        "Prosím",
+        "si",
+        "jablko.",
+        "Je",
+        "lacné."
+      ]
+    },
+    {
+      "id": "order-no-pros-m-ko-ko-to-stoj",
+      "type": "order",
+      "l1": "Oui, s'il vous plaît ! Combien ça coûte ?",
+      "l2": "Áno, prosím! Koľko to stojí?",
+      "tokens_l1": [
+        "Oui,",
+        "s'il",
+        "vous",
+        "plaît",
+        "!",
+        "Combien",
+        "ça",
+        "coûte",
+        "?",
+        "Merci.",
+        "Je",
+        "voudrais",
+        "aussi",
+        "du",
+        "lait."
+      ],
+      "tokens_l2": [
+        "Áno,",
+        "prosím!",
+        "Koľko",
+        "to",
+        "stojí?",
+        "Ďakujem.",
+        "Prosím",
+        "si",
+        "aj",
+        "mlieko."
+      ]
+    },
+    {
+      "id": "order-bobule-s-lacn-jedno-euro",
+      "type": "order",
+      "l1": "Les baies ne sont pas chères. Un euro.",
+      "l2": "Bobule sú lacné. Jedno euro.",
+      "tokens_l1": [
+        "Les",
+        "baies",
+        "ne",
+        "sont",
+        "pas",
+        "chères.",
+        "Un",
+        "euro.",
+        "Attends,",
+        "Andrea",
+        "!",
+        "Moi",
+        "aussi,",
+        "j'y",
+        "vais",
+        "!"
+      ],
+      "tokens_l2": [
+        "Bobule",
+        "sú",
+        "lacné.",
+        "Jedno",
+        "euro.",
+        "Počkaj,",
+        "Andrea!",
+        "Aj",
+        "ja",
+        "idem!"
+      ]
+    },
+    {
+      "id": "order-tu-je-chlieb-mlieko-a-bobule",
+      "type": "order",
+      "l1": "Voici le pain, le lait et les baies.",
+      "l2": "Tu je chlieb, mlieko a bobule.",
+      "tokens_l1": [
+        "Voici",
+        "le",
+        "pain,",
+        "le",
+        "lait",
+        "et",
+        "les",
+        "baies.",
+        "Oui,",
+        "j'en",
+        "ai.",
+        "Le",
+        "miel",
+        "coûte",
+        "cinq",
+        "euros."
+      ],
+      "tokens_l2": [
+        "Tu",
+        "je",
+        "chlieb,",
+        "mlieko",
+        "a",
+        "bobule.",
+        "Áno,",
+        "mám.",
+        "Med",
+        "stojí",
+        "päť",
+        "eur."
+      ]
+    },
+    {
+      "id": "order-idem-do-obchodu-a-ona-ide-do-pek-rne",
+      "type": "order",
+      "l1": "Je vais au magasin et elle va à la boulangerie.",
+      "l2": "Idem do obchodu a ona ide do pekárne.",
+      "tokens_l1": [
+        "Je",
+        "vais",
+        "au",
+        "magasin",
+        "et",
+        "elle",
+        "va",
+        "à",
+        "la",
+        "boulangerie.",
+        "Vous",
+        "avez",
+        "une",
+        "carotte",
+        "?",
+        "Combien",
+        "ça",
+        "coûte",
+        "?"
+      ],
+      "tokens_l2": [
+        "Idem",
+        "do",
+        "obchodu",
+        "a",
+        "ona",
+        "ide",
+        "do",
+        "pekárne.",
+        "Máte",
+        "mrkvu?",
+        "Koľko",
+        "to",
+        "stojí?"
+      ]
+    },
+    {
+      "id": "order-pros-m-si-jablko-je-lacn",
+      "type": "order",
+      "l1": "Je voudrais une pomme. Elle n'est pas chère.",
+      "l2": "Prosím si jablko. Je lacné.",
+      "tokens_l1": [
+        "Je",
+        "voudrais",
+        "une",
+        "pomme.",
+        "Elle",
+        "n'est",
+        "pas",
+        "chère.",
+        "Merci.",
+        "Je",
+        "voudrais",
+        "aussi",
+        "du",
+        "lait."
+      ],
+      "tokens_l2": [
+        "Prosím",
+        "si",
+        "jablko.",
+        "Je",
+        "lacné.",
+        "Ďakujem.",
+        "Prosím",
+        "si",
+        "aj",
+        "mlieko."
+      ]
+    },
+    {
+      "id": "order-m-te-mrkvu-ko-ko-to-stoj",
+      "type": "order",
+      "l1": "Vous avez une carotte ? Combien ça coûte ?",
+      "l2": "Máte mrkvu? Koľko to stojí?",
+      "tokens_l1": [
+        "Vous",
+        "avez",
+        "une",
+        "carotte",
+        "?",
+        "Combien",
+        "ça",
+        "coûte",
+        "?",
+        "Voici",
+        "le",
+        "pain,",
+        "le",
+        "lait",
+        "et",
+        "les",
+        "baies."
+      ],
+      "tokens_l2": [
+        "Máte",
+        "mrkvu?",
+        "Koľko",
+        "to",
+        "stojí?",
+        "Tu",
+        "je",
+        "chlieb,",
+        "mlieko",
+        "a",
+        "bobule."
       ]
     }
   ]
