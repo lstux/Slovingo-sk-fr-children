@@ -33,23 +33,35 @@ Ambiance première rencontre, amitié naissante, confiance, joie de découvrir.
 ## KIT DE SURVIE (fiche 3 — dialogue)
 
 ### kit-dialogue
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Andrea et Toi en train de discuter sur un petit sentier de montagne, face aux Tatras majestueuses. 
-Andrea pointe le chemin avec un geste amical, elle explique quelque chose (langage corporel de guide/amie). 
-Toi l'écoute avec intérêt. Autour : herbe alpine, petites fleurs, arbres bas, ciel dégagé. 
-Ambiance apprentissage bienveillant, guidance, sécurité, premier pas en slovaque.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Une jeune hase grise et un jeune renard roux dans un sentier de montagne des Tatras slovaques.
+Herbe alpine, petites fleurs sauvages, arbres bas, ciel bleu dégagé.
+Tatras en arrière-plan.
+
+Lumière : douce et dorée, fin d'après-midi.
+
+Ambiance : amitié, exploration, nature, apprentissage, bienveillance, pour enfants.
+
+✅ **DONE** — `img/kit-dialogue.png` (généré avec ChatGPT)
 
 ---
 
 ## SÉRIES — FICHES 5 (DIALOGUES PRINCIPAUX)
 
 ### serie-01-rodina-u-babky
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Chez Babka Zuzana (brebis) sur un haut pâturage. 
-Babka Zuzana est assise ou debout, accueillante. Autour d'elle : Toi (renard), Andrea (hase), Katka (marmotte) et Maťo (ours), 
-tous souriant, se connaissant déjà. Première rencontre avec la grand-mère. 
-Premier plan : famille réunie, pâturage montagnard avec moutons en arrière-plan lointain, Tatras à l'horizon. 
-Ambiance chaleur familiale, générosité, apprentissage des liens familiaux.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Une grand-mère brebis accueillante sur un pâturage montagnard des Tatras slovaques,
+entourée de quatre jeunes animaux (renard roux, hase grise, marmotte, ours brun).
+Ils se sourient chaleureusement, se connaissant déjà.
+
+Pâturage vert, moutons lointains, Tatras à l'horizon.
+Lumière : douce et dorée.
+
+Ambiance : famille, chaleur, générosité, lien familial, bienveillance, pour enfants.
+
+✅ **DONE** — `img/serie-01-rodina-u-babky.png` (généré avec ChatGPT)
 
 ### serie-02-doma-navsteva
 Image format 16/9 paysage (1920x1080px), style Zootopia. 
