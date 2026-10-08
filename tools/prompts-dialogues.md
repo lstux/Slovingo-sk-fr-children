@@ -115,12 +115,23 @@ Ambiance : commerce local, échange, vie de village, rencontre avec les habitant
 ✅ **DONE** — `img/serie-04-dedina-obchode.png` (généré avec ChatGPT)
 
 ### serie-05-zvierata-stradzca-parku
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Parc des Tatras avec animaux. Aigle royal en vol majestueux au ciel. 
-Au sol : Toi (renard), Andrea (hase), Katka (marmotte), Maťo (ours), et peut-être un chamois, un lynx au loin. 
-Babka Zuzana en tant que gardienne/guide du parc, montrant la faune. 
-Premier plan : prairie alpine, rochers, animaux à différents niveaux (ciel, sol, buissons). 
-Ambiance respect de la nature, biodiversité, protection, enchantement sauvage.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Parc des Tatras slovaques avec animaux sauvages.
+Un aigle royal majestueux en vol dans le ciel.
+Quatre jeunes animaux (renard roux, hase grise, marmotte, ours brun) au sol.
+Une grand-mère brebis comme gardienne/guide du parc, montrant et expliquant la faune.
+Chamois et lynx au loin dans le paysage.
+
+Premier plan : prairie alpine, rochers, fleurs sauvages.
+Animaux à différents niveaux : ciel (aigle), sol (jeunes animaux), buissons (prédateurs lointains).
+Tatras majestueuses en arrière-plan.
+
+Lumière : douce et dorée, fin d'après-midi.
+
+Ambiance : respect de la nature, biodiversité, protection, enchantement sauvage, apprentissage, pour enfants.
+
+✅ **DONE** — `img/serie-05-zvierata-stradzca-parku.png` (généré avec ChatGPT)
 
 ### serie-06-hry-skryvacka
 Image format 16/9 paysage (1920x1080px), style Zootopia. 
