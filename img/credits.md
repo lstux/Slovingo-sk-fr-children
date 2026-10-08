@@ -44,7 +44,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | Intro · Rencontre | `intro-rencontre.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | Kit 03 · Dialogue | `kit-dialogue.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | Série 1 · Rodina — u babky | `serie-01-rodina-u-babky.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
-| Série 2 · Doma — návšteva (TODO) | — | — | — | — |
+| Série 2 · Doma — návšteva | `serie-02-doma-navsteva.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | Série 3 · Jedlo — halušky (TODO) | — | — | — | — |
 | Série 4 · Dedina — obchode (TODO) | — | — | — | — |
 | Série 5 · Zvieratá — strážca parku (TODO) | — | — | — | — |

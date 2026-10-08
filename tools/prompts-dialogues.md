@@ -64,12 +64,21 @@ Ambiance : famille, chaleur, générosité, lien familial, bienveillance, pour e
 ✅ **DONE** — `img/serie-01-rodina-u-babky.png` (généré avec ChatGPT)
 
 ### serie-02-doma-navsteva
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Visite devant une chata de montagne slovaque traditionnelle. 
-Porte ouverte, chaleureuse. Toi (renard) arrive, Andrea présente la maison. 
-Katka et Maťo sont peut-être à la fenêtre ou sur le perron, accueillants. 
-Babka Zuzana à l'entrée. Premier plan : la chata avec ses détails (volets colorés, fleurs, jardin rustique). 
-Tatras doux en arrière-plan. Ambiance hospitalité, maison accueillante, découverte d'un foyer.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Une chata de montagne slovaque traditionnelle avec porte ouverte et chaleureuse.
+Un jeune renard roux arrive, une hase grise présente la maison.
+Une marmotte et un ours brun à la fenêtre ou sur le perron, accueillants.
+Une grand-mère brebis à l'entrée.
+
+Premier plan : la chata avec ses détails (volets colorés, fleurs, jardin rustique, clôture en bois).
+Tatras douces en arrière-plan, pâturage slovaque.
+
+Lumière : douce et chaleureuse, fin d'après-midi.
+
+Ambiance : hospitalité, maison accueillante, découverte d'un foyer, chaleur familiale, pour enfants.
+
+✅ **DONE** — `img/serie-02-doma-navsteva.png` (généré avec ChatGPT)
 
 ### serie-03-jedlo-haluskies
 Image format 16/9 paysage (1920x1080px), style Zootopia. 
