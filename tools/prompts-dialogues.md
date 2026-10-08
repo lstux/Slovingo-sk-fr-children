@@ -81,11 +81,21 @@ Ambiance : hospitalité, maison accueillante, découverte d'un foyer, chaleur fa
 ✅ **DONE** — `img/serie-02-doma-navsteva.png` (généré avec ChatGPT)
 
 ### serie-03-jedlo-haluskies
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Cuisine chaleureuse d'une chata. Babka Zuzana prépare les halušky (raviolis slovaques traditionnels). 
-Toi, Andrea, Katka et Maťo sont autour, fascinés, aidant ou regardant. 
-Table de bois avec pots de bryndza (fromage), herbes, ingrédients montagnards. 
-Odeurs visuelles : vapeur, couleurs chaleureuses, lumière douce. Ambiance partage, tradition culinaire, convivialité.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Cuisine chaleureuse d'une chata slovaque traditionnelle.
+Une grand-mère brebis prépare les halušky (raviolis slovaques traditionnels).
+Quatre jeunes animaux (renard roux, hase grise, marmotte, ours brun) autour, fascinés, aidant ou regardant.
+
+Table de bois rustique avec pots de bryndza (fromage blanc), herbes, ingrédients montagnards.
+Vapeur visible (halušky en cuisson), couleurs chaudes de la cuisine.
+Fenêtre montrant les Tatras au loin.
+
+Lumière : douce et dorée, ambiance chaleureuse intérieure.
+
+Ambiance : partage, tradition culinaire slovaque, convivialité, apprentissage, lien familial, pour enfants.
+
+✅ **DONE** — `img/serie-03-jedlo-haluskies.png` (généré avec ChatGPT)
 
 ### serie-04-dedina-obchode
 Image format 16/9 paysage (1920x1080px), style Zootopia. 
