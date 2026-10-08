@@ -48,7 +48,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | Série 3 · Jedlo — halušky | `serie-03-jedlo-haluskies.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | Série 4 · Dedina — obchode | `serie-04-dedina-obchode.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | Série 5 · Zvieratá — strážca parku | `serie-05-zvierata-stradzca-parku.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
-| Série 6 · Hry — skrývačka (TODO) | — | — | — | — |
+| Série 6 · Hry — skrývačka | `serie-06-hry-skryvacka.png` | *Généré avec ChatGPT* | OpenAI ChatGPT | Libre d'usage — généré pour ce projet (2026) |
 | Homepage · Carte Tatras | `homepage-carte-tatry.jpg` | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
 
 ## En réserve (pas encore utilisées)

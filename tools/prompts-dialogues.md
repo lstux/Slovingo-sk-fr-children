@@ -134,11 +134,22 @@ Ambiance : respect de la nature, biodiversité, protection, enchantement sauvage
 ✅ **DONE** — `img/serie-05-zvierata-stradzca-parku.png` (généré avec ChatGPT)
 
 ### serie-06-hry-skryvacka
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Grande prairie fleurie des Tatras. Toi (renard) en train de jouer au cache-cache avec Andrea, Katka et Maťo. 
-Action dynamique : un caché derrière un arbre, un qui cherche, les autres qui rient. 
-Mouvement, joie, énergie positive. Premier plan : prairie avec fleurs sauvages, petit arbre, rochers à grimper. 
-Tatras douces en arrière-plan. Soleil bas, ombres ludiques. Ambiance enfance insouciante, amitié, aventure, jeu.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Grande prairie fleurie des Tatras slovaques — jeux dynamiques.
+Quatre jeunes animaux (un renard roux, une hase grise, une marmotte, un ours brun) en train de jouer au cache-cache.
+Action dynamique : un caché derrière un arbre, un qui cherche, les autres qui rient et jouent.
+Mouvement, joie, énergie positive.
+
+Premier plan : prairie avec fleurs sauvages violettes et jaunes, petit arbre à grimper, rochers.
+Tatras douces en arrière-plan.
+Ciel dégagé avec soleil bas créant des ombres ludiques.
+
+Lumière : dorée et chaleureuse, fin d'après-midi.
+
+Ambiance : enfance insouciante, amitié, aventure, jeu sans danger, rires, liberté, pour enfants.
+
+✅ **DONE** — `img/serie-06-hry-skryvacka.png` (généré avec ChatGPT)
 
 ---
 
