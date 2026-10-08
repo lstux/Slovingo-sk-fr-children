@@ -49,7 +49,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | Série 4 · Dedina — obchode (TODO) | — | — | — | — |
 | Série 5 · Zvieratá — strážca parku (TODO) | — | — | — | — |
 | Série 6 · Hry — skrývačka (TODO) | — | — | — | — |
-| Homepage · Carte Tatras (TODO) | — | — | — | — |
+| Homepage · Carte Tatras | `homepage-carte-tatry.jpg` | *Généré avec Google Gemini* | Google Gemini | Libre d'usage — généré pour ce projet (2026) |
 
 ## En réserve (pas encore utilisées)
 
