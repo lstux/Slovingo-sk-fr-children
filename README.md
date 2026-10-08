@@ -1,6 +1,6 @@
 # Slovingo-sk-fr-children 🇸🇰 🇫🇷
 
-🌐 **Le cours en ligne : [lstux.github.io/slovingo-sk-fr-kids](https://lstux.github.io/slovingo-sk-fr-kids/)**
+🌐 **Le cours en ligne : [lstux.github.io/Slovingo-sk-fr-kids](https://lstux.github.io/Slovingo-sk-fr-kids/)**
 
 **Apprendre le slovaque en s'amusant — pour les enfants de 8 à 12 ans**
 

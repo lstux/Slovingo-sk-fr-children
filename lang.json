@@ -56,7 +56,7 @@
     "voice": "Voix",
     "voice_automatic": "Automatique",
     "playback_speed": "Vitesse de lecture",
-    "playback_speed_native": "Vitesse de lecture",
+    "playback_speed_native": "Vitesse de lecture ({lang})",
     "slow_playback_speed": "Lecture lente",
     "of_normal_speed": "de la vitesse normale",
     "settings_audio": "Son",
@@ -152,7 +152,6 @@
     "exercise_field_distractors_l2": "Distracteurs ({target_lang_code})",
     "voice_native": "Voix ({lang})",
     "celebration_effects": "Effets de fête avec le score final (confettis, feux d'artifice)",
-    "playback_speed_native": "Vitesse de lecture ({lang})",
     "map_title": "Carte de l'aventure",
     "map_start": "Commencer",
     "map_continue": "Continuer",
@@ -171,7 +170,9 @@
     "map_final_reached": "Bravo ! Tu as terminé toute l'aventure !",
     "credits_pause": "Pause",
     "credits_resume": "Reprendre",
-    "all_sheets": "Toutes les fiches"
+    "all_sheets": "Toutes les fiches",
+    "backup_export": "📥 Exporter les réglages et la progression (JSON)",
+    "backup_import": "📤 Importer une sauvegarde (JSON)"
   },
   "generator": {
     "target_headers": [
