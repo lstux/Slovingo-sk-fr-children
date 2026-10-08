@@ -98,11 +98,21 @@ Ambiance : partage, tradition culinaire slovaque, convivialité, apprentissage, 
 ✅ **DONE** — `img/serie-03-jedlo-haluskies.png` (généré avec ChatGPT)
 
 ### serie-04-dedina-obchode
-Image format 16/9 paysage (1920x1080px), style Zootopia. 
-Scène : Petite boutique traditionnelle slovaque d'un village montagnard. 
-Commerçante hérisson (Pani Ježková) derrière son comptoir en bois chaleureux. 
-Toi, Andrea, Katka et Maťo arrivent pour acheter. Étals avec produits locaux : pain, fromage, miel, fruits. 
-Vitrines avec détails traditionnels. Ambiance commerce local, échange, vie de village, rencontre avec les habitants.
+Image format 16/9 paysage (1920x1080px), illustration jeunesse, style animation numérique.
+
+Scène : Petite boutique traditionnelle slovaque d'un village montagnard.
+Une commerçante hérisson derrière son comptoir en bois chaleureux.
+Quatre jeunes animaux (renard roux, hase grise, marmotte, ours brun) arrivent pour acheter.
+
+Comptoir avec étals : pain, fromage, miel, fruits locaux, produits traditionnels slovaques.
+Vitrines avec détails traditionnels (céramiques, broderies, articles folkloriques).
+Fenêtre montrant le village et les Tatras au loin.
+
+Lumière : douce et chaleureuse, fin d'après-midi.
+
+Ambiance : commerce local, échange, vie de village, rencontre avec les habitants, traditions slovaques, pour enfants.
+
+✅ **DONE** — `img/serie-04-dedina-obchode.png` (généré avec ChatGPT)
 
 ### serie-05-zvierata-stradzca-parku
 Image format 16/9 paysage (1920x1080px), style Zootopia. 
