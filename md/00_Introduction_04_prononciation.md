@@ -1,6 +1,6 @@
 # Introduction (4/5) — Comment ça se prononce ?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg | Une marmotte devant son terrier
+@ img/intro-rencontre.png | Première rencontre : hase, renard, marmotte et ours dans la clairière, généré avec ChatGPT, libre d'usage
 
 {{fr:Bonne nouvelle : en slovaque, on lit presque toujours comme c'est écrit, et il n'y a pas de lettres muettes ! Il suffit de retenir six astuces. Écoute bien, et répète à voix haute.}}
 

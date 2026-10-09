@@ -1,6 +1,6 @@
 # Série Hry (5/5) — Skrývačka na lúke
 
-@ TODO_img/prairie-fleurie.jpg | TODO : choisir une image (prairie de montagne fleurie avec un petit arbre) sur Wikimedia Commons
+@ img/serie-06-hry-skryvacka.png | Cache-cache dans la prairie fleurie des Tatras, généré avec ChatGPT, libre d'usage
 
 {{fr:Une belle partie de cache-cache dans une prairie des Tatras avec Andrea, Katka et Maťo. Pour la première fois, tu vas jouer avec tout ce que tu as appris !}}
 

@@ -1,6 +1,6 @@
 # Série Zvieratá (5/5) — Strážca parku
 
-@ TODO_img/aigle-royal.jpg | TODO : choisir une image (aigle royal en vol au-dessus des montagnes) sur Wikimedia Commons
+@ img/serie-05-zvierata-stradzca-parku.png | Le parc des Tatras : aigle royal, chamois et grand-mère guide, généré avec ChatGPT, libre d'usage
 
 {{fr:Tu te promènes avec Andrea, Katka et Maťo, quand tu croises le gardien du parc national : Pán Orol, un aigle. Il t'explique deux règles très importantes pour protéger la nature.}}
 

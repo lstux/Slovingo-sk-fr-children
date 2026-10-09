@@ -1,6 +1,6 @@
 # Série Doma (5/5) — Návšteva
 
-@ TODO_img/visite-terrier.jpg | TODO : choisir une image (jeunes animaux devant l'entrée d'un terrier, ambiance chaleureuse) sur Wikimedia Commons
+@ img/serie-02-doma-navsteva.png | La chata : visite de la maison de montagne, généré avec ChatGPT, libre d'usage
 
 {{fr:Katka t'invite chez elle, dans son terrier. Maťo et Andrea sont là aussi. Tu vas visiter, poser des questions et raconter où tu habites !}}
 

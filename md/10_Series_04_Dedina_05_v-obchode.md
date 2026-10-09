@@ -1,6 +1,6 @@
 # Série Dedina (5/5) — V obchode
 
-@ TODO_img/obchod-dedina.jpg | TODO : choisir une image (vitrine d'un petit magasin de village) sur Wikimedia Commons
+@ img/serie-04-dedina-obchode.png | Le village : boutique avec la marchande hérisson, généré avec ChatGPT, libre d'usage
 
 {{fr:Tu vas au village avec Andrea et Katka. Au magasin, il y a Pani Ježková, une dame hérisson très gentille. C'est le moment de faire de vrais achats, avec du « vous » !}}
 

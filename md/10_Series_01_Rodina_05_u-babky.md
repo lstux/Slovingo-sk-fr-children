@@ -1,6 +1,6 @@
 # Série Rodina (5/5) — U babky
 
-@ TODO_img/paturage-tatry.jpg | TODO : choisir une image (pâturage de montagne avec des moutons, Tatras) sur Wikimedia Commons
+@ img/serie-01-rodina-u-babky.png | Chez la babka : pâturage des Tatras, brebis et jeunes animaux, généré avec ChatGPT, libre d'usage
 
 {{fr:Andrea t'emmène sur les hauts pâturages, chez Babka Zuzana, la grand-mère de Katka et Maťo. Tu vas rencontrer toute la famille !}}
 
