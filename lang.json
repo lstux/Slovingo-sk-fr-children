@@ -2,15 +2,15 @@
   "map": {
     "direction": "up",
     "positions": {
-      "intro": [ 58.5, 4.9 ],
-      "series-kitsurvie": [ 40.3, 16.9 ],
-      "series-rodina": [ 56.8, 31.1],
-      "series-doma": [ 32.5, 40.6 ],
-      "series-jedlo": [ 67, 45.1 ],
-      "series-dedina": [ 21.4, 52.1 ],
-      "series-zvierata": [ 31.6, 64.4 ],
-      "series-hry": [ 60.6, 65.1 ],
-      "final-exam": [ 50.5, 82.8 ]
+      "intro": [65.3, 4.2],
+      "series-kitsurvie": [30.3, 14.8],
+      "series-rodina": [63.2, 23.3],
+      "series-doma": [20.9, 35.5],
+      "series-jedlo": [57.1, 42.2],
+      "series-dedina": [39.7, 49],
+      "series-zvierata": [17.9, 61.2],
+      "series-hry": [60.6, 65.3],
+      "final-exam": [54.7, 80.5]
     }
   },
   "target_lang": {
